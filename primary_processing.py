@@ -17,6 +17,8 @@ def by_tag(tag, drop=False):
     entries = Entries()
     with open('mots_temp.txt') as handler:
         for line in handler.readlines():
+            if not line.strip():
+                continue
             line = line.split('~')
             try:
                 mot, trad = map(str.strip, line)
@@ -24,6 +26,7 @@ def by_tag(tag, drop=False):
                 mot = line[0].strip()
                 trad = None
             entries += (mot, trad, tag)
+            # print(mot)
     target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
     if drop:
         target.drop()
@@ -33,4 +36,4 @@ def by_tag(tag, drop=False):
 
 
 if __name__ == '__main__':
-    by_tag('causalité')
+    by_tag('phrases')
