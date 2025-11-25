@@ -3,7 +3,7 @@ from pymongo import MongoClient
 from global_vars import COLL_NAME, DB_NAME, LOCALHOST, PORT
 
 
-def to_txt(filename='collocations.txt'):
+def to_txt(filename='collocations.txt', sender=None):
     print(f"Writing {filename}...")
     tag_count = mot_count = 0
     text = str()
@@ -19,9 +19,13 @@ def to_txt(filename='collocations.txt'):
             mot_count += 1
         text += '\n'
     text = text[:-1]
+    caption = f"Wrote {tag_count} tags, {mot_count} collocations"
     with open(filename, 'w') as handler:
         handler.write(text)
-    print(f"Wrote {tag_count} tags, {mot_count} collocations")
+    print(caption)
+    if sender:
+        sender(document=filename)
+        # context.bot.send_document(chat_id=chat_id, document=f, caption=caption)
 
 
 def del_by_tag(tag):
