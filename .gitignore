@@ -4,5 +4,6 @@ __pycache__/
 rubbish.py
 mots.json
 mots.txt
+mots_temp.txt
 userinfo.py
 venv_collocations/
