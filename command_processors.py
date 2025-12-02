@@ -21,3 +21,7 @@ def by_tag(tag):
         return collocations
     else:
         return ["Aucune collocation trouvée."]
+
+
+def get_tags():
+    return sorted(MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME].distinct('tag'))

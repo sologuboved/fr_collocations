@@ -8,12 +8,13 @@ tags - blank
 import logging
 import time
 
-from telegram.ext import Application, CommandHandler
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
+from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
 from db_ops import to_txt
 from global_vars import DEFAULT_NUM
 from helpers import PIDWriter, get_chat_id
-from command_processors import by_tag, by_num
+from command_processors import by_tag, by_num, get_tags
 from data_processors import list_to_texts
 from userinfo import TELETOKEN
 
@@ -31,7 +32,7 @@ async def start(update, context):
     )
 
 
-async def info(update, context):
+async def send_help(update, context):
     # /help
     await context.bot.send_message(
         chat_id=get_chat_id(update),
@@ -44,12 +45,12 @@ async def info(update, context):
     )
 
 
-async def email(update, context):
+async def send_email(update, context):
     # /email
     ...
 
 
-async def file(update, context):
+async def send_file(update, context):
     # /file
     filename = 'collocations.txt'
     caption = to_txt(filename)
@@ -60,7 +61,7 @@ async def file(update, context):
     )
 
 
-async def rndm(update, context):
+async def send_random(update, context):
     # /rndm 15
     query = update['message']['text'].split()
     try:
@@ -82,7 +83,7 @@ async def rndm(update, context):
         time.sleep(2)
 
 
-async def tag(update, context):
+async def send_tag(update, context):
     # /tag divers
     query = update['message']['text'].split()
     try:
@@ -101,34 +102,39 @@ async def tag(update, context):
             time.sleep(2)
 
 
-async def tags(update, context):
+async def send_tags(update, context):
     # /tags
-    query = update['message']['text']
-    print('query:', query)
-    query = query.split()
-    try:
-        query = query[1]
-    except IndexError:
-        query = ''
-    # text = date_to_string(get_nth_day(query))
-    # await context.bot.send_message(
-    #     chat_id=get_chat_id(update),
-    #     text=text,
-    # )
+    keyboard = [[InlineKeyboardButton(tag, callback_data=tag)] for tag in get_tags()]
+    reply_markup = InlineKeyboardMarkup(keyboard)
+    await update.message.reply_text("Voilà :", reply_markup=reply_markup)
+
+
+async def tag_button(update, context):
+    query = update.callback_query
+    await query.answer()
+    tag = query.data
+    await query.edit_message_text(text=f"Tag sélectionné : {tag}")
+    for text in list_to_texts(by_tag(tag), with_tag=False):
+        await context.bot.send_message(
+            chat_id=query.message.chat.id,
+            text=text,
+        )
+        time.sleep(2)
 
 
 def main():
     application = Application.builder().token(TELETOKEN).build()
 
     application.add_handler(CommandHandler('start', start))
-    application.add_handler(CommandHandler('help', info))
-    application.add_handler(CommandHandler('email', email))
-    application.add_handler(CommandHandler('file', file))
-    application.add_handler(CommandHandler('random', rndm))
-    application.add_handler(CommandHandler('tag', tag))
-    application.add_handler(CommandHandler('tags', tags))
+    application.add_handler(CommandHandler('help', send_help))
+    application.add_handler(CommandHandler('email', send_email))
+    application.add_handler(CommandHandler('file', send_file))
+    application.add_handler(CommandHandler('random', send_random))
+    application.add_handler(CommandHandler('tag', send_tag))
+    application.add_handler(CommandHandler('tags', send_tags))
+    application.add_handler(CallbackQueryHandler(tag_button))
 
-    application.run_polling()
+    application.run_polling(allowed_updates=Update.ALL_TYPES)
 
 
 if __name__ == '__main__':
