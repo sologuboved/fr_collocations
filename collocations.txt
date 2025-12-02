@@ -22,6 +22,7 @@ venir de
 être dû à
 être la conséquence de
 être produit par
+être à l'origine de
 
 CONSIDÉRATIONS
 (se) tenir au courant
@@ -53,6 +54,7 @@ décidément ~ definitely
 effectivement ~ въ самомъ дѣлѣ, фактически
 en lui-même ~ само по себѣ
 en partie <-> totalement
+en tout cas
 nettement plus ~ significantly more
 par ailleurs ~ moreover
 pas forcément ~ not necessarily
@@ -63,6 +65,7 @@ quand même ~ anyway
 quitte à faire qqch. ~ even if it means to, at the risk of,
 selon | d'après | à en croire
 surtout ~ above all
+techniquement
 toujours plus [intense]
 tout de même ~ still, all the same, even so
 tout à fait ~ quite
@@ -70,20 +73,25 @@ toutefois ~ however
 voire ~ and even
 
 FIGÉ
+, à tort,
 assez sommaire en matière de confort
 au besoin ~ if necessary
 avoir pour but de faire qqch.
 bon vieux ~ good old
 chercher à faire qqch.
+comme je l'entends ~ какъ я считаю нужнымъ
 contre son gré | à contre-cœur
 d'elle-même ~ on her own
 d'occasion ~ second-hand
 dans l'ordre ~ по порядку
 dans le sens où cela allie qqch. et qqch.
 de l'extérieur ~ на видъ
+de la tête aux pieds ~ съ головы до ногъ
 de mal en pis from ~ bad to worse
 en boucle ~ по кругу
+en concert avec ~ совмѣстно, заодно
 en déplacement ~ въ дорогѣ
+en harmonie | en phase avec
 en réalité | en vérité
 en sécurité ~ въ безопасности
 en vrac
@@ -110,6 +118,7 @@ une broutille ~ пустякъ
 voyer tout en noir
 à jeun ~ натощакъ
 à la base ~ въ основѣ
+à la main ~ вручную
 à mi-chemin entre qqch. et qqch.
 être au cœur de qqch.
 
@@ -185,6 +194,7 @@ Je ne m'y attendais pas.
 Je ne sais pas trop.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 L'important est de faire qqch.
+La tour Eiffel a dû choquer au debut.
 Mon plus beau souvenir reste à venir.
 Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
@@ -232,7 +242,6 @@ vis-à-vis de
 à mon égard ~ по отношенію ко мнѣ
 
 TEMPS
-, à tort,
 Actuellement,
 après coup ~ after the fact
 au jour le jour ~ day by day
@@ -265,8 +274,11 @@ tôt ou tard,
 une bonne fois pour toutes ~ once and for all
 une fois [arrivé à destination,]
 une énième fois ~ въ сотый разъ
+À l'heure qu'il est,
 Ça tombe bien / mal ~ good / bad timing
 à l'avance ~ заранѣе
+à l'heure qu'il est,
+à partir du moment où
 à peine ~ едва
 à plus tard ~ на болѣе позднее время
 à tous les coups ~ every time
