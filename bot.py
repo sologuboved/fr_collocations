@@ -12,8 +12,8 @@ from telegram.ext import Application, CommandHandler
 
 from db_ops import to_txt
 from helpers import PIDWriter, get_chat_id
-# from command_processors import add_datum, get_deltas, get_first_day, get_journal, get_nth_day, get_survey, get_which_day
-# from data_processors import date_to_string, delta_to_string
+from command_processors import by_tag
+from data_processors import list_to_texts
 from userinfo import TELETOKEN
 
 logging.basicConfig(
@@ -76,25 +76,26 @@ async def rndm(update, context):
 
 
 async def tag(update, context):
-    # /tag
-    query = update['message']['text']
-    print('query:', query)
-    query = query.split()
+    # /tag divers
+    query = update['message']['text'].split()
     try:
-        query = query[1]
+        query = query[1].strip()
     except IndexError:
-        query = str()
-    # texts = get_journal(query)
-    # for text in texts:
-    #     time.sleep(2)
-    #     await context.bot.send_message(
-    #         chat_id=get_chat_id(update),
-    #         text=text,
-    #     )
+        await context.bot.send_message(
+                chat_id=get_chat_id(update),
+                text="Il est nécessaire de fournir une tag.",
+            )
+    else:
+        for text in list_to_texts(by_tag(query)):
+            await context.bot.send_message(
+                chat_id=get_chat_id(update),
+                text=text,
+            )
+            time.sleep(2)
 
 
 async def tags(update, context):
-    # /nth 25
+    # /tags
     query = update['message']['text']
     print('query:', query)
     query = query.split()
