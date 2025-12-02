@@ -1,6 +1,6 @@
 """
 file - blank
-random - 5 or blank
+random - 15 or blank
 tag - divers
 tags - blank
 """
@@ -11,8 +11,9 @@ import time
 from telegram.ext import Application, CommandHandler
 
 from db_ops import to_txt
+from global_vars import DEFAULT_NUM
 from helpers import PIDWriter, get_chat_id
-from command_processors import by_tag
+from command_processors import by_tag, by_num
 from data_processors import list_to_texts
 from userinfo import TELETOKEN
 
@@ -37,7 +38,7 @@ async def info(update, context):
         text="""Commands:
 /email
 /file
-/random 5
+/random 15
 /tag divers
 /tags""",
     )
@@ -60,19 +61,25 @@ async def file(update, context):
 
 
 async def rndm(update, context):
-    # /add 02.01.2018
-    query = update['message']['text']
-    print('query:', query)
-    query = query.split()
+    # /rndm 15
+    query = update['message']['text'].split()
     try:
-        query = query[1]
+        query = int(query[1].strip())
     except IndexError:
-        query = str()
-    # text = add_datum(query)
-    # await context.bot.send_message(
-    #     chat_id=get_chat_id(update),
-    #     text=text,
-    # )
+        query = DEFAULT_NUM
+    except ValueError:
+        await context.bot.send_message(
+            chat_id=get_chat_id(update),
+            text="Il fallait en fait que ce soit un nombre entier, mais bon.",
+        )
+        time.sleep(2)
+        query = DEFAULT_NUM
+    for text in list_to_texts(by_num(query), with_tag=True):
+        await context.bot.send_message(
+            chat_id=get_chat_id(update),
+            text=text,
+        )
+        time.sleep(2)
 
 
 async def tag(update, context):
@@ -86,7 +93,7 @@ async def tag(update, context):
                 text="Il est nécessaire de fournir une tag.",
             )
     else:
-        for text in list_to_texts(by_tag(query)):
+        for text in list_to_texts(by_tag(query), with_tag=False):
             await context.bot.send_message(
                 chat_id=get_chat_id(update),
                 text=text,

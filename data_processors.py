@@ -15,16 +15,18 @@ def batch(lines):
     return messages
 
 
-def list_to_texts(collocations):
+def list_to_texts(collocations, with_tag):
     lines = list()
     for collocation in collocations:
         try:
-            mot, trad = collocation.pop('mot'), collocation.pop('trad', None)
+            line, trad = collocation.pop('mot'), collocation.pop('trad', None)
         except AttributeError:
             return [collocation]
         if trad:
-            lines.append(f"{mot} ~ {trad}\n")
-        else:
-            lines.append(mot + '\n')
-    lines.insert(0, f'-{len(lines)}-\n')
+            line += f" ~ {trad}"
+        if with_tag:
+            line += f" *{collocation.pop('tag')}"
+        lines.append(line + '\n')
+    if not with_tag:
+        lines.insert(0, f'-{len(lines)}-\n')
     return batch(lines)
