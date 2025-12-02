@@ -1,40 +1,50 @@
-from pymongo import MongoClient
-
-from global_vars import COLL_NAME, DB_NAME, LOCALHOST, PORT
-
-
-def to_txt(filename='collocations.txt', sender=None):
-    print(f"Writing {filename}...")
-    tag_count = mot_count = 0
-    text = str()
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
-    for tag in sorted(target.distinct('tag')):
-        tag_count += 1
-        text += tag.upper() + '\n'
-        for entry in target.find({'tag': tag}).sort('mot', 1):
-            try:
-                text += " ~ ".join((entry['mot'], entry['trad'])) + '\n'
-            except TypeError:
-                text += entry['mot'] + '\n'
-            mot_count += 1
-        text += '\n'
-    text = text[:-1]
-    caption = f"Wrote {tag_count} tags, {mot_count} collocations"
-    with open(filename, 'w') as handler:
-        handler.write(text)
-    print(caption)
-    if sender:
-        sender(document=filename)
-        # context.bot.send_document(chat_id=chat_id, document=f, caption=caption)
+import os
+import re
+import sys
 
 
-def del_by_tag(tag):
-    print(f"Del {tag} from {DB_NAME}.{COLL_NAME}...")
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
-    print(f"Initially, {target.estimated_document_count()} entries")
-    target.delete_many({'tag': tag})
-    print(f"Finally, {target.estimated_document_count()} entries")
+class PIDWriter:
+    def __init__(self):
+        self._base_dir = get_base_dir()
+        self._pid_fname = None
+
+    def __enter__(self):
+        self.write_pid()
+        return self
+
+    def __exit__(self, *args):
+        try:
+            os.remove(self._pid_fname)
+        except FileNotFoundError as e:
+            print(str(e))
+
+    def write_pid(self):
+        prefix = os.path.splitext(os.path.basename(sys.argv[0]))[0]
+        previous_pid = self.find_previous_pid(prefix)
+        if previous_pid:
+            print(f"\nRemoving {previous_pid}...")
+            os.remove(previous_pid)
+        pid_fname = get_abs_path(f'{prefix}_{os.getpid()}.pid', base_dir=self._base_dir)
+        print(f"Writing {pid_fname}\n")
+        with open(pid_fname, 'w') as handler:
+            handler.write(str())
+        self._pid_fname = pid_fname
+
+    def find_previous_pid(self, prefix):
+        for fname in os.listdir(self._base_dir):
+            if re.fullmatch(rf'{prefix}_\d+\.pid', fname):
+                return get_abs_path(fname, base_dir=self._base_dir)
 
 
-if __name__ == '__main__':
-    to_txt()
+def get_base_dir():
+    return os.path.dirname(os.path.abspath(__file__))
+
+
+def get_abs_path(fname, base_dir=None):
+    if base_dir is None:
+        base_dir = get_base_dir()
+    return os.path.join(base_dir, fname)
+
+
+def get_chat_id(update):
+    return update.message.chat_id
