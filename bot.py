@@ -11,12 +11,12 @@ import time
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
-from db_ops import to_txt
-from global_vars import DEFAULT_NUM
+from global_vars import DEFAULT_NUM, FILE_PATH
 from helpers import PIDWriter, get_chat_id
-from command_processors import by_tag, by_num, get_tags
+from command_processors import by_tag, by_num, get_tags, get_stats
 from data_processors import list_to_texts
 from userinfo import TELETOKEN
+from writers import to_email, to_txt
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -45,18 +45,31 @@ async def send_help(update, context):
     )
 
 
+async def send_stats(update, context):
+    # /stat
+    await context.bot.send_message(
+        chat_id=get_chat_id(update),
+        text=get_stats(),
+    )
+
+
 async def send_email(update, context):
     # /email
-    ...
+    for func in (to_txt, to_email):
+        caption = func(FILE_PATH)
+        await context.bot.send_message(
+            chat_id=get_chat_id(update),
+            text=caption,
+        )
+        time.sleep(1)
 
 
 async def send_file(update, context):
     # /file
-    filename = 'collocations.txt'
-    caption = to_txt(filename)
+    caption = to_txt(FILE_PATH)
     await context.bot.send_document(
         chat_id=get_chat_id(update),
-        document=filename,
+        document=FILE_PATH,
         caption=caption,
     )
 
@@ -127,6 +140,7 @@ def main():
 
     application.add_handler(CommandHandler('start', start))
     application.add_handler(CommandHandler('help', send_help))
+    application.add_handler(CommandHandler('stat', send_stats))
     application.add_handler(CommandHandler('email', send_email))
     application.add_handler(CommandHandler('file', send_file))
     application.add_handler(CommandHandler('random', send_random))

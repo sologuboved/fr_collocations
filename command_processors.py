@@ -25,3 +25,18 @@ def by_tag(tag):
 
 def get_tags():
     return sorted(MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME].distinct('tag'))
+
+
+def get_stats():
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
+    stats = f"Nombre total : {target.estimated_document_count()}\n\n"
+    for item in target.aggregate([
+        {"$group": {"_id": "$tag", "count": {"$sum": 1}}},
+        {'$sort': {'count': -1}}
+    ]):
+        stats += f"{item['_id']} : {item['count']}\n"
+    return stats
+
+
+if __name__ == '__main__':
+    print(get_stats())
