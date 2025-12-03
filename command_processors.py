@@ -27,6 +27,15 @@ def get_tags():
     return sorted(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].distinct('tag'))
 
 
+def get_citation():
+    citation = next(MongoClient(LOCALHOST, PORT)[DB_NAME][CITATIONS].aggregate([{'$sample': {'size': 1}}]))
+    livre = citation.pop('œuvre')
+    citation = f"{citation['cit']}\n\n{citation['auteur']}"
+    if livre:
+        citation += f" - {livre}"
+    return citation
+
+
 def get_stats():
     dbase = MongoClient(LOCALHOST, PORT)[DB_NAME]
     target = dbase[COLLOCATIONS]
@@ -42,4 +51,5 @@ def get_stats():
 
 
 if __name__ == '__main__':
-    print(get_stats())
+    # print(get_stats())
+    print(get_citation())

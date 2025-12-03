@@ -25,7 +25,7 @@ def collect_quotes():
                 livre = None
             citations.append({
                 'cit': article.find('div', {'class': 'figsco__quote__text'}).text.strip(),
-                'livre': livre,
+                'œuvre': livre,
                 'auteur': "Blaise Pascal",
             })
             is_off = False
@@ -33,6 +33,7 @@ def collect_quotes():
             break
         is_off = True
     target = MongoClient(LOCALHOST, PORT)[DB_NAME][CITATIONS]
+    target.drop()
     print(f"Initialement, {target.estimated_document_count()} entrées")
     target.insert_many(citations)
     print(f"Enfin, {target.estimated_document_count()} entrées")

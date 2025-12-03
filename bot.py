@@ -15,7 +15,7 @@ from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
 from global_vars import DEFAULT_NUM, FILE_PATH
 from helpers import PIDWriter, check_auth, get_chat_id
-from command_processors import by_tag, by_num, get_tags, get_stats
+from command_processors import by_tag, by_num, get_citation, get_tags, get_stats
 from data_processors import list_to_texts
 from userinfo import TELETOKEN
 from writers import to_email, to_txt
@@ -51,7 +51,10 @@ async def send_help(update, context):
 
 async def send_citation(update, context):
     # /cit
-    ...
+    await context.bot.send_message(
+        chat_id=get_chat_id(update),
+        text=get_citation(),
+    )
 
 
 async def send_stats(update, context):
