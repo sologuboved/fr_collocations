@@ -1,6 +1,9 @@
+from functools import wraps
 import os
 import re
 import sys
+
+from userinfo import MY_ID
 
 
 class PIDWriter:
@@ -48,3 +51,15 @@ def get_abs_path(fname, base_dir=None):
 
 def get_chat_id(update):
     return update.message.chat_id
+
+
+def check_auth(func):
+    @wraps(func)
+    async def wrapper(update, context, *args, **kwargs):
+        chat_id = update.message.chat_id
+        if chat_id != MY_ID:
+            await context.bot.send_message(chat_id=chat_id, text="Non autorisé !")
+            return
+        return await func(update, context, *args, **kwargs)
+
+    return wrapper

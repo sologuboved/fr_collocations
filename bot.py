@@ -13,7 +13,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
 from global_vars import DEFAULT_NUM, FILE_PATH
-from helpers import PIDWriter, get_chat_id
+from helpers import PIDWriter, check_auth, get_chat_id
 from command_processors import by_tag, by_num, get_tags, get_stats
 from data_processors import list_to_texts
 from userinfo import TELETOKEN
@@ -55,6 +55,7 @@ async def send_stats(update, context):
     )
 
 
+@check_auth
 async def send_email(update, context):
     # /email
     for func in (to_txt, to_email):
