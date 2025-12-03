@@ -1,6 +1,7 @@
 """
 file - blank
 random - 15 or blank
+stat - blank
 tag - divers
 tags - blank
 """
@@ -40,6 +41,7 @@ async def send_help(update, context):
 /email
 /file
 /random 15
+/stat
 /tag divers
 /tags""",
     )
