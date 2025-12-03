@@ -1,7 +1,8 @@
 """
+cit - blank
+stat - blank
 file - blank
 random - 15 or blank
-stat - blank
 tag - divers
 tags - blank
 """
@@ -38,6 +39,7 @@ async def send_help(update, context):
     await context.bot.send_message(
         chat_id=get_chat_id(update),
         text="""Commands:
+/cit
 /email
 /file
 /random 15
@@ -45,6 +47,11 @@ async def send_help(update, context):
 /tag divers
 /tags""",
     )
+
+
+async def send_citation(update, context):
+    # /cit
+    ...
 
 
 async def send_stats(update, context):
@@ -143,6 +150,7 @@ def main():
 
     application.add_handler(CommandHandler('start', start))
     application.add_handler(CommandHandler('help', send_help))
+    application.add_handler(CommandHandler('cit', send_citation))
     application.add_handler(CommandHandler('stat', send_stats))
     application.add_handler(CommandHandler('email', send_email))
     application.add_handler(CommandHandler('file', send_file))

@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-from global_vars import COLL_NAME, DB_NAME, LOCALHOST, PORT
+from global_vars import COLLOCATIONS, DB_NAME, LOCALHOST, PORT
 
 
 class Entries:
@@ -13,7 +13,7 @@ class Entries:
 
 
 def by_tag(tag, drop=False):
-    print(f"{tag} -> {DB_NAME}.{COLL_NAME}")
+    print(f"{tag} -> {DB_NAME}.{COLLOCATIONS}")
     entries = Entries()
     with open('mots_temp.txt') as handler:
         for line in handler.readlines():
@@ -27,7 +27,7 @@ def by_tag(tag, drop=False):
                 trad = None
             entries += (mot, trad, tag)
             # print(mot)
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
     if drop:
         target.drop()
     print(f"Initially, {target.estimated_document_count()} entries")

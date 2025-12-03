@@ -3,17 +3,17 @@ import random
 
 from pymongo import MongoClient
 
-from global_vars import COLL_NAME, DB_NAME, LOCALHOST, PORT
+from global_vars import COLLOCATIONS, DB_NAME, LOCALHOST, PORT
 
 
 def by_num(num):
-    collocations = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME].find(projection={'_id': 0}))
+    collocations = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}))
     random.shuffle(collocations)
     return sorted(collocations[:num], key=itemgetter('mot'))
 
 
 def by_tag(tag):
-    collocations = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME].find(
+    collocations = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(
         {'tag': tag},
         {'_id': 0, 'tag': 0},
     ).sort('mot'))
@@ -24,11 +24,11 @@ def by_tag(tag):
 
 
 def get_tags():
-    return sorted(MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME].distinct('tag'))
+    return sorted(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].distinct('tag'))
 
 
 def get_stats():
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
     stats = f"Nombre total : {target.estimated_document_count()}\n\n"
     for item in target.aggregate([
         {"$group": {"_id": "$tag", "count": {"$sum": 1}}},

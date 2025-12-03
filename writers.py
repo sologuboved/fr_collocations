@@ -6,7 +6,7 @@ import smtplib
 
 from pymongo import MongoClient
 
-from global_vars import COLL_NAME, DB_NAME, FILE_PATH, LOCALHOST, PORT
+from global_vars import COLLOCATIONS, DB_NAME, FILE_PATH, LOCALHOST, PORT
 from userinfo import EMAIL, EPSWRD
 
 
@@ -40,7 +40,7 @@ def to_email(file_path=FILE_PATH):
 def to_txt(file_path=FILE_PATH):
     tag_count = mot_count = 0
     text = str()
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
     for tag in sorted(target.distinct('tag')):
         tag_count += 1
         text += tag.upper() + '\n'
@@ -58,8 +58,8 @@ def to_txt(file_path=FILE_PATH):
 
 
 def del_by_tag(tag):
-    print(f"Del {tag} from {DB_NAME}.{COLL_NAME}...")
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLL_NAME]
+    print(f"Del {tag} from {DB_NAME}.{COLLOCATIONS}...")
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
     print(f"Initially, {target.estimated_document_count()} entries")
     target.delete_many({'tag': tag})
     print(f"Finally, {target.estimated_document_count()} entries")
