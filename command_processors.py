@@ -3,7 +3,7 @@ import random
 
 from pymongo import MongoClient
 
-from global_vars import COLLOCATIONS, DB_NAME, LOCALHOST, PORT
+from global_vars import CITATIONS, COLLOCATIONS, DB_NAME, LOCALHOST, PORT
 
 
 def by_num(num):
@@ -28,13 +28,16 @@ def get_tags():
 
 
 def get_stats():
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
-    stats = f"Nombre total : {target.estimated_document_count()}\n\n"
+    dbase = MongoClient(LOCALHOST, PORT)[DB_NAME]
+    target = dbase[COLLOCATIONS]
+    stats = f"Nombre total : {target.estimated_document_count()} ; y compris {len(target.distinct('tag'))} tags\n\n"
     for item in target.aggregate([
         {"$group": {"_id": "$tag", "count": {"$sum": 1}}},
         {'$sort': {'count': -1}}
     ]):
         stats += f"{item['_id']} : {item['count']}\n"
+    target = dbase[CITATIONS]
+    stats += f"\nIl y a aussi {target.estimated_document_count()} citations ; {len(target.distinct('auteur'))} auters"
     return stats
 
 
