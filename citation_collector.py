@@ -7,7 +7,7 @@ import requests
 from global_vars import CITATIONS, DB_NAME, LOCALHOST, PORT
 
 
-def collect_quotes(url, auteur, drop):
+def main(url, auteur, drop):
     citations = list()
     page = 0
     is_off = True
@@ -38,22 +38,22 @@ def collect_quotes(url, auteur, drop):
 
 
 if __name__ == '__main__':
-    # collect_quotes(
+    # main(
     #     url='http://evene.lefigaro.fr/citations/blaise-pascal?page=',
     #     auteur="Blaise Pascal",
     #     drop=True,
     # )
-    # collect_quotes(
+    # main(
     #     url='http://evene.lefigaro.fr/citations/francois-de-la-rochefoucauld?page=',
     #     auteur="François de La Rochefoucauld",
     #     drop=False,
     # )
-    # collect_quotes(
+    # main(
     #     url='http://evene.lefigaro.fr/citations/montesquieu?page=',
     #     auteur="De Montesquieu",
     #     drop=False,
     # )
-    collect_quotes(
+    main(
         url='http://evene.lefigaro.fr/citations/montaigne?page=',
         auteur="Michel de Montaigne",
         drop=False,
