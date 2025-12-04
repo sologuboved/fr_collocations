@@ -67,4 +67,4 @@ def del_by_tag(tag):
 
 if __name__ == '__main__':
     to_txt()
-    to_email()
+    # to_email()

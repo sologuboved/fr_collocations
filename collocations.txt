@@ -5,20 +5,36 @@ venir de faire qqch.
 être sur le point de faire qqch.
 
 CAUSALITÉ
+Quelle est la cause | l'origine | la raison de ... ?
 (a)mener à
+ainsi
+alors
+causer
+comme
 conduire à
+créer
 dans le but de faire qqch. | Dans quel but ?
+de sorte que ~ отчего
+des conséquences | effets | suites
 developper
 en raison de
 entraîner
+étant donné que
 favoriser ~ способствовать
 grâce à
+occasionner
+par conséquent
 permettre de
 procurer
+produire
 provoquer
+puisque ~ поскольку
+rendre + adjectif
+résulter de
 s'expliquer par
-venir de
+venir | provenir de
 à cause de
+être causé par
 être dû à
 être la conséquence de
 être produit par
@@ -35,7 +51,6 @@ se renseigner auprès de qqn. ~ освѣдомиться у
 tenir compte de qqch. ~ to take something into account
 
 DIVERS
-Bref,
 Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
 [se consacrer] uniquement [à]
@@ -56,7 +71,7 @@ en lui-même ~ само по себѣ
 en partie <-> totalement
 en tout cas
 nettement plus ~ significantly more
-par ailleurs ~ moreover
+par ailleurs | en outre ~ moreover
 pas forcément ~ not necessarily
 pas tellement ~ not so much
 peu importe
@@ -78,7 +93,7 @@ assez sommaire en matière de confort
 au besoin ~ if necessary
 avoir pour but de faire qqch.
 bon vieux ~ good old
-chercher à faire qqch.
+chercher à faire qqch. | avoir pour but | viser | projeter
 comme je l'entends ~ какъ я считаю нужнымъ
 contre son gré | à contre-cœur
 d'elle-même ~ on her own
@@ -145,10 +160,13 @@ Ce n'est rien à tout que...
 Comment dit-on "..." en français ?
 Côté de...,
 En ce qui concerne qqch.,
-En somme, ~ Короче говоря,  Il me semble que...
+En somme, ~ Короче говоря
+Enfin | Pour finir | En conclusion | Bref,
 Et le pompon, c'est que...
 J'avoue que...
+Il me semble que...
 Le hic, ~ Вотъ въ чемъ проблема
+Non seulement ... mais encore (aussi)...
 On sait que...
 On voit bien que... ~ We can clearly see...
 Qu'en est-il de... ~ Какъ насчетъ
@@ -158,11 +176,16 @@ Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
 Quant à ...,
 Que dire d'autre?
 Suis-je bête ! Cela m'avait échappé.
+cependant
+d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
+de plus
 laisser qqch. de côté
 mettre dans une parenthèse
 mouais ~ ну да
+par contre
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour être plus précise
+pourtant
 rebelote ~ here we go again
 Ça alors ! ~ Вот это да!
 Ça n'a pas de sens. | Ça ne veut rien dire.
@@ -171,7 +194,7 @@ rebelote ~ here we go again
 Ça se tient. ~ It makes sense.
 Ça y est ! ~ Наконецъ-то.
 à proprement parler | proprement dit(e)
-à une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
+d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 
 PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
@@ -217,6 +240,7 @@ en moyenne ~ on average
 un sur deux ~ каждый второй
 
 RAPPORT
+afin de | en vue de | pour
 afin que | pour que
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
