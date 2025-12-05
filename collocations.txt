@@ -5,8 +5,8 @@ venir de faire qqch.
 être sur le point de faire qqch.
 
 CAUSALITÉ
-Quelle est la cause | l'origine | la raison de ... ?
 (a)mener à
+Quelle est la cause | l'origine | la raison de ... ?
 ainsi
 alors
 causer
@@ -19,7 +19,6 @@ des conséquences | effets | suites
 developper
 en raison de
 entraîner
-étant donné que
 favoriser ~ способствовать
 grâce à
 occasionner
@@ -34,6 +33,7 @@ résulter de
 s'expliquer par
 venir | provenir de
 à cause de
+étant donné que
 être causé par
 être dû à
 être la conséquence de
@@ -162,8 +162,8 @@ En ce qui concerne qqch.,
 En somme, ~ Короче говоря
 Enfin | Pour finir | En conclusion | Bref,
 Et le pompon, c'est que...
-J'avoue que...
 Il me semble que...
+J'avoue que...
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
 On sait que...
@@ -177,6 +177,7 @@ Que dire d'autre?
 Suis-je bête ! Cela m'avait échappé.
 cependant
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
+d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 de plus
 laisser qqch. de côté
 mettre dans une parenthèse
@@ -194,7 +195,6 @@ selon | d'après | à en croire
 Ça se tient. ~ It makes sense.
 Ça y est ! ~ Наконецъ-то.
 à proprement parler | proprement dit(e)
-d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 
 PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
