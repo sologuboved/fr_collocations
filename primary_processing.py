@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 
 from global_vars import COLLOCATIONS, DB_NAME, LOCALHOST, PORT
+from helpers import read_csv
 
 
 class Entries:
@@ -35,5 +36,14 @@ def by_tag(tag, drop=False):
     print(f"Finally, {target.estimated_document_count()} entries")
 
 
+def from_csv(drop=False):
+    print(f"mots_temp.csv -> {DB_NAME}.{COLLOCATIONS}")
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
+    print(f"Initially, {target.estimated_document_count()} entries")
+    target.insert_many(list(read_csv('mots_temp.csv', as_dict=True)))
+    print(f"Finally, {target.estimated_document_count()} entries")
+
+
 if __name__ == '__main__':
-    by_tag('phrases')
+    # by_tag('phrases')
+    from_csv()
