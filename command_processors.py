@@ -1,6 +1,3 @@
-from operator import itemgetter
-import random
-
 from pymongo import MongoClient
 
 from global_vars import CITATIONS, COLLOCATIONS, DB_NAME, LOCALHOST, PORT
