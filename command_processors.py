@@ -30,9 +30,11 @@ def get_tags():
 
 
 def get_all():
+    tags_and_collocations = list()
     target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
-    for tag in target.distinct('tag'):
-        yield tag, list(target.find({'tag': tag}, {'_id': 0, 'tag': 0}).sort('mot'))
+    for tag in sorted(target.distinct('tag')):
+        tags_and_collocations.append((tag, list(target.find({'tag': tag}, {'_id': 0, 'tag': 0}).sort('mot'))))
+    return tags_and_collocations
 
 
 def get_citation():
