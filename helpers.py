@@ -7,20 +7,6 @@ import sys
 from userinfo import MY_ID
 
 
-def read_csv(csv_fname, as_dict, delimiter=',', has_headers=True):
-    with open(csv_fname, newline=str()) as handler:
-        if as_dict:
-            assert has_headers, "Doesn't have headers"
-            for row in csv.DictReader(handler, delimiter=delimiter):
-                yield row
-        else:
-            reader = csv.reader(handler, delimiter=delimiter)
-            if has_headers:
-                next(reader)
-            for row in reader:
-                yield row
-
-
 class PIDWriter:
     def __init__(self):
         self._base_dir = get_base_dir()
@@ -62,6 +48,27 @@ def get_abs_path(fname, base_dir=None):
     if base_dir is None:
         base_dir = get_base_dir()
     return os.path.join(base_dir, fname)
+
+
+def read_csv(csv_fname, as_dict, delimiter=',', has_headers=True):
+    with open(csv_fname, newline=str()) as handler:
+        if as_dict:
+            assert has_headers, "Doesn't have headers"
+            for row in csv.DictReader(handler, delimiter=delimiter):
+                yield row
+        else:
+            reader = csv.reader(handler, delimiter=delimiter)
+            if has_headers:
+                next(reader)
+            for row in reader:
+                yield row
+
+
+def upsert_mongo_entry(coll, entry):
+    try:
+        coll.replace_one({'_id': entry['_id']}, entry)
+    except KeyError:
+        coll.insert_one(entry)
 
 
 def get_chat_id(update):
