@@ -1,6 +1,7 @@
 """
 cit - blank
 stat - blank
+all - blank
 file - blank
 random - 15 or blank
 tag - divers
@@ -15,8 +16,8 @@ from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
 from global_vars import DEFAULT_NUM, FILE_PATH
 from helpers import PIDWriter, check_auth, get_chat_id
-from command_processors import by_random, by_tag, get_citation, get_stats, get_tags
-from data_processors import list_to_texts
+from command_processors import by_random, by_tag, get_citation, get_stats, get_tags, get_all
+from data_processors import list_to_texts, lists_to_texts
 from userinfo import TELETOKEN
 from writers import to_email, to_txt
 
@@ -40,6 +41,7 @@ async def send_help(update, context):
         chat_id=get_chat_id(update),
         text="""Commands:
 /cit
+/all
 /email
 /file
 /random 15
@@ -63,6 +65,16 @@ async def send_stats(update, context):
         chat_id=get_chat_id(update),
         text=get_stats(),
     )
+
+
+async def send_all(update, context):
+    # /all
+    for text in lists_to_texts(get_all()):
+        await context.bot.send_message(
+            chat_id=get_chat_id(update),
+            text=text,
+        )
+        time.sleep(2)
 
 
 @check_auth
@@ -155,6 +167,7 @@ def main():
     application.add_handler(CommandHandler('help', send_help))
     application.add_handler(CommandHandler('cit', send_citation))
     application.add_handler(CommandHandler('stat', send_stats))
+    application.add_handler(CommandHandler('all', send_all))
     application.add_handler(CommandHandler('email', send_email))
     application.add_handler(CommandHandler('file', send_file))
     application.add_handler(CommandHandler('random', send_random))

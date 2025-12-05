@@ -29,6 +29,12 @@ def get_tags():
     return sorted(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].distinct('tag'))
 
 
+def get_all():
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
+    for tag in target.distinct('tag'):
+        yield tag, list(target.find({'tag': tag}, {'_id': 0, 'tag': 0}).sort('mot'))
+
+
 def get_citation():
     citation = next(MongoClient(LOCALHOST, PORT)[DB_NAME][CITATIONS].aggregate([{'$sample': {'size': 1}}]))
     livre = citation.pop('œuvre')

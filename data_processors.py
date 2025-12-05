@@ -15,7 +15,7 @@ def batch(lines):
     return messages
 
 
-def list_to_texts(collocations, with_tag):
+def get_lines(collocations, with_tag, header='-{}-\n'):
     lines = list()
     for collocation in collocations:
         try:
@@ -28,5 +28,15 @@ def list_to_texts(collocations, with_tag):
             line += f" *{collocation.pop('tag')}"
         lines.append(line + '\n')
     if not with_tag:
-        lines.insert(0, f'-{len(lines)}-\n')
-    return batch(lines)
+        lines.insert(0, header.format(len(lines)))
+
+
+def list_to_texts(collocations, with_tag):
+    return batch(get_lines(collocations, with_tag))
+
+
+def lists_to_texts(collocations):
+    messages = list()
+    for tag, collocation in collocations:
+        messages += batch(get_lines(collocations, with_tag=False, header=tag.upper() + " ({})\n"))
+    return messages
