@@ -31,6 +31,7 @@ provoquer
 puisque ~ поскольку
 rendre + adjectif
 résulter de
+s'efforcer de faire qqch. ~ стремиться, стараться
 s'expliquer par
 venir | provenir de
 à cause de
@@ -52,6 +53,7 @@ se renseigner auprès de qqn. ~ освѣдомиться у
 tenir compte de qqch. ~ to take something into account
 
 DIVERS
+De quelle façon ... ? ~ Какимъ образомъ
 Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
 [se consacrer] uniquement [à]
@@ -77,6 +79,7 @@ par ailleurs | en outre ~ moreover
 pas forcément ~ not necessarily
 pas tellement ~ not so much
 peu importe
+pleinement ~ полностью
 prioritairement ~ преимущественно
 quand même ~ anyway
 quitte à faire qqch. ~ even if it means to, at the risk of,
@@ -137,6 +140,8 @@ voyer tout en noir
 à la main ~ вручную
 à mi-chemin entre qqch. et qqch.
 être au cœur de qqch.
+être de sa faute
+être en droit de faire qqch. ~ имѣть право
 
 GÉNÉRALISATIONS
 Il est de ces personnes qui..,
@@ -165,6 +170,7 @@ En somme, ~ Короче говоря
 Enfin | Pour finir | En conclusion | Bref,
 Et le pompon, c'est que...
 Il me semble que...
+Il s'est avéré que...
 J'avoue que...
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
@@ -208,6 +214,7 @@ D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 Est-ce que tu t'intéresses à la musique ?
 Il a bien failli de faire qqch. ~ Он едва не / почти.
+Il est devenu courant que tout un chacun fasse connaître au monde sa vision "alternative" des faits.
 Il est temps que tu grandisses.
 Il n'y a qu'à vous laisser convaincre de faire qqch.
 Il vaut mieux que tu sois là quand ils rentreront.
