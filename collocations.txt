@@ -93,6 +93,7 @@ voire ~ and even
 
 FIGÉ
 , à tort,
+[créer] de toutes pièces ~ from scratch
 assez sommaire en matière de confort
 au besoin ~ if necessary
 avoir pour but de faire qqch.
@@ -264,7 +265,7 @@ lié à qqch. ~ связанный съ
 par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
 quels que soient ~ whatever, regardless of
-sauf si | excepté si
+sauf si | excepté si | hormis celui de
 se rapporter à ~ относиться
 tandis que ~ whereas
 tout ce qui touche à qqch.
@@ -297,6 +298,7 @@ en ce moment
 en même temps
 en premier ~ first thing
 entretemps ~ in the meanwhile
+maintes fois ~ many times
 pour l'instant | pour le moment
 pour la première fois
 tant que ~ as long as
