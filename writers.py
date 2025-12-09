@@ -15,9 +15,9 @@ def to_email(file_path=FILE_PATH):
     smtp_port = 465
 
     msg = MIMEMultipart()
-    msg["From"] = EMAIL
-    msg["To"] = EPSWRD
-    msg["Subject"] = 'fr_collocations'
+    msg['From'] = EMAIL
+    msg['To'] = EPSWRD
+    msg['Subject'] = 'fr_collocations'
 
     body = "Le document est ci-joint."
     msg.attach(MIMEText(body, 'plain'))
