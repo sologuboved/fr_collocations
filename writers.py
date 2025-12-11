@@ -66,8 +66,8 @@ def to_csv():
     pathlib.Path('backups').mkdir(parents=True, exist_ok=True)
     target_filename = os.path.join('backups', f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.csv')
     print(f"{DB_NAME}.{COLLOCATIONS} -> {target_filename}")
-    with CsvWriter(target_filename) as handler:
-        for row in MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}):
+    with CsvWriter(target_filename, ('mot', 'trad', 'tag')) as handler:
+        for row in MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1):
             handler.write(row)
     print("...done. Deleting redundant files...")
     pattern = re.compile(r'collocations\d+')

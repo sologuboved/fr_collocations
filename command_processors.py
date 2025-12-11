@@ -1,3 +1,5 @@
+import itertools
+
 from pymongo import MongoClient
 
 from global_vars import CITATIONS, COLLOCATIONS, DB_NAME, LOCALHOST, PORT
@@ -12,14 +14,11 @@ def by_random(size):
             {'$sort': {'mot': 1}},
         ]))
     else:
-        collocations = list()
-        for tag in sorted(coll.distinct('tag')):
-            collocations.extend(list(coll.aggregate([
+        return list(itertools.chain(list(coll.aggregate([
                 {'$match': {'tag': tag}},
                 {'$sample': {'size': 1}},
                 {'$project': {'_id': 0}},
-            ])))
-        return collocations
+            ])) for tag in sorted(coll.distinct('tag'))))
 
 
 def by_tag(tag):
