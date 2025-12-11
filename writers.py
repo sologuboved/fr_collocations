@@ -1,12 +1,17 @@
+import datetime
 from email import encoders as email_encoders
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
+import os
+import pathlib
+import re
 import smtplib
 
 from pymongo import MongoClient
 
 from global_vars import COLLOCATIONS, DB_NAME, FILE_PATH, LOCALHOST, PORT
+from helpers import CsvWriter
 from userinfo import EMAIL, EPSWRD
 
 
@@ -57,6 +62,26 @@ def to_txt(file_path=FILE_PATH):
     return f"10 {tag_count} tags, {mot_count} collocations ont été écrites dans le fichier {file_path}."
 
 
+def to_csv():
+    pathlib.Path('backups').mkdir(parents=True, exist_ok=True)
+    target_filename = os.path.join('backups', f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.csv')
+    print(f"{DB_NAME}.{COLLOCATIONS} -> {target_filename}")
+    with CsvWriter(target_filename) as handler:
+        for row in MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}):
+            handler.write(row)
+    print("...done. Deleting redundant files...")
+    pattern = re.compile(r'collocations\d+')
+    backups = sorted(filter(pattern.match, os.listdir('backups')))
+    outdated = len(backups) - 10
+    if outdated > 0:
+        print(f"Removing {outdated} files...")
+        for index in range(outdated):
+            os.remove(os.path.join('downloads', backups[index]))
+        print("...done deleting redundant files")
+    else:
+        print("...nothing to remove")
+
+
 def del_by_tag(tag):
     print(f"Del {tag} from {DB_NAME}.{COLLOCATIONS}...")
     target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
@@ -66,5 +91,6 @@ def del_by_tag(tag):
 
 
 if __name__ == '__main__':
+    to_csv()
     to_txt()
     # to_email()

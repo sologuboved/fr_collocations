@@ -4,11 +4,22 @@ from global_vars import CITATIONS, COLLOCATIONS, DB_NAME, LOCALHOST, PORT
 
 
 def by_random(size):
-    return list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].aggregate([
-        {'$sample': {'size': size}},
-        {'$project': {'_id': 0}},
-        {'$sort': {'mot': 1}},
-    ]))
+    coll = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
+    if size:
+        return list(coll.aggregate([
+            {'$sample': {'size': size}},
+            {'$project': {'_id': 0}},
+            {'$sort': {'mot': 1}},
+        ]))
+    else:
+        collocations = list()
+        for tag in sorted(coll.distinct('tag')):
+            collocations.extend(list(coll.aggregate([
+                {'$match': {'tag': tag}},
+                {'$sample': {'size': 1}},
+                {'$project': {'_id': 0}},
+            ])))
+        return collocations
 
 
 def by_tag(tag):

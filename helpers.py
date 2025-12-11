@@ -7,6 +7,61 @@ import sys
 from userinfo import MY_ID
 
 
+class SpreadsheetWriter:
+    def __init__(self, filename, headers=None):
+        print(f"Downloading {filename}...")
+        self._filename = filename
+        self._headers = headers
+        self._as_dict = ...
+        self._count = 0
+        self._first_row = None
+        self._writer = self.writer()
+        next(self._writer)
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *args):
+        self.close()
+
+    def bulk(self, bulk):
+        for row in bulk:
+            self.write(row)
+
+    def write(self, row):
+        self._count += 1
+        self._writer.send(row)
+
+    def close(self):
+        self._writer.close()
+        print(f"Total: {self._count} row(s)")
+
+    def start(self, first_row):
+        self._first_row = first_row
+        self._as_dict = isinstance(self._first_row, dict)
+        if self._as_dict and not self._headers:
+            self._headers = sorted(self._first_row.keys())
+
+    def writer(self):
+        raise NotImplemented
+
+
+class CsvWriter(SpreadsheetWriter):
+    def writer(self):
+        self.start((yield))
+        with open(self._filename, 'w', newline='', encoding='utf-8') as handler:
+            if self._as_dict:
+                writer = csv.DictWriter(handler, fieldnames=self._headers, restval=None)
+                writer.writeheader()
+            else:
+                writer = csv.writer(handler)
+                if self._headers:
+                    writer.writerow(self._headers)
+            writer.writerow(self._first_row)
+            while True:
+                writer.writerow((yield))
+
+
 class PIDWriter:
     def __init__(self):
         self._base_dir = get_base_dir()

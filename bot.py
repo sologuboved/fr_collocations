@@ -14,7 +14,7 @@ import time
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
-from global_vars import DEFAULT_NUM, FILE_PATH
+from global_vars import FILE_PATH
 from helpers import PIDWriter, check_auth, get_chat_id
 from command_processors import by_random, by_tag, get_citation, get_stats, get_tags, get_all
 from data_processors import list_to_texts, lists_to_texts
@@ -105,14 +105,14 @@ async def send_random(update, context):
     try:
         query = int(query[1].strip())
     except IndexError:
-        query = DEFAULT_NUM
+        query = None
     except ValueError:
         await context.bot.send_message(
             chat_id=get_chat_id(update),
             text="Il fallait en fait que ce soit un nombre entier, mais bon.",
         )
         time.sleep(2)
-        query = DEFAULT_NUM
+        query = None
     for text in list_to_texts(by_random(query), with_tag=True):
         await context.bot.send_message(
             chat_id=get_chat_id(update),
