@@ -11,7 +11,7 @@ import smtplib
 from pymongo import MongoClient
 
 from global_vars import COLLOCATIONS, DB_NAME, FILE_PATH, LOCALHOST, PORT
-from helpers import CsvWriter
+from helpers import CsvWriter, read_csv
 from userinfo import EMAIL, EPSWRD
 
 
@@ -76,7 +76,7 @@ def to_csv():
     if outdated > 0:
         print(f"Removing {outdated} files...")
         for index in range(outdated):
-            os.remove(os.path.join('downloads', backups[index]))
+            os.remove(os.path.join('backups', backups[index]))
         print("...done deleting redundant files")
     else:
         print("...nothing to remove")
@@ -90,7 +90,19 @@ def del_by_tag(tag):
     print(f"Finally, {target.estimated_document_count()} entries")
 
 
+def restore(filepath=None, target_collname=COLLOCATIONS):
+    if not filepath:
+        pattern = re.compile(r'collocations\d+')
+        filepath = os.path.join('backups', sorted(filter(pattern.match, os.listdir('backups')))[-1])
+    print(f"Restoring {DB_NAME}.{target_collname} from {filepath}")
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][target_collname]
+    target.drop()
+    target.insert_many(list(read_csv(filepath, as_dict=True)))
+    print(f"Got {target.estimated_document_count()} entries")
+
+
 if __name__ == '__main__':
     to_csv()
     to_txt()
     # to_email()
+    # restore(target_collname=COLLOCATIONS + '_test')
