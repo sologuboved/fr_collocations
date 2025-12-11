@@ -14,7 +14,7 @@ def by_random(size):
             {'$sort': {'mot': 1}},
         ]))
     else:
-        return list(itertools.chain(list(coll.aggregate([
+        return list(itertools.chain.from_iterable(list(coll.aggregate([
                 {'$match': {'tag': tag}},
                 {'$sample': {'size': 1}},
                 {'$project': {'_id': 0}},

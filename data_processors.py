@@ -15,7 +15,7 @@ def batch(lines):
     return messages
 
 
-def get_lines(collocations, with_tag, header='-{}-\n'):
+def get_lines(collocations, with_tag, header='-{}-\n\n'):
     lines = list()
     for collocation in collocations:
         try:
@@ -26,7 +26,7 @@ def get_lines(collocations, with_tag, header='-{}-\n'):
             line += f" ~ {trad}"
         if with_tag:
             line += f" *{collocation.pop('tag')}"
-        lines.append(line + '\n')
+        lines.append(line + '\n\n')
     if not with_tag:
         lines.insert(0, header.format(len(lines)))
     return lines
@@ -45,7 +45,7 @@ def lists_to_texts(tags_and_collocations):
         messages += batch(get_lines(
             collocations,
             with_tag=False,
-            header=f"[{count} / {total}] {tag.upper()} ({{}})\n",
+            header=f"[{count} / {total}] {tag.upper()} ({{}})\n\n",
         ))
     # print(messages)
     return messages
