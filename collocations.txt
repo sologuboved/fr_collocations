@@ -220,6 +220,7 @@ Est-ce que tu t'intéresses à la musique ?
 Il a bien failli de faire qqch. ~ Он едва не / почти.
 Il est devenu courant que tout un chacun fasse connaître au monde sa vision "alternative" des faits.
 Il est temps que tu grandisses.
+Il existe environ un million d'associations et 20 millions de Français adhèrent au moins à l'une d'entre elles.
 Il n'y a qu'à vous laisser convaincre de faire qqch.
 Il vaut mieux que tu sois là quand ils rentreront.
 J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то-то.
@@ -259,10 +260,12 @@ ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
 au moyen de | à l'aide de
 concernant
+contrairement à
 dans le cadre de
 du côté de qqch. ~ въ аспектѣ
 en fonction de ~ depending on, in terms of
 en occurrence de
+envers qqn.
 lié à qqch. ~ связанный съ
 par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
@@ -298,9 +301,12 @@ du jour au lendemain ~ overnight
 désormais ~ from now on
 en ce moment
 en même temps
+en permanence
 en premier ~ first thing
 entretemps ~ in the meanwhile
 maintes fois ~ many times
+plus que jamais
+ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
 pour la première fois
 tant que ~ as long as
