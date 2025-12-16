@@ -6,14 +6,17 @@ venir de faire qqch.
 
 CAUSALITÉ
 (a)mener à
+C'est bien pour ça que ~ Именно поэтому
 Il en résulte de... ~ This has resulted in
 Quelle est la cause | l'origine | la raison de ... ?
 ainsi
 alors
+avoir pour conséquence qqch.
 causer
 comme
 conduire à
 créer
+d'où ~ отсюда
 dans le but de faire qqch. | Dans quel but ?
 de sorte que ~ отчего
 des conséquences | effets | suites
@@ -91,10 +94,14 @@ tout à fait ~ quite
 toutefois ~ however
 voire ~ and even
 
+DÉPLACEMENTS
+se mettre en route ~ отправиться въ путь
+
 FIGÉ
 , à tort,
 [créer] de toutes pièces ~ from scratch
 agir par intérêt
+aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
 avoir pour but de faire qqch.
@@ -137,6 +144,7 @@ sous toutes les coutures ~ from every angle
 tant attendu ~ long-awaited
 tout autour de toi
 une broutille ~ пустякъ
+utile en soi ~ самоцѣнный
 voyer tout en noir
 à jeun ~ натощакъ
 à la base ~ въ основѣ
@@ -158,9 +166,11 @@ Il ne me revient pas.
 J'ai un trou de mémoire.
 Je n'ai pas retenu qqch.
 Je n'arrive pas à m'en souvenir.
+s'ôter de l'esprit qqch. ~ выбросить из головы
 évoquer un souvenir
 
 PAROLES
+, c'est bien connu,
 , mais sait-on jamais ? | Qui sait ?
 , paraît-il,
 Admettons que...
@@ -224,6 +234,7 @@ Il existe environ un million d'associations et 20 millions de Français adhèren
 Il n'y a qu'à vous laisser convaincre de faire qqch.
 Il vaut mieux que tu sois là quand ils rentreront.
 J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то-то.
+J'y suis même plutôt bien. ~ I'm actually quite happy here.
 Je me suis cru dans... ~ I feel like I was in...
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
 Je ne m'en suis pas rendu compte.
@@ -231,6 +242,7 @@ Je ne m'y attendais pas.
 Je ne sais pas trop.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 L'important est de faire qqch.
+La faute à qqch. ~ It's all due to sth.
 La tour Eiffel a dû choquer au debut.
 Mon plus beau souvenir reste à venir.
 Place à la musique ! ~ Time for music!
@@ -251,6 +263,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 QUANTITÉS
 en moins
 en moyenne ~ on average
+un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
 
 RAPPORT
@@ -258,6 +271,7 @@ afin de | en vue de | pour
 afin que | pour que
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
+au bout de 20 ans ~ after 20 years
 au moyen de | à l'aide de
 concernant
 contrairement à
@@ -283,8 +297,10 @@ vis-à-vis de
 
 TEMPS
 Actuellement,
+Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 après coup ~ after the fact
 au jour le jour ~ day by day
+au plus tôt ~ самое раннее
 aussitôt ~ right away
 avant même que le réveil ne sonne, ~ еще до того какъ прозвонилъ будильникъ,
 d'emblée ~ съ перваго раза, тутъ же

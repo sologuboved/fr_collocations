@@ -40,6 +40,8 @@ def from_csv(drop=False):
     print(f"mots_temp.csv -> {DB_NAME}.{COLLOCATIONS}")
     target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
     print(f"Initially, {target.estimated_document_count()} entries")
+    if drop:
+        target.drop()
     target.insert_many(map(
         lambda x: dict(x, **{'trad': {'': None}.get(x['trad'], x['trad'])}),
         read_csv('mots_temp.csv', as_dict=True),
