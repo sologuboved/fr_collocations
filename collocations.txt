@@ -349,3 +349,4 @@ Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?
 avoir lieu
 se dérouler
 se produire
+être en marche ~ be underway
