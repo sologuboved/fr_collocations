@@ -9,16 +9,20 @@ CAUSALITÉ
 C'est bien pour ça que ~ Именно поэтому
 Il en résulte de... ~ This has resulted in
 Quelle est la cause | l'origine | la raison de ... ?
+afin de | en vue de | pour
+afin que | pour que
 ainsi
 alors
+avoir pour but de faire qqch.
 avoir pour conséquence qqch.
 causer
+chercher à faire qqch.
 comme
 conduire à
 créer
 d'où ~ отсюда
 dans le but de faire qqch. | Dans quel but ?
-de sorte que ~ отчего
+de sorte que ~ cъ тѣмъ, чтобы
 des conséquences | effets | suites
 developper
 en raison de
@@ -30,6 +34,7 @@ par conséquent
 permettre de
 procurer
 produire
+projeter de faire qqch.
 provoquer
 puisque ~ поскольку
 rendre + adjectif
@@ -37,6 +42,7 @@ résulter de
 s'efforcer de faire qqch. ~ стремиться, стараться
 s'expliquer par
 venir | provenir de
+viser à faire qqch.
 à cause de
 étant donné que
 être causé par
@@ -266,13 +272,10 @@ un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
 
 RAPPORT
-afin de | en vue de | pour
-afin que | pour que
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
 au bout de 20 ans ~ after 20 years
 au moyen de | à l'aide de
-chercher à faire qqch. | avoir pour but de | viser à faire qqch. | projeter de faire qqch.
 concernant
 contrairement à
 dans le cadre de
