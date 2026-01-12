@@ -7,6 +7,7 @@ venir de faire qqch.
 CAUSALITÉ
 (a)mener à
 C'est bien pour ça que ~ Именно поэтому
+C'est que [indicatif] ~ this is because
 Il en résulte de... ~ This has resulted in
 Quelle est la cause | l'origine | la raison de ... ?
 afin de | en vue de | pour
@@ -77,12 +78,14 @@ davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
 de plus en plus
 de surcroît ~ болѣе того
+de surplus ~ болѣе того
 du coup ~ therefore
 décidément ~ definitely
 effectivement ~ въ самомъ дѣлѣ, фактически
 en lui-même ~ само по себѣ
 en partie <-> totalement
 en tout cas
+et tout à l'avenant ~ and so on
 nettement plus ~ significantly more
 par ailleurs | en outre ~ moreover
 pas forcément ~ not necessarily
@@ -93,6 +96,7 @@ prioritairement ~ преимущественно
 quand même ~ anyway
 quitte à faire qqch. ~ even if it means to, at the risk of,
 surtout ~ above all
+tant mieux
 techniquement
 toujours plus [intense]
 tout de même ~ still, all the same, even so
@@ -111,6 +115,7 @@ aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
 avoir pour but de faire qqch.
+bel et bien
 bon vieux ~ good old
 comme je l'entends ~ какъ я считаю нужнымъ
 contre son gré | à contre-cœur
@@ -120,6 +125,7 @@ dans l'ordre ~ по порядку
 dans le sens où cela allie qqch. et qqch.
 de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
+de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
 en boucle ~ по кругу
 en concert avec ~ совмѣстно, заодно
@@ -143,6 +149,7 @@ par essence ~ by nature
 par sécurité ~ for safety
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
+pour paradoxe
 sans effort
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
@@ -207,6 +214,7 @@ d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 de plus
 laisser qqch. de côté
+mazette ~ ухъ ты
 mettre dans une parenthèse
 mouais ~ ну да
 par contre
@@ -232,8 +240,10 @@ Comment ça a pu arriver ?
 D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 Est-ce que tu t'intéresses à la musique ?
+Heureux temps que le nôtre
 Il a bien failli de faire qqch. ~ Он едва не / почти.
 Il est devenu courant que tout un chacun fasse connaître au monde sa vision "alternative" des faits.
+Il est parfois difficile de savoir ce qu'il en est.
 Il est temps que tu grandisses.
 Il existe environ un million d'associations et 20 millions de Français adhèrent au moins à l'une d'entre elles.
 Il n'y a qu'à vous laisser convaincre de faire qqch.
@@ -253,6 +263,7 @@ Mon plus beau souvenir reste à venir.
 Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Raison de plus pour faire qqch.
+Telle est la première question.
 Tout est permis.
 asseoir sa théorie sur qqch. ~ основывать свою теорію
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
@@ -283,6 +294,7 @@ du côté de qqch. ~ въ аспектѣ
 en fonction de ~ depending on, in terms of
 en occurrence de
 envers qqn.
+face à ~ по отношенію къ
 lié à qqch. ~ связанный съ
 par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
@@ -302,6 +314,8 @@ TEMPS
 Actuellement,
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 après coup ~ after the fact
+au départ ~ поначалу
+au fil du temps ~ съ теченіемъ времени
 au jour le jour ~ day by day
 au plus tôt ~ самое раннее
 aussitôt ~ right away
