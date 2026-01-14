@@ -65,6 +65,7 @@ tenir compte de qqch. ~ to take something into account
 DIVERS
 De quelle façon ... ? ~ Какимъ образомъ
 Tant mieux. ~ Тѣмъ лучше.
+[J'aime] particulièrement
 [en demander] encore davantage ~ even more
 [se consacrer] uniquement [à]
 au mieux ~ at best
@@ -86,6 +87,7 @@ en lui-même ~ само по себѣ
 en partie <-> totalement
 en tout cas
 et tout à l'avenant ~ and so on
+fortement | massivement
 nettement plus ~ significantly more
 par ailleurs | en outre ~ moreover
 pas forcément ~ not necessarily
@@ -191,6 +193,7 @@ C'est hors de question !
 Ce n'est rien à tout que...
 Comment dit-on "..." en français ?
 Côté de...,
+Eh bien moi, je pense que
 En ce qui concerne qqch.,
 En somme, ~ Короче говоря
 Enfin | Pour finir | En conclusion | Bref,
@@ -198,8 +201,11 @@ Et le pompon, c'est que...
 Il me semble que...
 Il s'est avéré que...
 J'avoue que...
+J'en suis persuadée | C'est ma conviction
+Je crois fermement que
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
+On dirait
 On sait que...
 On voit bien que... ~ We can clearly see...
 Qu'en est-il de... ~ Какъ насчетъ
@@ -213,6 +219,7 @@ cependant
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 de plus
+en plus ~ кромѣ того
 laisser qqch. de côté
 mazette ~ ухъ ты
 mettre dans une parenthèse
@@ -277,6 +284,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 Ça fait longtemps que je fais qqch.
 Ça finit par fatiguer.
 Ça me parle ! ~ It resonates with me!
+Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
 Ça sera foutu.
 
 QUANTITÉS
