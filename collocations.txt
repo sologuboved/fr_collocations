@@ -37,6 +37,7 @@ procurer
 produire
 projeter de faire qqch.
 provoquer
+prêter à conséquences
 puisque ~ поскольку
 rendre + adjectif
 résulter de
@@ -99,7 +100,7 @@ peu importe
 pleinement ~ полностью
 prioritairement ~ преимущественно
 quand même ~ anyway
-quitte à faire qqch. ~ even if it means to, at the risk of,
+quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
 surtout ~ above all
 tant mieux
 techniquement
@@ -247,6 +248,7 @@ PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
 C'est nul. <fam.> ~ Это отстой.
 C'est vraiment très gentil.
+Cela peut valoir la peine. ~ Можетъ стоить того.
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
 Comment ça a pu arriver ?
@@ -254,6 +256,7 @@ D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 Est-ce que tu t'intéresses à la musique ?
 Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
+Fais-moi signe quand tu peux te libérer. ~ Let me know when you can get away.
 Heureux temps que le nôtre
 Il a bien failli de faire qqch. ~ Он едва не / почти.
 Il est devenu courant que tout un chacun fasse connaître au monde sa vision "alternative" des faits.
@@ -265,6 +268,7 @@ Il vaut mieux que tu sois là quand ils rentreront.
 J'ai été scotché. <fam.> ~ Отвалъ башки.
 J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то-то.
 J'y suis même plutôt bien. ~ I'm actually quite happy here.
+Je bourais bien un café.
 Je me suis cru dans... ~ I feel like I was in...
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
 Je ne m'en suis pas rendu compte.
@@ -291,6 +295,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 Ça finit par fatiguer.
 Ça me parle ! ~ It resonates with me!
 Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
+Ça ne fait pas tout.
 Ça sera foutu.
 
 QUANTITÉS
