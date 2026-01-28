@@ -246,6 +246,7 @@ selon | d'après | à en croire
 
 PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
+- Je te revaudrai ça. - J'espère bien ! ~ За мной должокъ.
 C'est nul. <fam.> ~ Это отстой.
 C'est vraiment très gentil.
 Cela peut valoir la peine. ~ Можетъ стоить того.
@@ -276,6 +277,7 @@ Je ne m'y attendais pas.
 Je ne sais pas trop.
 Je suis emballé. <fam.> ~ I am thrilled.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
+Je voudrais te demander un service.
 L'important est de faire qqch.
 La faute à qqch. ~ It's all due to sth.
 La tour Eiffel a dû choquer au debut.
@@ -297,6 +299,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
 Ça ne fait pas tout.
 Ça sera foutu.
+Ça te dit ? ~ How about that?
 
 QUANTITÉS
 en moins
