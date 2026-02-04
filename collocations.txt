@@ -54,10 +54,10 @@ viser à faire qqch.
 être à l'origine de
 
 CONSIDÉRATIONS
+(en) avoir / prendre conscience
 (se) tenir au courant
 compte tenu de qch. ~ учитывая
 envisager qqch. ~ to consider
-(en) avoir / prendre conscience
 prendre en compte
 prendre en considération
 s'apercevoir
@@ -100,6 +100,7 @@ peu importe
 pleinement ~ полностью
 prioritairement ~ преимущественно
 quand même ~ anyway
+qui me / lui / leur est / sont propre(s) ~ свой собственный
 quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
 surtout ~ above all
 tant mieux
@@ -110,8 +111,12 @@ tout de même ~ still, all the same, even so
 tout à fait ~ quite
 toutefois ~ however
 voire ~ and even
+à moitié ~ наполовину
+à répétition ~ повторяющійся
+éventuellement ~ по обстоятельствамъ, возможно
 
 DÉPLACEMENTS
+d'en face ~ across the street
 se mettre en route ~ отправиться въ путь
 
 FIGÉ
@@ -140,6 +145,7 @@ en boucle ~ по кругу
 en concert avec ~ совмѣстно, заодно
 en déplacement ~ въ дорогѣ
 en harmonie | en phase avec
+en partant de rien ~ съ нуля
 en retour
 en réalité | en vérité
 en sécurité ~ въ безопасности
@@ -159,11 +165,13 @@ par sécurité ~ for safety
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 pour paradoxe
+qu'à cela ne tienne ~ peu importe !
 sans effort
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
 tant attendu ~ long-awaited
 tout autour de toi
+un mal pour un bien ~ нѣтъ худа безъ добра
 une broutille ~ пустякъ
 utile en soi ~ самоцѣнный
 voyer tout en noir
@@ -171,6 +179,7 @@ voyer tout en noir
 à la base ~ въ основѣ
 à la main ~ вручную
 à mi-chemin entre qqch. et qqch.
+à part entière ~ полноправный
 être au cœur de qqch.
 être de sa faute
 être en droit de faire qqch. ~ имѣть право
@@ -228,6 +237,7 @@ d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 de plus
 en plus ~ кромѣ того
+inversement ~ наоборотъ
 laisser qqch. de côté
 mazette ~ ухъ ты
 mettre dans une parenthèse
@@ -341,6 +351,7 @@ vis-à-vis de
 TEMPS
 Actuellement,
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
+Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 après coup ~ after the fact
 au départ ~ поначалу
 au fil du temps ~ съ теченіемъ времени
@@ -355,7 +366,7 @@ d'un bond ~ однимъ махомъ
 d'un seul coup ~ разомъ
 d'une traite ~ in one go
 dans l'avenir
-dans la foulée ~ заодно, за разъ
+dans la foulée ~ сразу
 de nouveau ~ заново
 depuis le tout début ~ from the very beginning
 depuis longtemps
