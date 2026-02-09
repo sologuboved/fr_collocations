@@ -19,7 +19,7 @@ from helpers import PIDWriter, check_auth, get_chat_id
 from command_processors import by_random, by_tag, get_citation, get_stats, get_tags, get_all
 from data_processors import list_to_texts, lists_to_texts
 from userinfo import TELETOKEN
-from writers import to_email, to_txt
+from write import to_email, to_txt
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
