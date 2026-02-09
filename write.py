@@ -59,7 +59,7 @@ def to_txt(file_path=FILE_PATH):
     text = text[:-1]
     with open(file_path, 'w') as handler:
         handler.write(text)
-    return f"10 {tag_count} tags, {mot_count} collocations ont été écrites dans le fichier {file_path}."
+    return f"{tag_count} tags, {mot_count} collocations ont été écrites dans le fichier {file_path}."
 
 
 def to_csv():
