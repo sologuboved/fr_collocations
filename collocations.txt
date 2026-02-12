@@ -10,6 +10,7 @@ C'est bien pour ça que ~ Именно поэтому
 C'est que [indicatif] ~ this is because
 Il en résulte de... ~ This has resulted in
 Quelle est la cause | l'origine | la raison de ... ?
+Résultat, ~ Въ рѣзультатѣ
 afin de | en vue de | pour
 afin que | pour que
 ainsi
@@ -94,6 +95,7 @@ et tout à l'avenant ~ and so on
 fortement | massivement
 nettement plus ~ significantly more
 par ailleurs | en outre ~ moreover
+par hasard ~ случайно
 pas forcément ~ not necessarily
 pas tellement ~ not so much
 peu importe
@@ -111,6 +113,7 @@ tout de même ~ still, all the same, even so
 tout à fait ~ quite
 toutefois ~ however
 voire ~ and even
+À côté de ça, ~ Кромѣ того
 à moitié ~ наполовину
 à répétition ~ повторяющійся
 éventuellement ~ по обстоятельствамъ, возможно
@@ -118,6 +121,7 @@ voire ~ and even
 DÉPLACEMENTS
 d'en face ~ across the street
 se mettre en route ~ отправиться въ путь
+tout autour de toi
 
 FIGÉ
 , à tort,
@@ -128,6 +132,7 @@ assez sommaire en matière de confort
 au besoin ~ if necessary
 avoir pour but de faire qqch.
 bel et bien
+bon débarras ~ good riddance
 bon gré mal gré
 bon vieux ~ good old
 comme je l'entends ~ какъ я считаю нужнымъ
@@ -170,7 +175,6 @@ sans effort
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
 tant attendu ~ long-awaited
-tout autour de toi
 un mal pour un bien ~ нѣтъ худа безъ добра
 une broutille ~ пустякъ
 utile en soi ~ самоцѣнный
@@ -204,6 +208,7 @@ PAROLES
 , mais sait-on jamais ? | Qui sait ?
 , paraît-il,
 Admettons que...
+Alors franchement ~ Честно говоря
 C'est dans ce sens que...
 C'est hors de question !
 Ce n'est rien à tout que...
@@ -371,6 +376,7 @@ de nouveau ~ заново
 depuis le tout début ~ from the very beginning
 depuis longtemps
 du jour au lendemain ~ overnight
+dès que possible ~ ASAP
 désormais ~ from now on
 en ce moment
 en même temps
