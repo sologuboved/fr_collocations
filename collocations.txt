@@ -47,6 +47,7 @@ s'expliquer par
 venir | provenir de
 viser à faire qqch.
 à cause de
+à force d'être ~ въ силу
 étant donné que
 être causé par
 être dû à
@@ -360,7 +361,6 @@ tout ce qui touche à qqch.
 vis-à-vis de
 à ce qui concerne
 à condition de / que
-à force d'être ~ въ силу
 à moins de / que
 à mon égard ~ по отношенію ко мнѣ
 
