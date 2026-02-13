@@ -57,7 +57,7 @@ viser à faire qqch.
 CONSIDÉRATIONS
 (en) avoir / prendre conscience
 (se) tenir au courant
-compte tenu de qch. ~ учитывая
+compte tenu de qqch. ~ учитывая
 envisager qqch. ~ to consider
 prendre en compte
 prendre en considération
@@ -86,6 +86,7 @@ de plus en plus
 de surcroît ~ болѣе того
 de surplus ~ болѣе того
 du coup ~ therefore
+du sien ~ on one's own
 décidément ~ definitely
 effectivement ~ въ самомъ дѣлѣ, фактически
 en lui-même ~ само по себѣ
@@ -93,6 +94,7 @@ en partie <-> totalement
 en tout cas
 et tout à l'avenant ~ and so on
 fortement | massivement
+guère
 nettement plus ~ significantly more
 par ailleurs | en outre ~ moreover
 par hasard ~ случайно
@@ -151,6 +153,7 @@ en concert avec ~ совмѣстно, заодно
 en déplacement ~ въ дорогѣ
 en harmonie | en phase avec
 en partant de rien ~ съ нуля
+en plein essor ~ on the rise
 en retour
 en réalité | en vérité
 en sécurité ~ въ безопасности
@@ -171,6 +174,7 @@ par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 pour paradoxe
 qu'à cela ne tienne ~ peu importe !
+qu’à cela ne tienne ~ ça ne fait rien, ну и ладно
 sans effort
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
@@ -178,12 +182,14 @@ tant attendu ~ long-awaited
 un mal pour un bien ~ нѣтъ худа безъ добра
 une broutille ~ пустякъ
 utile en soi ~ самоцѣнный
+valider de façon ferme
 voyer tout en noir
 à jeun ~ натощакъ
 à la base ~ въ основѣ
 à la main ~ вручную
 à mi-chemin entre qqch. et qqch.
 à part entière ~ полноправный
+à titre de ~ въ знакъ
 être au cœur de qqch.
 être de sa faute
 être en droit de faire qqch. ~ имѣть право
@@ -270,6 +276,7 @@ Cela peut valoir la peine. ~ Можетъ стоить того.
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
 Comment ça a pu arriver ?
+Comment ça se fait ? ~ How come?
 D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 Dis-le-moi. Dis-m'en plus !
@@ -298,6 +305,7 @@ Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 Je voudrais te demander un service.
 L'important est de faire qqch.
 La faute à qqch. ~ It's all due to sth.
+La réponse ne va pas de soi. ~ The answer is not obvious.
 La tour Eiffel a dû choquer au debut.
 Mon plus beau souvenir reste à venir.
 Place à la musique ! ~ Time for music!
@@ -305,9 +313,11 @@ Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Raison de plus pour faire qqch.
 Telle est la première question.
 Tout est permis.
+alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
 faire son possible pour [faire qqch.]
+il en est / sera autrement de ~ it will be different for
 n'avoir rien à y faire ~ нечего там дѣлать
 pour que tout un chacun comprenne que... ~ so that everyone understands that...
 À quand remonte la dernière fois que vous avez fait qqch. ?
@@ -338,6 +348,7 @@ en fonction de ~ depending on, in terms of
 en occurrence de
 envers qqn.
 face à ~ по отношенію къ
+faire contraste
 lié à qqch. ~ связанный съ
 par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
@@ -375,6 +386,7 @@ dans la foulée ~ сразу
 de nouveau ~ заново
 depuis le tout début ~ from the very beginning
 depuis longtemps
+depuis tout ce temps-là ~ all this time
 du jour au lendemain ~ overnight
 dès que possible ~ ASAP
 désormais ~ from now on
