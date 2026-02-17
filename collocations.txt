@@ -47,7 +47,6 @@ s'expliquer par
 venir | provenir de
 viser à faire qqch.
 à cause de
-à force d'être ~ въ силу
 étant donné que
 être causé par
 être dû à
@@ -143,7 +142,6 @@ contre son gré | à contre-cœur
 d'elle-même ~ on her own
 d'occasion ~ second-hand
 dans l'ordre ~ по порядку
-dans le sens où cela allie qqch. et qqch.
 de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
@@ -166,6 +164,7 @@ finir dans les délais
 l'air de rien
 la donne ~ раскладъ
 le baratin ~ bullshit
+le strict nécessaire
 par chance ~ къ счастью
 par défaut ~ by default
 par ennui ~ со скуки
@@ -243,10 +242,12 @@ Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
 Quant à ...,
 Que dire d'autre?
 Suis-je bête ! Cela m'avait échappé.
+au sens de ~ въ смыслѣ
 autrement dit ~ иными словами
 cependant
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
+dans le sens où cela allie qqch. et qqch.
 de plus
 en plus ~ кромѣ того
 inversement ~ наоборотъ
@@ -271,6 +272,7 @@ selon | d'après | à en croire
 PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
 - Je te revaudrai ça. - J'espère bien ! ~ За мной должокъ.
+C'est au tour de qqn. à faire qqch.
 C'est nul. <fam.> ~ Это отстой.
 C'est vraiment très gentil.
 Cela peut valoir la peine. ~ Можетъ стоить того.
@@ -281,6 +283,7 @@ Comment ça se fait ? ~ How come?
 D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 Dis-le-moi. Dis-m'en plus !
+Elle m'en veut. ~ She's mad at me.
 Est-ce que tu t'intéresses à la musique ?
 Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
 Fais-moi signe quand tu peux te libérer. ~ Let me know when you can get away.
@@ -329,6 +332,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 Ça ne fait pas tout.
 Ça sera foutu.
 Ça te dit ? ~ How about that?
+сe n'est pas faute d'avoir essayé de faire qqch. ~ not for the lack of trying
 
 QUANTITÉS
 en moins
@@ -361,6 +365,7 @@ tout ce qui touche à qqch.
 vis-à-vis de
 à ce qui concerne
 à condition de / que
+à force d'être ~ въ силу
 à moins de / que
 à mon égard ~ по отношенію ко мнѣ
 
