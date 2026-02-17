@@ -1,5 +1,6 @@
 import csv
 from functools import wraps
+import json
 import os
 import re
 import sys
@@ -117,6 +118,17 @@ def read_csv(csv_fname, as_dict, delimiter=',', has_headers=True):
                 next(reader)
             for row in reader:
                 yield row
+
+
+def dump_utf_json(entries, json_file):
+    print(f"Dumping {len(entries)} entries into {json_file}...")
+    with open(get_abs_path(json_file), 'w', encoding='utf-8') as handler:
+        json.dump(entries, handler, ensure_ascii=False, sort_keys=True, indent=2)
+
+
+def load_utf_json(json_file):
+    with open(json_file, encoding='utf8') as data:
+        return json.load(data)
 
 
 def upsert_mongo_entry(coll, entry):
