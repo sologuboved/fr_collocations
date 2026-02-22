@@ -1,75 +1,39 @@
 [
   {
-    "mot": "C'est au tour de qqn. à faire qqch.",
-    "trad": "It's someone's turn to do something."
-  },
-  {
-    "mot": "Il en a marre.",
-    "trad": "He's fed up."
-  },
-  {
-    "mot": "Il est fréquent de faire qqch.",
-    "trad": "It is common to do something."
-  },
-  {
-    "mot": "Il s'est avéré que",
-    "trad": "Оказалось, что"
-  },
-  {
-    "mot": "Il se veut dynamique.",
-    "trad": "He prefers to see himself as energetic."
-  },
-  {
-    "mot": "J'arrête de travailler autant.",
-    "trad": "I'm going to stop working so much."
-  },
-  {
-    "mot": "Je suis tenté de revenir",
-    "trad": "У меня возникаетъ соблазнъ вернуться."
-  },
-  {
-    "mot": "Parfois je suis si absorbé que j'oublie de regarder l'heure.",
-    "trad": "Иногда я такъ залипаю, что теряю счетъ времени."
-  },
-  {
-    "mot": "accorder de l'importance à qqch.",
-    "trad": "to attach importance to something"
-  },
-  {
-    "mot": "adoucir des mœurs",
-    "trad": "смягчать нравы"
-  },
-  {
     "mot": "affreux",
     "trad": "awful"
   },
   {
-    "mot": "alléchant",
-    "trad": "enticing"
+    "mot": "le plâtre",
+    "trad": "гипсъ"
   },
   {
-    "mot": "anodin",
-    "trad": "trivial, harmless"
+    "mot": "tendu",
+    "trad": "tense"
   },
   {
-    "mot": "asticoter",
-    "trad": "дразнить"
+    "mot": "estival",
+    "trad": "лѣтній"
   },
   {
-    "mot": "au besoin",
-    "trad": "при необходимости"
+    "mot": "hivernal",
+    "trad": "зимній"
   },
   {
-    "mot": "au chaud",
-    "trad": "въ теплѣ"
+    "mot": "la proie",
+    "trad": "a prey"
   },
   {
-    "mot": "au chômage",
-    "trad": "out of work"
+    "mot": "le compte-rendu",
+    "trad": "отчетъ"
   },
   {
-    "mot": "au sérieux",
-    "trad": "всерьезъ"
+    "mot": "solennel",
+    "trad": "solemn"
+  },
+  {
+    "mot": "un canular",
+    "trad": "a hoax"
   },
   {
     "mot": "automnal",
@@ -84,228 +48,80 @@
     "trad": "to yawn"
   },
   {
-    "mot": "calmer le jeu <-> mettre de l'huile sur le feu",
-    "trad": "calm things down <-> add fuel to the fire"
-  },
-  {
-    "mot": "comprendre l'essentiel",
-    "trad": "отдуплить основы"
-  },
-  {
-    "mot": "couper les ponts",
-    "trad": "сжигать мосты"
-  },
-  {
-    "mot": "cueillir qqn. par surprise",
-    "trad": "застать врасплохъ"
-  },
-  {
-    "mot": "cultiver des légumes | élever des animaux",
-    "trad": "выращивать овощи | животныхъ"
-  },
-  {
-    "mot": "d'une traite",
-    "trad": "in one go"
-  },
-  {
-    "mot": "de mal en pis",
-    "trad": "from bad to worse"
-  },
-  {
     "mot": "déambuler",
     "trad": "бродить"
-  },
-  {
-    "mot": "débordé",
-    "trad": "overwhelmed"
-  },
-  {
-    "mot": "déceler",
-    "trad": "to detect"
-  },
-  {
-    "mot": "décrocher d'une drogue | rechuter",
-    "trad": "to quit drugs | to relapse"
-  },
-  {
-    "mot": "en tout cas",
-    "trad": "въ любомъ случаѣ"
-  },
-  {
-    "mot": "estival",
-    "trad": "лѣтній"
   },
   {
     "mot": "faire du mal | endommager | abîmer | nuire à",
     "trad": "вредить"
   },
   {
-    "mot": "faire son possible pour faire qqch.",
-    "trad": "to do one's best to do sth."
-  },
-  {
-    "mot": "hivernal",
-    "trad": "зимній"
-  },
-  {
-    "mot": "il sort d'ordinaire",
-    "trad": "It's out of the ordinary"
-  },
-  {
-    "mot": "incongru",
-    "trad": "несообразный"
-  },
-  {
-    "mot": "l'envie d'en finir avec qqch.",
-    "trad": "желаніе покончить съ чѣм-нибудь"
-  },
-  {
-    "mot": "la proie",
-    "trad": "a prey"
-  },
-  {
-    "mot": "laisser qqch. de côté",
-    "trad": "leave sth. aside"
-  },
-  {
-    "mot": "le brassage",
-    "trad": "~ mélange"
-  },
-  {
-    "mot": "le compte-rendu",
-    "trad": "отчетъ"
-  },
-  {
-    "mot": "le plâtre",
-    "trad": "гипсъ"
-  },
-  {
-    "mot": "mettre qqn. hors de soi",
-    "trad": "вывести изъ себя"
-  },
-  {
     "mot": "nuisible | nefaste",
     "trad": "вредный"
-  },
-  {
-    "mot": "passer les bornes",
-    "trad": "переходить красныя линіи"
-  },
-  {
-    "mot": "passer à côté de qqch. de formidable",
-    "trad": "to miss out on something wonderful"
   },
   {
     "mot": "pourrir | gâcher",
     "trad": "портить"
   },
   {
-    "mot": "prendre qqch. à qqn.",
-    "trad": "отнять что-нибудь у кого-нибудь"
-  },
-  {
-    "mot": "printenier",
-    "trad": "весенній"
-  },
-  {
-    "mot": "puiser qqch. à / dans",
-    "trad": "черпать изъ / въ"
-  },
-  {
-    "mot": "qualifier qqch. de",
-    "trad": "characterize as"
-  },
-  {
     "mot": "quitte à",
     "trad": "even if"
-  },
-  {
-    "mot": "relayer",
-    "trad": "to broadcast"
-  },
-  {
-    "mot": "reussir un examen",
-    "trad": "pass an exam"
-  },
-  {
-    "mot": "s'adresser à qqn.",
-    "trad": "обращаться къ кому-нибудь"
-  },
-  {
-    "mot": "se brouiller | se quereller | se disputer",
-    "trad": "ссориться"
-  },
-  {
-    "mot": "se faire avoir",
-    "trad": "to be scammed"
-  },
-  {
-    "mot": "se mettre en retrait",
-    "trad": "отодвинуться"
   },
   {
     "mot": "se taire | rester muet(te) | garder le silence",
     "trad": "молчать"
   },
   {
-    "mot": "se vanter de",
-    "trad": "~fanfaronner"
+    "mot": "une broutille | un bibelot | une babiole",
+    "trad": "пустякъ"
   },
   {
-    "mot": "solennel",
-    "trad": "solemn"
+    "mot": "alléchant",
+    "trad": "enticing"
   },
   {
-    "mot": "susceptible de",
-    "trad": "likely to"
+    "mot": "asticoter",
+    "trad": "дразнить"
   },
   {
-    "mot": "tant attendu",
-    "trad": "долгожданный"
+    "mot": "au chaud",
+    "trad": "въ теплѣ"
   },
   {
-    "mot": "tendu",
-    "trad": "tense"
+    "mot": "au sérieux",
+    "trad": "всерьезъ"
   },
   {
-    "mot": "tenir un magasin",
-    "trad": "to own a shop"
-  },
-  {
-    "mot": "tomber de fatigue",
-    "trad": "валиться съ ногъ отъ усталости"
-  },
-  {
-    "mot": "un canular",
-    "trad": "a hoax"
-  },
-  {
-    "mot": "un conciliabule",
-    "trad": "secret meeting"
-  },
-  {
-    "mot": "un don pour qqch",
-    "trad": "to have a gift for sth."
-  },
-  {
-    "mot": "un escroc",
-    "trad": "мошенникъ"
+    "mot": "printenier",
+    "trad": "весенній"
   },
   {
     "mot": "un néo-arrivant",
     "trad": "newcomer"
   },
   {
-    "mot": "un rapport décomplexé à la grammaire",
-    "trad": "разслабленное отношеніе къ грамматикѣ"
+    "mot": "d'une traite",
+    "trad": "in one go"
   },
   {
-    "mot": "une auberge espagnole",
-    "trad": "проходной дворъ"
+    "mot": "déceler",
+    "trad": "to detect"
   },
   {
-    "mot": "une broutille | un bibelot | une babiole",
-    "trad": "пустякъ"
+    "mot": "le brassage",
+    "trad": "~ mélange"
+  },
+  {
+    "mot": "se brouiller | se quereller | se disputer",
+    "trad": "ссориться"
+  },
+  {
+    "mot": "susceptible de",
+    "trad": "likely to"
+  },
+  {
+    "mot": "un escroc",
+    "trad": "мошенникъ"
   },
   {
     "mot": "une jouissance",
@@ -316,47 +132,231 @@
     "trad": "half-joke"
   },
   {
-    "mot": "une nouvelle donne politique",
-    "trad": "новый политическій раскладъ"
-  },
-  {
-    "mot": "une tournure",
-    "trad": "рѣчевой оборотъ"
-  },
-  {
-    "mot": "Ça n'a pas de sens. | Ça ne veut rien dire.",
-    "trad": "It makes no sense."
-  },
-  {
-    "mot": "Ça ne se guerit pas.",
-    "trad": "Это не лѣчится."
+    "mot": "à la retraite",
+    "trad": "на пенсіи"
   },
   {
     "mot": "Ça y est.",
     "trad": "That's it."
   },
   {
+    "mot": "épargner",
+    "trad": "to save up"
+  },
+  {
+    "mot": "au chômage",
+    "trad": "out of work"
+  },
+  {
+    "mot": "débordé",
+    "trad": "overwhelmed"
+  },
+  {
+    "mot": "Il en a marre.",
+    "trad": "He's fed up."
+  },
+  {
+    "mot": "incongru",
+    "trad": "несообразный"
+  },
+  {
+    "mot": "relayer",
+    "trad": "to broadcast"
+  },
+  {
+    "mot": "reussir un examen",
+    "trad": "pass an exam"
+  },
+  {
+    "mot": "se mettre en retrait",
+    "trad": "отодвинуться"
+  },
+  {
+    "mot": "se vanter de",
+    "trad": "~fanfaronner"
+  },
+  {
+    "mot": "tant attendu",
+    "trad": "долгожданный"
+  },
+  {
+    "mot": "couper les ponts",
+    "trad": "сжигать мосты"
+  },
+  {
+    "mot": "se faire avoir",
+    "trad": "to be scammed"
+  },
+  {
+    "mot": "tenir un magasin",
+    "trad": "to own a shop"
+  },
+  {
+    "mot": "Il s'est avéré que",
+    "trad": "Оказалось, что"
+  },
+  {
+    "mot": "adoucir des mœurs",
+    "trad": "смягчать нравы"
+  },
+  {
+    "mot": "un conciliabule",
+    "trad": "secret meeting"
+  },
+  {
+    "mot": "qualifier qqch. de",
+    "trad": "characterize as"
+  },
+  {
+    "mot": "une auberge espagnole",
+    "trad": "проходной дворъ"
+  },
+  {
+    "mot": "une tournure",
+    "trad": "рѣчевой оборотъ"
+  },
+  {
+    "mot": "Ça ne se guerit pas.",
+    "trad": "Это не лѣчится."
+  },
+  {
     "mot": "à l'ordre de jour",
     "trad": "на повѣсткѣ дня"
   },
   {
-    "mot": "à la retraite",
-    "trad": "на пенсіи"
+    "mot": "comprendre l'essentiel",
+    "trad": "отдуплить основы"
+  },
+  {
+    "mot": "en tout cas",
+    "trad": "въ любомъ случаѣ"
+  },
+  {
+    "mot": "laisser qqch. de côté",
+    "trad": "leave sth. aside"
+  },
+  {
+    "mot": "mettre qqn. hors de soi",
+    "trad": "вывести изъ себя"
+  },
+  {
+    "mot": "puiser qqch. à / dans",
+    "trad": "черпать изъ / въ"
+  },
+  {
+    "mot": "anodin",
+    "trad": "trivial, harmless"
+  },
+  {
+    "mot": "au besoin",
+    "trad": "при необходимости"
+  },
+  {
+    "mot": "cueillir qqn. par surprise",
+    "trad": "застать врасплохъ"
+  },
+  {
+    "mot": "de mal en pis",
+    "trad": "from bad to worse"
+  },
+  {
+    "mot": "Ça n'a pas de sens. | Ça ne veut rien dire.",
+    "trad": "It makes no sense."
+  },
+  {
+    "mot": "être mal vu",
+    "trad": "to be frowned upon"
   },
   {
     "mot": "à son insu",
     "trad": "without his knowledge"
   },
   {
-    "mot": "épargner",
-    "trad": "to save up"
-  },
-  {
     "mot": "être de sa faute",
     "trad": "to be someone's fault"
   },
   {
-    "mot": "être mal vu",
-    "trad": "to be frowned upon"
+    "mot": "un don pour qqch",
+    "trad": "to have a gift for sth."
+  },
+  {
+    "mot": "il sort d'ordinaire",
+    "trad": "It's out of the ordinary"
+  },
+  {
+    "mot": "passer les bornes",
+    "trad": "переходить красныя линіи"
+  },
+  {
+    "mot": "s'adresser à qqn.",
+    "trad": "обращаться къ кому-нибудь"
+  },
+  {
+    "mot": "décrocher d'une drogue | rechuter",
+    "trad": "to quit drugs | to relapse"
+  },
+  {
+    "mot": "faire son possible pour faire qqch.",
+    "trad": "to do one's best to do sth."
+  },
+  {
+    "mot": "une nouvelle donne politique",
+    "trad": "новый политическій раскладъ"
+  },
+  {
+    "mot": "cultiver des légumes | élever des animaux",
+    "trad": "выращивать овощи | животныхъ"
+  },
+  {
+    "mot": "Il est fréquent de faire qqch.",
+    "trad": "It is common to do something."
+  },
+  {
+    "mot": "tomber de fatigue",
+    "trad": "валиться съ ногъ отъ усталости"
+  },
+  {
+    "mot": "l'envie d'en finir avec qqch.",
+    "trad": "желаніе покончить съ чѣм-нибудь"
+  },
+  {
+    "mot": "prendre qqch. à qqn.",
+    "trad": "отнять что-нибудь у кого-нибудь"
+  },
+  {
+    "mot": "accorder de l'importance à qqch.",
+    "trad": "to attach importance to something"
+  },
+  {
+    "mot": "J'arrête de travailler autant.",
+    "trad": "I'm going to stop working so much."
+  },
+  {
+    "mot": "passer à côté de qqch. de formidable",
+    "trad": "to miss out on something wonderful"
+  },
+  {
+    "mot": "C'est au tour de qqn. à faire qqch.",
+    "trad": "It's someone's turn to do something."
+  },
+  {
+    "mot": "Je suis tenté de revenir",
+    "trad": "У меня возникаетъ соблазнъ вернуться."
+  },
+  {
+    "mot": "un rapport décomplexé à la grammaire",
+    "trad": "разслабленное отношеніе къ грамматикѣ"
+  },
+  {
+    "mot": "Il se veut dynamique.",
+    "trad": "He prefers to see himself as energetic."
+  },
+  {
+    "mot": "calmer le jeu <-> mettre de l'huile sur le feu",
+    "trad": "calm things down <-> add fuel to the fire"
+  },
+  {
+    "mot": "Parfois je suis si absorbé que j'oublie de regarder l'heure.",
+    "trad": "Иногда я такъ залипаю, что теряю счетъ времени."
   }
 ]
