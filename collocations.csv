@@ -1,35 +1,47 @@
 mot,trad,tag
 (Il) faut ce qu'il faut,надо - значитъ надо,phrases
 (a)mener à,,causalité
+(en) avoir / prendre conscience,,considérations
 (se) tenir au courant,,considérations
 ", c'est bien connu,",,paroles
 ", mais sait-on jamais ? | Qui sait ?",,paroles
 ", paraît-il,",,paroles
 ", à tort,",,figé
+- Je te revaudrai ça. - J'espère bien !,За мной должокъ.,phrases
 "Actuellement,",,temps
 Admettons que...,,paroles
+Alors franchement,Честно говоря,paroles
+C'est au tour de qqn. à faire qqch.,,phrases
 C'est bien pour ça que,Именно поэтому,causalité
+C'est comme ça et pas autrement !,,phrases
 C'est dans ce sens que...,,paroles
 C'est hors de question !,,paroles
 C'est nul. <fam.>,Это отстой.,phrases
 C'est que [indicatif],this is because,causalité
 C'est vraiment très gentil.,,phrases
 Ce n'est rien à tout que...,,paroles
+Cela peut valoir la peine.,Можетъ стоить того.,phrases
 "Comment dit-on ""..."" en français ?",,paroles
 Comment faites-vous pour faire qqch. ?,How do you go about doing something?,phrases
 Comment se déroule votre travail ?,How is your work going?,phrases
 Comment ça a pu arriver ?,,phrases
+Comment ça se fait ?,How come?,phrases
 "Côté de...,",,paroles
 D'où vient qu'on verse des indemnités aux éleveurs ?,,phrases
 De quelle façon ... ?,Какимъ образомъ,divers
 De quoi il s'agit ?,,phrases
+Dis-le-moi. Dis-m'en plus !,,phrases
 "Désolé, c'est un oubli.",,mémoire
 "Eh bien moi, je pense que",,paroles
+Elle m'en veut.,She's mad at me.,phrases
+Elle ne fait que faire qqch.,,divers
 "En ce qui concerne qqch.,",,paroles
 "En somme,",Короче говоря,paroles
 "Enfin | Pour finir | En conclusion | Bref,",,paroles
 Est-ce que tu t'intéresses à la musique ?,,phrases
 "Et le pompon, c'est que...",,paroles
+Et vous allez trouver ce budget de quelle manière ?,Какимъ образомъ?,phrases
+Fais-moi signe quand tu peux te libérer.,Let me know when you can get away.,phrases
 Heureux temps que le nôtre,,phrases
 Il a bien failli de faire qqch.,Он едва не / почти.,phrases
 Il en résulte de...,This has resulted in,causalité
@@ -49,6 +61,7 @@ J'avoue que...,,paroles
 J'en suis persuadée | C'est ma conviction,,paroles
 J'en suis à faire qqch.,"Я дошелъ до того, что дѣлаю то-то.",phrases
 J'y suis même plutôt bien.,I'm actually quite happy here.,phrases
+Je bourais bien un café.,,phrases
 Je compte parmi les femmes à ne pas pouvoir faire qqch.,,généralisations
 Je crois fermement que,,paroles
 Je me suis cru dans...,I feel like I was in...,phrases
@@ -62,8 +75,10 @@ Je ne sais pas trop.,,phrases
 Je suis du genre à me tétaniser d'horreur en faisant qqch.,,généralisations
 Je suis emballé. <fam.>,I am thrilled.,phrases
 Je vais me débrouiller pour lui parler.,I'll find a way to talk to him.,phrases
+Je voudrais te demander un service.,,phrases
 L'important est de faire qqch.,,phrases
 La faute à qqch.,It's all due to sth.,phrases
+La réponse ne va pas de soi.,The answer is not obvious.,phrases
 La tour Eiffel a dû choquer au debut.,,phrases
 "Le hic,",Вотъ въ чемъ проблема,paroles
 "Le temps de faire qqch., j'aurais fait qqch.","By the time I do sth, I would have done sth.",temps
@@ -84,14 +99,18 @@ Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?,,événements
 Que dire d'autre?,,paroles
 Quelle est la cause | l'origine | la raison de ... ?,,causalité
 Raison de plus pour faire qqch.,,phrases
+"Résultat,",Въ рѣзультатѣ,causalité
 Suis-je bête ! Cela m'avait échappé.,,paroles
 Tant mieux.,Тѣмъ лучше.,divers
 Telle est la première question.,,phrases
+"Ton projet, c'est justement ce dont je me méfie !",Your project is precisely what I'm wary of!,phrases
 Tout est permis.,,phrases
+"Une fois que j'aurai terminé ma formation, j'espère devenir éditrice.",Once I have...,temps
 [J'aime] particulièrement,,divers
 [créer] de toutes pièces,from scratch,figé
 [en demander] encore davantage,even more,divers
 [se consacrer] uniquement [à],,divers
+adhérer à | s'inscrire à | rejoindre | intégrer,,coopération
 afin de | en vue de | pour,,causalité
 afin que | pour que,,causalité
 agir par intérêt,,figé
@@ -99,21 +118,26 @@ ainsi,,causalité
 ainsi que,as well as,rapport
 aller se faire foutre,go fuck oneself,figé
 alors,,causalité
+alors qu'on imagine mal qqn. faire qqch.,whereas it's hard to imagine,phrases
 alors que,"даромъ что, тогда какъ",rapport
 après coup,after the fact,temps
 asseoir sa théorie sur qqch.,основывать свою теорію,phrases
 assez sommaire en matière de confort,,figé
 au besoin,if necessary,figé
-au bout de 20 ans,after 20 years,rapport
+au bout de 20 ans / quelque temps,after 20 years / a while,rapport
 au départ,поначалу,temps
+au figuré,въ переносномъ смыслѣ,figé
 au fil du temps,съ теченіемъ времени,temps
 au jour le jour,day by day,temps
 au mieux,at best,divers
 au moyen de | à l'aide de,,rapport
 au plus tôt,самое раннее,temps
+au sens de,въ смыслѣ,paroles
 aussitôt,right away,temps
 autrement,по-другому,divers
+autrement dit,иными словами,paroles
 "avant même que le réveil ne sonne,","еще до того какъ прозвонилъ будильникъ,",temps
+avec le temps,,temps
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.,,phrases
 avoir lieu,,événements
 avoir pour but de faire qqch.,,figé
@@ -121,6 +145,8 @@ avoir pour but de faire qqch.,,causalité
 avoir pour conséquence qqch.,,causalité
 bel et bien,,figé
 bien entendu,,divers
+bon débarras,good riddance,figé
+bon gré mal gré,,figé
 bon vieux,good old,figé
 carrément,downright,divers
 causer,,causalité
@@ -129,17 +155,19 @@ certainement | certes,,divers
 chercher à faire qqch.,,causalité
 comme,,causalité
 comme je l'entends,какъ я считаю нужнымъ,figé
-compte tenu de qch.,учитывая,considérations
+compte tenu de qqch.,учитывая,considérations
 concernant,,rapport
 conduire à,,causalité
 considérablement,,divers
 contrairement à,,rapport
 contre son gré | à contre-cœur,,figé
+coopérer avec | être solidaire avec | collaborer,,coopération
 créer,,causalité
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après,,paroles
 d'ailleurs | au fait,кстати говоря,divers
 d'elle-même,on her own,figé
 d'emblée,"съ перваго раза, тутъ же",temps
+d'en face,across the street,déplacements
 d'ici à 10 ans,,temps
 d'occasion,second-hand,figé
 d'où,отсюда,causalité
@@ -149,10 +177,10 @@ d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche,,p
 d'une traite,in one go,temps
 dans l'avenir,,temps
 dans l'ordre,по порядку,figé
-dans la foulée,"заодно, за разъ",temps
+dans la foulée,сразу,temps
 dans le but de faire qqch. | Dans quel but ?,,causalité
 dans le cadre de,,rapport
-dans le sens où cela allie qqch. et qqch.,,figé
+dans le sens où cela allie qqch. et qqch.,,paroles
 davantage les... que les...,"скорѣе ..., нежели ...",divers
 de cette façon | ainsi,такимъ образомъ,divers
 de l'extérieur,на видъ,figé
@@ -167,12 +195,15 @@ de surcroît,болѣе того,divers
 de surplus,болѣе того,divers
 depuis le tout début,from the very beginning,temps
 depuis longtemps,,temps
+depuis tout ce temps-là,all this time,temps
 des conséquences | effets | suites,,causalité
 developper,,causalité
 donner d'ailleurs raison,,figé
 du coup,therefore,divers
 du côté de qqch.,въ аспектѣ,rapport
 du jour au lendemain,overnight,temps
+du sien,on one's own,divers
+dès que possible,ASAP,temps
 décidément,definitely,divers
 désormais,from now on,temps
 effectivement,"въ самомъ дѣлѣ, фактически",divers
@@ -187,8 +218,10 @@ en moins,,quantités
 en moyenne,on average,quantités
 en même temps,,temps
 en occurrence de,,rapport
+en partant de rien,съ нуля,figé
 en partie <-> totalement,,divers
 en permanence,,temps
+en plein essor,on the rise,figé
 en plus,кромѣ того,paroles
 en premier,first thing,temps
 en raison de,,causalité
@@ -201,8 +234,10 @@ en échange de,,figé
 entraîner,,causalité
 entretemps,in the meanwhile,temps
 envers qqn.,,rapport
+envisager qqch.,to consider,considérations
 et tout à l'avenant,and so on,divers
 face à,по отношенію къ,rapport
+faire contraste,,rapport
 faire exprès de faire qqch.,,figé
 faire impasse sur,скипнуть,figé
 faire son possible pour [faire qqch.],,phrases
@@ -210,14 +245,19 @@ favoriser,способствовать,causalité
 finir dans les délais,,figé
 fortement | massivement,,divers
 grâce à,,causalité
+guère,,divers
+il en est / sera autrement de,it will be different for,phrases
+inversement,наоборотъ,paroles
 l'air de rien,,figé
 la donne,раскладъ,figé
 laisser qqch. de côté,,paroles
 le baratin,bullshit,figé
+le strict nécessaire,,figé
 lié à qqch.,связанный съ,rapport
 maintes fois,many times,temps
 mazette,ухъ ты,paroles
 mettre dans une parenthèse,,paroles
+mettre qqn. au courant,,considérations
 mouais,ну да,paroles
 n'arriver pas à faire qqch.,,actions
 n'avoir rien à y faire,нечего там дѣлать,phrases
@@ -230,9 +270,11 @@ par contre,,paroles
 par défaut,by default,figé
 par ennui,со скуки,figé
 par essence,by nature,figé
+par hasard,случайно,divers
 par rapport à,"relative to, compared to",rapport
 par sécurité,for safety,figé
 par-dessus la marché,въ придачу,figé
+participer à | prendre part à | faire partie de,,coopération
 pas forcément,not necessarily,divers
 pas tellement,not so much,divers
 perdre du temps à faire qqch.,,figé
@@ -249,7 +291,6 @@ pour que tout un chacun comprenne que...,so that everyone understands that...,ph
 pour être plus précise,,paroles
 pourtant,,paroles
 pourvu que ce soit,provided it would be,rapport
-prendre conscience,,considérations
 prendre en compte,,considérations
 prendre en considération,,considérations
 prioritairement,преимущественно,divers
@@ -257,17 +298,24 @@ procurer,,causalité
 produire,,causalité
 projeter de faire qqch.,,causalité
 provoquer,,causalité
+prêter à conséquences,,causalité
 puisque,поскольку,causalité
+qu'à cela ne tienne,peu importe !,figé
 quand même,anyway,divers
 quels que soient,"whatever, regardless of",rapport
-quitte à faire qqch.,"even if it means to, at the risk of,",divers
+qui me / lui / leur est / sont propre(s),свой собственный,divers
+quitte à faire qqch.,"even if it means to, at the risk of, разъ ужъ",divers
+qu’à cela ne tienne,"ça ne fait rien, ну и ладно",figé
 rebelote,here we go again,paroles
 rendre + adjectif,,causalité
 résulter de,,causalité
 s'apercevoir,,considérations
 s'efforcer de faire qqch.,"стремиться, стараться",causalité
+s'engager dans | s'impliquer dans | s'investir dans,,coopération
 s'expliquer par,,causalité
+s'occuper de | assister | aider | soutenir | appuyer | secourir,,coopération
 s'ôter de l'esprit qqch.,выбросить изъ головы,mémoire
+sans doute,,divers
 sans effort,,figé
 sauf si | excepté si | hormis celui de,,rapport
 se dérouler,,événements
@@ -277,17 +325,20 @@ se produire,,événements
 se rapporter à,относиться,rapport
 se rendre compte de,,considérations
 se renseigner auprès de qqn.,освѣдомиться у,considérations
+se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que,,sentiments
 selon | d'après | à en croire,,paroles
 sous toutes les coutures,from every angle,figé
+sur le coup,"at the time, on the spur of the moment",temps
 surtout,above all,divers
 tandis que,whereas,rapport
 tant attendu,long-awaited,figé
 tant mieux,,divers
 tant que,as long as,temps
 techniquement,,divers
+tel(s) / telle(s) que,such as,divers
 tenir compte de qqch.,to take something into account,considérations
 toujours plus [intense],,divers
-tout autour de toi,,figé
+tout autour de toi,,déplacements
 tout ce qui touche à qqch.,,rapport
 tout de même,"still, all the same, even so",divers
 tout de suite,,temps
@@ -297,6 +348,7 @@ tout à l'heure,и тутъ,temps
 tout à la fois,,temps
 toutefois,however,divers
 "tôt ou tard,",,temps
+un mal pour un bien,нѣтъ худа безъ добра,figé
 un par un,одинъ за другимъ,quantités
 un sur deux,каждый второй,quantités
 une bonne fois pour toutes,once and for all,temps
@@ -304,24 +356,30 @@ une broutille,пустякъ,figé
 "une fois [arrivé à destination,]",,temps
 une énième fois,въ сотый разъ,temps
 utile en soi,самоцѣнный,figé
+valider de façon ferme,,figé
 venir de faire qqch.,,actions
 venir | provenir de,,causalité
 vis-à-vis de,,rapport
 viser à faire qqch.,,causalité
 voire,and even,divers
 voyer tout en noir,,figé
+"À côté de ça,",Кромѣ того,divers
 "À l'heure qu'il est,",,temps
 À quand remonte la dernière fois que vous avez fait qqch. ?,,phrases
 Ça alors !,Вот это да!,paroles
+Ça devrait aller mieux.,Things should get better.,phrases
 Ça fait longtemps que je fais qqch.,,phrases
 Ça finit par fatiguer.,,phrases
 Ça me parle !,It resonates with me!,phrases
 Ça n'a pas de sens. | Ça ne veut rien dire.,,paroles
 Ça n'a rien à faire ici.,Этому здѣсь не мѣсто.,phrases
 Ça n'a rien à voir avec ce que...,This has nothing to do with...,paroles
+Ça ne fait pas tout.,,phrases
 Ça ne vous regarde pas !,Васъ это не касается!,paroles
 Ça se tient.,It makes sense.,paroles
 Ça sera foutu.,,phrases
+Ça te conviendrait de faire qqch. ?,,phrases
+Ça te dit ?,How about that?,phrases
 Ça tombe bien / mal,good / bad timing,temps
 Ça y est !,Наконецъ-то.,paroles
 à cause de,,causalité
@@ -333,15 +391,21 @@ voyer tout en noir,,figé
 "à l'heure qu'il est,",,temps
 à la base,въ основѣ,figé
 à la main,вручную,figé
+à la place de,,divers
 à mi-chemin entre qqch. et qqch.,,figé
 à moins de / que,,rapport
+à moitié,наполовину,divers
 à mon égard,по отношенію ко мнѣ,rapport
+à part entière,полноправный,figé
 à partir du moment où,,temps
 à peine,едва,temps
 à plus tard,на болѣе позднее время,temps
 à proprement parler | proprement dit(e),,paroles
+à répétition,повторяющійся,divers
+à titre de,въ знакъ,figé
 à tous les coups,every time,temps
 étant donné que,,causalité
+éventuellement,"по обстоятельствамъ, возможно",divers
 évoquer un souvenir,,mémoire
 être au cœur de qqch.,,figé
 être causé par,,causalité
@@ -354,3 +418,4 @@ voyer tout en noir,,figé
 être produit par,,causalité
 être sur le point de faire qqch.,,actions
 être à l'origine de,,causalité
+сe n'est pas faute d'avoir essayé de faire qqch.,not for the lack of trying,phrases

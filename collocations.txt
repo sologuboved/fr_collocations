@@ -67,6 +67,13 @@ se rendre compte de
 se renseigner auprès de qqn. ~ освѣдомиться у
 tenir compte de qqch. ~ to take something into account
 
+COOPÉRATION
+adhérer à | s'inscrire à | rejoindre | intégrer
+coopérer avec | être solidaire avec | collaborer
+participer à | prendre part à | faire partie de
+s'engager dans | s'impliquer dans | s'investir dans
+s'occuper de | assister | aider | soutenir | appuyer | secourir
+
 DIVERS
 De quelle façon ... ? ~ Какимъ образомъ
 Elle ne fait que faire qqch.
@@ -135,6 +142,7 @@ agir par intérêt
 aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
+au figuré ~ въ переносномъ смыслѣ
 avoir pour but de faire qqch.
 bel et bien
 bon débarras ~ good riddance
@@ -276,6 +284,7 @@ PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
 - Je te revaudrai ça. - J'espère bien ! ~ За мной должокъ.
 C'est au tour de qqn. à faire qqch.
+C'est comme ça et pas autrement !
 C'est nul. <fam.> ~ Это отстой.
 C'est vraiment très gentil.
 Cela peut valoir la peine. ~ Можетъ стоить того.
@@ -319,6 +328,7 @@ Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Raison de plus pour faire qqch.
 Telle est la première question.
+Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
 Tout est permis.
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
@@ -335,6 +345,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
 Ça ne fait pas tout.
 Ça sera foutu.
+Ça te conviendrait de faire qqch. ?
 Ça te dit ? ~ How about that?
 сe n'est pas faute d'avoir essayé de faire qqch. ~ not for the lack of trying
 
@@ -373,6 +384,9 @@ vis-à-vis de
 à moins de / que
 à mon égard ~ по отношенію ко мнѣ
 
+SENTIMENTS
+se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
+
 TEMPS
 Actuellement,
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
@@ -409,6 +423,7 @@ plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
 pour la première fois
+sur le coup ~ at the time, on the spur of the moment
 tant que ~ as long as
 tout de suite
 tout à coup ~ внезапно
