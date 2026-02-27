@@ -64,11 +64,13 @@ def to_txt(file_path=FILE_PATH):
 
 def to_csv():
     pathlib.Path('backups').mkdir(parents=True, exist_ok=True)
-    target_filename = os.path.join('backups', f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.csv')
-    print(f"{DB_NAME}.{COLLOCATIONS} -> {target_filename}")
-    with CsvWriter(target_filename, ('mot', 'trad', 'tag')) as handler:
-        for row in MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1):
-            handler.write(row)
+    backup_filename = os.path.join('backups', f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.csv')
+    filename = 'collocations.csv'
+    print(f"{DB_NAME}.{COLLOCATIONS} -> {backup_filename} & {filename}")
+    rows = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1)
+    for target_filename in (backup_filename, filename):
+        with CsvWriter(target_filename, ('mot', 'trad', 'tag')) as handler:
+            handler.bulk(rows)
     print("...done. Deleting redundant files...")
     pattern = re.compile(r'collocations\d+')
     backups = sorted(filter(pattern.match, os.listdir('backups')))
