@@ -326,6 +326,7 @@ La tour Eiffel a dû choquer au debut.
 Mon plus beau souvenir reste à venir.
 Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
+Quel est l'objet dont on se sert pour faire qqch. ?
 Raison de plus pour faire qqch.
 Telle est la première question.
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
@@ -356,9 +357,9 @@ un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
 
 RAPPORT
+Ce qui fait la différence avec toi, c'est que moi, au moins, je...
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
-au bout de 20 ans / quelque temps ~ after 20 years / a while
 au moyen de | à l'aide de
 concernant
 contrairement à
@@ -392,6 +393,7 @@ Actuellement,
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 après coup ~ after the fact
+au bout de 20 ans / quelque temps ~ after 20 years / a while
 au départ ~ поначалу
 au fil du temps ~ съ теченіемъ времени
 au jour le jour ~ day by day

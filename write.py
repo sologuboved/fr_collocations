@@ -67,7 +67,7 @@ def to_csv():
     backup_filename = os.path.join('backups', f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.csv')
     filename = 'collocations.csv'
     print(f"{DB_NAME}.{COLLOCATIONS} -> {backup_filename} & {filename}")
-    rows = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1)
+    rows = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1))
     for target_filename in (backup_filename, filename):
         with CsvWriter(target_filename, ('mot', 'trad', 'tag')) as handler:
             handler.bulk(rows)
