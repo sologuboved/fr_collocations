@@ -77,6 +77,7 @@ s'occuper de | assister | aider | soutenir | appuyer | secourir
 DIVERS
 De quelle façon ... ? ~ Какимъ образомъ
 Elle ne fait que faire qqch.
+Pour autant, ~ however
 Tant mieux. ~ Тѣмъ лучше.
 [J'aime] particulièrement
 [en demander] encore davantage ~ even more
@@ -109,6 +110,7 @@ par hasard ~ случайно
 pas forcément ~ not necessarily
 pas tellement ~ not so much
 peu importe
+peu ou prou ~ plus ou moins
 pleinement ~ полностью
 prioritairement ~ преимущественно
 quand même ~ anyway
@@ -139,6 +141,7 @@ FIGÉ
 , à tort,
 [créer] de toutes pièces ~ from scratch
 agir par intérêt
+allant de soi ~ being self-evident
 aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
@@ -148,6 +151,7 @@ bel et bien
 bon débarras ~ good riddance
 bon gré mal gré
 bon vieux ~ good old
+chemin faisant ~ on the way
 comme je l'entends ~ какъ я считаю нужнымъ
 contre son gré | à contre-cœur
 d'elle-même ~ on her own
@@ -225,6 +229,7 @@ PAROLES
 , mais sait-on jamais ? | Qui sait ?
 , paraît-il,
 Admettons que...
+Affaire de lecture : ~ вопросъ интерпретаціи
 Alors franchement ~ Честно говоря
 C'est dans ce sens que...
 C'est hors de question !
@@ -233,6 +238,7 @@ Comment dit-on "..." en français ?
 Côté de...,
 Eh bien moi, je pense que
 En ce qui concerne qqch.,
+En clair, ~ иными словами
 En somme, ~ Короче говоря
 Enfin | Pour finir | En conclusion | Bref,
 Et le pompon, c'est que...
@@ -246,6 +252,7 @@ Non seulement ... mais encore (aussi)...
 On dirait
 On sait que...
 On voit bien que... ~ We can clearly see...
+Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
 Qu'en est-il de... ~ Какъ насчетъ
 Qu'en penses-tu ? ~ How about that?
 Qu'est-ce que tu veux dire par là ?
@@ -278,6 +285,7 @@ selon | d'après | à en croire
 Ça ne vous regarde pas ! ~ Васъ это не касается!
 Ça se tient. ~ It makes sense.
 Ça y est ! ~ Наконецъ-то.
+à commencer par
 à proprement parler | proprement dit(e)
 
 PHRASES
@@ -360,17 +368,20 @@ RAPPORT
 Ce qui fait la différence avec toi, c'est que moi, au moins, je...
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
+au détriment de ~ at the expense of
 au moyen de | à l'aide de
 concernant
 contrairement à
 dans le cadre de
 du côté de qqch. ~ въ аспектѣ
+en cours de ~ въ ходѣ, въ процессѣ
 en fonction de ~ depending on, in terms of
 en occurrence de
 envers qqn.
 face à ~ по отношенію къ
 faire contraste
 lié à qqch. ~ связанный съ
+par contraste avec qqch., ~ въ отличіе отъ
 par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
 quels que soient ~ whatever, regardless of

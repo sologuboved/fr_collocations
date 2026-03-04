@@ -10,6 +10,7 @@ mot,trad,tag
 - Je te revaudrai ça. - J'espère bien !,За мной должокъ.,phrases
 "Actuellement,",,temps
 Admettons que...,,paroles
+Affaire de lecture :,вопросъ интерпретаціи,paroles
 Alors franchement,Честно говоря,paroles
 C'est au tour de qqn. à faire qqch.,,phrases
 C'est bien pour ça que,Именно поэтому,causalité
@@ -37,6 +38,7 @@ Dis-le-moi. Dis-m'en plus !,,phrases
 Elle m'en veut.,She's mad at me.,phrases
 Elle ne fait que faire qqch.,,divers
 "En ce qui concerne qqch.,",,paroles
+"En clair,",иными словами,paroles
 "En somme,",Короче говоря,paroles
 "Enfin | Pour finir | En conclusion | Bref,",,paroles
 Est-ce que tu t'intéresses à la musique ?,,phrases
@@ -88,7 +90,9 @@ Non seulement ... mais encore (aussi)...,,paroles
 On dirait,,paroles
 On sait que...,,paroles
 On voit bien que...,We can clearly see...,paroles
+"Ou bien, variante,","Или скорѣе, какъ варiантъ,",paroles
 Place à la musique !,Time for music!,phrases
+"Pour autant,",however,divers
 Qu'en est-il de...,Какъ насчетъ,paroles
 Qu'en penses-tu ?,How about that?,paroles
 Qu'est-ce que tu veux dire par là ?,,paroles
@@ -118,6 +122,7 @@ afin que | pour que,,causalité
 agir par intérêt,,figé
 ainsi,,causalité
 ainsi que,as well as,rapport
+allant de soi,being self-evident,figé
 aller se faire foutre,go fuck oneself,figé
 alors,,causalité
 alors qu'on imagine mal qqn. faire qqch.,whereas it's hard to imagine,phrases
@@ -128,6 +133,7 @@ assez sommaire en matière de confort,,figé
 au besoin,if necessary,figé
 au bout de 20 ans / quelque temps,after 20 years / a while,temps
 au départ,поначалу,temps
+au détriment de,at the expense of,rapport
 au figuré,въ переносномъ смыслѣ,figé
 au fil du temps,съ теченіемъ времени,temps
 au jour le jour,day by day,temps
@@ -154,6 +160,7 @@ carrément,downright,divers
 causer,,causalité
 cependant,,paroles
 certainement | certes,,divers
+chemin faisant,on the way,figé
 chercher à faire qqch.,,causalité
 comme,,causalité
 comme je l'entends,какъ я считаю нужнымъ,figé
@@ -212,6 +219,7 @@ effectivement,"въ самомъ дѣлѣ, фактически",divers
 en boucle,по кругу,figé
 en ce moment,,temps
 en concert avec,"совмѣстно, заодно",figé
+en cours de,"въ ходѣ, въ процессѣ",rapport
 en déplacement,въ дорогѣ,figé
 en fonction de,"depending on, in terms of",rapport
 en harmonie | en phase avec,,figé
@@ -268,6 +276,7 @@ occasionner,,causalité
 par ailleurs | en outre,moreover,divers
 par chance,къ счастью,figé
 par conséquent,,causalité
+"par contraste avec qqch.,",въ отличіе отъ,rapport
 par contre,,paroles
 par défaut,by default,figé
 par ennui,со скуки,figé
@@ -282,6 +291,7 @@ pas tellement,not so much,divers
 perdre du temps à faire qqch.,,figé
 permettre de,,causalité
 peu importe,,divers
+peu ou prou,plus ou moins,divers
 pleinement,полностью,divers
 plus que jamais,,temps
 "ponctuellement, régulièrement ou de façon permanente","на разовой, регулярной или постоянной основѣ",temps
@@ -386,6 +396,7 @@ voyer tout en noir,,figé
 Ça y est !,Наконецъ-то.,paroles
 à cause de,,causalité
 à ce qui concerne,,rapport
+à commencer par,,paroles
 à condition de / que,,rapport
 à force d'être,въ силу,rapport
 à jeun,натощакъ,figé
