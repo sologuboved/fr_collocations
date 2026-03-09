@@ -90,6 +90,7 @@ Tant mieux. ~ Тѣмъ лучше.
 [se consacrer] uniquement [à]
 au mieux ~ at best
 autrement ~ по-другому
+avant tout ~ прежде всего
 bien entendu
 carrément ~ downright
 certainement | certes
@@ -148,6 +149,7 @@ tout autour de toi
 FIGÉ
 , à tort,
 [créer] de toutes pièces ~ from scratch
+[ne pas changer] grand-chose
 agir par intérêt
 allant de soi ~ being self-evident
 aller se faire foutre ~ go fuck oneself
@@ -170,6 +172,7 @@ de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
 donner d'ailleurs raison
+en alternance ~ чередуя
 en boucle ~ по кругу
 en concert avec ~ совмѣстно, заодно
 en déplacement ~ въ дорогѣ
@@ -386,7 +389,9 @@ alors que ~ даромъ что, тогда какъ
 au détriment de ~ at the expense of
 au moyen de | à l'aide de
 concernant
+consister à ~ consist in
 contrairement à
+convenir à qqch. ~ be associated with
 dans le cadre de
 du côté de qqch. ~ въ аспектѣ
 en cours de ~ въ ходѣ, въ процессѣ
