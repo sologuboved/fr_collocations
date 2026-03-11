@@ -12,6 +12,7 @@ mot,trad,tag
 Admettons que...,,paroles
 Affaire de lecture :,вопросъ интерпретаціи,paroles
 Alors franchement,Честно говоря,paroles
+"Alors à mon tour,","Въ свою очередь, я",paroles
 C'est au tour de qqn. à faire qqch.,,phrases
 C'est bien pour ça que,Именно поэтому,causalité
 C'est comme ça et pas autrement !,,phrases
@@ -55,6 +56,7 @@ Il en résulte de...,This has resulted in,causalité
 Il est parfois difficile de savoir ce qu'il en est.,,phrases
 Il est temps que tu grandisses.,,phrases
 Il existe environ un million d'associations et 20 millions de Français adhèrent au moins à l'une d'entre elles.,,phrases
+Il m'arrive de faire qqch.,I happen to / I occasionally ...,actions
 Il me semble que...,,paroles
 Il n'y a qu'à vous laisser convaincre de faire qqch.,,phrases
 Il ne me revient pas.,,mémoire
@@ -141,10 +143,12 @@ au départ,поначалу,temps
 au détriment de,at the expense of,rapport
 au figuré,въ переносномъ смыслѣ,figé
 au fil du temps,съ теченіемъ времени,temps
+au fur et à mesure que,по мѣрѣ,divers
 au jour le jour,day by day,temps
 au mieux,at best,divers
 au moyen de | à l'aide de,,rapport
 au plus tôt,самое раннее,temps
+"au premier regard,",на первый взглядъ,figé
 au sens de,въ смыслѣ,paroles
 aussitôt,right away,temps
 autrement,по-другому,divers
@@ -247,6 +251,7 @@ en qualité de,въ качествѣ, rapport
 en raison de,,causalité
 en retour,,figé
 en réalité | en vérité,,figé
+en résumé,короче говоря,paroles
 en sécurité,въ безопасности,figé
 en tout cas,,divers
 en vrac,,figé
@@ -254,7 +259,7 @@ en échange de,,figé
 entraîner,,causalité
 entretemps,in the meanwhile,temps
 envers qqn.,,rapport
-envisager qqch.,to consider,considérations
+envisager qqch. / de faire qqch.,to consider,considérations
 et tout à l'avenant,and so on,divers
 face à,по отношенію къ,rapport
 faire contraste,,rapport
@@ -294,6 +299,7 @@ par défaut,by default,figé
 par ennui,со скуки,figé
 par essence,by nature,figé
 par hasard,случайно,divers
+par raison | par passion,,figé
 par rapport à,"relative to, compared to",rapport
 par sécurité,for safety,figé
 par-dessus la marché,въ придачу,figé
@@ -365,6 +371,7 @@ tenir compte de qqch.,to take something into account,considérations
 toujours plus [intense],,divers
 tout autour de toi,,déplacements
 tout ce qui touche à qqch.,,rapport
+tout comme,такъ же какъ и,divers
 tout de même,"still, all the same, even so",divers
 tout de suite,,temps
 tout à coup,внезапно,temps
