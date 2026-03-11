@@ -20,5 +20,5 @@ def main(from_csv=False, sort=True):
 
 if __name__ == '__main__':
     main(
-        from_csv=False,
+        # from_csv=True,
     )
