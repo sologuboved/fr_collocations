@@ -1,11 +1,7 @@
- RAPPORT
-en qualité de ~ въ качествѣ
-
- ÉVÉNEMENTS
-Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé
-
 ACTIONS
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
+Je ne peux pas m'en passer. ~ I can't do without it.
+forcer qqn. à faire qqch.
 n'arriver pas à faire qqch.
 venir de faire qqch.
 être en train de faire qqch.
@@ -82,6 +78,7 @@ s'engager dans | s'impliquer dans | s'investir dans
 s'occuper de | assister | aider | soutenir | appuyer | secourir
 
 DIVERS
+Après tout, ~ after all
 De quelle façon ... ? ~ Какимъ образомъ
 Elle ne fait que faire qqch.
 Pour autant, ~ however
@@ -136,6 +133,7 @@ tout comme ~ такъ же какъ и
 tout de même ~ still, all the same, even so
 tout à fait ~ quite
 toutefois ~ however
+visiblement ~ явно
 voire ~ and even
 À côté de ça, ~ Кромѣ того
 à la place de
@@ -267,6 +265,7 @@ Il s'est avéré que...
 J'avoue que...
 J'en suis persuadée | C'est ma conviction
 Je crois fermement que
+Je ne suis pas certaine de comprendre.
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
 On dirait
@@ -404,6 +403,7 @@ du côté de qqch. ~ въ аспектѣ
 en cours de ~ въ ходѣ, въ процессѣ
 en fonction de ~ depending on, in terms of
 en occurrence de
+en qualité de ~ въ качествѣ
 envers qqn.
 face à ~ по отношенію къ
 faire contraste
@@ -463,6 +463,7 @@ plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
 pour la première fois
+qqn. de toujours ~ постоянный, вѣчный
 sur le coup ~ at the time, on the spur of the moment
 tant que ~ as long as
 tout de suite
@@ -486,6 +487,7 @@ une énième fois ~ въ сотый разъ
 à tous les coups ~ every time
 
 ÉVÉNEMENTS
+Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
 Qu'est-ce qui est arrivé ?
 Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?
 avoir lieu

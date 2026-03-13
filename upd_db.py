@@ -44,12 +44,13 @@ def from_csv(coll_name=COLLOCATIONS, drop=False):
         target.drop()
     entries = list()
     for row in read_csv('mots_temp.csv', as_dict=True):
-        mot = row['mot']
+        mot = row['mot'].strip()
         if target.find_one({'mot': mot}):
             print(f"'{mot}' est déjà présent ; on l'omet")
             continue
         else:
-            row['trad'] = row['trad'] or None
+            row['trad'] = row['trad'].strip() or None
+            row['tag'] = row['tag'].strip()
             entries.append(row)
     if entries:
         target.insert_many(entries)
