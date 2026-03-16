@@ -104,7 +104,7 @@ def restore(filepath=None, target_collname=COLLOCATIONS):
 
 
 if __name__ == '__main__':
-    to_csv()
-    to_txt()
-    # to_email()
+    # to_csv()
+    # to_txt()
+    to_email()
     # restore(target_collname=COLLOCATIONS + '_test')
