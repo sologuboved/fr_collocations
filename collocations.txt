@@ -1,9 +1,11 @@
 ACTIONS
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
 Je ne peux pas m'en passer. ~ I can't do without it.
+J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
 forcer qqn. à faire qqch.
 n'arriver pas à faire qqch.
 venir de faire qqch.
+y aller fort ~ перегибать палку
 être en train de faire qqch.
 être sur le point de faire qqch.
 
@@ -101,6 +103,7 @@ de plus en plus
 de surcroît ~ болѣе того
 de surplus ~ болѣе того
 du coup ~ therefore
+du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
 décidément ~ definitely
 effectivement ~ въ самомъ дѣлѣ, фактически
@@ -111,9 +114,11 @@ et tout à l'avenant ~ and so on
 fortement | massivement
 guère
 nettement plus ~ significantly more
+outre qqch. ~ помимо
 par ailleurs | en outre ~ moreover
 par hasard ~ случайно
 pas forcément ~ not necessarily
+pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
 peu importe
 peu ou prou ~ plus ou moins
@@ -269,6 +274,7 @@ Je ne suis pas certaine de comprendre.
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
 On dirait
+On dirait que ~ Похоже,
 On sait que...
 On voit bien que... ~ We can clearly see...
 Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
@@ -299,6 +305,7 @@ pour être plus précise
 pourtant
 rebelote ~ here we go again
 selon | d'après | à en croire
+À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
 Ça n'a pas de sens. | Ça ne veut rien dire.
 Ça n'a rien à voir avec ce que... ~ This has nothing to do with...
@@ -315,6 +322,7 @@ C'est au tour de qqn. à faire qqch.
 C'est comme ça et pas autrement !
 C'est nul. <fam.> ~ Это отстой.
 C'est vraiment très gentil.
+Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
 Cela peut valoir la peine. ~ Можетъ стоить того.
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
@@ -345,6 +353,7 @@ Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix 
 Je ne m'en suis pas rendu compte.
 Je ne m'y attendais pas.
 Je ne sais pas trop.
+Je suis coincée ici pour une semaine, autant en profiter ! ~ I'm stuck here for a week, might as well make the most of it!
 Je suis emballé. <fam.> ~ I am thrilled.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 Je voudrais te demander un service.
@@ -458,6 +467,7 @@ en même temps
 en permanence
 en premier ~ first thing
 entretemps ~ in the meanwhile
+jadis ~ нѣкогда, давнымъ-давно
 maintes fois ~ many times
 plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ

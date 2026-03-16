@@ -22,6 +22,7 @@ C'est hors de question !,,paroles
 C'est nul. <fam.>,Это отстой.,phrases
 C'est que [indicatif],this is because,causalité
 C'est vraiment très gentil.,,phrases
+Ce lieu me donne la chair de poule.,Отъ этого мѣста у меня мурашки по кожѣ.,phrases
 Ce n'est rien à tout que...,,paroles
 "Ce qui fait la différence avec toi, c'est que moi, au moins, je...",,rapport
 Cela peut valoir la peine.,Можетъ стоить того.,phrases
@@ -82,10 +83,12 @@ Je ne me compte pas parmi eux.,,généralisations
 Je ne peux pas m'en passer.,I can't do without it.,actions
 Je ne sais pas trop.,,phrases
 Je ne suis pas certaine de comprendre.,,paroles
+"Je suis coincée ici pour une semaine, autant en profiter !","I'm stuck here for a week, might as well make the most of it!",phrases
 Je suis du genre à me tétaniser d'horreur en faisant qqch.,,généralisations
 Je suis emballé. <fam.>,I am thrilled.,phrases
 Je vais me débrouiller pour lui parler.,I'll find a way to talk to him.,phrases
 Je voudrais te demander un service.,,phrases
+J’ai bien fait de prendre quelques précautions…,I'm glad I took some precautions…,actions
 L'important est de faire qqch.,,phrases
 La faute à qqch.,It's all due to sth.,phrases
 La réponse ne va pas de soi.,The answer is not obvious.,phrases
@@ -96,6 +99,7 @@ La tour Eiffel a dû choquer au debut.,,phrases
 Mon plus beau souvenir reste à venir.,,phrases
 Non seulement ... mais encore (aussi)...,,paroles
 On dirait,,paroles
+On dirait que,"Похоже,",paroles
 On sait que...,,paroles
 On voit bien que...,We can clearly see...,paroles
 "Ou bien, variante,","Или скорѣе, какъ варiантъ,",paroles
@@ -226,6 +230,7 @@ donner d'ailleurs raison,,figé
 du coup,therefore,divers
 du côté de qqch.,въ аспектѣ,rapport
 du jour au lendemain,overnight,temps
+du moins,по крайней мѣрѣ,divers
 du sien,on one's own,divers
 dès que possible,ASAP,temps
 décidément,definitely,divers
@@ -279,6 +284,7 @@ grâce à,,causalité
 guère,,divers
 il en est / sera autrement de,it will be different for,phrases
 inversement,наоборотъ,paroles
+jadis,"нѣкогда, давнымъ-давно",temps
 l'air de rien,,figé
 la donne,раскладъ,figé
 laisser qqch. de côté,,paroles
@@ -294,6 +300,7 @@ n'arriver pas à faire qqch.,,actions
 n'avoir rien à y faire,нечего там дѣлать,phrases
 nettement plus,significantly more,divers
 occasionner,,causalité
+outre qqch.,помимо,divers
 par ailleurs | en outre,moreover,divers
 par chance,къ счастью,figé
 par conséquent,,causalité
@@ -309,6 +316,7 @@ par sécurité,for safety,figé
 par-dessus la marché,въ придачу,figé
 participer à | prendre part à | faire partie de,,coopération
 pas forcément,not necessarily,divers
+pas moyen (de faire qqch.),no way,divers
 pas tellement,not so much,divers
 perdre du temps à faire qqch.,,figé
 permettre de,,causalité
@@ -402,8 +410,10 @@ viser à faire qqch.,,causalité
 visiblement,явно,divers
 voire,and even,divers
 voyer tout en noir,,figé
+y aller fort,перегибать палку,actions
 "À côté de ça,",Кромѣ того,divers
 "À l'heure qu'il est,",,temps
+"À l’entendre,","Послушать его,",paroles
 À quand remonte la dernière fois que vous avez fait qqch. ?,,phrases
 Ça alors !,Вот это да!,paroles
 Ça devrait aller mieux.,Things should get better.,phrases
