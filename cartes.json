@@ -1,9 +1,5 @@
 [
   {
-    "mot": "pourrir | gâcher",
-    "trad": "портить"
-  },
-  {
     "mot": "une broutille | un bibelot | une babiole",
     "trad": "пустякъ"
   },
@@ -16,20 +12,8 @@
     "trad": "to be scammed"
   },
   {
-    "mot": "Il s'est avéré que",
-    "trad": "Оказалось, что"
-  },
-  {
     "mot": "un conciliabule",
     "trad": "secret meeting"
-  },
-  {
-    "mot": "comprendre l'essentiel",
-    "trad": "отдуплить основы"
-  },
-  {
-    "mot": "en tout cas",
-    "trad": "въ любомъ случаѣ"
   },
   {
     "mot": "laisser qqch. de côté",
@@ -42,14 +26,6 @@
   {
     "mot": "puiser qqch. à / dans",
     "trad": "черпать изъ / въ"
-  },
-  {
-    "mot": "anodin",
-    "trad": "trivial, harmless"
-  },
-  {
-    "mot": "au besoin",
-    "trad": "при необходимости"
   },
   {
     "mot": "cueillir qqn. par surprise",
@@ -76,7 +52,7 @@
     "trad": "to be someone's fault"
   },
   {
-    "mot": "un don pour qqch",
+    "mot": "avoir un don pour qqch",
     "trad": "to have a gift for sth."
   },
   {
@@ -88,10 +64,6 @@
     "trad": "переходить красныя линіи"
   },
   {
-    "mot": "s'adresser à qqn.",
-    "trad": "обращаться къ кому-нибудь"
-  },
-  {
     "mot": "décrocher d'une drogue | rechuter",
     "trad": "to quit drugs | to relapse"
   },
@@ -100,32 +72,12 @@
     "trad": "to do one's best to do sth."
   },
   {
-    "mot": "une nouvelle donne politique",
-    "trad": "новый политическій раскладъ"
-  },
-  {
-    "mot": "cultiver des légumes | élever des animaux",
-    "trad": "выращивать овощи | животныхъ"
-  },
-  {
-    "mot": "Il est fréquent de faire qqch.",
-    "trad": "It is common to do something."
-  },
-  {
     "mot": "tomber de fatigue",
     "trad": "валиться съ ногъ отъ усталости"
   },
   {
     "mot": "l'envie d'en finir avec qqch.",
     "trad": "желаніе покончить съ чѣм-нибудь"
-  },
-  {
-    "mot": "prendre qqch. à qqn.",
-    "trad": "отнять что-нибудь у кого-нибудь"
-  },
-  {
-    "mot": "accorder de l'importance à qqch.",
-    "trad": "to attach importance to something"
   },
   {
     "mot": "J'arrête de travailler autant.",
@@ -140,16 +92,8 @@
     "trad": "It's someone's turn to do something."
   },
   {
-    "mot": "Je suis tenté de revenir",
-    "trad": "У меня возникаетъ соблазнъ вернуться."
-  },
-  {
     "mot": "un rapport décomplexé à la grammaire",
     "trad": "разслабленное отношеніе къ грамматикѣ"
-  },
-  {
-    "mot": "Il se veut dynamique.",
-    "trad": "He prefers to see himself as energetic."
   },
   {
     "mot": "calmer le jeu <-> mettre de l'huile sur le feu",
