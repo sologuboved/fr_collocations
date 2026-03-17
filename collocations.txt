@@ -8,6 +8,7 @@ peiner à faire qqch. ~ struggle to
 se conclure avec qqch.
 venir de faire qqch.
 y aller fort ~ перегибать палку
+être censé faire qqch.
 être en train de faire qqch.
 être sur le point de faire qqch.
 
@@ -35,6 +36,7 @@ dans le but de faire qqch. | Dans quel but ?
 de sorte que ~ cъ тѣмъ, чтобы
 des conséquences | effets | suites
 developper
+du coup ~ therefore
 en raison de
 entraîner
 favoriser ~ способствовать
@@ -75,6 +77,7 @@ s'apercevoir
 se rendre compte de
 se renseigner auprès de qqn. ~ освѣдомиться у
 tenir compte de qqch. ~ to take something into account
+À croire que ~ It was as if
 
 COOPÉRATION
 adhérer à | s'inscrire à | rejoindre | intégrer
@@ -103,16 +106,12 @@ considérablement
 d'ailleurs | au fait ~ кстати говоря
 davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
-de plus en plus
-de surcroît ~ болѣе того
-de surplus ~ болѣе того
-du coup ~ therefore
+de surcroît | de surplus ~ болѣе того
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
 décidément ~ definitely
 effectivement ~ въ самомъ дѣлѣ, фактически
 en lui-même ~ само по себѣ
-en partie <-> totalement
 en tout cas
 et tout à l'avenant ~ and so on
 fortement | massivement
@@ -125,7 +124,6 @@ pas forcément ~ not necessarily
 pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
 peu importe
-peu ou prou ~ plus ou moins
 pleinement ~ полностью
 prioritairement ~ преимущественно
 quand même ~ anyway
@@ -144,12 +142,9 @@ tout à fait ~ quite
 toutefois ~ however
 visiblement ~ явно
 voire ~ and even
-À côté de ça, ~ Кромѣ того
 à la place de
-à moitié ~ наполовину
 à répétition ~ повторяющійся
 éventuellement ~ по обстоятельствамъ, возможно
-être censé faire qqch.
 
 DÉPLACEMENTS
 côté à côté ~ side by side
@@ -312,6 +307,7 @@ pour être plus précise
 pourtant
 rebelote ~ here we go again
 selon | d'après | à en croire
+À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
 Ça n'a pas de sens. | Ça ne veut rien dire.
@@ -400,10 +396,14 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 сe n'est pas faute d'avoir essayé de faire qqch. ~ not for the lack of trying
 
 QUANTITÉS
-en moins
+[une chose] en moins ~ [одной вещью] меньше
+de plus en plus
 en moyenne ~ on average
+en partie <-> totalement
+peu ou prou ~ plus ou moins
 un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
+à moitié ~ наполовину
 
 RAPPORT
 Ce qui fait la différence avec toi, c'est que moi, au moins, je...
@@ -438,7 +438,6 @@ selon le cas ~ depending on the case
 tandis que ~ whereas
 tout ce qui touche à qqch.
 vis-à-vis de
-À croire que ~ It was as if
 à ce qui concerne
 à condition de / que
 à force d'être ~ въ силу
