@@ -70,6 +70,7 @@ J'avoue que...,,paroles
 J'en suis persuadée | C'est ma conviction,,paroles
 J'en suis à faire qqch.,"Я дошелъ до того, что дѣлаю то-то.",phrases
 J'y suis même plutôt bien.,I'm actually quite happy here.,phrases
+Jamais je n’aurais cru voir ça ici !,,phrases
 Je bourais bien un café.,,phrases
 Je compte parmi les femmes à ne pas pouvoir faire qqch.,,généralisations
 Je crois fermement que,,paroles
@@ -165,9 +166,11 @@ avant tout,прежде всего,divers
 avec le temps,,temps
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.,,phrases
 avoir lieu,,événements
-avoir pour but de faire qqch.,,figé
+avoir pour avantage de faire qqch.,,rapport
 avoir pour but de faire qqch.,,causalité
+avoir pour but de faire qqch.,,figé
 avoir pour conséquence qqch.,,causalité
+avoir pour fonction | rôle de faire qqch.,,causalité
 bel et bien,,figé
 bien entendu,,divers
 bon débarras,good riddance,figé
@@ -181,6 +184,8 @@ chemin faisant,on the way,figé
 chercher à faire qqch.,,causalité
 comme,,causalité
 comme je l'entends,какъ я считаю нужнымъ,figé
+comparé à,,rapport
+comporter | comprendre | inclure qqch.,включать въ себя,rapport
 compte tenu de qqch.,учитывая,considérations
 concernant,,rapport
 conduire à,,causalité
@@ -191,6 +196,7 @@ contre son gré | à contre-cœur,,figé
 convenir à qqch.,be associated with,rapport
 coopérer avec | être solidaire avec | collaborer,,coopération
 créer,,causalité
+côté à côté,side by side,déplacements
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après,,paroles
 d'ailleurs | au fait,кстати говоря,divers
 d'elle-même,on her own,figé
@@ -231,6 +237,7 @@ du coup,therefore,divers
 du côté de qqch.,въ аспектѣ,rapport
 du jour au lendemain,overnight,temps
 du moins,по крайней мѣрѣ,divers
+du même type,,généralisations
 du sien,on one's own,divers
 dès que possible,ASAP,temps
 décidément,definitely,divers
@@ -318,6 +325,7 @@ participer à | prendre part à | faire partie de,,coopération
 pas forcément,not necessarily,divers
 pas moyen (de faire qqch.),no way,divers
 pas tellement,not so much,divers
+peiner à faire qqch.,struggle to,actions
 perdre du temps à faire qqch.,,figé
 permettre de,,causalité
 peu importe,,divers
@@ -362,6 +370,7 @@ s'ôter de l'esprit qqch.,выбросить изъ головы,mémoire
 sans doute,,divers
 sans effort,,figé
 sauf si | excepté si | hormis celui de,,rapport
+se conclure avec qqch.,,actions
 se dérouler,,événements
 se mettre en route,отправиться въ путь,déplacements
 se mettre à faire qqch.,приняться за,figé
@@ -370,6 +379,7 @@ se rapporter à,относиться,rapport
 se rendre compte de,,considérations
 se renseigner auprès de qqn.,освѣдомиться у,considérations
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que,,sentiments
+selon le cas,depending on the case,rapport
 selon | d'après | à en croire,,paroles
 sous toutes les coutures,from every angle,figé
 sur le coup,"at the time, on the spur of the moment",temps
@@ -393,6 +403,7 @@ tout à l'heure,и тутъ,temps
 tout à la fois,,temps
 tout à l’heure,just now,temps
 toutefois,however,divers
+travailler / étudier dans ce lieu,,déplacements
 "tôt ou tard,",,temps
 un mal pour un bien,нѣтъ худа безъ добра,figé
 un par un,одинъ за другимъ,quantités
@@ -411,6 +422,7 @@ visiblement,явно,divers
 voire,and even,divers
 voyer tout en noir,,figé
 y aller fort,перегибать палку,actions
+À croire que,It was as if,rapport
 "À côté de ça,",Кромѣ того,divers
 "À l'heure qu'il est,",,temps
 "À l’entendre,","Послушать его,",paroles
@@ -441,6 +453,7 @@ y aller fort,перегибать палку,actions
 à jeun,натощакъ,figé
 à l'avance,заранѣе,temps
 "à l'heure qu'il est,",,temps
+à l'intention de,,causalité
 à l'époque,back then,temps
 à la base,въ основѣ,figé
 à la hâte,наспѣхъ,figé

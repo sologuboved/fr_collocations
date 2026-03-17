@@ -4,6 +4,8 @@ Je ne peux pas m'en passer. ~ I can't do without it.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
 forcer qqn. à faire qqch.
 n'arriver pas à faire qqch.
+peiner à faire qqch. ~ struggle to
+se conclure avec qqch.
 venir de faire qqch.
 y aller fort ~ перегибать палку
 être en train de faire qqch.
@@ -22,6 +24,7 @@ ainsi
 alors
 avoir pour but de faire qqch.
 avoir pour conséquence qqch.
+avoir pour fonction | rôle de faire qqch.
 causer
 chercher à faire qqch.
 comme
@@ -52,6 +55,7 @@ s'expliquer par
 venir | provenir de
 viser à faire qqch.
 à cause de
+à l'intention de
 étant donné que
 être causé par
 être dû à
@@ -148,9 +152,11 @@ voire ~ and even
 être censé faire qqch.
 
 DÉPLACEMENTS
+côté à côté ~ side by side
 d'en face ~ across the street
 se mettre en route ~ отправиться въ путь
 tout autour de toi
+travailler / étudier dans ce lieu
 
 FIGÉ
 , à tort,
@@ -236,6 +242,7 @@ Il est de ces personnes qui..,
 Je compte parmi les femmes à ne pas pouvoir faire qqch.
 Je ne me compte pas parmi eux.
 Je suis du genre à me tétaniser d'horreur en faisant qqch.
+du même type
 
 MÉMOIRE
 Désolé, c'est un oubli.
@@ -347,6 +354,7 @@ Il vaut mieux que tu sois là quand ils rentreront.
 J'ai été scotché. <fam.> ~ Отвалъ башки.
 J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то-то.
 J'y suis même plutôt bien. ~ I'm actually quite happy here.
+Jamais je n’aurais cru voir ça ici !
 Je bourais bien un café.
 Je me suis cru dans... ~ I feel like I was in...
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
@@ -403,6 +411,9 @@ ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
 au détriment de ~ at the expense of
 au moyen de | à l'aide de
+avoir pour avantage de faire qqch.
+comparé à
+comporter | comprendre | inclure qqch. ~ включать въ себя
 concernant
 consister à ~ consist in
 contrairement à
@@ -423,9 +434,11 @@ pourvu que ce soit ~ provided it would be
 quels que soient ~ whatever, regardless of
 sauf si | excepté si | hormis celui de
 se rapporter à ~ относиться
+selon le cas ~ depending on the case
 tandis que ~ whereas
 tout ce qui touche à qqch.
 vis-à-vis de
+À croire que ~ It was as if
 à ce qui concerne
 à condition de / que
 à force d'être ~ въ силу
