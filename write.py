@@ -21,7 +21,7 @@ def to_email(file_path=FILE_PATH):
 
     msg = MIMEMultipart()
     msg['From'] = EMAIL
-    msg['To'] = EPSWRD
+    msg['To'] = EMAIL
     msg['Subject'] = 'fr_collocations'
 
     body = "Le document est ci-joint."
