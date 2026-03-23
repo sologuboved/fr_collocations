@@ -149,9 +149,11 @@ voire ~ and even
 DÉPLACEMENTS
 côté à côté ~ side by side
 d'en face ~ across the street
+en pleine ville | en plein Paris ~ въ самомъ/ой
 se mettre en route ~ отправиться въ путь
 tout autour de toi
 travailler / étudier dans ce lieu
+à deux pas de l'arrêt ~ въ двухъ шагахъ отъ остановки
 
 FIGÉ
 , à tort,
@@ -237,6 +239,7 @@ Je compte parmi les femmes à ne pas pouvoir faire qqch.
 Je ne me compte pas parmi eux.
 Je suis du genre à me tétaniser d'horreur en faisant qqch.
 du même type
+être de plus en plus nombreux à faire qqch.
 
 MÉMOIRE
 Désolé, c'est un oubli.
@@ -305,7 +308,7 @@ pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour être plus précise
 pourtant
 rebelote ~ here we go again
-selon | d'après | à en croire
+selon | d'après | à en croire | aux yeux de
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
@@ -395,6 +398,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 сe n'est pas faute d'avoir essayé de faire qqch. ~ not for the lack of trying
 
 QUANTITÉS
+[faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
 de plus en plus
 en moyenne ~ on average
@@ -447,6 +451,7 @@ SENTIMENTS
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
 
 TEMPS
+(tout) à la fois
 Actuellement,
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
@@ -471,6 +476,7 @@ depuis le tout début ~ from the very beginning
 depuis longtemps
 depuis tout ce temps-là ~ all this time
 du jour au lendemain ~ overnight
+dès le départ ~ from the very start
 dès que possible ~ ASAP
 désormais ~ from now on
 en ce moment
@@ -490,7 +496,6 @@ tant que ~ as long as
 tout de suite
 tout à coup ~ внезапно
 tout à l'heure ~ и тутъ
-tout à la fois
 tout à l’heure ~ just now
 tôt ou tard,
 une bonne fois pour toutes ~ once and for all

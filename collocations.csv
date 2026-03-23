@@ -3,6 +3,7 @@ mot,trad,tag
 (a)mener à,,causalité
 (en) avoir / prendre conscience,,considérations
 (se) tenir au courant,,considérations
+(tout) à la fois,,temps
 ", c'est bien connu,",,paroles
 ", mais sait-on jamais ? | Qui sait ?",,paroles
 ", paraît-il,",,paroles
@@ -129,6 +130,7 @@ Tout est permis.,,phrases
 [J'aime] particulièrement,,divers
 [créer] de toutes pièces,from scratch,figé
 [en demander] encore davantage,even more,divers
+[faire qqch.] en majorité,,quantités
 [ne pas changer] grand-chose,,figé
 [se consacrer] uniquement [à],,divers
 [une chose] en moins,[одной вещью] меньше,quantités
@@ -239,6 +241,7 @@ du jour au lendemain,overnight,temps
 du moins,по крайней мѣрѣ,divers
 du même type,,généralisations
 du sien,on one's own,divers
+dès le départ,from the very start,temps
 dès que possible,ASAP,temps
 décidément,definitely,divers
 désormais,from now on,temps
@@ -259,6 +262,7 @@ en partant de rien,съ нуля,figé
 en partie <-> totalement,,quantités
 en permanence,,temps
 en plein essor,on the rise,figé
+en pleine ville | en plein Paris,въ самомъ/ой,déplacements
 en plus,кромѣ того,paroles
 en premier,first thing,temps
 en qualité de,въ качествѣ,rapport
@@ -350,13 +354,12 @@ provoquer,,causalité
 prêter à conséquences,,causalité
 puisque,поскольку,causalité
 qqn. de toujours,"постоянный, вѣчный",temps
-qu'à cela ne tienne,peu importe !,figé
+qu'à cela ne tienne,"peu importe !, ça ne fait rien, ну и ладно",figé
 quand même,anyway,divers
 "que ce soit qqch. ou qqch.,","будь то ... или ...,",divers
 quels que soient,"whatever, regardless of",rapport
 qui me / lui / leur est / sont propre(s),свой собственный,divers
 quitte à faire qqch.,"even if it means to, at the risk of, разъ ужъ",divers
-qu’à cela ne tienne,"ça ne fait rien, ну и ладно",figé
 rebelote,here we go again,paroles
 rendre + adjectif,,causalité
 résulter de,,causalité
@@ -379,7 +382,7 @@ se rendre compte de,,considérations
 se renseigner auprès de qqn.,освѣдомиться у,considérations
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que,,sentiments
 selon le cas,depending on the case,rapport
-selon | d'après | à en croire,,paroles
+selon | d'après | à en croire | aux yeux de,,paroles
 sous toutes les coutures,from every angle,figé
 sur le coup,"at the time, on the spur of the moment",temps
 surtout,above all,divers
@@ -399,7 +402,6 @@ tout de suite,,temps
 tout à coup,внезапно,temps
 tout à fait,quite,divers
 tout à l'heure,и тутъ,temps
-tout à la fois,,temps
 tout à l’heure,just now,temps
 toutefois,however,divers
 travailler / étudier dans ce lieu,,déplacements
@@ -408,7 +410,7 @@ un mal pour un bien,нѣтъ худа безъ добра,figé
 un par un,одинъ за другимъ,quantités
 un sur deux,каждый второй,quantités
 une bonne fois pour toutes,once and for all,temps
-une broutille,пустякъ,figé
+une broutille | un bibelot | une babiole,пустякъ,figé
 "une fois [arrivé à destination,]",,temps
 une énième fois,въ сотый разъ,temps
 utile en soi,самоцѣнный,figé
@@ -448,6 +450,7 @@ y aller fort,перегибать палку,actions
 à chaque fois,,temps
 à commencer par,,paroles
 à condition de / que,,rapport
+à deux pas de l'arrêt,въ двухъ шагахъ отъ остановки,déplacements
 à force d'être,въ силу,rapport
 à jeun,натощакъ,figé
 à l'avance,заранѣе,temps
@@ -476,6 +479,7 @@ y aller fort,перегибать палку,actions
 être au cœur de qqch.,,figé
 être causé par,,causalité
 être censé faire qqch.,,actions
+être de plus en plus nombreux à faire qqch.,,généralisations
 être de sa faute,,figé
 être dû à,,causalité
 être en droit de faire qqch.,имѣть право,figé
