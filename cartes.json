@@ -1,47 +1,143 @@
 [
   {
+    "mot": "susceptible de",
+    "trad": "likely to"
+  },
+  {
+    "mot": "relayer",
+    "trad": "to broadcast"
+  },
+  {
+    "mot": "Ça ne se guerit pas.",
+    "trad": "Это не лѣчится."
+  },
+  {
+    "mot": "Je ne peux pas m'en passer.",
+    "trad": "I can't do without it."
+  },
+  {
+    "mot": "laisser qqch. de côté",
+    "trad": "leave sth. aside"
+  },
+  {
+    "mot": "passer à côté de qqch. de formidable",
+    "trad": "to miss out on something wonderful"
+  },
+  {
+    "mot": "n'apprécier guère",
+    "trad": "не особо оцѣнить"
+  },
+  {
+    "mot": "se prêter au jeu de qqch.",
+    "trad": "подыгрывать"
+  },
+  {
+    "mot": "démêler le vrai du faux",
+    "trad": "различать истину и ложь"
+  },
+  {
+    "mot": "revenir à la normale",
+    "trad": "to go back to normal"
+  },
+  {
+    "mot": "ne rien laisser paraître",
+    "trad": "to give nothing away"
+  },
+  {
+    "mot": "subir qqch",
+    "trad": "подвергаться"
+  },
+  {
+    "mot": "des circonstances atténuantes",
+    "trad": "смягчающие обстоятельства"
+  },
+  {
     "mot": "des sévices",
     "trad": "abuse"
   },
   {
-    "mot": "le vécu",
-    "trad": "опытъ"
+    "mot": "se livrer",
+    "trad": "open up / turn oneself in"
   },
   {
-    "mot": "avoir quelqu'un bien eu",
-    "trad": "надуть"
+    "mot": "mettre le doigt dessus / sur qqch.",
+    "trad": "put a finger to it"
   },
   {
-    "mot": "le deuil",
-    "trad": "трауръ"
+    "mot": "tirer une bouffée",
+    "trad": "сдѣлать затяжку"
   },
   {
-    "mot": "un chandail à capuchon",
-    "trad": "hoodie"
+    "mot": "rester sans voix",
+    "trad": "потерять даръ речи"
   },
   {
-    "mot": "ponctuel",
-    "trad": "разовый"
+    "mot": "un effet secondaire",
+    "trad": "side effect"
   },
   {
-    "mot": "effondrer",
-    "trad": "collapse"
+    "mot": "maladroitement | la maladresse | malhabile",
+    "trad": "неуклюже | неуклюжесть | неловкій"
+  },
+  {
+    "mot": "édulcorer",
+    "trad": "подслащивать"
+  },
+  {
+    "mot": "Très bien, qu’avez-vous découvert de si irréfutable ?",
+    "trad": "ОК, что же вы обнаружили такого неопровержимаго?"
   },
   {
     "mot": "apprivoiser",
     "trad": "приручить"
   },
   {
+    "mot": "effondrer",
+    "trad": "collapse"
+  },
+  {
+    "mot": "baisser les bras",
+    "trad": "опускать руки"
+  },
+  {
+    "mot": "n’augurer rien de bon",
+    "trad": "не предвѣщать ничего хорошаго"
+  },
+  {
+    "mot": "faire faillite",
+    "trad": "обанкротиться"
+  },
+  {
+    "mot": "s'affairer",
+    "trad": "чѣмъ-то заниматься, хлопотать"
+  },
+  {
+    "mot": "agir de la sorte",
+    "trad": "дѣйствовать такимъ образомъ"
+  },
+  {
     "mot": "furtivement",
     "trad": "незамѣтно"
   },
   {
-    "mot": "la charpente",
-    "trad": "framework"
+    "mot": "un chandail à capuchon",
+    "trad": "hoodie"
   },
   {
-    "mot": "susceptible de",
-    "trad": "likely to"
+    "mot": "avoir quelqu'un bien eu",
+    "trad": "надуть"
+  },
+  {
+    "mot": "méconnaissable",
+    "trad": "неузнаваемый"
+  },
+  {
+    "mot": "le contrecoup",
+    "trad": "aftereffect"
+  },
+  {
+    "mot": "subir qqch. | soumettre qqn. à qqch.",
+    "trad": "подвергнуть(ся)"
   },
   {
     "mot": "un faux-semblant | une tromperie",
@@ -52,127 +148,31 @@
     "trad": "избавиться"
   },
   {
-    "mot": "le contrecoup",
-    "trad": "aftereffect"
-  },
-  {
-    "mot": "se prêter au jeu de qqch.",
-    "trad": "подыгрывать"
-  },
-  {
-    "mot": "un effet secondaire",
-    "trad": "side effect"
-  },
-  {
-    "mot": "un pis-aller",
-    "trad": "lesser evil"
-  },
-  {
-    "mot": "éprouvant",
-    "trad": "challenging"
-  },
-  {
-    "mot": "méconnaissable",
-    "trad": "неузнаваемый"
+    "mot": "le vécu",
+    "trad": "опытъ"
   },
   {
     "mot": "peaufiner",
     "trad": "to fine-tune"
   },
   {
-    "mot": "relayer",
-    "trad": "to broadcast"
+    "mot": "éprouvant",
+    "trad": "challenging"
   },
   {
-    "mot": "subir qqch",
-    "trad": "подвергаться"
+    "mot": "le deuil",
+    "trad": "трауръ"
   },
   {
-    "mot": "édulcorer",
-    "trad": "подслащивать"
+    "mot": "la charpente",
+    "trad": "framework"
   },
   {
-    "mot": "baisser les bras",
-    "trad": "опускать руки"
+    "mot": "un pis-aller",
+    "trad": "lesser evil"
   },
   {
-    "mot": "faire faillite",
-    "trad": "обанкротиться"
-  },
-  {
-    "mot": "subir qqch. | soumettre qqn. à qqch.",
-    "trad": "подвергнуть(ся)"
-  },
-  {
-    "mot": "tirer une bouffée",
-    "trad": "сдѣлать затяжку"
-  },
-  {
-    "mot": "Ça ne se guerit pas.",
-    "trad": "Это не лѣчится."
-  },
-  {
-    "mot": "laisser qqch. de côté",
-    "trad": "leave sth. aside"
-  },
-  {
-    "mot": "n'apprécier guère",
-    "trad": "не особо оцѣнить"
-  },
-  {
-    "mot": "mettre le doigt dessus / sur qqch.",
-    "trad": "put a finger to it"
-  },
-  {
-    "mot": "rester sans voix",
-    "trad": "потерять даръ речи"
-  },
-  {
-    "mot": "ne rien laisser paraître",
-    "trad": "to give nothing away"
-  },
-  {
-    "mot": "revenir à la normale",
-    "trad": "to go back to normal"
-  },
-  {
-    "mot": "Je ne peux pas m'en passer.",
-    "trad": "I can't do without it."
-  },
-  {
-    "mot": "démêler le vrai du faux",
-    "trad": "различать истину и ложь"
-  },
-  {
-    "mot": "des circonstances atténuantes",
-    "trad": "смягчающие обстоятельства"
-  },
-  {
-    "mot": "se livrer",
-    "trad": "open up / turn oneself in"
-  },
-  {
-    "mot": "agir de la sorte",
-    "trad": "дѣйствовать такимъ образомъ"
-  },
-  {
-    "mot": "n’augurer rien de bon",
-    "trad": "не предвѣщать ничего хорошаго"
-  },
-  {
-    "mot": "s'affairer",
-    "trad": "чѣмъ-то заниматься, хлопотать"
-  },
-  {
-    "mot": "maladroitement | la maladresse | malhabile",
-    "trad": "неуклюже | неуклюжесть | неловкій"
-  },
-  {
-    "mot": "passer à côté de qqch. de formidable",
-    "trad": "to miss out on something wonderful"
-  },
-  {
-    "mot": "Très bien, qu’avez-vous découvert de si irréfutable ?",
-    "trad": "ОК, что же вы обнаружили такого неопровержимаго?"
+    "mot": "ponctuel",
+    "trad": "разовый"
   }
 ]
