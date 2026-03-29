@@ -1,98 +1,178 @@
 [
   {
-    "mot": "Je ne peux pas m'en passer.",
-    "trad": "I can't do without it."
+    "mot": "des sévices",
+    "trad": "abuse"
   },
   {
-    "mot": "se faire avoir",
-    "trad": "to be scammed"
+    "mot": "le vécu",
+    "trad": "опытъ"
   },
   {
-    "mot": "un conciliabule",
-    "trad": "secret meeting"
+    "mot": "avoir quelqu'un bien eu",
+    "trad": "надуть"
+  },
+  {
+    "mot": "le deuil",
+    "trad": "трауръ"
+  },
+  {
+    "mot": "un chandail à capuchon",
+    "trad": "hoodie"
+  },
+  {
+    "mot": "ponctuel",
+    "trad": "разовый"
+  },
+  {
+    "mot": "effondrer",
+    "trad": "collapse"
+  },
+  {
+    "mot": "apprivoiser",
+    "trad": "приручить"
+  },
+  {
+    "mot": "furtivement",
+    "trad": "незамѣтно"
+  },
+  {
+    "mot": "la charpente",
+    "trad": "framework"
+  },
+  {
+    "mot": "susceptible de",
+    "trad": "likely to"
+  },
+  {
+    "mot": "un faux-semblant | une tromperie",
+    "trad": "обман(ка)"
+  },
+  {
+    "mot": "se débarrasser de qqch.",
+    "trad": "избавиться"
+  },
+  {
+    "mot": "le contrecoup",
+    "trad": "aftereffect"
+  },
+  {
+    "mot": "se prêter au jeu de qqch.",
+    "trad": "подыгрывать"
+  },
+  {
+    "mot": "un effet secondaire",
+    "trad": "side effect"
+  },
+  {
+    "mot": "un pis-aller",
+    "trad": "lesser evil"
+  },
+  {
+    "mot": "éprouvant",
+    "trad": "challenging"
+  },
+  {
+    "mot": "méconnaissable",
+    "trad": "неузнаваемый"
+  },
+  {
+    "mot": "peaufiner",
+    "trad": "to fine-tune"
+  },
+  {
+    "mot": "relayer",
+    "trad": "to broadcast"
+  },
+  {
+    "mot": "subir qqch",
+    "trad": "подвергаться"
+  },
+  {
+    "mot": "édulcorer",
+    "trad": "подслащивать"
+  },
+  {
+    "mot": "baisser les bras",
+    "trad": "опускать руки"
+  },
+  {
+    "mot": "faire faillite",
+    "trad": "обанкротиться"
+  },
+  {
+    "mot": "subir qqch. | soumettre qqn. à qqch.",
+    "trad": "подвергнуть(ся)"
+  },
+  {
+    "mot": "tirer une bouffée",
+    "trad": "сдѣлать затяжку"
+  },
+  {
+    "mot": "Ça ne se guerit pas.",
+    "trad": "Это не лѣчится."
   },
   {
     "mot": "laisser qqch. de côté",
     "trad": "leave sth. aside"
   },
   {
-    "mot": "mettre qqn. hors de soi",
-    "trad": "вывести изъ себя"
+    "mot": "n'apprécier guère",
+    "trad": "не особо оцѣнить"
   },
   {
-    "mot": "puiser qqch. à / dans",
-    "trad": "черпать изъ / въ"
+    "mot": "mettre le doigt dessus / sur qqch.",
+    "trad": "put a finger to it"
   },
   {
-    "mot": "cueillir qqn. par surprise",
-    "trad": "застать врасплохъ"
+    "mot": "rester sans voix",
+    "trad": "потерять даръ речи"
   },
   {
-    "mot": "de mal en pis",
-    "trad": "from bad to worse"
+    "mot": "ne rien laisser paraître",
+    "trad": "to give nothing away"
   },
   {
-    "mot": "Ça n'a pas de sens. | Ça ne veut rien dire.",
-    "trad": "It makes no sense."
+    "mot": "revenir à la normale",
+    "trad": "to go back to normal"
   },
   {
-    "mot": "à son insu",
-    "trad": "without his knowledge"
+    "mot": "Je ne peux pas m'en passer.",
+    "trad": "I can't do without it."
   },
   {
-    "mot": "être de sa faute",
-    "trad": "to be someone's fault"
+    "mot": "démêler le vrai du faux",
+    "trad": "различать истину и ложь"
   },
   {
-    "mot": "avoir un don pour qqch",
-    "trad": "to have a gift for sth."
+    "mot": "des circonstances atténuantes",
+    "trad": "смягчающие обстоятельства"
   },
   {
-    "mot": "il sort d'ordinaire",
-    "trad": "It's out of the ordinary"
+    "mot": "se livrer",
+    "trad": "open up / turn oneself in"
   },
   {
-    "mot": "passer les bornes",
-    "trad": "переходить красныя линіи"
+    "mot": "agir de la sorte",
+    "trad": "дѣйствовать такимъ образомъ"
   },
   {
-    "mot": "décrocher d'une drogue | rechuter",
-    "trad": "to quit drugs | to relapse"
+    "mot": "n’augurer rien de bon",
+    "trad": "не предвѣщать ничего хорошаго"
   },
   {
-    "mot": "faire son possible pour faire qqch.",
-    "trad": "to do one's best to do sth."
+    "mot": "s'affairer",
+    "trad": "чѣмъ-то заниматься, хлопотать"
   },
   {
-    "mot": "tomber de fatigue",
-    "trad": "валиться съ ногъ отъ усталости"
-  },
-  {
-    "mot": "l'envie d'en finir avec qqch.",
-    "trad": "желаніе покончить съ чѣм-нибудь"
-  },
-  {
-    "mot": "J'arrête de travailler autant.",
-    "trad": "I'm going to stop working so much."
+    "mot": "maladroitement | la maladresse | malhabile",
+    "trad": "неуклюже | неуклюжесть | неловкій"
   },
   {
     "mot": "passer à côté de qqch. de formidable",
     "trad": "to miss out on something wonderful"
   },
   {
-    "mot": "C'est au tour de qqn. à faire qqch.",
-    "trad": "It's someone's turn to do something."
-  },
-  {
-    "mot": "un rapport décomplexé à la grammaire",
-    "trad": "разслабленное отношеніе къ грамматикѣ"
-  },
-  {
-    "mot": "calmer le jeu <-> mettre de l'huile sur le feu",
-    "trad": "calm things down <-> add fuel to the fire"
-  },
-  {
-    "mot": "Parfois je suis si absorbé que j'oublie de regarder l'heure.",
-    "trad": "Иногда я такъ залипаю, что теряю счетъ времени."
+    "mot": "Très bien, qu’avez-vous découvert de si irréfutable ?",
+    "trad": "ОК, что же вы обнаружили такого неопровержимаго?"
   }
 ]
