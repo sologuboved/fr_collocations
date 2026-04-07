@@ -101,7 +101,7 @@ Tant mieux. ~ Тѣмъ лучше.
 [J'aime] particulièrement
 [en demander] encore davantage ~ even more
 [se consacrer] uniquement [à]
-au fur et à mesure que ~ по мѣрѣ
+apparemment
 au mieux ~ at best
 autrement ~ по-другому
 avant tout ~ прежде всего
@@ -420,10 +420,8 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 Ça y ressemble. ~ Похоже, что такъ и есть.
 сe n'est pas faute d'avoir essayé de faire qqch. ~ not for the lack of trying
 
-QUANTITÉ
-On y dénombre 10 enfants
-
 QUANTITÉS
+On y dénombre 10 enfants
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
 de plus en plus
@@ -453,6 +451,7 @@ contrairement à
 convenir à qqch. ~ be associated with
 dans le cadre de
 du côté de qqch. ~ въ аспектѣ
+en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
 en fonction de ~ depending on, in terms of
 en occurrence de
@@ -491,13 +490,17 @@ En pleine qqch. ? ~ Въ разгаръ чего-л.?
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 après coup ~ after the fact
+après qqch./avoir fait qqch./que | une fois que
 au bout de 20 ans / quelque temps ~ after 20 years / a while
+au cours de ~ въ теченіе
 au départ ~ поначалу
 au fil du temps ~ съ теченіемъ времени
+au fur et à mesure que | tant que | aussi longtemps que ~ по мѣрѣ
 au jour le jour ~ day by day
 au plus tôt ~ самое раннее
 aussitôt ~ right away
 avant même que le réveil ne sonne, ~ еще до того какъ прозвонилъ будильникъ,
+avant qcch./de faire qqch./que | en attendant de/que | le temps de/que
 avec le temps
 d'emblée ~ съ перваго раза, тутъ же
 d'ici à 10 ans
@@ -522,11 +525,13 @@ entretemps ~ in the meanwhile
 jadis ~ нѣкогда, давнымъ-давно
 la première fois que qqn. avait fait qqch.
 maintes fois ~ many times
+pendant que | comme | alors que
 plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
 pour la première fois
 qqn. de toujours ~ постоянный, вѣчный
+quand | lorsque | au moment où
 sur le coup ~ at the time, on the spur of the moment
 tant que ~ as long as
 tout de suite

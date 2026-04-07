@@ -110,7 +110,7 @@ On dirait,,paroles
 On dirait que,"Похоже,",paroles
 On sait que...,,paroles
 On voit bien que...,We can clearly see...,paroles
-On y dénombre 10 enfants,,quantité
+On y dénombre 10 enfants,,quantités
 "Ou bien, variante,","Или скорѣе, какъ варiантъ,",paroles
 Place à la musique !,Time for music!,phrases
 "Pour autant,",however,divers
@@ -154,7 +154,9 @@ alors,,causalité
 alors qu'ailleurs le processus de concentration n'a fait que débuter,,phrases
 alors qu'on imagine mal qqn. faire qqch.,whereas it's hard to imagine,phrases
 alors que,"даромъ что, тогда какъ",rapport
+apparemment,,divers
 après coup,after the fact,temps
+après qqch./avoir fait qqch./que | une fois que,,temps
 aspirer à faire qqch,стремиться,causalité
 asseoir sa théorie sur qqch.,основывать свою теорію,phrases
 assez sommaire en matière de confort,,figé
@@ -162,11 +164,12 @@ au besoin,if necessary,figé
 au bout de 20 ans / quelque temps,after 20 years / a while,temps
 au bout du compte,въ конечномъ счетѣ,paroles
 au cas où | à tout hasard,just in case,figé
+au cours de,въ теченіе,temps
 au départ,поначалу,temps
 au détriment de,at the expense of,rapport
 au figuré,въ переносномъ смыслѣ,figé
 au fil du temps,съ теченіемъ времени,temps
-au fur et à mesure que,по мѣрѣ,divers
+au fur et à mesure que | tant que | aussi longtemps que,по мѣрѣ,temps
 au jour le jour,day by day,temps
 au mieux,at best,divers
 au moyen de | à l'aide de,,rapport
@@ -178,13 +181,14 @@ aussitôt,right away,temps
 autrement,по-другому,divers
 autrement dit,иными словами,paroles
 "avant même que le réveil ne sonne,","еще до того какъ прозвонилъ будильникъ,",temps
+avant qcch./de faire qqch./que | en attendant de/que | le temps de/que,,temps
 avant tout,прежде всего,divers
 avec le temps,,temps
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.,,phrases
 avoir lieu,,événements
 avoir pour avantage de faire qqch.,,rapport
-avoir pour but de faire qqch.,,figé
 avoir pour but de faire qqch.,,causalité
+avoir pour but de faire qqch.,,figé
 avoir pour conséquence qqch.,,causalité
 avoir pour fonction | rôle de faire qqch.,,causalité
 bel et bien,,figé
@@ -264,6 +268,7 @@ effectivement,"въ самомъ дѣлѣ, фактически",divers
 en alternance,чередуя,figé
 en boucle,по кругу,figé
 en ce moment,,temps
+en comparaison de | auprès de,по сравненію съ,rapport
 en concert avec,"совмѣстно, заодно",figé
 en cours de,"въ ходѣ, въ процессѣ",rapport
 en déplacement,въ дорогѣ,figé
@@ -355,6 +360,7 @@ pas forcément,not necessarily,divers
 pas moyen (de faire qqch.),no way,divers
 pas tellement,not so much,divers
 peiner à faire qqch.,struggle to,actions
+pendant que | comme | alors que,,temps
 perdre du temps à faire qqch.,,figé
 permettre de,,causalité
 peu importe,,divers
@@ -385,6 +391,7 @@ qqch. en est un (autre),другой примѣръ того же,rapport
 qqn. de toujours,"постоянный, вѣчный",temps
 qu'à cela ne tienne,"peu importe !, ça ne fait rien, ну и ладно",figé
 quand même,anyway,divers
+quand | lorsque | au moment où,,temps
 "que ce soit qqch. ou qqch.,","будь то ... или ...,",divers
 quels que soient,"whatever, regardless of",rapport
 qui me / lui / leur est / sont propre(s),свой собственный,divers
