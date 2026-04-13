@@ -93,6 +93,7 @@ s'occuper de | assister | aider | soutenir | appuyer | secourir
 
 DIVERS
 Après tout, ~ after all
+C'est aussi quelque part un... ~ in a way
 De quelle façon ... ? ~ Какимъ образомъ
 Elle ne fait que faire qqch.
 Pour autant, ~ however
@@ -153,6 +154,7 @@ tout à fait ~ quite
 toutefois ~ however
 visiblement ~ явно
 voire ~ and even
+à l'occasion de ~ по случаю
 à la place de
 à répétition ~ повторяющійся
 à tous égards ~ in all respects
@@ -200,6 +202,7 @@ de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
 donner d'ailleurs raison
+en activité ~ дѣйствующій
 en alternance ~ чередуя
 en boucle ~ по кругу
 en concert avec ~ совмѣстно, заодно
@@ -243,15 +246,18 @@ utile en soi ~ самоцѣнный
 valider de façon ferme
 voyer tout en noir
 à jeun ~ натощакъ
+à l'identique
 à la base ~ въ основѣ
 à la hâte ~ наспѣхъ
 à la main ~ вручную
+à la pointe (de la technologie) ~ at the cutting edge
 à mi-chemin entre qqch. et qqch.
 à part entière ~ полноправный
 à titre de ~ въ знакъ
 être au cœur de qqch.
 être de sa faute
 être en droit de faire qqch. ~ имѣть право
+être en tête
 
 GÉNÉRALISATIONS
 Il est de ces personnes qui..,
@@ -325,6 +331,7 @@ laisser qqch. de côté
 mazette ~ ухъ ты
 mettre dans une parenthèse
 mouais ~ ну да
+on pourrait se dire que ~ one might think that
 par contre
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour autant que je me souvienne, ~ as far as I remember
@@ -395,14 +402,17 @@ La réponse ne va pas de soi. ~ The answer is not obvious.
 La tour Eiffel a dû choquer au debut.
 Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !
 Mon plus beau souvenir reste à venir.
+On pouvait s'y attendre ~ That was to be expected
 Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Quel est l'objet dont on se sert pour faire qqch. ?
+Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
 Qu’importe le reste. ~ The rest doesn't matter.
 Raison de plus pour faire qqch.
 Telle est la première question.
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
 Tout est permis.
+Tout fout le camp ! ~ Всё пропало!
 alors qu'ailleurs le processus de concentration n'a fait que débuter
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
@@ -412,6 +422,7 @@ il en est / sera autrement de ~ it will be different for
 n'avoir rien à y faire ~ нечего там дѣлать
 pour que tout un chacun comprenne que... ~ so that everyone understands that...
 À quand remonte la dernière fois que vous avez fait qqch. ?
+À quoi voit-on que l'on est dans un lieu d'histoire ? ~ Comment sait-on que...
 Ça devrait aller mieux. ~ Things should get better.
 Ça fait longtemps que je fais qqch.
 Ça finit par fatiguer.
@@ -432,6 +443,7 @@ de plus en plus
 en moyenne ~ on average
 en partie <-> totalement
 peu ou prou ~ plus ou moins
+sans compter ceux qui ~ не считая тѣхъ
 un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
 à moitié ~ наполовину
@@ -446,6 +458,8 @@ ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
 au détriment de ~ at the expense of
 au moyen de | à l'aide de
+autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
+aux yeux de qqn. | à travers les yeux de qqn.
 avoir pour avantage de faire qqch.
 comparé à
 comporter | comprendre | inclure qqch. ~ включать въ себя
@@ -477,6 +491,7 @@ selon le cas ~ depending on the case
 tandis que ~ whereas
 tout ce qui touche à qqch.
 vis-à-vis de
+vu que ~ given that
 à ce qui concerne
 à condition de / que
 à force d'être ~ въ силу
@@ -516,6 +531,7 @@ dans la foulée ~ сразу
 de nouveau ~ заново
 depuis le tout début ~ from the very beginning
 depuis longtemps
+depuis maintenant déjà 20 ans ~ вотъ уже 20 лѣтъ
 depuis tout ce temps-là ~ all this time
 du jour au lendemain ~ overnight
 dès le départ ~ from the very start
@@ -525,15 +541,19 @@ en ce moment
 en même temps
 en permanence
 en premier ~ first thing
+ensuite | ultérieurement | postérieurement
 entretemps ~ in the meanwhile
 jadis ~ нѣкогда, давнымъ-давно
 la première fois que qqn. avait fait qqch.
+longuement ~ подолгу
 maintes fois ~ many times
+pendant ce temps ~ въ это время
 pendant que | comme | alors que
 plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
 pour la première fois
+préalablement | auparavant | antérieurement
 qqn. de toujours ~ постоянный, вѣчный
 quand | lorsque | au moment où
 sur le coup ~ at the time, on the spur of the moment
@@ -563,6 +583,17 @@ Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
 Qu'est-ce qui est arrivé ?
 Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?
 avoir lieu
+débuter
+décliner
+prendre naissance
+s'achever ~ завершиться
+s'amplifier
+s'étendre
 se dérouler
+se développer
+se poursuivre
 se produire
+se situer
+se terminer
+trouver son origine dans
 être en marche ~ be underway
