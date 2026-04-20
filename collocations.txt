@@ -2,166 +2,168 @@ ACTIONS
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
 Je ne peux pas m'en passer. ~ I can't do without it.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
-ce qui lui est arrivé
-forcer qqn. à faire qqch.
-n'arriver pas à faire qqch.
+ce qui lui est arrivé ~ 
+forcer qqn. à faire qqch. ~ 
+n'arriver pas à faire qqch. ~ 
 n'en avoir que faire ~ couldn't care less
 peiner à faire qqch. ~ struggle to
 pousser qqn. à faire qqch. ~ drive smb. to do sth.
-se conclure avec qqch.
-venir de faire qqch.
+se conclure avec qqch. ~ 
+venir de faire qqch. ~ 
 y aller fort ~ перегибать палку
-être censé faire qqch.
-être en train de faire qqch.
-être sur le point de faire qqch.
+être censé faire qqch. ~ 
+être en train de faire qqch. ~ 
+être sur le point de faire qqch. ~ 
+
+ADVERBES
+Je crois fermement que ~ 
+[J'aime] particulièrement ~ 
+[la présence de cathares en Navarre n’est] aucunement [avérée] ~ 
+[se consacrer] uniquement [à] ~ 
+apparemment ~ 
+autrement ~ по-другому
+carrément ~ downright
+considérablement ~ 
+décidément ~ definitely
+désespérément ~ hopelessly
+effectivement ~ въ самомъ дѣлѣ, фактически
+fortement | massivement ~ 
+logiquement ~ 
+pleinement ~ полностью
+prioritairement ~ преимущественно
+techniquement ~ 
+visiblement ~ явно
+vraisemblablement ~ presumably
+éventuellement ~ по обстоятельствамъ, возможно
 
 CAUSALITÉ
-(a)mener à
+(a)mener à ~ 
 C'est bien pour ça que ~ Именно поэтому
 C'est que [indicatif] ~ this is because
 Il en résulte de... ~ This has resulted in
-Quelle est la cause | l'origine | la raison de ... ?
+Quelle est la cause | l'origine | la raison de ... ? ~ 
 Résultat, ~ Въ рѣзультатѣ
-afin de | en vue de | pour
-afin que | pour que
-ainsi
-alors
+afin de | en vue de | pour ~ 
+afin que | pour que ~ 
+ainsi ~ 
+alors ~ 
 aspirer à faire qqch ~ стремиться
-avoir pour but de faire qqch.
-avoir pour conséquence qqch.
-avoir pour fonction | rôle de faire qqch.
-causer
-chercher à faire qqch.
-comme
-conduire à
-créer
+avoir pour but de faire qqch. ~ 
+avoir pour conséquence qqch. ~ 
+avoir pour fonction | rôle de faire qqch. ~ 
+causer ~ 
+chercher à faire qqch. ~ 
+comme ~ 
+conduire à ~ 
+créer ~ 
 d'où ~ отсюда
-dans le but de faire qqch. | Dans quel but ?
+dans le but de faire qqch. | Dans quel but ? ~ 
 de sorte que ~ cъ тѣмъ, чтобы
-des conséquences | effets | suites
-developper
+des conséquences | effets | suites ~ 
+developper ~ 
 du coup ~ therefore
-en raison de
-entraîner
+en raison de ~ 
+entraîner ~ 
 favoriser ~ способствовать
-grâce à
-occasionner
-par conséquent
-permettre de
-procurer
-produire
-projeter de faire qqch.
-provoquer
-prêter à conséquences
+grâce à ~ 
+occasionner ~ 
+par conséquent ~ 
+permettre de ~ 
+procurer ~ 
+produire ~ 
+projeter de faire qqch. ~ 
+provoquer ~ 
+prêter à conséquences ~ 
 puisque ~ поскольку
-rendre + adjectif
-résulter de
+rendre + adjectif ~ 
+résulter de ~ 
 s'efforcer de faire qqch. ~ стремиться, стараться
-s'expliquer par
-venir | provenir de
-viser à faire qqch.
-à cause de
-à l'intention de
-étant donné que
-être causé par
-être dû à
-être la conséquence de
-être produit par
-être à l'origine de
+s'expliquer par ~ 
+venir | provenir de ~ 
+viser à faire qqch. ~ 
+à cause de ~ 
+à l'intention de ~ 
+étant donné que ~ 
+être causé par ~ 
+être dû à ~ 
+être la conséquence de ~ 
+être produit par ~ 
+être à l'origine de ~ 
 
 CONSIDÉRATIONS
-(en) avoir / prendre conscience
-(se) tenir au courant
+(en) avoir / prendre conscience ~ 
+(se) tenir au courant ~ 
 compte tenu de qqch. ~ учитывая
 envisager qqch. / de faire qqch. ~ to consider
-mettre qqn. au courant
-prendre en compte
-prendre en considération
-s'apercevoir
-se rendre compte de
+mettre qqn. au courant ~ 
+prendre en compte ~ 
+prendre en considération ~ 
+s'apercevoir ~ 
+se rendre compte de ~ 
 se renseigner auprès de qqn. ~ освѣдомиться у
 tenir compte de qqch. ~ to take something into account
 tenir pour acquis ~ accept as a given
 À croire que ~ It was as if
 
 COOPÉRATION
-adhérer à | s'inscrire à | rejoindre | intégrer
-coopérer avec | être solidaire avec | collaborer
-participer à | prendre part à | faire partie de
-s'engager dans | s'impliquer dans | s'investir dans
-s'occuper de | assister | aider | soutenir | appuyer | secourir
+adhérer à | s'inscrire à | rejoindre | intégrer ~ 
+coopérer avec | être solidaire avec | collaborer ~ 
+participer à | prendre part à | faire partie de ~ 
+s'engager dans | s'impliquer dans | s'investir dans ~ 
+s'occuper de | assister | aider | soutenir | appuyer | secourir ~ 
 
 DIVERS
 Après tout, ~ after all
 C'est aussi quelque part un... ~ in a way
 De quelle façon ... ? ~ Какимъ образомъ
-Elle ne fait que faire qqch.
+Elle ne fait que faire qqch. ~ 
 Pour autant, ~ however
 Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
-[J'aime] particulièrement
 [en demander] encore davantage ~ even more
-[la présence de cathares en Navarre n’est] aucunement [avérée]
-[se consacrer] uniquement [à]
-apparemment
 au mieux ~ at best
-autrement ~ по-другому
 avant tout ~ прежде всего
-bien entendu
-carrément ~ downright
-certainement | certes
-considérablement
+bien entendu ~ 
 d'ailleurs | au fait ~ кстати говоря
 davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
 de surcroît | de surplus ~ болѣе того
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
-décidément ~ definitely
-effectivement ~ въ самомъ дѣлѣ, фактически
 en gros ~ в цѣлом, грубо говоря
 en guise de qqch ~ by way of
 en lui-même ~ само по себѣ
 en quelque sorte ~ въ своемъ родѣ
 en règle générale ~ as a general rule
-en tout cas
+en tout cas ~ 
 et tout à l'avenant ~ and so on
-fortement | massivement
-guère
-logiquement
-nettement plus ~ significantly more
+guère ~ 
 outre qqch. ~ помимо
 par ailleurs | en outre ~ moreover
 par hasard ~ случайно
 pas forcément ~ not necessarily
 pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
-peu importe
-pleinement ~ полностью
-prioritairement ~ преимущественно
+peu importe ~ 
 quand même ~ anyway
 que ce soit qqch. ou qqch., ~ будь то ... или ...,
 qui me / lui / leur est / sont propre(s) ~ свой собственный
 quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
 quoi que ce soit ~ что бы то ни было
-sans doute
+sans doute ~ 
 surtout ~ above all
-tant mieux
-techniquement
+tant mieux ~ 
 tel(s) / telle(s) que ~ such as
-toujours plus [intense]
+toujours plus [intense] ~ 
 tout comme ~ такъ же какъ и
 tout de même ~ still, all the same, even so
 tout à fait ~ quite
 toutefois ~ however
-visiblement ~ явно
 voire ~ and even
-vraisemblablement ~ presumably
 à l'occasion de ~ по случаю
-à la place de
+à la place de ~ 
 à répétition ~ повторяющійся
 à tous égards ~ in all respects
-éventuellement ~ по обстоятельствамъ, возможно
 
 DÉPLACEMENTS
 au sein de ~ within
@@ -172,31 +174,31 @@ en route ~ по дорогѣ
 hors d’atteinte pour qqn. ~ внѣ досягаемости
 par ici ~ this way
 se mettre en route ~ отправиться въ путь
-tout autour de toi
-travailler / étudier dans ce lieu
+tout autour de toi ~ 
+travailler / étudier dans ce lieu ~ 
 à deux pas de l'arrêt ~ въ двухъ шагахъ отъ остановки
 
 FIGÉ
-, à tort,
+, à tort, ~ 
 [créer] de toutes pièces ~ from scratch
-[ne pas changer] grand-chose
-agir par intérêt
+[ne pas changer] grand-chose ~ 
+agir par intérêt ~ 
 allant de soi ~ being self-evident
 aller se faire foutre ~ go fuck oneself
-assez sommaire en matière de confort
+assez sommaire en matière de confort ~ 
 au besoin ~ if necessary
 au cas où | à tout hasard ~ just in case
 au figuré ~ въ переносномъ смыслѣ
 au premier regard, ~ на первый взглядъ
-avoir pour but de faire qqch.
-bel et bien
+avoir pour but de faire qqch. ~ 
+bel et bien ~ 
 bon débarras ~ good riddance
-bon gré mal gré
+bon gré mal gré ~ 
 bon vieux ~ good old
 chemin faisant ~ on the way
 comme je l'entends ~ какъ я считаю нужнымъ
 connaître / savoir qqch. sur le bout des doigts ~ знать какъ свои пять пальцев
-contre son gré | à contre-cœur
+contre son gré | à contre-cœur ~ 
 d'elle-même ~ on her own
 d'occasion ~ second-hand
 dans l'ordre ~ по порядку
@@ -204,249 +206,249 @@ de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
-donner d'ailleurs raison
-désespérément ~ hopelessly
+donner d'ailleurs raison ~ 
 en activité ~ дѣйствующій
 en alternance ~ чередуя
 en boucle ~ по кругу
 en concert avec ~ совмѣстно, заодно
 en déplacement ~ въ дорогѣ
-en harmonie | en phase avec
+en harmonie | en phase avec ~ 
 en partant de rien ~ съ нуля
 en plein essor ~ on the rise
-en retour
-en réalité | en vérité
+en retour ~ 
+en réalité | en vérité ~ 
 en sécurité ~ въ безопасности
-en vrac
-en échange de
-faire exprès de faire qqch.
+en vrac ~ 
+en échange de ~ 
+faire exprès de faire qqch. ~ 
 faire impasse sur ~ скипнуть
 faire semblant de | faire mine de ~ притворяться
 faute de ~ за недостаткомъ
-finir dans les délais
+finir dans les délais ~ 
 il n'en était pas ainsi ~ that was not the case
-l'air de rien
+l'air de rien ~ 
 la donne ~ раскладъ
 le baratin ~ bullshit
-le strict nécessaire
+le strict nécessaire ~ 
 par chance ~ къ счастью
 par défaut ~ by default
 par ennui ~ со скуки
 par essence ~ by nature
 par procuration ~ by proxy
-par raison | par passion
+par raison | par passion ~ 
 par sécurité ~ for safety
 par-dessus la marché ~ въ придачу
-perdre du temps à faire qqch.
-pour paradoxe
+perdre du temps à faire qqch. ~ 
+pour paradoxe ~ 
 qu'à cela ne tienne ~ peu importe !, ça ne fait rien, ну и ладно
-sans effort
+sans effort ~ 
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
 tant attendu ~ long-awaited
 un mal pour un bien ~ нѣтъ худа безъ добра
 une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
-valider de façon ferme
-voyer tout en noir
+valider de façon ferme ~ 
+voyer tout en noir ~ 
 à jeun ~ натощакъ
-à l'identique
+à l'identique ~ 
 à la base ~ въ основѣ
 à la hâte ~ наспѣхъ
 à la main ~ вручную
 à la pointe (de la technologie) ~ at the cutting edge
-à mi-chemin entre qqch. et qqch.
+à mi-chemin entre qqch. et qqch. ~ 
 à part entière ~ полноправный
 à titre de ~ въ знакъ
-être au cœur de qqch.
-être de sa faute
+être au cœur de qqch. ~ 
+être de sa faute ~ 
 être en droit de faire qqch. ~ имѣть право
-être en tête
+être en tête ~ 
 
 GÉNÉRALISATIONS
-Il est de ces personnes qui..,
-Je compte parmi les femmes à ne pas pouvoir faire qqch.
-Je ne me compte pas parmi eux.
-Je suis du genre à me tétaniser d'horreur en faisant qqch.
-du même type
-être de plus en plus nombreux à faire qqch.
+Il est de ces personnes qui.., ~ 
+Je compte parmi les femmes à ne pas pouvoir faire qqch. ~ 
+Je ne me compte pas parmi eux. ~ 
+Je suis du genre à me tétaniser d'horreur en faisant qqch. ~ 
+du même type ~ 
+être de plus en plus nombreux à faire qqch. ~ 
 
 MÉMOIRE
-Désolé, c'est un oubli.
-Il ne me revient pas.
-J'ai un trou de mémoire.
-Je n'ai pas retenu qqch.
-Je n'arrive pas à m'en souvenir.
+Désolé, c'est un oubli. ~ 
+Il ne me revient pas. ~ 
+J'ai un trou de mémoire. ~ 
+Je n'ai pas retenu qqch. ~ 
+Je n'arrive pas à m'en souvenir. ~ 
 s'ôter de l'esprit qqch. ~ выбросить изъ головы
-évoquer un souvenir
+évoquer un souvenir ~ 
 
 PAROLES
-, c'est bien connu,
-, mais sait-on jamais ? | Qui sait ?
-, paraît-il,
-Admettons que...
+, c'est bien connu, ~ 
+, mais sait-on jamais ? | Qui sait ? ~ 
+, paraît-il, ~ 
+Admettons que... ~ 
 Affaire de lecture : ~ вопросъ интерпретаціи
 Alors franchement ~ Честно говоря
 Alors à mon tour, ~ Въ свою очередь, я
-C'est dans ce sens que...
-C'est hors de question !
-Ce n'est rien à tout que...
-Comment dit-on "..." en français ?
-Côté de...,
-Eh bien moi, je pense que
-En ce qui concerne qqch.,
+C'est dans ce sens que... ~ 
+C'est hors de question ! ~ 
+Ce n'est rien à tout que... ~ 
+Comment dit-on "..." en français ? ~ 
+Côté de..., ~ 
+Eh bien moi, je pense que ~ 
+En ce qui concerne qqch., ~ 
 En clair, ~ иными словами
 En somme, ~ Короче говоря
-Enfin | Pour finir | En conclusion | Bref,
-Et le pompon, c'est que...
-Il me semble que...
-Il s'est avéré que...
-J'avoue que...
-J'en suis persuadée | C'est ma conviction
-Je crois fermement que
-Je ne suis pas certaine de comprendre.
+Enfin | Pour finir | En conclusion | Bref, ~ 
+Et le pompon, c'est que... ~ 
+Il me semble que... ~ 
+Il s'est avéré que... ~ 
+J'avoue que... ~ 
+J'en suis persuadée | C'est ma conviction ~ 
+Je ne suis pas certaine de comprendre. ~ 
 Le hic, ~ Вотъ въ чемъ проблема
-Non seulement ... mais encore (aussi)...
-On dirait
+Non seulement ... mais encore (aussi)... ~ 
+On dirait ~ 
 On dirait que ~ Похоже,
-On sait que...
+On sait que... ~ 
 On voit bien que... ~ We can clearly see...
 Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
 Qu'en est-il de... ~ Какъ насчетъ
 Qu'en penses-tu ? ~ How about that?
-Qu'est-ce que tu veux dire par là ?
-Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
-Quant à ...,
-Que dire d'autre?
-Suis-je bête ! Cela m'avait échappé.
+Qu'est-ce que tu veux dire par là ? ~ 
+Qu'est-ce que ça veut dire ? Ça veut dire quoi ? ~ 
+Quant à ..., ~ 
+Que dire d'autre? ~ 
+Suis-je bête ! Cela m'avait échappé. ~ 
 au bout du compte ~ въ конечномъ счетѣ
 au sens de ~ въ смыслѣ
-au sens propre / figuré
+au sens propre / figuré ~ 
 autrement dit ~ иными словами
-cependant
-d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
-d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
-dans le sens où cela allie qqch. et qqch.
-de plus
+cependant ~ 
+certainement | certes ~ 
+d'abord | premièrement - deuxièmement | troisièmement | ensuite | après ~ 
+d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche ~ 
+dans le sens où cela allie qqch. et qqch. ~ 
+de plus ~ 
 en plus ~ кромѣ того
 en résumé ~ короче говоря
 et à vrai dire ~ по правдѣ говоря
 inversement ~ наоборотъ
-laisser qqch. de côté
+laisser qqch. de côté ~ 
 mazette ~ ухъ ты
-mettre dans une parenthèse
+mettre dans une parenthèse ~ 
 mouais ~ ну да
 on pourrait se dire que ~ one might think that
-par contre
-pour ainsi dire | c'est-à-dire | on va dire | à peu près
+par contre ~ 
+pour ainsi dire | c'est-à-dire | on va dire | à peu près ~ 
 pour autant que je me souvienne, ~ as far as I remember
 pour ma part | en ce qui me concerne ~ as for me
-pour être plus précise
-pourtant
+pour être plus précise ~ 
+pourtant ~ 
 rebelote ~ here we go again
-selon | d'après | à en croire | aux yeux de
+selon | d'après | à en croire | aux yeux de ~ 
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
-Ça n'a pas de sens. | Ça ne veut rien dire.
+Ça n'a pas de sens. | Ça ne veut rien dire. ~ 
 Ça n'a rien à voir avec ce que... ~ This has nothing to do with...
 Ça ne vous regarde pas ! ~ Васъ это не касается!
 Ça se tient. ~ It makes sense.
 Ça y est ! ~ Наконецъ-то.
-à commencer par
-à proprement parler | proprement dit(e)
+à commencer par ~ 
+à proprement parler | proprement dit(e) ~ 
 
 PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
 - Je te revaudrai ça. - J'espère bien ! ~ За мной должокъ.
 Alors autant s’y mettre. ~ Might just as well get started.
-C'est au tour de qqn. à faire qqch.
-C'est comme ça et pas autrement !
+C'est au tour de qqn. à faire qqch. ~ 
+C'est comme ça et pas autrement ! ~ 
 C'est nul. <fam.> ~ Это отстой.
 C'est retour à la case départ. ~ Back to square one.
-C'est vraiment très gentil.
+C'est vraiment très gentil. ~ 
 Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
 Cela peut valoir la peine. ~ Можетъ стоить того.
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
-Comment ça a pu arriver ?
+Comment ça a pu arriver ? ~ 
 Comment ça se fait ? ~ How come?
-D'où vient qu'on verse des indemnités aux éleveurs ?
-De quoi il s'agit ?
-Dis-le-moi. Dis-m'en plus !
+D'où vient qu'on verse des indemnités aux éleveurs ? ~ 
+De quoi il s'agit ? ~ 
+Dis-le-moi. Dis-m'en plus ! ~ 
 Elle m'en veut. ~ She's mad at me.
-Est-ce que tu t'intéresses à la musique ?
+Est-ce que tu t'intéresses à la musique ? ~ 
 Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
 Fais-moi signe quand tu peux te libérer. ~ Let me know when you can get away.
-Françoise, la gouvernante, se dit que ces salauds de boches s’y connaissaient en construction.
-Heureux temps que le nôtre
+Françoise, la gouvernante, se dit que ces salauds de boches s’y connaissaient en construction. ~ 
+Heureux temps que le nôtre ~ 
 Il a bien failli de faire qqch. ~ Он едва не / почти.
-Il est devenu courant que tout un chacun fasse connaître au monde sa vision "alternative" des faits.
-Il est parfois difficile de savoir ce qu'il en est.
-Il est temps que tu grandisses.
-Il existe environ un million d'associations et 20 millions de Français adhèrent au moins à l'une d'entre elles.
-Il n'y a qu'à vous laisser convaincre de faire qqch.
-Il vaut mieux que tu sois là quand ils rentreront.
+Il est devenu courant que tout un chacun fasse connaître au monde sa vision "alternative" des faits. ~ 
+Il est parfois difficile de savoir ce qu'il en est. ~ 
+Il est temps que tu grandisses. ~ 
+Il existe environ un million d'associations et 20 millions de Français adhèrent au moins à l'une d'entre elles. ~ 
+Il n'y a qu'à vous laisser convaincre de faire qqch. ~ 
+Il vaut mieux que tu sois là quand ils rentreront. ~ 
 J'ai été scotché. <fam.> ~ Отвалъ башки.
 J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то-то.
 J'y suis même plutôt bien. ~ I'm actually quite happy here.
-Jamais je n’aurais cru voir ça ici !
-Je bourais bien un café.
+Jamais je n’aurais cru voir ça ici ! ~ 
+Je bourais bien un café. ~ 
 Je me suis cru dans... ~ I feel like I was in...
-Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
-Je ne m'en suis pas rendu compte.
-Je ne m'y attendais pas.
-Je ne sais pas trop.
+Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge. ~ 
+Je ne m'en suis pas rendu compte. ~ 
+Je ne m'y attendais pas. ~ 
+Je ne sais pas trop. ~ 
 Je suis coincée ici pour une semaine, autant en profiter ! ~ I'm stuck here for a week, might as well make the most of it!
 Je suis emballé. <fam.> ~ I am thrilled.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
-Je voudrais te demander un service.
-L'important est de faire qqch.
+Je voudrais te demander un service. ~ 
+L'important est de faire qqch. ~ 
 La faute à qqch. ~ It's all due to sth.
 La réponse ne va pas de soi. ~ The answer is not obvious.
-La tour Eiffel a dû choquer au debut.
-Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !
-Mon plus beau souvenir reste à venir.
+La tour Eiffel a dû choquer au debut. ~ 
+Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents ! ~ 
+Mon plus beau souvenir reste à venir. ~ 
 On pouvait s'y attendre ~ That was to be expected
 Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
-Quel est l'objet dont on se sert pour faire qqch. ?
+Quel est l'objet dont on se sert pour faire qqch. ? ~ 
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
 Qu’importe le reste. ~ The rest doesn't matter.
-Raison de plus pour faire qqch.
-Telle est la première question.
+Raison de plus pour faire qqch. ~ 
+Telle est la première question. ~ 
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
-Tout est permis.
+Tout est permis. ~ 
 Tout fout le camp ! ~ Всё пропало!
-alors qu'ailleurs le processus de concentration n'a fait que débuter
+alors qu'ailleurs le processus de concentration n'a fait que débuter ~ 
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
-avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
-faire son possible pour [faire qqch.]
+avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch. ~ 
+faire son possible pour [faire qqch.] ~ 
 il en est / sera autrement de ~ it will be different for
 n'avoir rien à y faire ~ нечего там дѣлать
 pour que tout un chacun comprenne que... ~ so that everyone understands that...
-À quand remonte la dernière fois que vous avez fait qqch. ?
+À quand remonte la dernière fois que vous avez fait qqch. ? ~ 
 À quoi voit-on que l'on est dans un lieu d'histoire ? ~ Comment sait-on que...
 Ça devrait aller mieux. ~ Things should get better.
-Ça fait longtemps que je fais qqch.
-Ça finit par fatiguer.
+Ça fait longtemps que je fais qqch. ~ 
+Ça finit par fatiguer. ~ 
 Ça me parle ! ~ It resonates with me!
 Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
-Ça ne fait pas tout.
-Ça sera foutu.
-Ça te conviendrait de faire qqch. ?
+Ça ne fait pas tout. ~ 
+Ça sera foutu. ~ 
+Ça te conviendrait de faire qqch. ? ~ 
 Ça te dit ? ~ How about that?
 Ça y ressemble. ~ Похоже, что такъ и есть.
 сe n'est pas faute d'avoir essayé de faire qqch. ~ not for the lack of trying
 
 QUANTITÉS
-On y dénombre 10 enfants
-[faire qqch.] en majorité
+On y dénombre 10 enfants ~ 
+[faire qqch.] en majorité ~ 
 [une chose] en moins ~ [одной вещью] меньше
-de plus en plus
+de plus en plus ~ 
 en moyenne ~ on average
-en partie <-> totalement
+en partie <-> totalement ~ 
+nettement plus ~ significantly more
 peu ou prou ~ plus ou moins
 sans compter ceux qui ~ не считая тѣхъ
 un par un ~ одинъ за другимъ
@@ -456,33 +458,33 @@ un sur deux ~ каждый второй
 
 RAPPORT
 Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
-Ce qui fait la différence avec toi, c'est que moi, au moins, je...
-Il est fatigué mais il travaille pour autant
+Ce qui fait la différence avec toi, c'est que moi, au moins, je... ~ 
+Il est fatigué mais il travaille pour autant ~ 
 Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи съ ...
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
 au détriment de ~ at the expense of
-au moyen de | à l'aide de
+au moyen de | à l'aide de ~ 
 autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
-aux yeux de qqn. | à travers les yeux de qqn.
-avoir pour avantage de faire qqch.
-comparé à
+aux yeux de qqn. | à travers les yeux de qqn. ~ 
+avoir pour avantage de faire qqch. ~ 
+comparé à ~ 
 comporter | comprendre | inclure qqch. ~ включать въ себя
-concernant
+concernant ~ 
 consister à ~ consist in
-contrairement à
+contrairement à ~ 
 convenir à qqch. ~ be associated with
-dans le cadre de
+dans le cadre de ~ 
 du côté de qqch. ~ въ аспектѣ
 en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
 en fonction de ~ depending on, in terms of
-en occurrence de
+en occurrence de ~ 
 en qualité de ~ въ качествѣ
 en tant que qqn. ~ as a
-envers qqn.
+envers qqn. ~ 
 face à ~ по отношенію къ
-faire contraste
+faire contraste ~ 
 lié à qqch. ~ связанный съ
 mis à part lui ~ кромѣ него
 outre qqch./qqn. ~ помимо
@@ -491,31 +493,31 @@ par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
 qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
-sauf si | excepté si | hormis celui de
+sauf si | excepté si | hormis celui de ~ 
 se rapporter à ~ относиться
 selon le cas ~ depending on the case
 tandis que ~ whereas
-tout ce qui touche à qqch.
-vis-à-vis de
+tout ce qui touche à qqch. ~ 
+vis-à-vis de ~ 
 vu que ~ given that
-à ce qui concerne
-à condition de / que
+à ce qui concerne ~ 
+à condition de / que ~ 
 à force d'être ~ въ силу
-à moins de / que
+à moins de / que ~ 
 à mon égard ~ по отношенію ко мнѣ
 à part qqch. ~ apart from
 
 SENTIMENTS
-se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
+se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que ~ 
 
 TEMPS
-(tout) à la fois
-Actuellement,
+(tout) à la fois ~ 
+Actuellement, ~ 
 En pleine qqch. ? ~ Въ разгаръ чего-л.?
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 après coup ~ after the fact
-après qqch./avoir fait qqch./que | une fois que
+après qqch./avoir fait qqch./que | une fois que ~ 
 au bout de 20 ans / quelque temps ~ after 20 years / a while
 au cours de ~ въ теченіе
 au départ ~ поначалу
@@ -525,81 +527,81 @@ au jour le jour ~ day by day
 au plus tôt ~ самое раннее
 aussitôt ~ right away
 avant même que le réveil ne sonne, ~ еще до того какъ прозвонилъ будильникъ,
-avant qcch./de faire qqch./que | en attendant de/que | le temps de/que
-avec le temps
+avant qcch./de faire qqch./que | en attendant de/que | le temps de/que ~ 
+avec le temps ~ 
 d'emblée ~ съ перваго раза, тутъ же
-d'ici à 10 ans
+d'ici à 10 ans ~ 
 d'un bond ~ однимъ махомъ
 d'un seul coup ~ разомъ
 d'une traite ~ in one go
-dans l'avenir
+dans l'avenir ~ 
 dans la foulée ~ сразу
 de nouveau ~ заново
 depuis le tout début ~ from the very beginning
-depuis longtemps
+depuis longtemps ~ 
 depuis maintenant déjà 20 ans ~ вотъ уже 20 лѣтъ
 depuis tout ce temps-là ~ all this time
 du jour au lendemain ~ overnight
 dès le départ ~ from the very start
 dès que possible ~ ASAP
 désormais ~ from now on
-en ce moment
-en même temps
-en permanence
+en ce moment ~ 
+en même temps ~ 
+en permanence ~ 
 en premier ~ first thing
-ensuite | ultérieurement | postérieurement
+ensuite | ultérieurement | postérieurement ~ 
 entretemps ~ in the meanwhile
 jadis ~ нѣкогда, давнымъ-давно
-la première fois que qqn. avait fait qqch.
+la première fois que qqn. avait fait qqch. ~ 
 longuement ~ подолгу
 maintes fois ~ many times
 pendant ce temps ~ въ это время
-pendant que | comme | alors que
-plus que jamais
+pendant que | comme | alors que ~ 
+plus que jamais ~ 
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
-pour l'instant | pour le moment
-pour la première fois
-préalablement | auparavant | antérieurement
+pour l'instant | pour le moment ~ 
+pour la première fois ~ 
+préalablement | auparavant | antérieurement ~ 
 qqn. de toujours ~ постоянный, вѣчный
-quand | lorsque | au moment où
+quand | lorsque | au moment où ~ 
 sur le coup ~ at the time, on the spur of the moment
 tant que ~ as long as
-tout de suite
+tout de suite ~ 
 tout à coup ~ внезапно
 tout à l'heure ~ и тутъ
 tout à l’heure ~ just now
-tôt ou tard,
+tôt ou tard, ~ 
 une bonne fois pour toutes ~ once and for all
-une fois [arrivé à destination,]
+une fois [arrivé à destination,] ~ 
 une énième fois ~ въ сотый разъ
-À l'heure qu'il est,
+À l'heure qu'il est, ~ 
 Ça tombe bien / mal ~ good / bad timing
-à chaque fois
+à chaque fois ~ 
 à jamais ~ навсегда
 à l'avance ~ заранѣе
-à l'heure qu'il est,
+à l'heure qu'il est, ~ 
 à l'époque ~ back then
-à partir du moment où
+à partir du moment où ~ 
 à peine ~ едва
 à plus tard ~ на болѣе позднее время
 à tous les coups ~ every time
 
 ÉVÉNEMENTS
 Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
-Qu'est-ce qui est arrivé ?
-Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?
-avoir lieu
-débuter
-décliner
-prendre naissance
+Qu'est-ce qui est arrivé ? ~ 
+Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ? ~ 
+avoir lieu ~ 
+débuter ~ 
+décliner ~ 
+prendre naissance ~ 
 s'achever ~ завершиться
-s'amplifier
-s'étendre
-se dérouler
-se développer
-se poursuivre
-se produire
-se situer
-se terminer
-trouver son origine dans
+s'amplifier ~ 
+s'étendre ~ 
+se dérouler ~ 
+se développer ~ 
+se poursuivre ~ 
+se produire ~ 
+se situer ~ 
+se terminer ~ 
+trouver son origine dans ~ 
 être en marche ~ be underway
