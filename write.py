@@ -99,7 +99,9 @@ def restore(filepath=None, target_collname=COLLOCATIONS):
     print(f"Restoring {DB_NAME}.{target_collname} from {filepath}")
     target = MongoClient(LOCALHOST, PORT)[DB_NAME][target_collname]
     target.drop()
-    target.insert_many(list(read_csv(filepath, as_dict=True)))
+    for entry in read_csv(filepath, as_dict=True):
+        entry['trad'] = entry['trad'] or None
+        target.insert_one(entry)
     print(f"Got {target.estimated_document_count()} entries")
 
 
