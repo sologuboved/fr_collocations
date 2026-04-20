@@ -13,6 +13,12 @@ class Entries:
         return self
 
 
+def add_tag(mot, trad, tag, coll_name=COLLOCATIONS):
+    print(f"Adding {tag}...")
+    MongoClient(LOCALHOST, PORT)[DB_NAME][coll_name].insert_one({'mot': mot, 'trad': trad, tag: 'tag'})
+    print('...done')
+
+
 def by_tag(tag, drop=False):
     print(f"{tag} -> {DB_NAME}.{COLLOCATIONS}")
     entries = Entries()
@@ -42,15 +48,21 @@ def from_csv(coll_name=COLLOCATIONS, drop=False):
     print(f"Initially, {target.estimated_document_count()} entries")
     if drop:
         target.drop()
+    tags = target.distinct('tag')
     entries = list()
     for row in read_csv('mots_temp.csv', as_dict=True):
         mot = row['mot'].strip()
+        trad = row['trad'].strip()
+        tag = row['tag'].strip()
         if target.find_one({'mot': mot}):
             print(f"'{mot}' est déjà présent ; on l'omet")
             continue
+        elif tag not in tags:
+            print(f"'{tag}' n'existe pas ; on l;'omet (row {mot},{row['trad']},{tag})")
+            continue
         else:
-            row['trad'] = row['trad'].strip() or None
-            row['tag'] = row['tag'].strip()
+            row['trad'] = trad or None
+            row['tag'] = tag
             entries.append(row)
     if entries:
         target.insert_many(entries)
@@ -59,6 +71,7 @@ def from_csv(coll_name=COLLOCATIONS, drop=False):
 
 if __name__ == '__main__':
     # by_tag('phrases')
+    # add_tag(mot='', trad=None, tag='')
     from_csv(
         # coll_name=COLLOCATIONS + '_test',
     )
