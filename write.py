@@ -76,7 +76,7 @@ def to_csv():
     backups = sorted(filter(pattern.match, os.listdir('backups')))
     outdated = len(backups) - 10
     if outdated > 0:
-        print(f"Removing {outdated} files...")
+        print(f"Removing {outdated} file(s)...")
         for index in range(outdated):
             os.remove(os.path.join('backups', backups[index]))
         print("...done deleting redundant files")

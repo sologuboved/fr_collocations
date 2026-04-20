@@ -101,6 +101,7 @@ Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
 [J'aime] particulièrement
 [en demander] encore davantage ~ even more
+[la présence de cathares en Navarre n’est] aucunement [avérée]
 [se consacrer] uniquement [à]
 apparemment
 au mieux ~ at best
@@ -127,6 +128,7 @@ en tout cas
 et tout à l'avenant ~ and so on
 fortement | massivement
 guère
+logiquement
 nettement plus ~ significantly more
 outre qqch. ~ помимо
 par ailleurs | en outre ~ moreover
@@ -154,6 +156,7 @@ tout à fait ~ quite
 toutefois ~ however
 visiblement ~ явно
 voire ~ and even
+vraisemblablement ~ presumably
 à l'occasion de ~ по случаю
 à la place de
 à répétition ~ повторяющійся
@@ -202,6 +205,7 @@ de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
 donner d'ailleurs raison
+désespérément ~ hopelessly
 en activité ~ дѣйствующій
 en alternance ~ чередуя
 en boucle ~ по кругу
@@ -326,6 +330,7 @@ dans le sens où cela allie qqch. et qqch.
 de plus
 en plus ~ кромѣ того
 en résumé ~ короче говоря
+et à vrai dire ~ по правдѣ говоря
 inversement ~ наоборотъ
 laisser qqch. de côté
 mazette ~ ухъ ты
@@ -480,6 +485,7 @@ face à ~ по отношенію къ
 faire contraste
 lié à qqch. ~ связанный съ
 mis à part lui ~ кромѣ него
+outre qqch./qqn. ~ помимо
 par contraste avec qqch., ~ въ отличіе отъ
 par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
