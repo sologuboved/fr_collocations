@@ -80,7 +80,7 @@ J'y suis même plutôt bien.,I'm actually quite happy here.,phrases
 Jamais je n’aurais cru voir ça ici !,,phrases
 Je bourais bien un café.,,phrases
 Je compte parmi les femmes à ne pas pouvoir faire qqch.,,généralisations
-Je crois fermement que,,paroles
+Je crois fermement que,,adverbes
 Je me suis cru dans...,I feel like I was in...,phrases
 Je n'ai pas retenu qqch.,,mémoire
 Je n'arrive pas à m'en souvenir.,,mémoire
@@ -139,13 +139,13 @@ Telle est la première question.,,phrases
 Tout est permis.,,phrases
 Tout fout le camp !,Всё пропало!,phrases
 "Une fois que j'aurai terminé ma formation, j'espère devenir éditrice.",Once I have...,temps
-[J'aime] particulièrement,,divers
+[J'aime] particulièrement,,adverbes
 [créer] de toutes pièces,from scratch,figé
 [en demander] encore davantage,even more,divers
 [faire qqch.] en majorité,,quantités
-[la présence de cathares en Navarre n’est] aucunement [avérée],,divers
+[la présence de cathares en Navarre n’est] aucunement [avérée],,adverbes
 [ne pas changer] grand-chose,,figé
-[se consacrer] uniquement [à],,divers
+[se consacrer] uniquement [à],,adverbes
 [une chose] en moins,[одной вещью] меньше,quantités
 adhérer à | s'inscrire à | rejoindre | intégrer,,coopération
 afin de | en vue de | pour,,causalité
@@ -159,7 +159,7 @@ alors,,causalité
 alors qu'ailleurs le processus de concentration n'a fait que débuter,,phrases
 alors qu'on imagine mal qqn. faire qqch.,whereas it's hard to imagine,phrases
 alors que,"даромъ что, тогда какъ",rapport
-apparemment,,divers
+apparemment,,adverbes
 après coup,after the fact,temps
 après qqch./avoir fait qqch./que | une fois que,,temps
 aspirer à faire qqch,стремиться,causalité
@@ -185,7 +185,7 @@ au sens de,въ смыслѣ,paroles
 au sens propre / figuré,,paroles
 aussitôt,right away,temps
 autant qqch. que qqch.,"въ той же мѣрѣ ..., что и ...",rapport
-autrement,по-другому,divers
+autrement,по-другому,adverbes
 autrement dit,иными словами,paroles
 aux yeux de qqn. | à travers les yeux de qqn.,,rapport
 "avant même que le réveil ne sonne,","еще до того какъ прозвонилъ будильникъ,",temps
@@ -204,11 +204,11 @@ bien entendu,,divers
 bon débarras,good riddance,figé
 bon gré mal gré,,figé
 bon vieux,good old,figé
-carrément,downright,divers
+carrément,downright,adverbes
 causer,,causalité
 ce qui lui est arrivé,,actions
 cependant,,paroles
-certainement | certes,,divers
+certainement | certes,,paroles
 chemin faisant,on the way,figé
 chercher à faire qqch.,,causalité
 comme,,causalité
@@ -219,7 +219,7 @@ compte tenu de qqch.,учитывая,considérations
 concernant,,rapport
 conduire à,,causalité
 connaître / savoir qqch. sur le bout des doigts,знать какъ свои пять пальцев,figé
-considérablement,,divers
+considérablement,,adverbes
 consister à,consist in,rapport
 contrairement à,,rapport
 contre son gré | à contre-cœur,,figé
@@ -272,11 +272,11 @@ du sien,on one's own,divers
 dès le départ,from the very start,temps
 dès que possible,ASAP,temps
 débuter,,événements
-décidément,definitely,divers
+décidément,definitely,adverbes
 décliner,,événements
-désespérément,hopelessly,figé
+désespérément,hopelessly,adverbes
 désormais,from now on,temps
-effectivement,"въ самомъ дѣлѣ, фактически",divers
+effectivement,"въ самомъ дѣлѣ, фактически",adverbes
 en activité,дѣйствующій,figé
 en alternance,чередуя,figé
 en boucle,по кругу,figé
@@ -330,7 +330,7 @@ faute de,за недостаткомъ,figé
 favoriser,способствовать,causalité
 finir dans les délais,,figé
 forcer qqn. à faire qqch.,,actions
-fortement | massivement,,divers
+fortement | massivement,,adverbes
 grâce à,,causalité
 guère,,divers
 hors d’atteinte pour qqn.,внѣ досягаемости,déplacements
@@ -345,7 +345,7 @@ laisser qqch. de côté,,paroles
 le baratin,bullshit,figé
 le strict nécessaire,,figé
 lié à qqch.,связанный съ,rapport
-logiquement,,divers
+logiquement,,adverbes
 longuement,подолгу,temps
 maintes fois,many times,temps
 mazette,ухъ ты,paroles
@@ -356,7 +356,7 @@ mouais,ну да,paroles
 n'arriver pas à faire qqch.,,actions
 n'avoir rien à y faire,нечего там дѣлать,phrases
 n'en avoir que faire,couldn't care less,actions
-nettement plus,significantly more,divers
+nettement plus,significantly more,quantités
 occasionner,,causalité
 on pourrait se dire que,one might think that,paroles
 outre qqch.,помимо,divers
@@ -387,7 +387,7 @@ perdre du temps à faire qqch.,,figé
 permettre de,,causalité
 peu importe,,divers
 peu ou prou,plus ou moins,quantités
-pleinement,полностью,divers
+pleinement,полностью,adverbes
 plus que jamais,,temps
 "ponctuellement, régulièrement ou de façon permanente","на разовой, регулярной или постоянной основѣ",temps
 pour ainsi dire | c'est-à-dire | on va dire | à peu près,,paroles
@@ -404,7 +404,7 @@ pousser qqn. à faire qqch.,drive smb. to do sth.,actions
 prendre en compte,,considérations
 prendre en considération,,considérations
 prendre naissance,,événements
-prioritairement,преимущественно,divers
+prioritairement,преимущественно,adverbes
 procurer,,causalité
 produire,,causalité
 projeter de faire qqch.,,causalité
@@ -460,7 +460,7 @@ tandis que,whereas,rapport
 tant attendu,long-awaited,figé
 tant mieux,,divers
 tant que,as long as,temps
-techniquement,,divers
+techniquement,,adverbes
 tel(s) / telle(s) que,such as,divers
 tenir compte de qqch.,to take something into account,considérations
 tenir pour acquis,accept as a given,considérations
@@ -491,10 +491,10 @@ venir de faire qqch.,,actions
 venir | provenir de,,causalité
 vis-à-vis de,,rapport
 viser à faire qqch.,,causalité
-visiblement,явно,divers
+visiblement,явно,adverbes
 voire,and even,divers
 voyer tout en noir,,figé
-vraisemblablement,presumably,divers
+vraisemblablement,presumably,adverbes
 vu que,given that,rapport
 y aller fort,перегибать палку,actions
 À croire que,It was as if,considérations
@@ -556,7 +556,7 @@ y aller fort,перегибать палку,actions
 à tous égards,in all respects,divers
 à une échelle réduite,on a small scale,quantités
 étant donné que,,causalité
-éventuellement,"по обстоятельствамъ, возможно",divers
+éventuellement,"по обстоятельствамъ, возможно",adverbes
 évoquer un souvenir,,mémoire
 être au cœur de qqch.,,figé
 être causé par,,causalité
