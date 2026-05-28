@@ -25,6 +25,7 @@ autrement ~ по-другому
 carrément ~ downright
 considérablement
 décidément ~ definitely
+délibérément ~ цѣленаправленно
 désespérément ~ hopelessly
 effectivement ~ въ самомъ дѣлѣ, фактически
 fortement | massivement
@@ -122,6 +123,7 @@ Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
 au mieux ~ at best
+aucunement ~ pas du tout
 avant tout ~ прежде всего
 bien entendu
 d'ailleurs | au fait ~ кстати говоря
@@ -188,6 +190,7 @@ aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
 au cas où | à tout hasard ~ just in case
+au choix
 au figuré ~ въ переносномъ смыслѣ
 au premier regard, ~ на первый взглядъ
 avoir pour but de faire qqch.
@@ -328,9 +331,11 @@ certainement | certes
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 dans le sens où cela allie qqch. et qqch.
+de façon générale ~ generally speaking
 de plus
 en plus ~ кромѣ того
 en résumé ~ короче говоря
+et tout simplement ~ и просто
 inversement ~ наоборотъ
 laisser qqch. de côté
 mazette ~ ухъ ты
@@ -486,6 +491,7 @@ envers qqn.
 face à ~ по отношенію къ
 faire contraste
 lié à qqch. ~ связанный съ
+malgré tout
 mis à part lui ~ кромѣ него
 outre qqch./qqn. ~ помимо
 par contraste avec qqch., ~ въ отличіе отъ
@@ -503,6 +509,7 @@ vu que ~ given that
 à ce qui concerne
 à condition de / que
 à force d'être ~ въ силу
+à la différence d'autres ~ въ отличіе отъ прочихъ
 à moins de / que
 à mon égard ~ по отношенію ко мнѣ
 à part qqch. ~ apart from
@@ -551,6 +558,7 @@ en permanence
 en premier ~ first thing
 ensuite | ultérieurement | postérieurement
 entretemps ~ in the meanwhile
+irrégulièrement
 jadis ~ нѣкогда, давнымъ-давно
 la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
@@ -584,6 +592,7 @@ une énième fois ~ въ сотый разъ
 à partir du moment où
 à peine ~ едва
 à plus tard ~ на болѣе позднее время
+à plusieurs reprises
 à tous les coups ~ every time
 
 ÉVÉNEMENTS
