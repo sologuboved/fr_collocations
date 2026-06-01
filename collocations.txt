@@ -24,14 +24,18 @@ apparemment
 autrement ~ по-другому
 carrément ~ downright
 considérablement
+couramment ~ fluently / habitually
 décidément ~ definitely
 délibérément ~ цѣленаправленно
 désespérément ~ hopelessly
 effectivement ~ въ самомъ дѣлѣ, фактически
+empiriquement
+explicitement ~ explicitely
 fortement | massivement
 logiquement
 pleinement ~ полностью
 prioritairement ~ преимущественно
+quasiment ~ практически, почти что
 techniquement
 visiblement ~ явно
 vraisemblablement ~ presumably
@@ -129,6 +133,7 @@ bien entendu
 d'ailleurs | au fait ~ кстати говоря
 davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
+de même que ~ такъ же какъ
 de surcroît | de surplus ~ болѣе того
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
@@ -204,6 +209,7 @@ connaître / savoir qqch. sur le bout des doigts ~ знать какъ свои 
 contre son gré | à contre-cœur
 d'elle-même ~ on her own
 d'occasion ~ second-hand
+d'un coup ~ рѣзко, однимъ махомъ
 dans l'ordre ~ по порядку
 de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
@@ -243,6 +249,7 @@ par sécurité ~ for safety
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 pour paradoxe
+pêle-mêle ~ вперемешку
 qu'à cela ne tienne ~ peu importe !, ça ne fait rien, ну и ладно
 sans effort
 se mettre à faire qqch. ~ приняться за
@@ -295,6 +302,7 @@ Alors à mon tour, ~ Въ свою очередь, я
 C'est dans ce sens que...
 C'est hors de question !
 Ce n'est rien à tout que...
+Comme dit plus haut
 Comment dit-on "..." en français ?
 Côté de...,
 Eh bien moi, je pense que
@@ -323,6 +331,7 @@ Quant à ...,
 Que dire d'autre?
 Suis-je bête ! Cela m'avait échappé.
 au bout du compte ~ въ конечномъ счетѣ
+au premier regard ~ на первый взглядъ
 au sens de ~ въ смыслѣ
 au sens propre / figuré
 autrement dit ~ иными словами
@@ -333,6 +342,7 @@ d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 dans le sens où cela allie qqch. et qqch.
 de façon générale ~ generally speaking
 de plus
+en peu de mots ~ вкратцѣ
 en plus ~ кромѣ того
 en résumé ~ короче говоря
 et tout simplement ~ и просто
@@ -345,6 +355,7 @@ on pourrait se dire que ~ one might think that
 par contre
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour autant que je me souvienne, ~ as far as I remember
+pour le moins ~ мягко говоря
 pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
 pourtant
@@ -420,6 +431,7 @@ Quel est l'objet dont on se sert pour faire qqch. ?
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
 Qu’importe le reste. ~ The rest doesn't matter.
 Raison de plus pour faire qqch.
+Rien de tel ici. ~ Ничего подобнаго здѣсь.
 Telle est la première question.
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
 Tout est permis.
@@ -428,6 +440,7 @@ alors qu'ailleurs le processus de concentration n'a fait que débuter
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
+de ... se dégage l’impression que ...
 faire son possible pour [faire qqch.]
 il en est / sera autrement de ~ it will be different for
 n'avoir rien à y faire ~ нечего там дѣлать
@@ -466,10 +479,12 @@ Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
 Ce qui fait la différence avec toi, c'est que moi, au moins, je...
 Il est fatigué mais il travaille pour autant
 Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи съ ...
+S’agissant de l’Ancien Régime, il importe de...
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
 au détriment de ~ at the expense of
 au moyen de | à l'aide de
+au regard de ~ with regard to
 autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
 aux yeux de qqn. | à travers les yeux de qqn.
 avoir pour avantage de faire qqch.
@@ -589,6 +604,7 @@ une énième fois ~ въ сотый разъ
 à l'avance ~ заранѣе
 à l'heure qu'il est,
 à l'époque ~ back then
+à maintes reprises ~ многократно
 à partir du moment où
 à peine ~ едва
 à plus tard ~ на болѣе позднее время

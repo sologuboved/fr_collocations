@@ -31,6 +31,7 @@ Ce n'est pas pour autant que | sans pour autant,that doesn't mean,rapport
 Ce n'est rien à tout que...,,paroles
 "Ce qui fait la différence avec toi, c'est que moi, au moins, je...",,rapport
 Cela peut valoir la peine.,Можетъ стоить того.,phrases
+Comme dit plus haut,,paroles
 "Comment dit-on ""..."" en français ?",,paroles
 Comment faites-vous pour faire qqch. ?,How do you go about doing something?,phrases
 Comment se déroule votre travail ?,How is your work going?,phrases
@@ -131,8 +132,10 @@ Quelle tuile ! C'était foutu !,What a disaster! It was all over!,phrases
 Qu’importe ce que...,Какая разница,divers
 Qu’importe le reste.,The rest doesn't matter.,phrases
 Raison de plus pour faire qqch.,,phrases
+Rien de tel ici.,Ничего подобнаго здѣсь.,phrases
 "Résultat,",Въ рѣзультатѣ,causalité
 Suis-je bête ! Cela m'avait échappé.,,paroles
+"S’agissant de l’Ancien Régime, il importe de...",,rapport
 Tant mieux.,Тѣмъ лучше.,divers
 Telle est la première question.,,phrases
 "Ton projet, c'est justement ce dont je me méfie !",Your project is precisely what I'm wary of!,phrases
@@ -180,7 +183,9 @@ au jour le jour,day by day,temps
 au mieux,at best,divers
 au moyen de | à l'aide de,,rapport
 au plus tôt,самое раннее,temps
+au premier regard,на первый взглядъ,paroles
 "au premier regard,",на первый взглядъ,figé
+au regard de,with regard to,rapport
 au sein de,within,déplacements
 au sens de,въ смыслѣ,paroles
 au sens propre / figuré,,paroles
@@ -227,6 +232,7 @@ contrairement à,,rapport
 contre son gré | à contre-cœur,,figé
 convenir à qqch.,be associated with,rapport
 coopérer avec | être solidaire avec | collaborer,,coopération
+couramment,fluently / habitually,adverbes
 créer,,causalité
 côté à côté,side by side,déplacements
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après,,paroles
@@ -238,6 +244,7 @@ d'ici à 10 ans,,temps
 d'occasion,second-hand,figé
 d'où,отсюда,causalité
 d'un bond,однимъ махомъ,temps
+d'un coup,"рѣзко, однимъ махомъ",figé
 d'un seul coup,разомъ,temps
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche,,paroles
 d'une traite,in one go,temps
@@ -248,12 +255,14 @@ dans le but de faire qqch. | Dans quel but ?,,causalité
 dans le cadre de,,rapport
 dans le sens où cela allie qqch. et qqch.,,paroles
 davantage les... que les...,"скорѣе ..., нежели ...",divers
+de ... se dégage l’impression que ...,,phrases
 de cette façon | ainsi,такимъ образомъ,divers
 de façon générale,generally speaking,paroles
 de l'extérieur,на видъ,figé
 de la tête aux pieds,съ головы до ногъ,figé
 de mal en pis,from bad to worse,figé
 de mal en pis from,bad to worse,figé
+de même que,такъ же какъ,divers
 de nouveau,заново,temps
 de plus,,paroles
 de plus en plus,,quantités
@@ -281,6 +290,7 @@ délibérément,цѣленаправленно,adverbes
 désespérément,hopelessly,adverbes
 désormais,from now on,temps
 effectivement,"въ самомъ дѣлѣ, фактически",adverbes
+empiriquement,,adverbes
 en activité,дѣйствующій,figé
 en alternance,чередуя,figé
 en boucle,по кругу,figé
@@ -300,6 +310,7 @@ en occurrence de,,rapport
 en partant de rien,съ нуля,figé
 en partie <-> totalement,,quantités
 en permanence,,temps
+en peu de mots,вкратцѣ,paroles
 en plein essor,on the rise,figé
 en pleine ville | en plein Paris,въ самомъ/ой,déplacements
 en plus,кромѣ того,paroles
@@ -324,6 +335,7 @@ envers qqn.,,rapport
 envisager qqch. / de faire qqch.,to consider,considérations
 et tout simplement,и просто,paroles
 et tout à l'avenant,and so on,divers
+explicitement,explicitely,adverbes
 face à,по отношенію къ,rapport
 faire contraste,,rapport
 faire exprès de faire qqch.,,figé
@@ -400,6 +412,7 @@ pour ainsi dire | c'est-à-dire | on va dire | à peu près,,paroles
 "pour autant que je me souvienne,",as far as I remember,paroles
 pour l'instant | pour le moment,,temps
 pour la première fois,,temps
+pour le moins,мягко говоря,paroles
 pour ma part | en ce qui me concerne,as for me,paroles
 pour paradoxe,,figé
 pour que tout un chacun comprenne que...,so that everyone understands that...,phrases
@@ -418,11 +431,13 @@ provoquer,,causalité
 préalablement | auparavant | antérieurement,,temps
 prêter à conséquences,,causalité
 puisque,поскольку,causalité
+pêle-mêle,вперемешку,figé
 qqch. en est un (autre),другой примѣръ того же,rapport
 qqn. de toujours,"постоянный, вѣчный",temps
 qu'à cela ne tienne,"peu importe !, ça ne fait rien, ну и ладно",figé
 quand même,anyway,divers
 quand | lorsque | au moment où,,temps
+quasiment,"практически, почти что",adverbes
 "que ce soit qqch. ou qqch.,","будь то ... или ...,",divers
 quels que soient,"whatever, regardless of",rapport
 qui me / lui / leur est / sont propre(s),свой собственный,divers
@@ -547,6 +562,7 @@ y aller fort,перегибать палку,actions
 à la main,вручную,figé
 à la place de,,divers
 à la pointe (de la technologie),at the cutting edge,figé
+à maintes reprises,многократно,temps
 à mi-chemin entre qqch. et qqch.,,figé
 à moins de / que,,rapport
 à moitié,наполовину,quantités
