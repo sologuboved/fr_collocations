@@ -198,7 +198,6 @@ au cas où | à tout hasard ~ just in case
 au choix
 au figuré ~ въ переносномъ смыслѣ
 au premier regard, ~ на первый взглядъ
-avoir pour but de faire qqch.
 bel et bien
 bon débarras ~ good riddance
 bon gré mal gré
@@ -255,6 +254,7 @@ sans effort
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
 tant attendu ~ long-awaited
+tant pis ~ что подѣлаешь
 un mal pour un bien ~ нѣтъ худа безъ добра
 une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
@@ -280,7 +280,11 @@ Je compte parmi les femmes à ne pas pouvoir faire qqch.
 Je ne me compte pas parmi eux.
 Je suis du genre à me tétaniser d'horreur en faisant qqch.
 du même type
+une espèce de qqch. ~ своего рода
 être de plus en plus nombreux à faire qqch.
+
+MISES
+mettre à jour
 
 MÉMOIRE
 Désolé, c'est un oubli.
@@ -472,6 +476,7 @@ sans compter ceux qui ~ не считая тѣхъ
 un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
 à moitié ~ наполовину
+à peu de chose près ~ практически, въ той или иной степени
 à une échelle réduite ~ on a small scale
 
 RAPPORT
