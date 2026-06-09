@@ -56,6 +56,7 @@ Est-ce que tu t'intéresses à la musique ?,,phrases
 Et vous allez trouver ce budget de quelle manière ?,Какимъ образомъ?,phrases
 "Et, d’une certaine manière, c'est ce qui s'est produit.",Cela est arrivé.,événements
 Fais-moi signe quand tu peux te libérer.,Let me know when you can get away.,phrases
+"Faute de [mieux, je fais avec ce que j'ai.]","For lack of anything better, I make do with what I have.",divers
 "Françoise, la gouvernante, se dit que ces salauds de boches s’y connaissaient en construction.",,phrases
 Heureux temps que le nôtre,,phrases
 Il a bien failli de faire qqch.,Он едва не / почти.,phrases
@@ -182,6 +183,7 @@ au fur et à mesure que | tant que | aussi longtemps que,по мѣрѣ,temps
 au jour le jour,day by day,temps
 au mieux,at best,divers
 au moyen de | à l'aide de,,rapport
+au même titre que qqch. / qn.,in the same way as,divers
 au plus tôt,самое раннее,temps
 au premier regard,на первый взглядъ,paroles
 "au premier regard,",на первый взглядъ,figé
@@ -236,6 +238,7 @@ créer,,causalité
 côté à côté,side by side,déplacements
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après,,paroles
 d'ailleurs | au fait,кстати говоря,divers
+d'autant que,тѣм болѣе что,quantités
 d'elle-même,on her own,figé
 d'emblée,"съ перваго раза, тутъ же",temps
 d'en face,across the street,déplacements
@@ -274,6 +277,7 @@ depuis tout ce temps-là,all this time,temps
 des conséquences | effets | suites,,causalité
 developper,,causalité
 donner d'ailleurs raison,,figé
+donner le meilleur de lui-même,do one's best,actions
 du coup,therefore,causalité
 du côté de qqch.,въ аспектѣ,rapport
 du jour au lendemain,overnight,temps
@@ -297,11 +301,13 @@ en ce moment,,temps
 en comparaison de | auprès de,по сравненію съ,rapport
 en concert avec,"совмѣстно, заодно",figé
 en cours de,"въ ходѣ, въ процессѣ",rapport
+en dépit de,in spite of,divers
 en déplacement,въ дорогѣ,figé
 en fonction de,"depending on, in terms of",rapport
 en gros,"в цѣлом, грубо говоря",divers
 en guise de qqch,by way of,divers
 en harmonie | en phase avec,,figé
+en lieu de,,divers
 en lui-même,само по себѣ,divers
 en moyenne,on average,quantités
 en même temps,,temps
@@ -334,6 +340,7 @@ envers qqn.,,rapport
 envisager qqch. / de faire qqch.,to consider,considérations
 et tout simplement,и просто,paroles
 et tout à l'avenant,and so on,divers
+exagérément,exaggeratedly,adverbes
 explicitement,explicitely,adverbes
 face à,по отношенію къ,rapport
 faire contraste,,rapport
@@ -346,6 +353,7 @@ favoriser,способствовать,causalité
 finir dans les délais,,figé
 forcer qqn. à faire qqch.,,actions
 fortement | massivement,,adverbes
+fâcheusement,annoyingly,adverbes
 grâce à,,causalité
 guère,,divers
 hors d’atteinte pour qqn.,внѣ досягаемости,déplacements
@@ -354,6 +362,7 @@ il n'en était pas ainsi,that was not the case,figé
 inversement,наоборотъ,paroles
 irrégulièrement,,temps
 jadis,"нѣкогда, давнымъ-давно",temps
+joliment,beautifully,adverbes
 l'air de rien,,figé
 la donne,раскладъ,figé
 la première fois que qqn. avait fait qqch.,,temps
@@ -366,10 +375,18 @@ longuement,подолгу,temps
 maintes fois,many times,temps
 malgré tout,,rapport
 mazette,ухъ ты,paroles
+mettre au point,fine-tune,mises
 mettre dans une parenthèse,,paroles
+mettre en cause,ставить под сомнение,mises
+mettre en place,настраивать,mises
+mettre en œuvre,,mises
 mettre qqn. au courant,,considérations
+mettre un certain temps à faire qqch.,,mises
+mettre un point final à,,mises
 mettre à jour,,mises
+mettre à profit,take advantage,mises
 mis à part lui,кромѣ него,rapport
+modestement,скромно,adverbes
 mouais,ну да,paroles
 n'arriver pas à faire qqch.,,actions
 n'avoir rien à y faire,нечего там дѣлать,phrases
@@ -429,6 +446,7 @@ produire,,causalité
 projeter de faire qqch.,,causalité
 provoquer,,causalité
 préalablement | auparavant | antérieurement,,temps
+prématurément,,adverbes
 prêter à conséquences,,causalité
 puisque,поскольку,causalité
 pêle-mêle,вперемешку,figé
@@ -439,6 +457,7 @@ quand même,anyway,divers
 quand | lorsque | au moment où,,temps
 quasiment,"практически, почти что",adverbes
 "que ce soit qqch. ou qqch.,","будь то ... или ...,",divers
+que non pas,not at all,divers
 quels que soient,"whatever, regardless of",rapport
 qui me / lui / leur est / sont propre(s),свой собственный,divers
 quitte à faire qqch.,"even if it means to, at the risk of, разъ ужъ",divers
@@ -455,6 +474,7 @@ s'expliquer par,,causalité
 s'occuper de | assister | aider | soutenir | appuyer | secourir,,coopération
 s'étendre,,événements
 s'ôter de l'esprit qqch.,выбросить изъ головы,mémoire
+sans aucun doute,,paroles
 sans compter ceux qui,не считая тѣхъ,quantités
 sans doute,,divers
 sans effort,,figé
@@ -477,6 +497,7 @@ selon | d'après | à en croire | aux yeux de,,paroles
 sous toutes les coutures,from every angle,figé
 sur le coup,"at the time, on the spur of the moment",temps
 surtout,above all,divers
+systématiquement,,adverbes
 tandis que,whereas,rapport
 tant attendu,long-awaited,figé
 tant mieux,,divers
@@ -564,6 +585,7 @@ y aller fort,перегибать палку,actions
 à la main,вручную,figé
 à la place de,,divers
 à la pointe (de la technologie),at the cutting edge,figé
+à l’instar de,наподобіе,divers
 à maintes reprises,многократно,temps
 à mi-chemin entre qqch. et qqch.,,figé
 à moins de / que,,rapport
@@ -578,7 +600,7 @@ y aller fort,перегибать палку,actions
 à plusieurs reprises,,temps
 à proprement parler | proprement dit(e),,paroles
 à répétition,повторяющійся,divers
-à titre de,въ знакъ,figé
+à titre de,въ знакъ,divers
 à tous les coups,every time,temps
 à tous égards,in all respects,divers
 à une échelle réduite,on a small scale,quantités

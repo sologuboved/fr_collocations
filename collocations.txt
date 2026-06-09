@@ -3,6 +3,7 @@ Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
 Je ne peux pas m'en passer. ~ I can't do without it.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
 ce qui lui est arrivé
+donner le meilleur de lui-même ~ do one's best
 forcer qqn. à faire qqch.
 n'arriver pas à faire qqch.
 n'en avoir que faire ~ couldn't care less
@@ -30,12 +31,18 @@ délibérément ~ цѣленаправленно
 désespérément ~ hopelessly
 effectivement ~ въ самомъ дѣлѣ, фактически
 empiriquement
+exagérément ~ exaggeratedly
 explicitement ~ explicitely
 fortement | massivement
+fâcheusement ~ annoyingly
+joliment ~ beautifully
 logiquement
+modestement ~ скромно
 pleinement ~ полностью
 prioritairement ~ преимущественно
+prématurément
 quasiment ~ практически, почти что
+systématiquement
 techniquement
 visiblement ~ явно
 vraisemblablement ~ presumably
@@ -122,11 +129,13 @@ Après tout, ~ after all
 C'est aussi quelque part un... ~ in a way
 De quelle façon ... ? ~ Какимъ образомъ
 Elle ne fait que faire qqch.
+Faute de [mieux, je fais avec ce que j'ai.] ~ For lack of anything better, I make do with what I have.
 Pour autant, ~ however
 Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
 au mieux ~ at best
+au même titre que qqch. / qn. ~ in the same way as
 aucunement ~ pas du tout
 avant tout ~ прежде всего
 bien entendu
@@ -137,8 +146,10 @@ de même que ~ такъ же какъ
 de surcroît | de surplus ~ болѣе того
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
+en dépit de ~ in spite of
 en gros ~ в цѣлом, грубо говоря
 en guise de qqch ~ by way of
+en lieu de
 en lui-même ~ само по себѣ
 en quelque sorte ~ въ своемъ родѣ
 en règle générale ~ as a general rule
@@ -154,6 +165,7 @@ pas tellement ~ not so much
 peu importe
 quand même ~ anyway
 que ce soit qqch. ou qqch., ~ будь то ... или ...,
+que non pas ~ not at all
 qui me / lui / leur est / sont propre(s) ~ свой собственный
 quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
 quoi que ce soit ~ что бы то ни было
@@ -169,7 +181,9 @@ toutefois ~ however
 voire ~ and even
 à l'occasion de ~ по случаю
 à la place de
+à l’instar de ~ наподобіе
 à répétition ~ повторяющійся
+à titre de ~ въ знакъ
 à tous égards ~ in all respects
 
 DÉPLACEMENTS
@@ -268,7 +282,6 @@ voyer tout en noir
 à la pointe (de la technologie) ~ at the cutting edge
 à mi-chemin entre qqch. et qqch.
 à part entière ~ полноправный
-à titre de ~ въ знакъ
 être au cœur de qqch.
 être de sa faute
 être en droit de faire qqch. ~ имѣть право
@@ -284,7 +297,14 @@ une espèce de qqch. ~ своего рода
 être de plus en plus nombreux à faire qqch.
 
 MISES
+mettre au point ~ fine-tune
+mettre en cause ~ ставить под сомнение
+mettre en place ~ настраивать
+mettre en œuvre
+mettre un certain temps à faire qqch.
+mettre un point final à
 mettre à jour
+mettre à profit ~ take advantage
 
 MÉMOIRE
 Désolé, c'est un oubli.
@@ -364,6 +384,7 @@ pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
 pourtant
 rebelote ~ here we go again
+sans aucun doute
 selon | d'après | à en croire | aux yeux de
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
@@ -467,6 +488,7 @@ QUANTITÉS
 On y dénombre 10 enfants
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
+d'autant que ~ тѣм болѣе что
 de plus en plus
 en moyenne ~ on average
 en partie <-> totalement
