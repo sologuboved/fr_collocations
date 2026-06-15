@@ -6,6 +6,7 @@ mot,trad,tag
 (tout) à la fois,,temps
 ", c'est bien connu,",,paroles
 ", mais sait-on jamais ? | Qui sait ?",,paroles
+", mettons,","допустимъ,",paroles
 ", paraît-il,",,paroles
 ", à tort,",,figé
 - Je te revaudrai ça. - J'espère bien !,За мной должокъ.,phrases
@@ -74,6 +75,7 @@ Il n'y a qu'à vous laisser convaincre de faire qqch.,,phrases
 Il ne me revient pas.,,mémoire
 Il s'est avéré que...,,paroles
 Il vaut mieux que tu sois là quand ils rentreront.,,phrases
+J'ai dû faire qqch.,"Должно быть, я...",actions
 J'ai un trou de mémoire.,,mémoire
 J'ai été scotché. <fam.>,Отвалъ башки.,phrases
 J'avoue que...,,paroles
@@ -95,6 +97,7 @@ Je ne me compte pas parmi eux.,,généralisations
 Je ne peux pas m'en passer.,I can't do without it.,actions
 Je ne sais pas trop.,,phrases
 Je ne suis pas certaine de comprendre.,,paroles
+Je serais bien en peine de faire qqch.,I would be hard-pressed to do sth.,actions
 "Je suis coincée ici pour une semaine, autant en profiter !","I'm stuck here for a week, might as well make the most of it!",phrases
 Je suis du genre à me tétaniser d'horreur en faisant qqch.,,généralisations
 Je suis emballé. <fam.>,I am thrilled.,phrases
@@ -118,6 +121,7 @@ On sait que...,,paroles
 On voit bien que...,We can clearly see...,paroles
 On y dénombre 10 enfants,,quantités
 "Ou bien, variante,","Или скорѣе, какъ варiантъ,",paroles
+Partons de ces derniers.,Начнемъ со вторыхъ.,paroles
 Place à la musique !,Time for music!,phrases
 "Pour autant,",however,divers
 Qu'en est-il de...,Какъ насчетъ,paroles
@@ -192,10 +196,12 @@ au même titre que qqch. / qn.,in the same way as,divers
 au plus tôt,самое раннее,temps
 au premier regard,на первый взглядъ,paroles
 "au premier regard,",на первый взглядъ,figé
+au ralenti,въ замедленной съемкѣ,figé
 au regard de,with regard to,rapport
 au sein de,within,déplacements
 au sens de,въ смыслѣ,paroles
 au sens propre / figuré,,paroles
+au sens strict du terme,,paroles
 aucunement,pas du tout,divers
 aussitôt,right away,temps
 autant qqch. que qqch.,"въ той же мѣрѣ ..., что и ...",rapport
@@ -214,6 +220,7 @@ avoir pour avantage de faire qqch.,,rapport
 avoir pour but de faire qqch.,,causalité
 avoir pour conséquence qqch.,,causalité
 avoir pour fonction | rôle de faire qqch.,,causalité
+avoir pour seul trait commun de faire qqch.,,phrases
 bel et bien,,figé
 bien entendu,,divers
 bien évidemment,,adverbes
@@ -239,6 +246,7 @@ considérablement,,adverbes
 consister à,consist in,rapport
 contrairement à,,rapport
 contre son gré | à contre-cœur,,figé
+convenablement,"properly, reasonabley",adverbes
 convenir à qqch.,be associated with,rapport
 coopérer avec | être solidaire avec | collaborer,,coopération
 couramment,fluently / habitually,adverbes
@@ -267,7 +275,7 @@ dans le sens où cela allie qqch. et qqch.,,paroles
 davantage les... que les...,"скорѣе ..., нежели ...",divers
 de ... se dégage l’impression que ...,,phrases
 de cette façon | ainsi,такимъ образомъ,divers
-de façon générale,generally speaking,paroles
+de façon générale | d'une façon plus générale,generally speaking,paroles
 de l'extérieur,на видъ,figé
 de la tête aux pieds,съ головы до ногъ,figé
 de mal en pis,from bad to worse,figé
@@ -279,6 +287,7 @@ de plus,,paroles
 de plus en plus,,quantités
 de sorte que,"cъ тѣмъ, чтобы",causalité
 de surcroît | de surplus,болѣе того,divers
+"de surcroît,",вдобавокъ,quantités
 depuis belle lurette [fam.],съ давнихъ поръ,temps
 depuis le tout début,from the very beginning,temps
 depuis longtemps,,temps
@@ -292,10 +301,12 @@ du coup,therefore,causalité
 du côté de qqch.,въ аспектѣ,rapport
 du jour au lendemain,overnight,temps
 du moins,по крайней мѣрѣ,divers
+du même coup,by the same token,rapport
 du même type,,généralisations
 du reste,къ тому же,figé
 du sien,on one's own,divers
 dès le départ,from the very start,temps
+dès lors,since then,temps
 dès que possible,ASAP,temps
 débuter,,événements
 décidément,definitely,adverbes
@@ -313,9 +324,11 @@ en clair,проще говоря,paroles
 en comparaison de | auprès de,по сравненію съ,rapport
 en concert avec,"совмѣстно, заодно",figé
 en cours de,"въ ходѣ, въ процессѣ",rapport
+en direct,въ прямомъ эфирѣ,figé
 en dépit de,in spite of,divers
 en déplacement,въ дорогѣ,figé
 en faveur de,,rapport
+en flèche,стремительно,figé
 en fonction de,"depending on, in terms of",rapport
 en gros,"в цѣлом, грубо говоря",divers
 en guise de qqch,by way of,divers
@@ -361,6 +374,7 @@ faire exprès de faire qqch.,,figé
 faire impasse sur,скипнуть,figé
 faire semblant de | faire mine de,притворяться,figé
 faire son possible pour [faire qqch.],,phrases
+faute d'entretien,по недостатку ухода,rapport
 faute de,за недостаткомъ,figé
 favoriser,способствовать,causalité
 finir dans les délais,,figé
@@ -405,6 +419,7 @@ mouais,ну да,paroles
 n'arriver pas à faire qqch.,,actions
 n'avoir rien à y faire,нечего там дѣлать,phrases
 n'en avoir que faire,couldn't care less,actions
+n'y faire exception,не исключеніе,rapport
 nettement plus,significantly more,quantités
 occasionner,,causalité
 on pourrait se dire que,one might think that,paroles
@@ -416,6 +431,7 @@ par conséquent,,causalité
 "par contraste avec qqch.,",въ отличіе отъ,rapport
 par contre,,paroles
 par défaut,by default,figé
+par défaut de qqch.,за отсутствіемъ чего-л.,rapport
 par ennui,со скуки,figé
 par essence,by nature,figé
 par hasard,случайно,divers
@@ -475,6 +491,7 @@ quand | lorsque | au moment où,,temps
 quasiment,"практически, почти что",adverbes
 "que ce soit qqch. ou qqch.,","будь то ... или ...,",divers
 que non pas,not at all,divers
+quel que soit qqch.,каковъ бы ни былъ,figé
 quel(le) que puisse être qqch.,каким/ой бы ни был/а...,quantités
 quels que soient,"whatever, regardless of",rapport
 qui me / lui / leur est / sont propre(s),свой собственный,divers
@@ -515,6 +532,7 @@ selon | d'après | à en croire | aux yeux de,,paroles
 sous toutes les coutures,from every angle,figé
 sur le coup,"at the time, on the spur of the moment",temps
 sur le vif,непосредственно,figé
+sur-le-champ,on the spot,figé
 surtout,above all,divers
 systématiquement,,adverbes
 tandis que,whereas,rapport
@@ -585,6 +603,7 @@ y aller fort,перегибать палку,actions
 Ça tombe bien / mal,good / bad timing,temps
 Ça y est !,Наконецъ-то.,paroles
 Ça y ressemble.,"Похоже, что такъ и есть.",phrases
+à brûle-pourpoin сходу,"спонтанно, безъ подготовки",figé
 à cause de,,causalité
 à ce qui concerne,,rapport
 à chaque fois,,temps

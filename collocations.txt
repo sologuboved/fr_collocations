@@ -1,6 +1,8 @@
 ACTIONS
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
+J'ai dû faire qqch. ~ Должно быть, я...
 Je ne peux pas m'en passer. ~ I can't do without it.
+Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
 ce qui lui est arrivé
 donner le meilleur de lui-même ~ do one's best
@@ -26,6 +28,7 @@ autrement ~ по-другому
 bien évidemment
 carrément ~ downright
 considérablement
+convenablement ~ properly, reasonabley
 couramment ~ fluently / habitually
 décidément ~ definitely
 délibérément ~ цѣленаправленно
@@ -217,6 +220,7 @@ au cas où | à tout hasard ~ just in case
 au choix
 au figuré ~ въ переносномъ смыслѣ
 au premier regard, ~ на первый взглядъ
+au ralenti ~ въ замедленной съемкѣ
 avec le recul ~ with hindsight, in retrospect
 bel et bien
 bon débarras ~ good riddance
@@ -240,7 +244,9 @@ en activité ~ дѣйствующій
 en alternance ~ чередуя
 en boucle ~ по кругу
 en concert avec ~ совмѣстно, заодно
+en direct ~ въ прямомъ эфирѣ
 en déplacement ~ въ дорогѣ
+en flèche ~ стремительно
 en harmonie | en phase avec
 en partant de rien ~ съ нуля
 en plein essor ~ on the rise
@@ -271,10 +277,12 @@ perdre du temps à faire qqch.
 pour paradoxe
 pêle-mêle ~ вперемешку
 qu'à cela ne tienne ~ peu importe !, ça ne fait rien, ну и ладно
+quel que soit qqch. ~ каковъ бы ни былъ
 sans effort
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
 sur le vif ~ непосредственно
+sur-le-champ ~ on the spot
 tant attendu ~ long-awaited
 tant bien que mal ~ худо-бѣдно
 tant pis ~ что подѣлаешь
@@ -283,6 +291,7 @@ une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
 valider de façon ferme
 voyer tout en noir
+à brûle-pourpoin сходу ~ спонтанно, безъ подготовки
 à dessein ~ намѣренно
 à jeun ~ натощакъ
 à l'identique
@@ -330,6 +339,7 @@ s'ôter de l'esprit qqch. ~ выбросить изъ головы
 PAROLES
 , c'est bien connu,
 , mais sait-on jamais ? | Qui sait ?
+, mettons, ~ допустимъ,
 , paraît-il,
 Admettons que...
 Affaire de lecture : ~ вопросъ интерпретаціи
@@ -360,6 +370,7 @@ On dirait que ~ Похоже,
 On sait que...
 On voit bien que... ~ We can clearly see...
 Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
+Partons de ces derniers. ~ Начнемъ со вторыхъ.
 Qu'en est-il de... ~ Какъ насчетъ
 Qu'en penses-tu ? ~ How about that?
 Qu'est-ce que tu veux dire par là ?
@@ -372,6 +383,7 @@ au bout du compte ~ въ конечномъ счетѣ
 au premier regard ~ на первый взглядъ
 au sens de ~ въ смыслѣ
 au sens propre / figuré
+au sens strict du terme
 autrement dit ~ иными словами
 autrement dit,
 cependant
@@ -379,7 +391,7 @@ certainement | certes
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 dans le sens où cela allie qqch. et qqch.
-de façon générale ~ generally speaking
+de façon générale | d'une façon plus générale ~ generally speaking
 de plus
 en clair ~ проще говоря
 en peu de mots ~ вкратцѣ
@@ -483,6 +495,7 @@ alors qu'ailleurs le processus de concentration n'a fait que débuter
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
+avoir pour seul trait commun de faire qqch.
 de ... se dégage l’impression que ...
 faire son possible pour [faire qqch.]
 il en est / sera autrement de ~ it will be different for
@@ -508,6 +521,7 @@ On y dénombre 10 enfants
 [une chose] en moins ~ [одной вещью] меньше
 d'autant que ~ тѣм болѣе что
 de plus en plus
+de surcroît, ~ вдобавокъ
 en moyenne ~ on average
 en partie <-> totalement
 nettement plus ~ significantly more
@@ -543,6 +557,7 @@ contrairement à
 convenir à qqch. ~ be associated with
 dans le cadre de
 du côté de qqch. ~ въ аспектѣ
+du même coup ~ by the same token
 en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
 en faveur de
@@ -553,11 +568,14 @@ en tant que qqn. ~ as a
 envers qqn.
 face à ~ по отношенію къ
 faire contraste
+faute d'entretien ~ по недостатку ухода
 lié à qqch. ~ связанный съ
 malgré tout
 mis à part lui ~ кромѣ него
+n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
 par contraste avec qqch., ~ въ отличіе отъ
+par défaut de qqch. ~ за отсутствіемъ чего-л.
 par rapport à ~ relative to, compared to
 pourvu que ce soit ~ provided it would be
 qqch. en est un (autre) ~ другой примѣръ того же
@@ -614,6 +632,7 @@ depuis maintenant déjà 20 ans ~ вотъ уже 20 лѣтъ
 depuis tout ce temps-là ~ all this time
 du jour au lendemain ~ overnight
 dès le départ ~ from the very start
+dès lors ~ since then
 dès que possible ~ ASAP
 désormais ~ from now on
 en ce moment
