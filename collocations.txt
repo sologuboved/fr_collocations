@@ -23,6 +23,7 @@ Je crois fermement que
 [se consacrer] uniquement [à]
 apparemment
 autrement ~ по-другому
+bien évidemment
 carrément ~ downright
 considérablement
 couramment ~ fluently / habitually
@@ -36,6 +37,7 @@ explicitement ~ explicitely
 fortement | massivement
 fâcheusement ~ annoyingly
 joliment ~ beautifully
+librement
 logiquement
 modestement ~ скромно
 pleinement ~ полностью
@@ -69,6 +71,7 @@ comme
 conduire à
 créer
 d'où ~ отсюда
+d'où [...] ~ отсюда
 dans le but de faire qqch. | Dans quel but ?
 de sorte que ~ cъ тѣмъ, чтобы
 des conséquences | effets | suites
@@ -80,6 +83,7 @@ favoriser ~ способствовать
 grâce à
 occasionner
 par conséquent
+par la suite ~ впослѣдствіи
 permettre de
 procurer
 produire
@@ -142,6 +146,7 @@ bien entendu
 d'ailleurs | au fait ~ кстати говоря
 davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
+de même ~ аналогичнымъ образомъ
 de même que ~ такъ же какъ
 de surcroît | de surplus ~ болѣе того
 du moins ~ по крайней мѣрѣ
@@ -212,6 +217,7 @@ au cas où | à tout hasard ~ just in case
 au choix
 au figuré ~ въ переносномъ смыслѣ
 au premier regard, ~ на первый взглядъ
+avec le recul ~ with hindsight, in retrospect
 bel et bien
 bon débarras ~ good riddance
 bon gré mal gré
@@ -229,6 +235,7 @@ de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
 donner d'ailleurs raison
+du reste ~ къ тому же
 en activité ~ дѣйствующій
 en alternance ~ чередуя
 en boucle ~ по кругу
@@ -267,15 +274,19 @@ qu'à cela ne tienne ~ peu importe !, ça ne fait rien, ну и ладно
 sans effort
 se mettre à faire qqch. ~ приняться за
 sous toutes les coutures ~ from every angle
+sur le vif ~ непосредственно
 tant attendu ~ long-awaited
+tant bien que mal ~ худо-бѣдно
 tant pis ~ что подѣлаешь
 un mal pour un bien ~ нѣтъ худа безъ добра
 une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
 valider de façon ferme
 voyer tout en noir
+à dessein ~ намѣренно
 à jeun ~ натощакъ
 à l'identique
+à l'infini
 à la base ~ въ основѣ
 à la hâte ~ наспѣхъ
 à la main ~ вручную
@@ -286,6 +297,7 @@ voyer tout en noir
 être de sa faute
 être en droit de faire qqch. ~ имѣть право
 être en tête
+être sur le qui-vive ~ быть начеку
 
 GÉNÉRALISATIONS
 Il est de ces personnes qui..,
@@ -334,6 +346,7 @@ En ce qui concerne qqch.,
 En clair, ~ иными словами
 En somme, ~ Короче говоря
 Enfin | Pour finir | En conclusion | Bref,
+Enfin, pire de tout,
 Et le pompon, c'est que...
 Il me semble que...
 Il s'est avéré que...
@@ -354,11 +367,13 @@ Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
 Quant à ...,
 Que dire d'autre?
 Suis-je bête ! Cela m'avait échappé.
+[de façon peu assidue] il est vrai ~ admittedly [inconsistently]
 au bout du compte ~ въ конечномъ счетѣ
 au premier regard ~ на первый взглядъ
 au sens de ~ въ смыслѣ
 au sens propre / figuré
 autrement dit ~ иными словами
+autrement dit,
 cependant
 certainement | certes
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
@@ -366,6 +381,7 @@ d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 dans le sens où cela allie qqch. et qqch.
 de façon générale ~ generally speaking
 de plus
+en clair ~ проще говоря
 en peu de mots ~ вкратцѣ
 en plus ~ кромѣ того
 en résumé ~ короче говоря
@@ -435,6 +451,7 @@ J'y suis même plutôt bien. ~ I'm actually quite happy here.
 Jamais je n’aurais cru voir ça ici !
 Je bourais bien un café.
 Je me suis cru dans... ~ I feel like I was in...
+Je ne connais pas grand-chose à qqch. / Je n'y connais pas grand-chose.
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
 Je ne m'en suis pas rendu compte.
 Je ne m'y attendais pas.
@@ -452,6 +469,7 @@ Mon plus beau souvenir reste à venir.
 On pouvait s'y attendre ~ That was to be expected
 Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
+Que t'importe ?
 Quel est l'objet dont on se sert pour faire qqch. ?
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
 Qu’importe le reste. ~ The rest doesn't matter.
@@ -493,7 +511,9 @@ de plus en plus
 en moyenne ~ on average
 en partie <-> totalement
 nettement plus ~ significantly more
+petit à petit ~ понемножку
 peu ou prou ~ plus ou moins
+quel(le) que puisse être qqch. ~ каким/ой бы ни был/а...
 sans compter ceux qui ~ не считая тѣхъ
 un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
@@ -525,6 +545,7 @@ dans le cadre de
 du côté de qqch. ~ въ аспектѣ
 en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
+en faveur de
 en fonction de ~ depending on, in terms of
 en occurrence de
 en qualité de ~ въ качествѣ
@@ -565,6 +586,7 @@ Actuellement,
 En pleine qqch. ? ~ Въ разгаръ чего-л.?
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
+[tout] d'une traite ~ in one go
 après coup ~ after the fact
 après qqch./avoir fait qqch./que | une fois que
 au bout de 20 ans / quelque temps ~ after 20 years / a while
@@ -582,10 +604,10 @@ d'emblée ~ съ перваго раза, тутъ же
 d'ici à 10 ans
 d'un bond ~ однимъ махомъ
 d'un seul coup ~ разомъ
-d'une traite ~ in one go
 dans l'avenir
 dans la foulée ~ сразу
 de nouveau ~ заново
+depuis belle lurette [fam.] ~ съ давнихъ поръ
 depuis le tout début ~ from the very beginning
 depuis longtemps
 depuis maintenant déjà 20 ans ~ вотъ уже 20 лѣтъ
@@ -607,6 +629,7 @@ longuement ~ подолгу
 maintes fois ~ many times
 pendant ce temps ~ въ это время
 pendant que | comme | alors que
+pendant qu’il en est temps ~ пока еще есть время
 plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
@@ -621,6 +644,7 @@ tout à coup ~ внезапно
 tout à l'heure ~ и тутъ
 tout à l’heure ~ just now
 tôt ou tard,
+un jour
 une bonne fois pour toutes ~ once and for all
 une fois [arrivé à destination,]
 une énième fois ~ въ сотый разъ

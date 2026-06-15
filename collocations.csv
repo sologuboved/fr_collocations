@@ -51,6 +51,7 @@ Elle ne fait que faire qqch.,,divers
 En pleine qqch. ?,Въ разгаръ чего-л.?,temps
 "En somme,",Короче говоря,paroles
 "Enfin | Pour finir | En conclusion | Bref,",,paroles
+"Enfin, pire de tout,",,paroles
 Est-ce que tu t'intéresses à la musique ?,,phrases
 "Et le pompon, c'est que...",,paroles
 Et vous allez trouver ce budget de quelle manière ?,Какимъ образомъ?,phrases
@@ -86,6 +87,7 @@ Je crois fermement que,,adverbes
 Je me suis cru dans...,I feel like I was in...,phrases
 Je n'ai pas retenu qqch.,,mémoire
 Je n'arrive pas à m'en souvenir.,,mémoire
+Je ne connais pas grand-chose à qqch. / Je n'y connais pas grand-chose.,,phrases
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.,,phrases
 Je ne m'en suis pas rendu compte.,,phrases
 Je ne m'y attendais pas.,,phrases
@@ -127,6 +129,7 @@ Qu'est-ce qui est arrivé ?,,événements
 Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?,,événements
 "Quant à ...,",,paroles
 Que dire d'autre?,,paroles
+Que t'importe ?,,phrases
 Quel est l'objet dont on se sert pour faire qqch. ?,,phrases
 Quelle est la cause | l'origine | la raison de ... ?,,causalité
 Quelle tuile ! C'était foutu !,What a disaster! It was all over!,phrases
@@ -145,11 +148,13 @@ Tout fout le camp !,Всё пропало!,phrases
 "Une fois que j'aurai terminé ma formation, j'espère devenir éditrice.",Once I have...,temps
 [J'aime] particulièrement,,adverbes
 [créer] de toutes pièces,from scratch,figé
+[de façon peu assidue] il est vrai,admittedly [inconsistently],paroles
 [en demander] encore davantage,even more,divers
 [faire qqch.] en majorité,,quantités
 [la présence de cathares en Navarre n’est] aucunement [avérée],,adverbes
 [ne pas changer] grand-chose,,figé
 [se consacrer] uniquement [à],,adverbes
+[tout] d'une traite,in one go,temps
 [une chose] en moins,[одной вещью] меньше,quantités
 adhérer à | s'inscrire à | rejoindre | intégrer,,coopération
 afin de | en vue de | pour,,causalité
@@ -196,10 +201,12 @@ aussitôt,right away,temps
 autant qqch. que qqch.,"въ той же мѣрѣ ..., что и ...",rapport
 autrement,по-другому,adverbes
 autrement dit,иными словами,paroles
+"autrement dit,",,paroles
 aux yeux de qqn. | à travers les yeux de qqn.,,rapport
 "avant même que le réveil ne sonne,","еще до того какъ прозвонилъ будильникъ,",temps
 avant qcch./de faire qqch./que | en attendant de/que | le temps de/que,,temps
 avant tout,прежде всего,divers
+avec le recul,"with hindsight, in retrospect",figé
 avec le temps,,temps
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.,,phrases
 avoir lieu,,événements
@@ -209,6 +216,7 @@ avoir pour conséquence qqch.,,causalité
 avoir pour fonction | rôle de faire qqch.,,causalité
 bel et bien,,figé
 bien entendu,,divers
+bien évidemment,,adverbes
 bon débarras,good riddance,figé
 bon gré mal gré,,figé
 bon vieux,good old,figé
@@ -245,11 +253,11 @@ d'en face,across the street,déplacements
 d'ici à 10 ans,,temps
 d'occasion,second-hand,figé
 d'où,отсюда,causalité
+d'où [...],отсюда,causalité
 d'un bond,однимъ махомъ,temps
 d'un coup,"рѣзко, однимъ махомъ",figé
 d'un seul coup,разомъ,temps
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche,,paroles
-d'une traite,in one go,temps
 dans l'avenir,,temps
 dans l'ordre,по порядку,figé
 dans la foulée,сразу,temps
@@ -264,12 +272,14 @@ de l'extérieur,на видъ,figé
 de la tête aux pieds,съ головы до ногъ,figé
 de mal en pis,from bad to worse,figé
 de mal en pis from,bad to worse,figé
+de même,аналогичнымъ образомъ,divers
 de même que,такъ же какъ,divers
 de nouveau,заново,temps
 de plus,,paroles
 de plus en plus,,quantités
 de sorte que,"cъ тѣмъ, чтобы",causalité
 de surcroît | de surplus,болѣе того,divers
+depuis belle lurette [fam.],съ давнихъ поръ,temps
 depuis le tout début,from the very beginning,temps
 depuis longtemps,,temps
 depuis maintenant déjà 20 ans,вотъ уже 20 лѣтъ,temps
@@ -283,6 +293,7 @@ du côté de qqch.,въ аспектѣ,rapport
 du jour au lendemain,overnight,temps
 du moins,по крайней мѣрѣ,divers
 du même type,,généralisations
+du reste,къ тому же,figé
 du sien,on one's own,divers
 dès le départ,from the very start,temps
 dès que possible,ASAP,temps
@@ -298,11 +309,13 @@ en activité,дѣйствующій,figé
 en alternance,чередуя,figé
 en boucle,по кругу,figé
 en ce moment,,temps
+en clair,проще говоря,paroles
 en comparaison de | auprès de,по сравненію съ,rapport
 en concert avec,"совмѣстно, заодно",figé
 en cours de,"въ ходѣ, въ процессѣ",rapport
 en dépit de,in spite of,divers
 en déplacement,въ дорогѣ,figé
+en faveur de,,rapport
 en fonction de,"depending on, in terms of",rapport
 en gros,"в цѣлом, грубо говоря",divers
 en guise de qqch,by way of,divers
@@ -369,6 +382,7 @@ la première fois que qqn. avait fait qqch.,,temps
 laisser qqch. de côté,,paroles
 le baratin,bullshit,figé
 le strict nécessaire,,figé
+librement,,adverbes
 lié à qqch.,связанный съ,rapport
 logiquement,,adverbes
 longuement,подолгу,temps
@@ -406,6 +420,7 @@ par ennui,со скуки,figé
 par essence,by nature,figé
 par hasard,случайно,divers
 par ici,this way,déplacements
+par la suite,впослѣдствіи,causalité
 par procuration,by proxy,figé
 par raison | par passion,,figé
 par rapport à,"relative to, compared to",rapport
@@ -418,8 +433,10 @@ pas tellement,not so much,divers
 peiner à faire qqch.,struggle to,actions
 pendant ce temps,въ это время,temps
 pendant que | comme | alors que,,temps
+pendant qu’il en est temps,пока еще есть время,temps
 perdre du temps à faire qqch.,,figé
 permettre de,,causalité
+petit à petit,понемножку,quantités
 peu importe,,divers
 peu ou prou,plus ou moins,quantités
 pleinement,полностью,adverbes
@@ -458,6 +475,7 @@ quand | lorsque | au moment où,,temps
 quasiment,"практически, почти что",adverbes
 "que ce soit qqch. ou qqch.,","будь то ... или ...,",divers
 que non pas,not at all,divers
+quel(le) que puisse être qqch.,каким/ой бы ни был/а...,quantités
 quels que soient,"whatever, regardless of",rapport
 qui me / lui / leur est / sont propre(s),свой собственный,divers
 quitte à faire qqch.,"even if it means to, at the risk of, разъ ужъ",divers
@@ -496,10 +514,12 @@ selon le cas,depending on the case,rapport
 selon | d'après | à en croire | aux yeux de,,paroles
 sous toutes les coutures,from every angle,figé
 sur le coup,"at the time, on the spur of the moment",temps
+sur le vif,непосредственно,figé
 surtout,above all,divers
 systématiquement,,adverbes
 tandis que,whereas,rapport
 tant attendu,long-awaited,figé
+tant bien que mal,худо-бѣдно,figé
 tant mieux,,divers
 tant pis,что подѣлаешь,figé
 tant que,as long as,temps
@@ -521,6 +541,7 @@ toutefois,however,divers
 travailler / étudier dans ce lieu,,déplacements
 trouver son origine dans,,événements
 "tôt ou tard,",,temps
+un jour,,temps
 un mal pour un bien,нѣтъ худа безъ добра,figé
 un par un,одинъ за другимъ,quantités
 un sur deux,каждый второй,quantités
@@ -569,6 +590,7 @@ y aller fort,перегибать палку,actions
 à chaque fois,,temps
 à commencer par,,paroles
 à condition de / que,,rapport
+à dessein,намѣренно,figé
 à deux pas de l'arrêt,въ двухъ шагахъ отъ остановки,déplacements
 à force d'être,въ силу,rapport
 à jamais,навсегда,temps
@@ -576,6 +598,7 @@ y aller fort,перегибать палку,actions
 à l'avance,заранѣе,temps
 "à l'heure qu'il est,",,temps
 à l'identique,,figé
+à l'infini,,figé
 à l'intention de,,causalité
 à l'occasion de,по случаю,divers
 à l'époque,back then,temps
@@ -621,5 +644,6 @@ y aller fort,перегибать палку,actions
 être la conséquence de,,causalité
 être produit par,,causalité
 être sur le point de faire qqch.,,actions
+être sur le qui-vive,быть начеку,figé
 être à l'origine de,,causalité
 сe n'est pas faute d'avoir essayé de faire qqch.,not for the lack of trying,phrases
