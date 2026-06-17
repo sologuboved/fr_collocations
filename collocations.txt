@@ -141,6 +141,7 @@ Pour autant, ~ however
 Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
+au lieu de ~ instead of
 au mieux ~ at best
 au même titre que qqch. / qn. ~ in the same way as
 aucunement ~ pas du tout
@@ -157,7 +158,6 @@ du sien ~ on one's own
 en dépit de ~ in spite of
 en gros ~ в цѣлом, грубо говоря
 en guise de qqch ~ by way of
-en lieu de
 en lui-même ~ само по себѣ
 en quelque sorte ~ въ своемъ родѣ
 en règle générale ~ as a general rule
@@ -178,6 +178,7 @@ qui me / lui / leur est / sont propre(s) ~ свой собственный
 quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
 quoi que ce soit ~ что бы то ни было
 sans doute
+sans quoi ~ иначе, въ противномъ случаѣ
 surtout ~ above all
 tant mieux
 tel(s) / telle(s) que ~ such as
