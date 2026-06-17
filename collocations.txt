@@ -291,7 +291,7 @@ une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
 valider de façon ferme
 voyer tout en noir
-à brûle-pourpoin сходу ~ спонтанно, безъ подготовки
+à brûle-pourpoint ~ сходу, спонтанно, безъ подготовки
 à dessein ~ намѣренно
 à jeun ~ натощакъ
 à l'identique
@@ -322,6 +322,7 @@ mettre au point ~ fine-tune
 mettre en cause ~ ставить под сомнение
 mettre en place ~ настраивать
 mettre en œuvre
+mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
 mettre un point final à
 mettre à jour
@@ -476,6 +477,7 @@ L'important est de faire qqch.
 La faute à qqch. ~ It's all due to sth.
 La réponse ne va pas de soi. ~ The answer is not obvious.
 La tour Eiffel a dû choquer au debut.
+Les deux me vont. ~ Either is fine.
 Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !
 Mon plus beau souvenir reste à venir.
 On pouvait s'y attendre ~ That was to be expected
@@ -698,5 +700,6 @@ se poursuivre
 se produire
 se situer
 se terminer
+survenir ~ se produire de façon plus ou moins inattendue
 trouver son origine dans
 être en marche ~ be underway
