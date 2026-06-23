@@ -39,10 +39,13 @@ exagérément ~ exaggeratedly
 explicitement ~ explicitely
 fortement | massivement
 fâcheusement ~ annoyingly
+gratuitement ~ безплатно
 joliment ~ beautifully
 librement
 logiquement
+légitimement
 modestement ~ скромно
+notamment ~ въ частности
 pleinement ~ полностью
 prioritairement ~ преимущественно
 prématurément
@@ -50,6 +53,7 @@ quasiment ~ практически, почти что
 systématiquement
 techniquement
 visiblement ~ явно
+volontiers ~ voluntarily, willingly
 vraisemblablement ~ presumably
 éventuellement ~ по обстоятельствамъ, возможно
 
@@ -220,6 +224,7 @@ au besoin ~ if necessary
 au cas où | à tout hasard ~ just in case
 au choix
 au figuré ~ въ переносномъ смыслѣ
+au passage ~ между дѣломъ
 au premier regard, ~ на первый взглядъ
 au ralenti ~ въ замедленной съемкѣ
 avec le recul ~ with hindsight, in retrospect
@@ -270,8 +275,10 @@ le baratin ~ bullshit
 le strict nécessaire
 par chance ~ къ счастью
 par confort ~ для удобства
+par devoir ~ по обязанности
 par défaut ~ by default
 par ennui ~ со скуки
+par envie ~ по желанію
 par essence ~ by nature
 par obligation ~ по обязанности
 par procuration ~ by proxy
@@ -285,6 +292,7 @@ qu'à cela ne tienne ~ peu importe !, ça ne fait rien, ну и ладно
 quel que soit qqch. ~ каковъ бы ни былъ
 sans effort
 se mettre à faire qqch. ~ приняться за
+sous forme de qqch. ~ въ формѣ
 sous toutes les coutures ~ from every angle
 sur le vif ~ непосредственно
 sur-le-champ ~ on the spot
@@ -325,7 +333,9 @@ une espèce de qqch. ~ своего рода
 MISES
 mettre au point ~ fine-tune
 mettre en cause ~ ставить под сомнение
+mettre en lumière ~ highlight
 mettre en place ~ настраивать
+mettre en relation ~ связывать между собой
 mettre en œuvre
 mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
