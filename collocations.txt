@@ -135,6 +135,10 @@ participer à | prendre part à | faire partie de
 s'engager dans | s'impliquer dans | s'investir dans
 s'occuper de | assister | aider | soutenir | appuyer | secourir
 
+COUPS
+coup de poing [quasi-adjectif] ~ high impact
+un coup médiatique ~ media buzz
+
 DIVERS
 Après tout, ~ after all
 C'est aussi quelque part un... ~ in a way
@@ -210,6 +214,7 @@ par ici ~ this way
 se mettre en route ~ отправиться въ путь
 tout autour de toi
 travailler / étudier dans ce lieu
+un peu partout ~ just about everywhere
 à deux pas de l'arrêt ~ въ двухъ шагахъ отъ остановки
 
 FIGÉ
@@ -342,6 +347,7 @@ mettre un certain temps à faire qqch.
 mettre un point final à
 mettre à jour
 mettre à profit ~ take advantage
+se mettre en tête ~ пришло въ голову
 
 MÉMOIRE
 Désolé, c'est un oubli.
@@ -579,6 +585,7 @@ en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
 en faveur de
 en fonction de ~ depending on, in terms of
+en matière de
 en occurrence de
 en qualité de ~ въ качествѣ
 en tant que qqn. ~ as a
