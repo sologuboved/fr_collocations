@@ -228,6 +228,7 @@ FIGÉ
 [ne pas changer] grand-chose
 agir par intérêt
 allant de soi ~ being self-evident
+aller bien au-delà ~ выходить далеко за рамки этого
 aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
@@ -437,7 +438,6 @@ par contre
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour autant que je me souvienne, ~ as far as I remember
 pour le moins ~ мягко говоря
-pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
 pourtant
 rebelote ~ here we go again
@@ -534,7 +534,7 @@ pour que tout un chacun comprenne que... ~ so that everyone understands that...
 À quand remonte la dernière fois que vous avez fait qqch. ?
 À quoi voit-on que l'on est dans un lieu d'histoire ? ~ Comment sait-on que...
 Ça devrait aller mieux. ~ Things should get better.
-Ça fait longtemps que je fais qqch.
+Ça fait longtemps que je fais qqch. Ça fait deux fois que je fais qqch.
 Ça finit par fatiguer.
 Ça me parle ! ~ It resonates with me!
 Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
@@ -608,6 +608,7 @@ outre qqch./qqn. ~ помимо
 par contraste avec qqch., ~ въ отличіе отъ
 par défaut de qqch. ~ за отсутствіемъ чего-л.
 par rapport à ~ relative to, compared to
+pour ma part | en ce qui me concerne ~ as for me
 pourvu que ce soit ~ provided it would be
 qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
@@ -618,7 +619,6 @@ tandis que ~ whereas
 tout ce qui touche à qqch.
 vis-à-vis de
 vu que ~ given that
-à ce qui concerne
 à condition de / que
 à force d'être ~ въ силу
 à la différence d'autres ~ въ отличіе отъ прочихъ
@@ -641,7 +641,7 @@ après qqch./avoir fait qqch./que | une fois que
 au bout de 20 ans / quelque temps ~ after 20 years / a while
 au cours de ~ въ теченіе
 au départ ~ поначалу
-au fil du temps ~ съ теченіемъ времени
+au fil du temps / de l'année ~ съ теченіемъ времени / въ теченіе года
 au fur et à mesure que | tant que | aussi longtemps que ~ по мѣрѣ
 au jour le jour ~ day by day
 au plus tôt ~ самое раннее
