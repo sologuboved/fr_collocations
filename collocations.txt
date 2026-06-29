@@ -217,6 +217,11 @@ travailler / étudier dans ce lieu
 un peu partout ~ just about everywhere
 à deux pas de l'arrêt ~ въ двухъ шагахъ отъ остановки
 
+EFFETS
+soumettre ~ подвергать
+subir ~ подвергаться, претерпѣвать
+susciter ~ вызывать
+
 FIGÉ
 , à tort,
 [créer] de toutes pièces ~ from scratch
@@ -315,6 +320,7 @@ voyer tout en noir
 à l'identique
 à l'infini
 à la base ~ въ основѣ
+à la fin ~ in the end
 à la hâte ~ наспѣхъ
 à la main ~ вручную
 à la pointe (de la technologie) ~ at the cutting edge
@@ -340,6 +346,7 @@ mettre au point ~ fine-tune
 mettre en cause ~ ставить под сомнение
 mettre en lumière ~ highlight
 mettre en place ~ настраивать
+mettre en pratique
 mettre en relation ~ связывать между собой
 mettre en œuvre
 mettre sur pied un projet ~ воплотить въ жизнь
@@ -639,6 +646,7 @@ au fur et à mesure que | tant que | aussi longtemps que ~ по мѣрѣ
 au jour le jour ~ day by day
 au plus tôt ~ самое раннее
 aussitôt ~ right away
+autour de qqch. ~ въ районѣ (событія)
 avant même que le réveil ne sonne, ~ еще до того какъ прозвонилъ будильникъ,
 avant qcch./de faire qqch./que | en attendant de/que | le temps de/que
 avec le temps
@@ -670,6 +678,7 @@ jadis ~ нѣкогда, давнымъ-давно
 la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
 maintes fois ~ many times
+par le passé ~ въ прошломъ
 pendant ce temps ~ въ это время
 pendant que | comme | alors que
 pendant qu’il en est temps ~ пока еще есть время
