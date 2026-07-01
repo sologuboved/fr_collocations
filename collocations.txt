@@ -269,6 +269,7 @@ en partant de rien ~ съ нуля
 en plein essor ~ on the rise
 en retour
 en réalité | en vérité
+en secret | en coulisse
 en sécurité ~ въ безопасности
 en vrac
 en échange de
@@ -318,6 +319,7 @@ voyer tout en noir
 à brûle-pourpoint ~ сходу, спонтанно, безъ подготовки
 à dessein ~ намѣренно
 à jeun ~ натощакъ
+à l'envers ~ шиворотъ-навыворотъ
 à l'identique
 à l'infini
 à la base ~ въ основѣ
@@ -365,6 +367,17 @@ Je n'ai pas retenu qqch.
 Je n'arrive pas à m'en souvenir.
 s'ôter de l'esprit qqch. ~ выбросить изъ головы
 évoquer un souvenir
+
+OPPOSITIONS
+au contraire ~ напротивъ
+contrairement à
+en revanche ~ зато
+faire contraste
+inversement ~ наоборотъ
+par contraste avec qqch., ~ въ отличіе отъ
+par contre
+vice versa
+à l'inverse (de)
 
 PAROLES
 , c'est bien connu,
@@ -428,13 +441,11 @@ en peu de mots ~ вкратцѣ
 en plus ~ кромѣ того
 en résumé ~ короче говоря
 et tout simplement ~ и просто
-inversement ~ наоборотъ
 laisser qqch. de côté
 mazette ~ ухъ ты
 mettre dans une parenthèse
 mouais ~ ну да
 on pourrait se dire que ~ one might think that
-par contre
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour autant que je me souvienne, ~ as far as I remember
 pour le moins ~ мягко говоря
@@ -583,7 +594,6 @@ comparé à
 comporter | comprendre | inclure qqch. ~ включать въ себя
 concernant
 consister à ~ consist in
-contrairement à
 convenir à qqch. ~ be associated with
 dans le cadre de
 du côté de qqch. ~ въ аспектѣ
@@ -598,14 +608,12 @@ en qualité de ~ въ качествѣ
 en tant que qqn. ~ as a
 envers qqn.
 face à ~ по отношенію къ
-faire contraste
 faute d'entretien ~ по недостатку ухода
 lié à qqch. ~ связанный съ
 malgré tout
 mis à part lui ~ кромѣ него
 n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
-par contraste avec qqch., ~ въ отличіе отъ
 par défaut de qqch. ~ за отсутствіемъ чего-л.
 par rapport à ~ relative to, compared to
 pour ma part | en ce qui me concerne ~ as for me
