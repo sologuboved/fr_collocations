@@ -9,6 +9,7 @@ mot,trad,tag
 ", mettons,","допустимъ,",paroles
 ", paraît-il,",,paroles
 ", à tort,",,figé
+",au premier abord,",на первый взглядъ,paroles
 - Je te revaudrai ça. - J'espère bien !,За мной должокъ.,phrases
 "Actuellement,",,temps
 Admettons que...,,paroles
@@ -32,6 +33,7 @@ Ce n'est pas pour autant que | sans pour autant,that doesn't mean,rapport
 Ce n'est rien à tout que...,,paroles
 "Ce qui fait la différence avec toi, c'est que moi, au moins, je...",,rapport
 Cela peut valoir la peine.,Можетъ стоить того.,phrases
+Cela quels que soient nos choix d'activités ou de modes de vie.,Какими бы ни были...,phrases
 Comme dit plus haut,,paroles
 "Comment dit-on ""..."" en français ?",,paroles
 Comment faites-vous pour faire qqch. ?,How do you go about doing something?,phrases
@@ -246,11 +248,13 @@ comparé à,,rapport
 comporter | comprendre | inclure qqch.,включать въ себя,rapport
 compte tenu de qqch.,учитывая,considérations
 concernant,,rapport
+concrètement,,adverbes
 conduire à,,causalité
 connaître / savoir qqch. sur le bout des doigts,знать какъ свои пять пальцев,figé
 considérablement,,adverbes
 consister à,consist in,rapport
 contrairement à,,oppositions
+contre,versus,oppositions
 contre son gré | à contre-cœur,,figé
 convenablement,"properly, reasonabley",adverbes
 convenir à qqch.,be associated with,rapport
@@ -387,6 +391,7 @@ faute d'entretien,по недостатку ухода,rapport
 faute de,за недостаткомъ,figé
 faute de mieux,за неимѣніемъ лучшаго,figé
 favoriser,способствовать,causalité
+figurer parmi les plus importants du monde,,généralisations
 finir dans les délais,,figé
 forcer qqn. à faire qqch.,,actions
 fortement | massivement,,adverbes
@@ -424,6 +429,7 @@ mettre en place,настраивать,mises
 mettre en pratique,,mises
 mettre en relation,связывать между собой,mises
 mettre en œuvre,,mises
+mettre fin à,положить конецъ,mises
 mettre qqn. au courant,,considérations
 mettre sur pied un projet,воплотить въ жизнь,mises
 mettre un certain temps à faire qqch.,,mises
@@ -608,6 +614,7 @@ vice versa,,oppositions
 vis-à-vis de,,rapport
 viser à faire qqch.,,causalité
 visiblement,явно,adverbes
+vivre l'une des plus importantes - sinon la plus importante - des révolutions de l'histoire humaine,,phrases
 voire,and even,divers
 volontiers,"voluntarily, willingly",adverbes
 voyer tout en noir,,figé

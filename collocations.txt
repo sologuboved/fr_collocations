@@ -27,6 +27,7 @@ apparemment
 autrement ~ по-другому
 bien évidemment
 carrément ~ downright
+concrètement
 considérablement
 convenablement ~ properly, reasonabley
 couramment ~ fluently / habitually
@@ -341,6 +342,7 @@ Je compte parmi les femmes à ne pas pouvoir faire qqch.
 Je ne me compte pas parmi eux.
 Je suis du genre à me tétaniser d'horreur en faisant qqch.
 du même type
+figurer parmi les plus importants du monde
 une espèce de qqch. ~ своего рода
 être de plus en plus nombreux à faire qqch.
 
@@ -352,6 +354,7 @@ mettre en place ~ настраивать
 mettre en pratique
 mettre en relation ~ связывать между собой
 mettre en œuvre
+mettre fin à ~ положить конецъ
 mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
 mettre un point final à
@@ -371,6 +374,7 @@ s'ôter de l'esprit qqch. ~ выбросить изъ головы
 OPPOSITIONS
 au contraire ~ напротивъ
 contrairement à
+contre ~ versus
 en revanche ~ зато
 faire contraste
 inversement ~ наоборотъ
@@ -384,6 +388,7 @@ PAROLES
 , mais sait-on jamais ? | Qui sait ?
 , mettons, ~ допустимъ,
 , paraît-il,
+,au premier abord, ~ на первый взглядъ
 Admettons que...
 Affaire de lecture : ~ вопросъ интерпретаціи
 Alors franchement ~ Честно говоря
@@ -477,6 +482,7 @@ C'est retour à la case départ. ~ Back to square one.
 C'est vraiment très gentil.
 Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
 Cela peut valoir la peine. ~ Можетъ стоить того.
+Cela quels que soient nos choix d'activités ou de modes de vie. ~ Какими бы ни были...
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
 Comment ça a pu arriver ?
@@ -542,6 +548,7 @@ faire son possible pour [faire qqch.]
 il en est / sera autrement de ~ it will be different for
 n'avoir rien à y faire ~ нечего там дѣлать
 pour que tout un chacun comprenne que... ~ so that everyone understands that...
+vivre l'une des plus importantes - sinon la plus importante - des révolutions de l'histoire humaine
 À quand remonte la dernière fois que vous avez fait qqch. ?
 À quoi voit-on que l'on est dans un lieu d'histoire ? ~ Comment sait-on que...
 Ça devrait aller mieux. ~ Things should get better.
