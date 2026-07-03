@@ -511,6 +511,7 @@ J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то
 J'y suis même plutôt bien. ~ I'm actually quite happy here.
 Jamais je n’aurais cru voir ça ici !
 Je bourais bien un café.
+Je ferais mieux de [faire qqch.] ~ I better
 Je me suis cru dans... ~ I feel like I was in...
 Je ne connais pas grand-chose à qqch. / Je n'y connais pas grand-chose.
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
@@ -630,6 +631,7 @@ pour ma part | en ce qui me concerne ~ as for me
 pourvu que ce soit ~ provided it would be
 qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
+s'appuyant sur qqch.
 sauf si | excepté si | hormis celui de
 se rapporter à ~ относиться
 selon le cas ~ depending on the case
