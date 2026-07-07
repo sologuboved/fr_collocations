@@ -4,6 +4,7 @@ J'ai dû faire qqch. ~ Должно быть, я...
 Je ne peux pas m'en passer. ~ I can't do without it.
 Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
+avoir failli faire qqch. ~ едва не
 ce qui lui est arrivé
 donner le meilleur de lui-même ~ do one's best
 forcer qqn. à faire qqch.
@@ -115,6 +116,18 @@ viser à faire qqch.
 être produit par
 être à l'origine de
 
+CONCESSION
+Aucune femme n'a été élue présidente de la République en France quoique Ségolène Royal ait failli l'être en 2007.
+Bien qu'on ait voté des lois sur la parité, il y a des inégalités entre les hommes et les femmes.
+Encore que ceux qui ont une formation réussissent très. ~ тѣмъ не менѣее
+Il n'en reste pas moins que certains sont déçus en arrivant. ~ тѣмъ не менѣее
+Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.
+Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.
+en dépit de ~ in spite of
+malgré tout
+quand même ~ anyway
+quoi que vous fassiez ~ whatever you do
+
 CONSIDÉRATIONS
 (en) avoir / prendre conscience
 (se) tenir au courant
@@ -164,9 +177,9 @@ de cette façon | ainsi ~ такимъ образомъ
 de même ~ аналогичнымъ образомъ
 de même que ~ такъ же какъ
 de surcroît | de surplus ~ болѣе того
+de toute façon | quoi qu'il en soit ~ anyway
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
-en dépit de ~ in spite of
 en gros ~ в цѣлом, грубо говоря
 en guise de qqch ~ by way of
 en lui-même ~ само по себѣ
@@ -182,7 +195,6 @@ pas forcément ~ not necessarily
 pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
 peu importe
-quand même ~ anyway
 que ce soit qqch. ou qqch., ~ будь то ... или ...,
 que non pas ~ not at all
 qui me / lui / leur est / sont propre(s) ~ свой собственный
@@ -357,6 +369,7 @@ mettre en pratique
 mettre en relation ~ связывать между собой
 mettre en œuvre
 mettre fin à ~ положить конецъ
+mettre qqn. au courant
 mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
 mettre un point final à
@@ -453,6 +466,7 @@ mazette ~ ухъ ты
 mettre dans une parenthèse
 mouais ~ ну да
 on pourrait se dire que ~ one might think that
+or ~ однако
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour autant que je me souvienne, ~ as far as I remember
 pour le moins ~ мягко говоря
@@ -525,7 +539,7 @@ Je voudrais te demander un service.
 L'important est de faire qqch.
 La faute à qqch. ~ It's all due to sth.
 La réponse ne va pas de soi. ~ The answer is not obvious.
-La tour Eiffel a dû choquer au debut.
+La tour Eiffel a dû choquer au début.
 Les deux me vont. ~ Either is fine.
 Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !
 Mon plus beau souvenir reste à venir.
@@ -595,6 +609,7 @@ Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи с�
 S’agissant de l’Ancien Régime, il importe de...
 ainsi que ~ as well as
 alors que ~ даромъ что, тогда какъ
+au début <-> en fin
 au détriment de ~ at the expense of
 au moyen de | à l'aide de
 au regard de ~ with regard to
@@ -621,7 +636,6 @@ envers qqn.
 face à ~ по отношенію къ
 faute d'entretien ~ по недостатку ухода
 lié à qqch. ~ связанный съ
-malgré tout
 mis à part lui ~ кромѣ него
 n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
@@ -702,6 +716,7 @@ par le passé ~ въ прошломъ
 pendant ce temps ~ въ это время
 pendant que | comme | alors que
 pendant qu’il en est temps ~ пока еще есть время
+plus maintenant ~ not anymore
 plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
