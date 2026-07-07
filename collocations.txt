@@ -21,6 +21,7 @@ y aller fort ~ перегибать палку
 être sur le point de faire qqch.
 
 ADVERBES
+(regarder qqn.) de haut ~ свысока
 Je crois fermement que
 [J'aime] particulièrement
 [la présence de cathares en Navarre n’est] aucunement [avérée]
@@ -121,8 +122,10 @@ Aucune femme n'a été élue présidente de la République en France quoique Sé
 Bien qu'on ait voté des lois sur la parité, il y a des inégalités entre les hommes et les femmes.
 Encore que ceux qui ont une formation réussissent très. ~ тѣмъ не менѣее
 Il n'en reste pas moins que certains sont déçus en arrivant. ~ тѣмъ не менѣее
+J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul chez moi, le soir. ~ even though
 Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.
 Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.
+alors que ~ даромъ что, тогда какъ
 en dépit de ~ in spite of
 malgré tout
 quand même ~ anyway
@@ -176,6 +179,7 @@ davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
 de même ~ аналогичнымъ образомъ
 de même que ~ такъ же какъ
+de plusieurs manières ~ разными способами
 de surcroît | de surplus ~ болѣе того
 de toute façon | quoi qu'il en soit ~ anyway
 du moins ~ по крайней мѣрѣ
@@ -608,7 +612,6 @@ Il est fatigué mais il travaille pour autant
 Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи съ ...
 S’agissant de l’Ancien Régime, il importe de...
 ainsi que ~ as well as
-alors que ~ даромъ что, тогда какъ
 au début <-> en fin
 au détriment de ~ at the expense of
 au moyen de | à l'aide de
@@ -730,6 +733,7 @@ tout de suite
 tout à coup ~ внезапно
 tout à l'heure ~ и тутъ
 tout à l’heure ~ just now
+toute de suite ~ immediately
 tôt ou tard,
 un jour
 une bonne fois pour toutes ~ once and for all
