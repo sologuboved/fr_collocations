@@ -87,7 +87,6 @@ dans le but de faire qqch. | Dans quel but ?
 de sorte que ~ cъ тѣмъ, чтобы
 des conséquences | effets | suites
 developper
-du coup ~ therefore
 en raison de
 entraîner
 favoriser ~ способствовать
@@ -155,8 +154,17 @@ s'engager dans | s'impliquer dans | s'investir dans
 s'occuper de | assister | aider | soutenir | appuyer | secourir
 
 COUPS
+après coup ~ after the fact
 coup de poing [quasi-adjectif] ~ high impact
+d'un (seul) coup ~ рѣзко, однимъ махомъ, разомъ
+du coup ~ therefore
+du même coup ~ by the same token
+sur le coup ~ at the time, on the spur of the moment
+tout à coup ~ внезапно
+un coup de pouce ~ поддержка
 un coup médiatique ~ media buzz
+à coup(s) de ~ при помощи
+à tous les coups ~ every time
 
 DIVERS
 Après tout, ~ after all
@@ -192,6 +200,7 @@ en règle générale ~ as a general rule
 en tout cas
 et tout à l'avenant ~ and so on
 guère
+ou bien encore ~ или даже
 outre qqch. ~ помимо
 par ailleurs | en outre ~ moreover
 par hasard ~ случайно
@@ -268,7 +277,6 @@ connaître / savoir qqch. sur le bout des doigts ~ знать какъ свои 
 contre son gré | à contre-cœur
 d'elle-même ~ on her own
 d'occasion ~ second-hand
-d'un coup ~ рѣзко, однимъ махомъ
 dans l'ordre ~ по порядку
 de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
@@ -452,7 +460,6 @@ au sens de ~ въ смыслѣ
 au sens propre / figuré
 au sens strict du terme
 autrement dit ~ иными словами
-autrement dit,
 cependant
 certainement | certes
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
@@ -626,7 +633,6 @@ consister à ~ consist in
 convenir à qqch. ~ be associated with
 dans le cadre de
 du côté de qqch. ~ въ аспектѣ
-du même coup ~ by the same token
 en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
 en faveur de
@@ -673,7 +679,6 @@ En pleine qqch. ? ~ Въ разгаръ чего-л.?
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 [tout] d'une traite ~ in one go
-après coup ~ after the fact
 après qqch./avoir fait qqch./que | une fois que
 au bout de 20 ans / quelque temps ~ after 20 years / a while
 au cours de ~ въ теченіе
@@ -690,7 +695,6 @@ avec le temps
 d'emblée ~ съ перваго раза, тутъ же
 d'ici à 10 ans
 d'un bond ~ однимъ махомъ
-d'un seul coup ~ разомъ
 dans l'avenir
 dans la foulée ~ сразу
 de nouveau ~ заново
@@ -727,10 +731,8 @@ pour la première fois
 préalablement | auparavant | antérieurement
 qqn. de toujours ~ постоянный, вѣчный
 quand | lorsque | au moment où
-sur le coup ~ at the time, on the spur of the moment
 tant que ~ as long as
 tout de suite
-tout à coup ~ внезапно
 tout à l'heure ~ и тутъ
 tout à l’heure ~ just now
 toute de suite ~ immediately
@@ -751,7 +753,6 @@ une énième fois ~ въ сотый разъ
 à peine ~ едва
 à plus tard ~ на болѣе позднее время
 à plusieurs reprises
-à tous les coups ~ every time
 
 ÉVÉNEMENTS
 Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
