@@ -246,8 +246,10 @@ un peu partout ~ just about everywhere
 à deux pas de l'arrêt ~ въ двухъ шагахъ отъ остановки
 
 EFFETS
+propice à qqch. ~ благопріятный для
 soumettre ~ подвергать
 subir ~ подвергаться, претерпѣвать
+sujet à qqch. ~ быть подверженнымъ / склоннымъ къ чему-либо
 susciter ~ вызывать
 
 FIGÉ
@@ -719,6 +721,7 @@ jadis ~ нѣкогда, давнымъ-давно
 la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
 maintes fois ~ many times
+n'avoir plus le temps d'enseigner
 par le passé ~ въ прошломъ
 pendant ce temps ~ въ это время
 pendant que | comme | alors que
