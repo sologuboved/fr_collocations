@@ -8,7 +8,7 @@ mot,trad,tag
 ", au premier abord,",на первый взглядъ,paroles
 ", c'est bien connu,",,paroles
 ", mais sait-on jamais ? | Qui sait ?",,paroles
-", mettons,","допустимъ,",paroles
+", mettons,","положимъ,",mises
 ", paraît-il,",,paroles
 ", à tort,",,figé
 - Je te revaudrai ça. - J'espère bien !,За мной должокъ.,phrases
@@ -55,6 +55,7 @@ Elle ne fait que faire qqch.,,divers
 "En ce qui concerne qqch.,",,paroles
 "En clair,",иными словами,paroles
 En pleine qqch. ?,Въ разгаръ чего-л.?,temps
+En quoi consiste [qqch.] ?,Въ чемъ заключается ...?,phrases
 "En somme,",Короче говоря,paroles
 Encore que ceux qui ont une formation réussissent très.,тѣмъ не менѣее,concession
 "Enfin | Pour finir | En conclusion | Bref,",,paroles
@@ -66,7 +67,7 @@ Et vous allez trouver ce budget de quelle manière ?,Какимъ образом
 Fais-moi signe quand tu peux te libérer.,Let me know when you can get away.,phrases
 "Faute de [mieux, je fais avec ce que j'ai.]","For lack of anything better, I make do with what I have.",divers
 "Françoise, la gouvernante, se dit que ces salauds de boches s’y connaissaient en construction.",,phrases
-Heureux temps que le nôtre,,phrases
+Heureux temps que le nôtre.,,phrases
 Il a bien failli de faire qqch.,Он едва не / почти.,phrases
 Il en résulte de...,This has resulted in,causalité
 "Il est de ces personnes qui..,",,généralisations
@@ -152,6 +153,7 @@ Quelle tuile ! C'était foutu !,What a disaster! It was all over!,phrases
 Qu’importe ce que...,Какая разница,divers
 Qu’importe le reste.,The rest doesn't matter.,phrases
 Raison de plus pour faire qqch.,,phrases
+Ras-le-bol de l'état policier !,хватитъ полицейщины,phrases
 Rien de tel ici.,Ничего подобнаго здѣсь.,phrases
 "Résultat,",Въ рѣзультатѣ,causalité
 Suis-je bête ! Cela m'avait échappé.,,paroles
@@ -219,6 +221,7 @@ au sein de,within,déplacements
 au sens de,въ смыслѣ,paroles
 au sens propre / figuré,,paroles
 au sens strict du terme,,paroles
+au total,,quantités
 aucunement,pas du tout,divers
 aussitôt,right away,temps
 autant qqch. que qqch.,"въ той же мѣрѣ ..., что и ...",rapport
@@ -583,8 +586,10 @@ selon le cas,depending on the case,rapport
 selon | d'après | à en croire | aux yeux de,,paroles
 soumettre,подвергать,effets
 sous forme de qqch.,въ формѣ,figé
+sous pretéxte que,,figé
 sous toutes les coutures,from every angle,figé
 subir,"подвергаться, претерпѣвать",effets
+suffisamment,,adverbes
 sujet à qqch.,быть подверженнымъ / склоннымъ къ чему-либо,effets
 sur le coup,"at the time, on the spur of the moment",coups
 sur le vif,непосредственно,figé
@@ -690,6 +695,7 @@ y aller fort,перегибать палку,actions
 à l'occasion de,по случаю,divers
 à l'époque,back then,temps
 à la base,въ основѣ,figé
+à la clef,въ видѣ неизбежнаго слѣдствія,causalité
 à la différence d'autres,въ отличіе отъ прочихъ,rapport
 à la fin,in the end,figé
 à la hâte,наспѣхъ,figé

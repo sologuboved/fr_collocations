@@ -54,6 +54,7 @@ pleinement ~ полностью
 prioritairement ~ преимущественно
 prématurément
 quasiment ~ практически, почти что
+suffisamment
 systématiquement
 techniquement
 visiblement ~ явно
@@ -109,6 +110,7 @@ venir | provenir de
 viser à faire qqch.
 à cause de
 à l'intention de
+à la clef ~ въ видѣ неизбежнаго слѣдствія
 étant donné que
 être causé par
 être dû à
@@ -334,6 +336,7 @@ quel que soit qqch. ~ каковъ бы ни былъ
 sans effort
 se mettre à faire qqch. ~ приняться за
 sous forme de qqch. ~ въ формѣ
+sous pretéxte que
 sous toutes les coutures ~ from every angle
 sur le vif ~ непосредственно
 sur-le-champ ~ on the spot
@@ -375,6 +378,7 @@ une espèce de qqch. ~ своего рода
 être de plus en plus nombreux à faire qqch.
 
 MISES
+, mettons, ~ положимъ,
 mettre au point ~ fine-tune
 mettre en cause ~ ставить под сомнение
 mettre en lumière ~ highlight
@@ -416,7 +420,6 @@ PAROLES
 , au premier abord, ~ на первый взглядъ
 , c'est bien connu,
 , mais sait-on jamais ? | Qui sait ?
-, mettons, ~ допустимъ,
 , paraît-il,
 Admettons que...
 Affaire de lecture : ~ вопросъ интерпретаціи
@@ -521,11 +524,12 @@ D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 Dis-le-moi. Dis-m'en plus !
 Elle m'en veut. ~ She's mad at me.
+En quoi consiste [qqch.] ? ~ Въ чемъ заключается ...?
 Est-ce que tu t'intéresses à la musique ?
 Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
 Fais-moi signe quand tu peux te libérer. ~ Let me know when you can get away.
 Françoise, la gouvernante, se dit que ces salauds de boches s’y connaissaient en construction.
-Heureux temps que le nôtre
+Heureux temps que le nôtre.
 Il a bien failli de faire qqch. ~ Он едва не / почти.
 Il est devenu courant que tout un chacun fasse connaître au monde sa vision "alternative" des faits.
 Il est parfois difficile de savoir ce qu'il en est.
@@ -564,6 +568,7 @@ Quel est l'objet dont on se sert pour faire qqch. ?
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
 Qu’importe le reste. ~ The rest doesn't matter.
 Raison de plus pour faire qqch.
+Ras-le-bol de l'état policier ! ~ хватитъ полицейщины
 Rien de tel ici. ~ Ничего подобнаго здѣсь.
 Telle est la première question.
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
@@ -598,6 +603,7 @@ QUANTITÉS
 On y dénombre 10 enfants
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
+au total
 d'autant que ~ тѣм болѣе что
 de plus en plus
 de surcroît, ~ вдобавокъ
