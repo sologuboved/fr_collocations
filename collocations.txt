@@ -7,16 +7,20 @@ J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some prec
 avoir failli faire qqch. ~ едва не
 ce qui lui est arrivé
 donner le meilleur de lui-même ~ do one's best
+faire en sorte que qqch. se passe ~ assure that
+faire preuve de ~ демонстрировать
 forcer qqn. à faire qqch.
 n'arriver pas à faire qqch.
 n'en avoir que faire ~ couldn't care less
 peiner à faire qqch. ~ struggle to
 pousser qqn. à faire qqch. ~ drive smb. to do sth.
+s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
 se conclure avec qqch.
 venir de faire qqch.
 y aller fort ~ перегибать палку
 être censé faire qqch.
+être confronté à qqch. ~ столкнуться
 être en train de faire qqch.
 être sur le point de faire qqch.
 
@@ -39,8 +43,10 @@ délibérément ~ цѣленаправленно
 désespérément ~ hopelessly
 effectivement ~ въ самомъ дѣлѣ, фактически
 empiriquement
+en apparence ~ внѣшне
 exagérément ~ exaggeratedly
 explicitement ~ explicitely
+financièrement
 fortement | massivement
 fâcheusement ~ annoyingly
 gratuitement ~ безплатно
@@ -48,8 +54,10 @@ joliment ~ beautifully
 librement
 logiquement
 légitimement
+majoritairement ~ по большей части
 modestement ~ скромно
 notamment ~ въ частности
+notoirement ~ notoriously
 pleinement ~ полностью
 prioritairement ~ преимущественно
 prématurément
@@ -60,6 +68,7 @@ techniquement
 visiblement ~ явно
 volontiers ~ voluntarily, willingly
 vraisemblablement ~ presumably
+à la demande ~ по требованію
 éventuellement ~ по обстоятельствамъ, возможно
 
 CAUSALITÉ
@@ -100,6 +109,7 @@ procurer
 produire
 projeter de faire qqch.
 provoquer
+prévoir de faire qqch. ~ планировать
 prêter à conséquences
 puisque ~ поскольку
 rendre + adjectif
@@ -143,7 +153,7 @@ prendre en compte
 prendre en considération
 s'apercevoir
 se rendre compte de
-se renseigner auprès de qqn. ~ освѣдомиться у
+se renseigner auprès de qqn. ~ освѣдомиться у <- renseigner qn sur qch
 tenir compte de qqch. ~ to take something into account
 tenir pour acquis ~ accept as a given
 À croire que ~ It was as if
@@ -169,6 +179,7 @@ un coup médiatique ~ media buzz
 à tous les coups ~ every time
 
 DIVERS
+, à peu de chose près, ~ практически
 Après tout, ~ after all
 C'est aussi quelque part un... ~ in a way
 De quelle façon ... ? ~ Какимъ образомъ
@@ -185,6 +196,7 @@ aucunement ~ pas du tout
 avant tout ~ прежде всего
 bien entendu
 d'ailleurs | au fait ~ кстати говоря
+d'autant (plus) que ~ тѣмъ болѣе что
 davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
 de même ~ аналогичнымъ образомъ
@@ -207,6 +219,7 @@ outre qqch. ~ помимо
 par ailleurs | en outre ~ moreover
 par hasard ~ случайно
 pas forcément ~ not necessarily
+pas mal ~ изрядно
 pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
 peu importe
@@ -235,6 +248,7 @@ voire ~ and even
 
 DÉPLACEMENTS
 au sein de ~ within
+comme ailleurs ~ as elsewhere
 côté à côté ~ side by side
 d'en face ~ across the street
 en pleine ville | en plein Paris ~ въ самомъ/ой
@@ -327,6 +341,7 @@ par obligation ~ по обязанности
 par procuration ~ by proxy
 par raison | par passion
 par sécurité ~ for safety
+par élimination ~ методомъ исключенія
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 pour paradoxe
@@ -380,6 +395,7 @@ une espèce de qqch. ~ своего рода
 MISES
 , mettons, ~ положимъ,
 mettre au point ~ fine-tune
+mettre en avant | mettre en valeur ~ highlight
 mettre en cause ~ ставить под сомнение
 mettre en lumière ~ highlight
 mettre en place ~ настраивать
@@ -391,6 +407,7 @@ mettre qqn. au courant
 mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
 mettre un point final à
+mettre une heure de plus pour faire qqch. ~ понадобится на часъ больше
 mettre à jour
 mettre à profit ~ take advantage
 se mettre en tête ~ пришло въ голову
@@ -417,7 +434,7 @@ vice versa
 à l'inverse (de)
 
 PAROLES
-, au premier abord, ~ на первый взглядъ
+, au premier abord, ~ въ первомъ приближеніи
 , c'est bien connu,
 , mais sait-on jamais ? | Qui sait ?
 , paraît-il,
@@ -476,6 +493,7 @@ en clair ~ проще говоря
 en peu de mots ~ вкратцѣ
 en plus ~ кромѣ того
 en résumé ~ короче говоря
+en une phrase
 et tout simplement ~ и просто
 laisser qqch. de côté
 mazette ~ ухъ ты
@@ -491,6 +509,7 @@ pourtant
 rebelote ~ here we go again
 sans aucun doute
 selon | d'après | à en croire | aux yeux de
+À Dieu ne plaise ! | Dieu m'en garde ! ~ Боже упаси
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
@@ -626,6 +645,7 @@ Ce qui fait la différence avec toi, c'est que moi, au moins, je...
 Il est fatigué mais il travaille pour autant
 Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи съ ...
 S’agissant de l’Ancien Régime, il importe de...
+[très inattendu] de sa part ~ съ его стороны
 ainsi que ~ as well as
 au début <-> en fin
 au détriment de ~ at the expense of
@@ -688,6 +708,7 @@ Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would hav
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 [tout] d'une traite ~ in one go
 après qqch./avoir fait qqch./que | une fois que
+au bout d'un certain temps ~ по истеченіи некоторого времени
 au bout de 20 ans / quelque temps ~ after 20 years / a while
 au cours de ~ въ теченіе
 au départ ~ поначалу
@@ -737,6 +758,7 @@ plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
 pour la première fois
+pour une fois ~ for once
 préalablement | auparavant | antérieurement
 qqn. de toujours ~ постоянный, вѣчный
 quand | lorsque | au moment où
@@ -758,6 +780,7 @@ une énième fois ~ въ сотый разъ
 à l'heure qu'il est,
 à l'époque ~ back then
 à maintes reprises ~ многократно
+à partir de quand ~ at what point, from when
 à partir du moment où
 à peine ~ едва
 à plus tard ~ на болѣе позднее время

@@ -5,11 +5,12 @@ mot,trad,tag
 (regarder qqn.) de haut,свысока,adverbes
 (se) tenir au courant,,considérations
 (tout) à la fois,,temps
-", au premier abord,",на первый взглядъ,paroles
+", au premier abord,",въ первомъ приближеніи,paroles
 ", c'est bien connu,",,paroles
 ", mais sait-on jamais ? | Qui sait ?",,paroles
 ", mettons,","положимъ,",mises
 ", paraît-il,",,paroles
+", à peu de chose près,",практически,divers
 ", à tort,",,figé
 - Je te revaudrai ça. - J'espère bien !,За мной должокъ.,phrases
 "Actuellement,",,temps
@@ -173,6 +174,7 @@ Tout fout le camp !,Всё пропало!,phrases
 [ne pas changer] grand-chose,,figé
 [se consacrer] uniquement [à],,adverbes
 [tout] d'une traite,in one go,temps
+[très inattendu] de sa part,съ его стороны,rapport
 [une chose] en moins,[одной вещью] меньше,quantités
 adhérer à | s'inscrire à | rejoindre | intégrer,,coopération
 afin de | en vue de | pour,,causalité
@@ -194,6 +196,7 @@ aspirer à faire qqch,стремиться,causalité
 asseoir sa théorie sur qqch.,основывать свою теорію,phrases
 assez sommaire en matière de confort,,figé
 au besoin,if necessary,figé
+au bout d'un certain temps,по истеченіи некоторого времени,temps
 au bout de 20 ans / quelque temps,after 20 years / a while,temps
 au bout du compte,въ конечномъ счетѣ,paroles
 au cas où | à tout hasard,just in case,figé
@@ -256,6 +259,7 @@ certainement | certes,,paroles
 chemin faisant,on the way,figé
 chercher à faire qqch.,,causalité
 comme,,causalité
+comme ailleurs,as elsewhere,déplacements
 comme je l'entends,какъ я считаю нужнымъ,figé
 comparé à,,rapport
 comporter | comprendre | inclure qqch.,включать въ себя,rapport
@@ -278,6 +282,7 @@ créer,,causalité
 côté à côté,side by side,déplacements
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après,,paroles
 d'ailleurs | au fait,кстати говоря,divers
+d'autant (plus) que,тѣмъ болѣе что,divers
 d'autant que,тѣм болѣе что,quantités
 d'elle-même,on her own,figé
 d'emblée,"съ перваго раза, тутъ же",temps
@@ -343,6 +348,7 @@ effectivement,"въ самомъ дѣлѣ, фактически",adverbes
 empiriquement,,adverbes
 en activité,дѣйствующій,figé
 en alternance,чередуя,figé
+en apparence,внѣшне,adverbes
 en boucle,по кругу,figé
 en ce moment,,temps
 en clair,проще говоря,paroles
@@ -384,6 +390,7 @@ en secret | en coulisse,,figé
 en sécurité,въ безопасности,figé
 en tant que qqn.,as a,rapport
 en tout cas,,divers
+en une phrase,,paroles
 en vrac,,figé
 en échange de,,figé
 ensuite | ultérieurement | postérieurement,,temps
@@ -398,8 +405,10 @@ exagérément,exaggeratedly,adverbes
 explicitement,explicitely,adverbes
 face à,по отношенію къ,rapport
 faire contraste,,oppositions
+faire en sorte que qqch. se passe,assure that,actions
 faire exprès de faire qqch.,,figé
 faire impasse sur,скипнуть,figé
+faire preuve de,демонстрировать,actions
 faire semblant de | faire mine de,притворяться,figé
 faire son possible pour [faire qqch.],,phrases
 faute d'entretien,по недостатку ухода,rapport
@@ -407,6 +416,7 @@ faute de,за недостаткомъ,figé
 faute de mieux,за неимѣніемъ лучшаго,figé
 favoriser,способствовать,causalité
 figurer parmi les plus importants du monde,,généralisations
+financièrement,,adverbes
 finir dans les délais,,figé
 forcer qqn. à faire qqch.,,actions
 fortement | massivement,,adverbes
@@ -434,10 +444,12 @@ logiquement,,adverbes
 longuement,подолгу,temps
 légitimement,,adverbes
 maintes fois,many times,temps
+majoritairement,по большей части,adverbes
 malgré tout,,concession
 mazette,ухъ ты,paroles
 mettre au point,fine-tune,mises
 mettre dans une parenthèse,,paroles
+mettre en avant | mettre en valeur,highlight,mises
 mettre en cause,ставить под сомнение,mises
 mettre en lumière,highlight,mises
 mettre en place,настраивать,mises
@@ -450,6 +462,7 @@ mettre qqn. au courant,,mises
 mettre sur pied un projet,воплотить въ жизнь,mises
 mettre un certain temps à faire qqch.,,mises
 mettre un point final à,,mises
+mettre une heure de plus pour faire qqch.,понадобится на часъ больше,mises
 mettre à jour,,mises
 mettre à profit,take advantage,mises
 mis à part lui,кромѣ него,rapport
@@ -462,6 +475,7 @@ n'en avoir que faire,couldn't care less,actions
 n'y faire exception,не исключеніе,rapport
 nettement plus,significantly more,quantités
 notamment,въ частности,adverbes
+notoirement,notoriously,adverbes
 occasionner,,causalité
 on pourrait se dire que,one might think that,paroles
 or,однако,paroles
@@ -489,9 +503,11 @@ par procuration,by proxy,figé
 par raison | par passion,,figé
 par rapport à,"relative to, compared to",rapport
 par sécurité,for safety,figé
+par élimination,методомъ исключенія,figé
 par-dessus la marché,въ придачу,figé
 participer à | prendre part à | faire partie de,,coopération
 pas forcément,not necessarily,divers
+pas mal,изрядно,divers
 pas moyen (de faire qqch.),no way,divers
 pas tellement,not so much,divers
 peiner à faire qqch.,struggle to,actions
@@ -515,6 +531,7 @@ pour le moins,мягко говоря,paroles
 pour ma part | en ce qui me concerne,as for me,rapport
 pour paradoxe,,figé
 pour que tout un chacun comprenne que...,so that everyone understands that...,phrases
+pour une fois,for once,temps
 pour être plus précise,,paroles
 pourtant,,paroles
 pourvu que ce soit,provided it would be,rapport
@@ -530,6 +547,7 @@ propice à qqch.,благопріятный для,effets
 provoquer,,causalité
 préalablement | auparavant | antérieurement,,temps
 prématurément,,adverbes
+prévoir de faire qqch.,планировать,causalité
 prêter à conséquences,,causalité
 puisque,поскольку,causalité
 pêle-mêle,вперемешку,figé
@@ -556,6 +574,7 @@ s'amplifier,,événements
 s'apercevoir,,considérations
 s'appuyant sur qqch.,,rapport
 s'efforcer de faire qqch.,"стремиться, стараться",causalité
+s'en sortir,сводить концы с концами,actions
 s'en tirer plutôt bien,to do rather well,actions
 s'engager dans | s'impliquer dans | s'investir dans,,coopération
 s'expliquer par,,causalité
@@ -578,7 +597,7 @@ se poursuivre,,événements
 se produire,,événements
 se rapporter à,относиться,rapport
 se rendre compte de,,considérations
-se renseigner auprès de qqn.,освѣдомиться у,considérations
+se renseigner auprès de qqn.,освѣдомиться у <- renseigner qn sur qch,considérations
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que,,sentiments
 se situer,,événements
 se terminer,,événements
@@ -650,6 +669,7 @@ voyer tout en noir,,figé
 vraisemblablement,presumably,adverbes
 vu que,given that,rapport
 y aller fort,перегибать палку,actions
+À Dieu ne plaise ! | Dieu m'en garde !,Боже упаси,paroles
 À croire que,It was as if,considérations
 "À côté de ça,",Кромѣ того,paroles
 "À l'heure qu'il est,",,temps
@@ -696,6 +716,7 @@ y aller fort,перегибать палку,actions
 à l'époque,back then,temps
 à la base,въ основѣ,figé
 à la clef,въ видѣ неизбежнаго слѣдствія,causalité
+à la demande,по требованію,adverbes
 à la différence d'autres,въ отличіе отъ прочихъ,rapport
 à la fin,in the end,figé
 à la hâte,наспѣхъ,figé
@@ -710,6 +731,7 @@ y aller fort,перегибать палку,actions
 à mon égard,по отношенію ко мнѣ,rapport
 à part entière,полноправный,figé
 à part qqch.,apart from,rapport
+à partir de quand,"at what point, from when",temps
 à partir du moment où,,temps
 à peine,едва,temps
 à peu de chose près,"практически, въ той или иной степени",quantités
@@ -728,6 +750,7 @@ y aller fort,перегибать палку,actions
 être au cœur de qqch.,,figé
 être causé par,,causalité
 être censé faire qqch.,,actions
+être confronté à qqch.,столкнуться,actions
 être de plus en plus nombreux à faire qqch.,,généralisations
 être de sa faute,,figé
 être dû à,,causalité
