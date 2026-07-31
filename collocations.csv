@@ -84,6 +84,7 @@ Il n'y a qu'à vous laisser convaincre de faire qqch.,,phrases
 Il ne me revient pas.,,mémoire
 Il s'est avéré que...,,paroles
 Il vaut mieux que tu sois là quand ils rentreront.,,phrases
+"J'accepte votre proposition, sous réserve que",,conditions
 J'ai dû faire qqch.,"Должно быть, я...",actions
 "J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul chez moi, le soir.",even though,concession
 J'ai un trou de mémoire.,,mémoire
@@ -110,6 +111,7 @@ Je ne sais pas trop.,,phrases
 Je ne suis pas certaine de comprendre.,,paroles
 Je serais bien en peine de faire qqch.,I would be hard-pressed to do sth.,actions
 "Je suis coincée ici pour une semaine, autant en profiter !","I'm stuck here for a week, might as well make the most of it!",phrases
+Je suis d'accord pour mais je pose une condition ; j'ai aussi une exigence,,conditions
 Je suis du genre à me tétaniser d'horreur en faisant qqch.,,généralisations
 Je suis emballé. <fam.>,I am thrilled.,phrases
 Je vais me débrouiller pour lui parler.,I'll find a way to talk to him.,phrases
@@ -125,11 +127,13 @@ Les deux me vont.,Either is fine.,phrases
 "Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.",,concession
 "Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !",,phrases
 Mais je ne vois pas le rapport avec ... .,Но я не вижу связи съ ...,rapport
+Mon accord dépend de / implique,,conditions
 Mon plus beau souvenir reste à venir.,,phrases
 "Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.",,concession
 Non seulement ... mais encore (aussi)...,,paroles
 On dirait,,paroles
 On dirait que,"Похоже,",paroles
+On pourrait s'y mettre à plusieurs.,,mises
 On pouvait s'y attendre,That was to be expected,phrases
 On sait que...,,paroles
 On voit bien que...,We can clearly see...,paroles
@@ -157,8 +161,8 @@ Raison de plus pour faire qqch.,,phrases
 Ras-le-bol de l'état policier !,хватитъ полицейщины,phrases
 Rien de tel ici.,Ничего подобнаго здѣсь.,phrases
 "Résultat,",Въ рѣзультатѣ,causalité
+"S'agissant de l’Ancien Régime, il importe de...",,paroles
 Suis-je bête ! Cela m'avait échappé.,,paroles
-"S’agissant de l’Ancien Régime, il importe de...",,rapport
 Tant mieux.,Тѣмъ лучше.,divers
 Telle est la première question.,,phrases
 "Ton projet, c'est justement ce dont je me méfie !",Your project is precisely what I'm wary of!,phrases
@@ -297,6 +301,7 @@ d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche,,p
 dans l'avenir,,temps
 dans l'ordre,по порядку,figé
 dans la foulée,сразу,temps
+dans la journée,during the daytime,temps
 dans le but de faire qqch. | Dans quel but ?,,causalité
 dans le cadre de,,rapport
 dans le sens où cela allie qqch. et qqch.,,paroles
@@ -361,6 +366,7 @@ en déplacement,въ дорогѣ,figé
 en faveur de,,rapport
 en flèche,стремительно,figé
 en fonction de,"depending on, in terms of",rapport
+en grandeur nature,full-scale,figé
 en gros,"в цѣлом, грубо говоря",divers
 en guise de qqch,by way of,divers
 en harmonie | en phase avec,,figé
@@ -528,13 +534,13 @@ pour ainsi dire | c'est-à-dire | on va dire | à peu près,,paroles
 pour l'instant | pour le moment,,temps
 pour la première fois,,temps
 pour le moins,мягко говоря,paroles
-pour ma part | en ce qui me concerne,as for me,rapport
+pour ma part | en ce qui me concerne,as for me,paroles
 pour paradoxe,,figé
 pour que tout un chacun comprenne que...,so that everyone understands that...,phrases
 pour une fois,for once,temps
 pour être plus précise,,paroles
 pourtant,,paroles
-pourvu que ce soit,provided it would be,rapport
+pourvu que ce soit,provided it would be,conditions
 pousser qqn. à faire qqch.,drive smb. to do sth.,actions
 prendre en compte,,considérations
 prendre en considération,,considérations
@@ -586,7 +592,7 @@ sans compter ceux qui,не считая тѣхъ,quantités
 sans doute,,divers
 sans effort,,figé
 sans quoi,"иначе, въ противномъ случаѣ",divers
-sauf si | excepté si | hormis celui de,,rapport
+sauf si | excepté si | hormis celui de,,conditions
 se conclure avec qqch.,,actions
 se dérouler,,événements
 se développer,,événements
@@ -698,7 +704,7 @@ y aller fort,перегибать палку,actions
 à ce que je sache | à ma connaissance,afaik,paroles
 à chaque fois,,temps
 à commencer par,,paroles
-à condition de / que,,rapport
+à condition de / que,,conditions
 à coup(s) de,при помощи,coups
 à dessein,намѣренно,figé
 à deux pas de l'arrêt,въ двухъ шагахъ отъ остановки,déplacements
@@ -726,7 +732,7 @@ y aller fort,перегибать палку,actions
 à l’instar de,наподобіе,divers
 à maintes reprises,многократно,temps
 à mi-chemin entre qqch. et qqch.,,figé
-à moins de / que,,rapport
+à moins de / que,,conditions
 à moitié,наполовину,quantités
 à mon égard,по отношенію ко мнѣ,rapport
 à part entière,полноправный,figé

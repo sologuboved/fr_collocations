@@ -142,6 +142,15 @@ malgré tout
 quand même ~ anyway
 quoi que vous fassiez ~ whatever you do
 
+CONDITIONS
+J'accepte votre proposition, sous réserve que
+Je suis d'accord pour mais je pose une condition ; j'ai aussi une exigence
+Mon accord dépend de / implique
+pourvu que ce soit ~ provided it would be
+sauf si | excepté si | hormis celui de
+à condition de / que
+à moins de / que
+
 CONSIDÉRATIONS
 (en) avoir / prendre conscience
 (se) tenir au courant
@@ -309,6 +318,7 @@ en concert avec ~ совмѣстно, заодно
 en direct ~ въ прямомъ эфирѣ
 en déplacement ~ въ дорогѣ
 en flèche ~ стремительно
+en grandeur nature ~ full-scale
 en harmonie | en phase avec
 en partant de rien ~ съ нуля
 en plein essor ~ on the rise
@@ -394,6 +404,7 @@ une espèce de qqch. ~ своего рода
 
 MISES
 , mettons, ~ положимъ,
+On pourrait s'y mettre à plusieurs.
 mettre au point ~ fine-tune
 mettre en avant | mettre en valeur ~ highlight
 mettre en cause ~ ставить под сомнение
@@ -474,6 +485,7 @@ Qu'est-ce que tu veux dire par là ?
 Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
 Quant à ...,
 Que dire d'autre?
+S'agissant de l’Ancien Régime, il importe de...
 Suis-je bête ! Cela m'avait échappé.
 [de façon peu assidue] il est vrai ~ admittedly [inconsistently]
 au bout du compte ~ въ конечномъ счетѣ
@@ -504,6 +516,7 @@ or ~ однако
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour autant que je me souvienne, ~ as far as I remember
 pour le moins ~ мягко говоря
+pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
 pourtant
 rebelote ~ here we go again
@@ -644,7 +657,6 @@ Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
 Ce qui fait la différence avec toi, c'est que moi, au moins, je...
 Il est fatigué mais il travaille pour autant
 Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи съ ...
-S’agissant de l’Ancien Régime, il importe de...
 [très inattendu] de sa part ~ съ его стороны
 ainsi que ~ as well as
 au début <-> en fin
@@ -678,22 +690,17 @@ n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
 par défaut de qqch. ~ за отсутствіемъ чего-л.
 par rapport à ~ relative to, compared to
-pour ma part | en ce qui me concerne ~ as for me
-pourvu que ce soit ~ provided it would be
 qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
 s'appuyant sur qqch.
-sauf si | excepté si | hormis celui de
 se rapporter à ~ относиться
 selon le cas ~ depending on the case
 tandis que ~ whereas
 tout ce qui touche à qqch.
 vis-à-vis de
 vu que ~ given that
-à condition de / que
 à force d'être ~ въ силу
 à la différence d'autres ~ въ отличіе отъ прочихъ
-à moins de / que
 à mon égard ~ по отношенію ко мнѣ
 à part qqch. ~ apart from
 
@@ -726,6 +733,7 @@ d'ici à 10 ans
 d'un bond ~ однимъ махомъ
 dans l'avenir
 dans la foulée ~ сразу
+dans la journée ~ during the daytime
 de nouveau ~ заново
 depuis belle lurette [fam.] ~ съ давнихъ поръ
 depuis le tout début ~ from the very beginning
