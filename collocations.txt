@@ -14,9 +14,11 @@ n'arriver pas à faire qqch.
 n'en avoir que faire ~ couldn't care less
 peiner à faire qqch. ~ struggle to
 pousser qqn. à faire qqch. ~ drive smb. to do sth.
+qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
 s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
 se conclure avec qqch.
+se donner à voir comme ~ показывать себя как
 venir de faire qqch.
 y aller fort ~ перегибать палку
 être censé faire qqch.
@@ -60,6 +62,7 @@ notamment ~ въ частности
 notoirement ~ notoriously
 pleinement ~ полностью
 prioritairement ~ преимущественно
+promptement ~ promptly
 prématurément
 quasiment ~ практически, почти что
 suffisamment
@@ -121,6 +124,7 @@ viser à faire qqch.
 à cause de
 à l'intention de
 à la clef ~ въ видѣ неизбежнаго слѣдствія
+à vouloir ainsi faire qqch. ~ изъ-за такихъ-то дѣйствій
 étant donné que
 être causé par
 être dû à
@@ -194,13 +198,13 @@ C'est aussi quelque part un... ~ in a way
 De quelle façon ... ? ~ Какимъ образомъ
 Elle ne fait que faire qqch.
 Faute de [mieux, je fais avec ce que j'ai.] ~ For lack of anything better, I make do with what I have.
-Pour autant, ~ however
 Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
 au lieu de ~ instead of
 au mieux ~ at best
 au même titre que qqch. / qn. ~ in the same way as
+au point jersey ~ въ техникѣ лицевой глади
 aucunement ~ pas du tout
 avant tout ~ прежде всего
 bien entendu
@@ -232,9 +236,11 @@ pas mal ~ изрядно
 pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
 peu importe
+pour autant ~ however
 que ce soit qqch. ou qqch., ~ будь то ... или ...,
 que non pas ~ not at all
 qui me / lui / leur est / sont propre(s) ~ свой собственный
+qui que se soit ~ кому бы то ни было
 quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
 quoi que ce soit ~ что бы то ни было
 sans doute
@@ -379,6 +385,7 @@ voyer tout en noir
 à l'envers ~ шиворотъ-навыворотъ
 à l'identique
 à l'infini
+à l'occurrence ~ въ данномъ случаѣ
 à la base ~ въ основѣ
 à la fin ~ in the end
 à la hâte ~ наспѣхъ
@@ -470,6 +477,7 @@ Il me semble que...
 Il s'est avéré que...
 J'avoue que...
 J'en suis persuadée | C'est ma conviction
+Je dois avouer que ~ Долженъ признаться
 Je ne suis pas certaine de comprendre.
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
@@ -502,6 +510,7 @@ dans le sens où cela allie qqch. et qqch.
 de façon générale | d'une façon plus générale ~ generally speaking
 de plus
 en clair ~ проще говоря
+en définitive ~ въ конечномъ счетѣ
 en peu de mots ~ вкратцѣ
 en plus ~ кромѣ того
 en résumé ~ короче говоря
@@ -672,6 +681,7 @@ concernant
 consister à ~ consist in
 convenir à qqch. ~ be associated with
 dans le cadre de
+demander ce qu'il en était de la France ~ какъ съ этимъ во Франціи
 du côté de qqch. ~ въ аспектѣ
 en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
@@ -684,6 +694,7 @@ en tant que qqn. ~ as a
 envers qqn.
 face à ~ по отношенію къ
 faute d'entretien ~ по недостатку ухода
+le cas échéant ~ if applicable
 lié à qqch. ~ связанный съ
 mis à part lui ~ кромѣ него
 n'y faire exception ~ не исключеніе
@@ -695,10 +706,12 @@ quels que soient ~ whatever, regardless of
 s'appuyant sur qqch.
 se rapporter à ~ относиться
 selon le cas ~ depending on the case
+sur ce coup ~ по этому поводу
 tandis que ~ whereas
 tout ce qui touche à qqch.
 vis-à-vis de
 vu que ~ given that
+Ça ne te regarde pas. | Cela ne te concerne pas. | Ce ne sont pas tes affaires.
 à force d'être ~ въ силу
 à la différence d'autres ~ въ отличіе отъ прочихъ
 à mon égard ~ по отношенію ко мнѣ
@@ -717,6 +730,7 @@ Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once 
 après qqch./avoir fait qqch./que | une fois que
 au bout d'un certain temps ~ по истеченіи некоторого времени
 au bout de 20 ans / quelque temps ~ after 20 years / a while
+au contretemps ~ въ неподходящее время
 au cours de ~ въ теченіе
 au départ ~ поначалу
 au fil du temps / de l'année ~ съ теченіемъ времени / въ теченіе года
@@ -751,6 +765,7 @@ en permanence
 en premier ~ first thing
 ensuite | ultérieurement | postérieurement
 entretemps ~ in the meanwhile
+il y a pile un siècle ~ ровно 100 лет назад
 irrégulièrement
 jadis ~ нѣкогда, давнымъ-давно
 la première fois que qqn. avait fait qqch.

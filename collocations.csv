@@ -97,6 +97,7 @@ Jamais je n’aurais cru voir ça ici !,,phrases
 Je bourais bien un café.,,phrases
 Je compte parmi les femmes à ne pas pouvoir faire qqch.,,généralisations
 Je crois fermement que,,adverbes
+Je dois avouer que,Долженъ признаться,paroles
 Je ferais mieux de [faire qqch.],I better,phrases
 Je me suis cru dans...,I feel like I was in...,phrases
 Je n'ai pas retenu qqch.,,mémoire
@@ -141,7 +142,6 @@ On y dénombre 10 enfants,,quantités
 "Ou bien, variante,","Или скорѣе, какъ варiантъ,",paroles
 Partons de ces derniers.,Начнемъ со вторыхъ.,paroles
 Place à la musique !,Time for music!,phrases
-"Pour autant,",however,divers
 Qu'en est-il de...,Какъ насчетъ,paroles
 Qu'en penses-tu ?,How about that?,paroles
 Qu'est-ce que tu veux dire par là ?,,paroles
@@ -206,6 +206,7 @@ au bout du compte,въ конечномъ счетѣ,paroles
 au cas où | à tout hasard,just in case,figé
 au choix,,figé
 au contraire,напротивъ,oppositions
+au contretemps,въ неподходящее время,temps
 au cours de,въ теченіе,temps
 au début <-> en fin,,rapport
 au départ,поначалу,temps
@@ -220,6 +221,7 @@ au moyen de | à l'aide de,,rapport
 au même titre que qqch. / qn.,in the same way as,divers
 au passage,между дѣломъ,figé
 au plus tôt,самое раннее,temps
+au point jersey,въ техникѣ лицевой глади,divers
 au premier regard,на первый взглядъ,paroles
 "au premier regard,",на первый взглядъ,figé
 au ralenti,въ замедленной съемкѣ,figé
@@ -323,6 +325,7 @@ de sorte que,"cъ тѣмъ, чтобы",causalité
 de surcroît | de surplus,болѣе того,divers
 "de surcroît,",вдобавокъ,quantités
 de toute façon | quoi qu'il en soit,anyway,divers
+demander ce qu'il en était de la France,какъ съ этимъ во Франціи,rapport
 depuis belle lurette [fam.],съ давнихъ поръ,temps
 depuis le tout début,from the very beginning,temps
 depuis longtemps,,temps
@@ -361,6 +364,7 @@ en comparaison de | auprès de,по сравненію съ,rapport
 en concert avec,"совмѣстно, заодно",figé
 en cours de,"въ ходѣ, въ процессѣ",rapport
 en direct,въ прямомъ эфирѣ,figé
+en définitive,въ конечномъ счетѣ,paroles
 en dépit de,in spite of,concession
 en déplacement,въ дорогѣ,figé
 en faveur de,,rapport
@@ -434,6 +438,7 @@ hors d’atteinte pour qqn.,внѣ досягаемости,déplacements
 il en est / sera autrement de,it will be different for,phrases
 il n'en était pas ainsi,that was not the case,figé
 il n'y a rien à dire,ничего не скажешь,figé
+il y a pile un siècle,ровно 100 лет назад,temps
 inversement,наоборотъ,oppositions
 irrégulièrement,,temps
 jadis,"нѣкогда, давнымъ-давно",temps
@@ -443,6 +448,7 @@ la donne,раскладъ,figé
 la première fois que qqn. avait fait qqch.,,temps
 laisser qqch. de côté,,paroles
 le baratin,bullshit,figé
+le cas échéant,if applicable,rapport
 le strict nécessaire,,figé
 librement,,adverbes
 lié à qqch.,связанный съ,rapport
@@ -463,8 +469,8 @@ mettre en pratique,,mises
 mettre en relation,связывать между собой,mises
 mettre en œuvre,,mises
 mettre fin à,положить конецъ,mises
-mettre qqn. au courant,,considérations
 mettre qqn. au courant,,mises
+mettre qqn. au courant,,considérations
 mettre sur pied un projet,воплотить въ жизнь,mises
 mettre un certain temps à faire qqch.,,mises
 mettre un point final à,,mises
@@ -530,6 +536,7 @@ plus maintenant,not anymore,temps
 plus que jamais,,temps
 "ponctuellement, régulièrement ou de façon permanente","на разовой, регулярной или постоянной основѣ",temps
 pour ainsi dire | c'est-à-dire | on va dire | à peu près,,paroles
+pour autant,however,divers
 "pour autant que je me souvienne,",as far as I remember,paroles
 pour l'instant | pour le moment,,temps
 pour la première fois,,temps
@@ -549,6 +556,7 @@ prioritairement,преимущественно,adverbes
 procurer,,causalité
 produire,,causalité
 projeter de faire qqch.,,causalité
+promptement,promptly,adverbes
 propice à qqch.,благопріятный для,effets
 provoquer,,causalité
 préalablement | auparavant | antérieurement,,temps
@@ -568,7 +576,9 @@ que non pas,not at all,divers
 quel que soit qqch.,каковъ бы ни былъ,figé
 quel(le) que puisse être qqch.,каким/ой бы ни был/а...,quantités
 quels que soient,"whatever, regardless of",rapport
+qui aurait mieux faire de se taire,которому лучше было бы помолчать,actions
 qui me / lui / leur est / sont propre(s),свой собственный,divers
+qui que se soit,кому бы то ни было,divers
 quitte à faire qqch.,"even if it means to, at the risk of, разъ ужъ",divers
 quoi que ce soit,что бы то ни было,divers
 quoi que vous fassiez,whatever you do,concession
@@ -594,6 +604,7 @@ sans effort,,figé
 sans quoi,"иначе, въ противномъ случаѣ",divers
 sauf si | excepté si | hormis celui de,,conditions
 se conclure avec qqch.,,actions
+se donner à voir comme,показывать себя как,actions
 se dérouler,,événements
 se développer,,événements
 se mettre en route,отправиться въ путь,déplacements
@@ -616,6 +627,7 @@ sous toutes les coutures,from every angle,figé
 subir,"подвергаться, претерпѣвать",effets
 suffisamment,,adverbes
 sujet à qqch.,быть подверженнымъ / склоннымъ къ чему-либо,effets
+sur ce coup,по этому поводу,rapport
 sur le coup,"at the time, on the spur of the moment",coups
 sur le vif,непосредственно,figé
 sur-le-champ,on the spot,figé
@@ -691,6 +703,7 @@ y aller fort,перегибать палку,actions
 Ça n'a rien à faire ici.,Этому здѣсь не мѣсто.,phrases
 Ça n'a rien à voir avec ce que...,This has nothing to do with...,paroles
 Ça ne fait pas tout.,,phrases
+Ça ne te regarde pas. | Cela ne te concerne pas. | Ce ne sont pas tes affaires.,,rapport
 Ça ne vous regarde pas !,Васъ это не касается!,paroles
 Ça se tient.,It makes sense.,paroles
 Ça sera foutu.,,phrases
@@ -719,6 +732,7 @@ y aller fort,перегибать палку,actions
 à l'intention de,,causalité
 à l'inverse (de),,oppositions
 à l'occasion de,по случаю,divers
+à l'occurrence,въ данномъ случаѣ,figé
 à l'époque,back then,temps
 à la base,въ основѣ,figé
 à la clef,въ видѣ неизбежнаго слѣдствія,causalité
@@ -749,6 +763,7 @@ y aller fort,перегибать палку,actions
 à tous les coups,every time,coups
 à tous égards,in all respects,divers
 à une échelle réduite,on a small scale,quantités
+à vouloir ainsi faire qqch.,изъ-за такихъ-то дѣйствій,causalité
 à vrai dire,по правдѣ говоря,paroles
 étant donné que,,causalité
 éventuellement,"по обстоятельствамъ, возможно",adverbes
