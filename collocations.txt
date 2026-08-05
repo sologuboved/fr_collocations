@@ -197,6 +197,7 @@ Après tout, ~ after all
 C'est aussi quelque part un... ~ in a way
 De quelle façon ... ? ~ Какимъ образомъ
 Elle ne fait que faire qqch.
+Elle ne pouvait que faire X, à défaut de faire Y. ~ за невозможностью
 Faute de [mieux, je fais avec ce que j'ai.] ~ For lack of anything better, I make do with what I have.
 Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
@@ -266,6 +267,7 @@ au sein de ~ within
 comme ailleurs ~ as elsewhere
 côté à côté ~ side by side
 d'en face ~ across the street
+en contrebas ~ там внизу
 en pleine ville | en plein Paris ~ въ самомъ/ой
 en route ~ по дорогѣ
 hors d’atteinte pour qqn. ~ внѣ досягаемости
@@ -620,6 +622,7 @@ alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
 avoir pour seul trait commun de faire qqch.
+comme si de rien n'était ~ as if nothing had happened
 de ... se dégage l’impression que ...
 faire son possible pour [faire qqch.]
 il en est / sera autrement de ~ it will be different for
@@ -719,6 +722,7 @@ vu que ~ given that
 
 SENTIMENTS
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
+se sentir + adjectif | ressentir / éprouver + nom | sentir que
 
 TEMPS
 (tout) à la fois
@@ -768,6 +772,7 @@ entretemps ~ in the meanwhile
 il y a pile un siècle ~ ровно 100 лет назад
 irrégulièrement
 jadis ~ нѣкогда, давнымъ-давно
+jusqu'à présent | jusqu'ici ~ so far
 la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
 maintes fois ~ many times

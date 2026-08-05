@@ -53,6 +53,7 @@ Dis-le-moi. Dis-m'en plus !,,phrases
 "Eh bien moi, je pense que",,paroles
 Elle m'en veut.,She's mad at me.,phrases
 Elle ne fait que faire qqch.,,divers
+"Elle ne pouvait que faire X, à défaut de faire Y.",за невозможностью,divers
 "En ce qui concerne qqch.,",,paroles
 "En clair,",иными словами,paroles
 En pleine qqch. ?,Въ разгаръ чего-л.?,temps
@@ -267,6 +268,7 @@ chercher à faire qqch.,,causalité
 comme,,causalité
 comme ailleurs,as elsewhere,déplacements
 comme je l'entends,какъ я считаю нужнымъ,figé
+comme si de rien n'était,as if nothing had happened,phrases
 comparé à,,rapport
 comporter | comprendre | inclure qqch.,включать въ себя,rapport
 compte tenu de qqch.,учитывая,considérations
@@ -362,6 +364,7 @@ en ce moment,,temps
 en clair,проще говоря,paroles
 en comparaison de | auprès de,по сравненію съ,rapport
 en concert avec,"совмѣстно, заодно",figé
+en contrebas,там внизу,déplacements
 en cours de,"въ ходѣ, въ процессѣ",rapport
 en direct,въ прямомъ эфирѣ,figé
 en définitive,въ конечномъ счетѣ,paroles
@@ -443,6 +446,7 @@ inversement,наоборотъ,oppositions
 irrégulièrement,,temps
 jadis,"нѣкогда, давнымъ-давно",temps
 joliment,beautifully,adverbes
+jusqu'à présent | jusqu'ici,so far,temps
 l'air de rien,,figé
 la donne,раскладъ,figé
 la première fois que qqn. avait fait qqch.,,temps
@@ -469,8 +473,8 @@ mettre en pratique,,mises
 mettre en relation,связывать между собой,mises
 mettre en œuvre,,mises
 mettre fin à,положить конецъ,mises
-mettre qqn. au courant,,mises
 mettre qqn. au courant,,considérations
+mettre qqn. au courant,,mises
 mettre sur pied un projet,воплотить въ жизнь,mises
 mettre un certain temps à faire qqch.,,mises
 mettre un point final à,,mises
@@ -616,6 +620,7 @@ se rapporter à,относиться,rapport
 se rendre compte de,,considérations
 se renseigner auprès de qqn.,освѣдомиться у <- renseigner qn sur qch,considérations
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que,,sentiments
+se sentir + adjectif | ressentir / éprouver + nom | sentir que,,sentiments
 se situer,,événements
 se terminer,,événements
 selon le cas,depending on the case,rapport
