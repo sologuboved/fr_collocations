@@ -3,22 +3,38 @@ import subprocess
 from helpers import dump_utf_json, read_csv
 
 
-def main(from_csv=False, sort=False):
-    if from_csv:
-        cartes = [dict(zip(('mot', 'trad'), map(str.strip, row))) for row in read_csv('cartes.csv', as_dict=False)]
+def upd(front, back, f_json, src_csv, sort, push):
+    if src_csv:
+        data = [dict(zip((back, front), map(str.strip, row))) for row in read_csv(src_csv, as_dict=False)]
         if sort:
-            cartes.sort(key=lambda x: (len(x['trad']), x['mot'],))
-        dump_utf_json(cartes, 'cartes.json')
-    for command in (
-        "git add cartes.json",
-        'git commit -m "upd"',
-        "git push origin main",
-    ):
-        print(command + '...')
-        subprocess.run(command, shell=True)
+            data.sort(key=lambda x: (len(x['trad']), x['mot'],))
+        dump_utf_json(data, f_json)
+    if push:
+        for command in (
+            f"git add {f_json}",
+            'git commit -m "upd"',
+            "git push origin main",
+        ):
+            print(command + '...')
+            subprocess.run(command, shell=True)
+
+
+def upd_coi(from_csv=False, sort=False, push=True):
+    upd(front='préposition', back='verbe', f_json='coi.json', src_csv=[None, 'coi.csv'][from_csv], sort=sort, push=push)
+
+
+def upd_cartes(from_csv=False, sort=False, push=True):
+    upd(front='mot', back='trad', f_json='cartes.json', src_csv=[None, 'cartes.csv'][from_csv], sort=sort, push=push)
 
 
 if __name__ == '__main__':
-    main(
+    upd_coi(
         from_csv=True,
+        # sort=True,
+        # push=False,
     )
+    # upd_cartes(
+    #     from_csv=True,
+    #     sort=True,
+    #     push=False,
+    # )
