@@ -1,10 +1,18 @@
 [
   {
-    "verbe": "décider",
-    "préposition": "de"
+    "préposition": "de",
+    "verbe": "décider"
   },
   {
-    "verbe": "réussir",
-    "préposition": "à"
+    "préposition": "à",
+    "verbe": "réussir"
+  },
+  {
+    "préposition": "à",
+    "verbe": "hésiter"
+  },
+  {
+    "préposition": "de",
+    "verbe": "choisir"
   }
 ]
