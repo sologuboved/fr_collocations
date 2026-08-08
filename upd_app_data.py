@@ -7,7 +7,7 @@ def upd(front, back, f_json, src_csv, sort, push):
     if src_csv:
         data = [dict(zip((back, front), map(str.strip, row))) for row in read_csv(src_csv, as_dict=False)]
         if sort:
-            data.sort(key=lambda x: (len(x['trad']), x['mot'],))
+            data.sort(key=lambda x: (len(x[front]), x[back],))
         dump_utf_json(data, f_json)
     if push:
         for command in (
@@ -30,7 +30,7 @@ def upd_cartes(from_csv=False, sort=False, push=True):
 if __name__ == '__main__':
     upd_coi(
         from_csv=True,
-        # sort=True,
+        sort=True,
         # push=False,
     )
     # upd_cartes(
