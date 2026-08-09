@@ -14,12 +14,17 @@ import time
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
-from config import FILE_PATH
+from config import FILE_PATH, FROM_DB
 from helpers import PIDWriter, check_auth, get_chat_id
-from command_processors import by_random, by_tag, get_citation, get_stats, get_tags, get_all
+if FROM_DB:
+    import command_processors_for_db as cp
+    from write import db_to_txt as write_txt
+else:
+    import command_processors_for_json as cp
+    from write import json_to_txt as write_txt
 from data_processors import list_to_texts, lists_to_texts
 from userinfo import TELETOKEN
-from write import to_email, db_to_txt
+from write import to_email
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -55,7 +60,7 @@ async def send_citation(update, context):
     # /cit
     await context.bot.send_message(
         chat_id=get_chat_id(update),
-        text=get_citation(),
+        text=cp.get_citation(),
     )
 
 
@@ -63,13 +68,13 @@ async def send_stats(update, context):
     # /stat
     await context.bot.send_message(
         chat_id=get_chat_id(update),
-        text=get_stats(),
+        text=cp.get_stats(),
     )
 
 
 async def send_all(update, context):
     # /all
-    for text in lists_to_texts(get_all()):
+    for text in lists_to_texts(cp.get_all()):
         await context.bot.send_message(
             chat_id=get_chat_id(update),
             text=text,
@@ -80,7 +85,7 @@ async def send_all(update, context):
 @check_auth
 async def send_email(update, context):
     # /email
-    for func in (db_to_txt, to_email):
+    for func in (write_txt, to_email):
         caption = func(FILE_PATH)
         await context.bot.send_message(
             chat_id=get_chat_id(update),
@@ -91,7 +96,7 @@ async def send_email(update, context):
 
 async def send_file(update, context):
     # /file
-    caption = db_to_txt(FILE_PATH)
+    caption = write_txt(FILE_PATH)
     await context.bot.send_document(
         chat_id=get_chat_id(update),
         document=FILE_PATH,
@@ -113,7 +118,7 @@ async def send_random(update, context):
         )
         time.sleep(2)
         query = None
-    for text in list_to_texts(by_random(query), with_tag=True):
+    for text in list_to_texts(cp.by_random(query), with_tag=True):
         await context.bot.send_message(
             chat_id=get_chat_id(update),
             text=text,
@@ -132,7 +137,7 @@ async def send_tag(update, context):
                 text="Il est nécessaire de fournir une tag.",
             )
     else:
-        for text in list_to_texts(by_tag(query), with_tag=False):
+        for text in list_to_texts(cp.by_tag(query), with_tag=False):
             await context.bot.send_message(
                 chat_id=get_chat_id(update),
                 text=text,
@@ -142,7 +147,7 @@ async def send_tag(update, context):
 
 async def send_tags(update, context):
     # /tags
-    keyboard = [[InlineKeyboardButton(tag, callback_data=tag)] for tag in get_tags()]
+    keyboard = [[InlineKeyboardButton(tag, callback_data=tag)] for tag in cp.get_tags()]
     reply_markup = InlineKeyboardMarkup(keyboard)
     await update.message.reply_text("Voilà :", reply_markup=reply_markup)
 
@@ -152,7 +157,7 @@ async def tag_button(update, context):
     await query.answer()
     tag = query.data
     await query.edit_message_text(text=f"Tag sélectionné : {tag}")
-    for text in list_to_texts(by_tag(tag), with_tag=False):
+    for text in list_to_texts(cp.by_tag(tag), with_tag=False):
         await context.bot.send_message(
             chat_id=query.message.chat.id,
             text=text,
