@@ -24,25 +24,34 @@ def by_random(size):
 
 
 def by_tag(tag):
-    collocations = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(
-        {'tag': tag},
-        {'_id': 0, 'tag': 0},
-    ).sort('mot'))
+    collocations = list()
+    try:
+        data = get_data()[tag]
+    except KeyError:
+        pass
+    else:
+        for collocation in data:
+            collocations.pop(tag)
+            collocations.append(collocation)
     if collocations:
-        return collocations
+        return order(collocations)
     else:
         return ["Aucune collocation trouvée."]
 
 
 def get_tags():
-    return sorted(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].distinct('tag'))
+    return sorted(get_data().keys())
 
 
 def get_all():
     tags_and_collocations = list()
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
-    for tag in sorted(target.distinct('tag')):
-        tags_and_collocations.append((tag, list(target.find({'tag': tag}, {'_id': 0, 'tag': 0}).sort('mot'))))
+    data = get_data()
+    for tag, val in sorted(data.items()):
+        collocations = list()
+        for entry in val:
+            entry.pop(tag)
+            collocations.append(entry)
+        tags_and_collocations.append((tag, order(collocations)))
     return tags_and_collocations
 
 
