@@ -17,6 +17,27 @@ from helpers import CsvWriter, load_utf_json, read_csv
 from userinfo import EMAIL, EPSWRD
 
 
+def del_by_tag_in_db(tag):
+    print(f"Del {tag} from {DB_NAME}.{COLLOCATIONS}...")
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
+    print(f"Initially, {target.estimated_document_count()} entries")
+    target.delete_many({'tag': tag})
+    print(f"Finally, {target.estimated_document_count()} entries")
+
+
+def restore_db(filepath=None, target_collname=COLLOCATIONS):
+    if not filepath:
+        pattern = re.compile(r'collocations\d+')
+        filepath = os.path.join('backups', sorted(filter(pattern.match, os.listdir('backups')))[-1])
+    print(f"Restoring {DB_NAME}.{target_collname} from {filepath}")
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][target_collname]
+    target.drop()
+    for entry in read_csv(filepath, as_dict=True):
+        entry['trad'] = entry['trad'] or None
+        target.insert_one(entry)
+    print(f"Got {target.estimated_document_count()} entries")
+
+
 def to_email(file_path=FILE_PATH):
     smtp_server = "smtp.yandex.ru"
     smtp_port = 465
@@ -85,7 +106,7 @@ def backup(extention):
         dirname,
         f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.{extention}',
     )
-    {'csv': to_csv, 'json': to_json}[extention](backup_fname=backup_fname)
+    {'csv': backup_to_csv, 'json': backup_to_json}[extention](backup_fname=backup_fname)
     print("Suppression des fichiers redondants...")
     pattern = re.compile(r'collocations\d+')
     backups = sorted(filter(pattern.match, os.listdir(dirname)))
@@ -99,7 +120,7 @@ def backup(extention):
         print("...rien à supprimer")
 
 
-def to_csv(backup_fname):
+def backup_to_csv(backup_fname):
     filename = 'collocations.csv'
     print(f"{DB_NAME}.{COLLOCATIONS} -> {backup_fname} & {filename}")
     rows = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1))
@@ -109,31 +130,10 @@ def to_csv(backup_fname):
     print('...terminé')
 
 
-def to_json(backup_fname):
+def backup_to_json(backup_fname):
     print(f"Sauvegardons à {backup_fname}...")
     shutil.copy('collocations.json', backup_fname)
     print('...terminé')
-
-
-def del_by_tag(tag):
-    print(f"Del {tag} from {DB_NAME}.{COLLOCATIONS}...")
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
-    print(f"Initially, {target.estimated_document_count()} entries")
-    target.delete_many({'tag': tag})
-    print(f"Finally, {target.estimated_document_count()} entries")
-
-
-def restore(filepath=None, target_collname=COLLOCATIONS):
-    if not filepath:
-        pattern = re.compile(r'collocations\d+')
-        filepath = os.path.join('backups', sorted(filter(pattern.match, os.listdir('backups')))[-1])
-    print(f"Restoring {DB_NAME}.{target_collname} from {filepath}")
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][target_collname]
-    target.drop()
-    for entry in read_csv(filepath, as_dict=True):
-        entry['trad'] = entry['trad'] or None
-        target.insert_one(entry)
-    print(f"Got {target.estimated_document_count()} entries")
 
 
 if __name__ == '__main__':
