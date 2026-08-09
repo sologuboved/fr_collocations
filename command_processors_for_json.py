@@ -1,24 +1,25 @@
 import itertools
+from operator import itemgetter
+import random
 
-from pymongo import MongoClient
+import requests
 
 from config import CITATIONS, COLLOCATIONS, URL
 
 
+def get_data():
+    return requests.get(URL).json()
+
+
 def by_random(size):
-    coll = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
+    data = get_data()
     if size:
-        return list(coll.aggregate([
-            {'$sample': {'size': size}},
-            {'$project': {'_id': 0}},
-            {'$sort': {'mot': 1}},
-        ]))
+        return sorted(
+            list(random.sample([collocation['mot'] for val in data.values() for collocation in val], size)),
+            key=itemgetter('mot'),
+        )
     else:
-        return list(itertools.chain.from_iterable(list(coll.aggregate([
-                {'$match': {'tag': tag}},
-                {'$sample': {'size': 1}},
-                {'$project': {'_id': 0}},
-            ])) for tag in sorted(coll.distinct('tag'))))
+        return sorted([random.choice(val) for val in data.values()], key=itemgetter('mot'))
 
 
 def by_tag(tag):
