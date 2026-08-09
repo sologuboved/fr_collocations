@@ -4,15 +4,15 @@ import random
 
 import requests
 
-from config import CITATIONS, COLLOCATIONS, URL
+from config import CITATIONS, COLLOCATIONS, URL_CITATIONS, URL_COLLOCATIONS
 
 
 def order(seq):
     return sorted(seq, key=itemgetter('mot'))
 
 
-def get_data():
-    return requests.get(URL).json()
+def get_data(url=URL_COLLOCATIONS):
+    return requests.get(url).json()
 
 
 def by_random(size):
@@ -56,7 +56,7 @@ def get_all():
 
 
 def get_citation():
-    citation = next(MongoClient(LOCALHOST, PORT)[DB_NAME][CITATIONS].aggregate([{'$sample': {'size': 1}}]))
+    citation = random.choice(get_data(url=URL_CITATIONS))
     livre = citation.pop('œuvre')
     citation = f"{citation['cit']}\n\n{citation['auteur']}"
     if livre:
