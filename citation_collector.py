@@ -1,13 +1,16 @@
+from collections import defaultdict
 import time
 
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 import requests
 
-from global_vars import CITATIONS, DB_NAME, LOCALHOST, PORT
+from config import CITATIONS, DB_NAME, LOCALHOST, PORT
+from helpers import dump_utf_json, load_utf_json
 
 
-def main(url, auteur, drop):
+def collect(url, auteur):
+    print(auteur + '...')
     citations = list()
     page = 0
     is_off = True
@@ -29,6 +32,10 @@ def main(url, auteur, drop):
         if is_off:
             break
         is_off = True
+    return citations
+
+
+def upload(citations, drop):
     target = MongoClient(LOCALHOST, PORT)[DB_NAME][CITATIONS]
     if drop:
         target.drop()
@@ -37,24 +44,42 @@ def main(url, auteur, drop):
     print(f"Enfin, {target.estimated_document_count()} entrées")
 
 
+def download(citations, drop):
+    contents = defaultdict(list)
+    if not drop:
+        contents.update(load_utf_json('citations.json'))
+    for citation in citations:
+        contents[citation['auteur']].append(citation)
+    dump_utf_json(contents, 'citations.json')
+
+
+def main(to_db, drop):
+    citations = list()
+    for url, auteur in (
+            (
+                    'http://evene.lefigaro.fr/citations/blaise-pascal?page=',
+                    "Blaise Pascal",
+            ),
+            (
+                    'http://evene.lefigaro.fr/citations/francois-de-la-rochefoucauld?page=',
+                    "François de La Rochefoucauld",
+            ),
+            (
+                    'http://evene.lefigaro.fr/citations/montesquieu?page=',
+                    "De Montesquieu",
+            ),
+            (
+                    'http://evene.lefigaro.fr/citations/montaigne?page=',
+                    "Michel de Montaigne",
+            ),
+    ):
+        for collected in collect(url, auteur):
+            citations.extend(collected)
+    if to_db:
+        upload(citations, drop)
+    else:
+        download(citations, drop)
+
+
 if __name__ == '__main__':
-    # main(
-    #     url='http://evene.lefigaro.fr/citations/blaise-pascal?page=',
-    #     auteur="Blaise Pascal",
-    #     drop=True,
-    # )
-    # main(
-    #     url='http://evene.lefigaro.fr/citations/francois-de-la-rochefoucauld?page=',
-    #     auteur="François de La Rochefoucauld",
-    #     drop=False,
-    # )
-    # main(
-    #     url='http://evene.lefigaro.fr/citations/montesquieu?page=',
-    #     auteur="De Montesquieu",
-    #     drop=False,
-    # )
-    main(
-        url='http://evene.lefigaro.fr/citations/montaigne?page=',
-        auteur="Michel de Montaigne",
-        drop=False,
-    )
+    main(to_db=False, drop=True)

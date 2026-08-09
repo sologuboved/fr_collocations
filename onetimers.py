@@ -1,19 +1,27 @@
+from collections import defaultdict
+
 from pymongo import MongoClient
 
-from global_vars import COLLOCATIONS, DB_NAME, LOCALHOST, PORT
-from helpers import upsert_mongo_entry
+from config import CITATIONS, DB_NAME, LOCALHOST, PORT
+from helpers import dump_utf_json, read_csv
 
 
-def empty_str_to_null():
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
-    count = 0
-    for entry in target.find():
-        if entry['trad'] == '':
-            entry['trad'] = None
-            upsert_mongo_entry(target, entry)
-            count += 1
-    print(count)
+
+def collocations_csv_to_json():
+    collocations = defaultdict(list)
+    for row in read_csv('collocations.csv', as_dict=True):
+        if not row['trad']:
+            row['trad'] = None
+        collocations[row['tag']].append(row)
+    dump_utf_json(collocations, 'collocations.json')
+
+
+def download_citations():
+    dump_utf_json(
+        list(MongoClient(LOCALHOST, PORT)[DB_NAME][CITATIONS].find(projection={'_id': 0})),
+        'citations.json',
+    )
 
 
 if __name__ == '__main__':
-    empty_str_to_null()
+    download_citations()

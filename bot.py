@@ -14,7 +14,7 @@ import time
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 
-from global_vars import FILE_PATH
+from config import FILE_PATH
 from helpers import PIDWriter, check_auth, get_chat_id
 from command_processors import by_random, by_tag, get_citation, get_stats, get_tags, get_all
 from data_processors import list_to_texts, lists_to_texts
@@ -168,7 +168,7 @@ def main():
     application.add_handler(CommandHandler('cit', send_citation))
     application.add_handler(CommandHandler('stat', send_stats))
     application.add_handler(CommandHandler('all', send_all))
-    application.add_handler(CommandHandler('email', send_email))
+    # application.add_handler(CommandHandler('email', send_email))
     application.add_handler(CommandHandler('file', send_file))
     application.add_handler(CommandHandler('random', send_random))
     application.add_handler(CommandHandler('tag', send_tag))

@@ -2,7 +2,7 @@ import itertools
 
 from pymongo import MongoClient
 
-from global_vars import CITATIONS, COLLOCATIONS, DB_NAME, LOCALHOST, PORT
+from config import CITATIONS, COLLOCATIONS, DB_NAME, LOCALHOST, PORT
 
 
 def by_random(size):

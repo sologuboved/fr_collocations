@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-from global_vars import COLLOCATIONS, DB_NAME, LOCALHOST, PORT
+from config import COLLOCATIONS, DB_NAME, LOCALHOST, PORT
 from helpers import read_csv
 
 
