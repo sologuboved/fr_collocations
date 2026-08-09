@@ -4,7 +4,7 @@ import random
 
 import requests
 
-from config import CITATIONS, COLLOCATIONS, URL_CITATIONS, URL_COLLOCATIONS
+from config import URL_CITATIONS, URL_COLLOCATIONS
 
 
 def order(seq):
@@ -65,16 +65,14 @@ def get_citation():
 
 
 def get_stats():
-    dbase = MongoClient(LOCALHOST, PORT)[DB_NAME]
-    target = dbase[COLLOCATIONS]
-    stats = f"Nombre total : {target.estimated_document_count()} ; y compris {len(target.distinct('tag'))} tags\n\n"
-    for item in target.aggregate([
-        {"$group": {"_id": "$tag", "count": {"$sum": 1}}},
-        {'$sort': {'count': -1}}
-    ]):
-        stats += f"{item['_id']} : {item['count']}\n"
-    target = dbase[CITATIONS]
-    stats += f"\nIl y a aussi {target.estimated_document_count()} citations ; {len(target.distinct('auteur'))} auter(s)"
+    data = get_data()
+    num_tags = len(data.keys())
+    num_entries = len(list(itertools.chain.from_iterable(data.values())))
+    stats = f"Nombre total : {num_entries} ; y compris {num_tags} tags\n\n"
+    for tag, val in data.items:
+        stats += f"{tag} : {len(val)}\n"
+    data = get_data(url=URL_CITATIONS)
+    stats += f"\nIl y a aussi {len(data)} citations ; {len({entry['auteur'] for entry in data})} auter(s)"
     return stats
 
 
