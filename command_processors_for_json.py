@@ -7,6 +7,10 @@ import requests
 from config import CITATIONS, COLLOCATIONS, URL
 
 
+def order(seq):
+    return sorted(seq, key=itemgetter('mot'))
+
+
 def get_data():
     return requests.get(URL).json()
 
@@ -14,12 +18,9 @@ def get_data():
 def by_random(size):
     data = get_data()
     if size:
-        return sorted(
-            list(random.sample([collocation['mot'] for val in data.values() for collocation in val], size)),
-            key=itemgetter('mot'),
-        )
+        return order(random.sample([collocation['mot'] for val in data.values() for collocation in val], size))
     else:
-        return sorted([random.choice(val) for val in data.values()], key=itemgetter('mot'))
+        return order([random.choice(val) for val in data.values()])
 
 
 def by_tag(tag):
