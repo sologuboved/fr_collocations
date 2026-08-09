@@ -105,7 +105,7 @@ async def send_file(update, context):
 
 
 async def send_random(update, context):
-    # /rndm 15
+    # /random 15
     query = update['message']['text'].split()
     try:
         query = int(query[1].strip())
