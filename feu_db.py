@@ -8,8 +8,8 @@ def main():
     upd_db.from_csv()
     argv = sys.argv
     if len(argv) == 1:
-        write.to_csv()
-        write.to_txt()
+        write.backup(extention='csv')
+        print(write.db_to_txt())
     else:
         if argv[-1] == 'e':
             write.to_email()

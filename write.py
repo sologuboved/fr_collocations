@@ -3,15 +3,17 @@ from email import encoders as email_encoders
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
+from operator import itemgetter
 import os
 import pathlib
 import re
+import shutil
 import smtplib
 
 from pymongo import MongoClient
 
-from global_vars import COLLOCATIONS, DB_NAME, FILE_PATH, LOCALHOST, PORT
-from helpers import CsvWriter, read_csv
+from config import COLLOCATIONS, DB_NAME, FILE_PATH, LOCALHOST, PORT
+from helpers import CsvWriter, load_utf_json, read_csv
 from userinfo import EMAIL, EPSWRD
 
 
@@ -42,14 +44,13 @@ def to_email(file_path=FILE_PATH):
     return f"Le fichier {file_path} a été envoyé à {EMAIL}."
 
 
-def to_txt(file_path=FILE_PATH):
+def to_txt(entries, file_path):
     tag_count = mot_count = 0
     text = str()
-    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
-    for tag in sorted(target.distinct('tag')):
+    for tag in sorted(entries.keys()):
         tag_count += 1
         text += tag.upper() + '\n'
-        for entry in target.find({'tag': tag}).sort('mot', 1):
+        for entry in sorted(entries[tag], key=itemgetter('mot')):
             try:
                 text += " ~ ".join((entry['mot'], entry['trad'])) + '\n'
             except TypeError:
@@ -62,26 +63,56 @@ def to_txt(file_path=FILE_PATH):
     return f"{tag_count} tags, {mot_count} collocations ont été écrites dans le fichier {file_path}."
 
 
-def to_csv():
-    pathlib.Path('backups').mkdir(parents=True, exist_ok=True)
-    backup_filename = os.path.join('backups', f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.csv')
-    filename = 'collocations.csv'
-    print(f"{DB_NAME}.{COLLOCATIONS} -> {backup_filename} & {filename}")
-    rows = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1))
-    for target_filename in (backup_filename, filename):
-        with CsvWriter(target_filename, ('mot', 'trad', 'tag')) as handler:
-            handler.bulk(rows)
-    print("...done. Deleting redundant files...")
+def db_to_txt(file_path=FILE_PATH):
+    target = MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS]
+    return to_txt(
+        entries={tag: target.find({'tag': tag}) for tag in sorted(target.distinct('tag'))},
+        file_path=file_path,
+    )
+
+
+def json_to_txt(file_path=FILE_PATH):
+    return to_txt(
+        entries=load_utf_json('collocations.json'),
+        file_path=file_path,
+    )
+
+
+def backup(extention):
+    dirname = extention + '_backups'
+    pathlib.Path(dirname).mkdir(parents=True, exist_ok=True)
+    backup_fname = os.path.join(
+        dirname,
+        f'collocations{datetime.datetime.now():%Y%m%d%H%M%S%f}.{extention}',
+    )
+    {'csv': to_csv, 'json': to_json}[extention](backup_fname=backup_fname)
+    print("Suppression des fichiers redondants...")
     pattern = re.compile(r'collocations\d+')
-    backups = sorted(filter(pattern.match, os.listdir('backups')))
+    backups = sorted(filter(pattern.match, os.listdir(dirname)))
     outdated = len(backups) - 10
     if outdated > 0:
-        print(f"Removing {outdated} file(s)...")
+        print(f"{outdated} fichier(s) trouvé(s)...")
         for index in range(outdated):
-            os.remove(os.path.join('backups', backups[index]))
-        print("...done deleting redundant files")
+            os.remove(os.path.join(dirname, backups[index]))
+        print("...suppression des fichiers redondants terminée")
     else:
-        print("...nothing to remove")
+        print("...rien à supprimer")
+
+
+def to_csv(backup_fname):
+    filename = 'collocations.csv'
+    print(f"{DB_NAME}.{COLLOCATIONS} -> {backup_fname} & {filename}")
+    rows = list(MongoClient(LOCALHOST, PORT)[DB_NAME][COLLOCATIONS].find(projection={'_id': 0}).sort('mot', 1))
+    for target_filename in (backup_fname, filename):
+        with CsvWriter(target_filename, ('mot', 'trad', 'tag')) as handler:
+            handler.bulk(rows)
+    print('...terminé')
+
+
+def to_json(backup_fname):
+    print(f"Sauvegardons à {backup_fname}...")
+    shutil.copy('collocations.json', backup_fname)
+    print('...terminé')
 
 
 def del_by_tag(tag):

@@ -19,7 +19,7 @@ from helpers import PIDWriter, check_auth, get_chat_id
 from command_processors import by_random, by_tag, get_citation, get_stats, get_tags, get_all
 from data_processors import list_to_texts, lists_to_texts
 from userinfo import TELETOKEN
-from write import to_email, to_txt
+from write import to_email, db_to_txt
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -80,7 +80,7 @@ async def send_all(update, context):
 @check_auth
 async def send_email(update, context):
     # /email
-    for func in (to_txt, to_email):
+    for func in (db_to_txt, to_email):
         caption = func(FILE_PATH)
         await context.bot.send_message(
             chat_id=get_chat_id(update),
@@ -91,7 +91,7 @@ async def send_email(update, context):
 
 async def send_file(update, context):
     # /file
-    caption = to_txt(FILE_PATH)
+    caption = db_to_txt(FILE_PATH)
     await context.bot.send_document(
         chat_id=get_chat_id(update),
         document=FILE_PATH,
