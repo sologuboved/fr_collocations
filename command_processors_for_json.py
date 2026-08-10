@@ -31,7 +31,7 @@ def by_tag(tag):
         pass
     else:
         for collocation in data:
-            collocations.pop(tag)
+            collocation.pop('tag')
             collocations.append(collocation)
     if collocations:
         return order(collocations)
@@ -49,7 +49,7 @@ def get_all():
     for tag, val in sorted(data.items()):
         collocations = list()
         for entry in val:
-            entry.pop(tag)
+            entry.pop('tag')
             collocations.append(entry)
         tags_and_collocations.append((tag, order(collocations)))
     return tags_and_collocations
