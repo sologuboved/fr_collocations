@@ -7,8 +7,8 @@ import requests
 from config import URL_CITATIONS, URL_COLLOCATIONS
 
 
-def order(seq):
-    return sorted(seq, key=itemgetter('mot'))
+def order(seq, by='mot'):
+    return sorted(seq, key=itemgetter(by))
 
 
 def get_data(url=URL_COLLOCATIONS):
@@ -20,7 +20,7 @@ def by_random(size):
     if size:
         return order(random.sample([collocation['mot'] for val in data.values() for collocation in val], size))
     else:
-        return order([random.choice(val) for val in data.values()])
+        return order([random.choice(val) for val in data.values()], by='tag')
 
 
 def by_tag(tag):
