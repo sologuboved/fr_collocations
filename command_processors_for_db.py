@@ -63,7 +63,7 @@ def get_stats():
     ]):
         stats += f"{item['_id']} : {item['count']}\n"
     target = dbase[CITATIONS]
-    stats += f"\nIl y a aussi {target.estimated_document_count()} citations ; {len(target.distinct('auteur'))} auter(s)"
+    stats += f"\nIl y a aussi {target.estimated_document_count()} citations ; {len(target.distinct('auteur'))} auteur(s)"
     return stats
 
 

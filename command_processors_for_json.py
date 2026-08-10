@@ -18,7 +18,7 @@ def get_data(url=URL_COLLOCATIONS):
 def by_random(size):
     data = get_data()
     if size:
-        return order(random.sample([collocation['mot'] for val in data.values() for collocation in val], size))
+        return order(random.sample([collocation for val in data.values() for collocation in val], size))
     else:
         return order([random.choice(val) for val in data.values()], by='tag')
 
@@ -69,10 +69,10 @@ def get_stats():
     num_tags = len(data.keys())
     num_entries = len(list(itertools.chain.from_iterable(data.values())))
     stats = f"Nombre total : {num_entries} ; y compris {num_tags} tags\n\n"
-    for tag, val in data.items:
+    for tag, val in data.items():
         stats += f"{tag} : {len(val)}\n"
     data = get_data(url=URL_CITATIONS)
-    stats += f"\nIl y a aussi {len(data)} citations ; {len({entry['auteur'] for entry in data})} auter(s)"
+    stats += f"\nIl y a aussi {len(data)} citations ; {len({entry['auteur'] for entry in data})} auteur(s)"
     return stats
 
 
