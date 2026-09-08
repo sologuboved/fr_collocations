@@ -1,3 +1,5 @@
+from operator import itemgetter
+
 from helpers import dump_utf_json, load_utf_json, read_csv
 
 
@@ -32,12 +34,13 @@ def from_csv(fname='collocations.json', drop=False):
             print(f"'{tag}' n'existe pas ; on l'omet (row {mot},{row['trad']},{tag})")
             continue
     print(f"Finally, {sum(len(val) for val in collocations.values())} entries")
+    for tag in list(collocations.keys()):
+        collocations[tag] = sorted(collocations[tag], key=itemgetter('mot'))
     dump_utf_json(collocations, fname)
 
 
 if __name__ == '__main__':
     # add_tag('')
-    # from_csv(
-    #     # fname='collocations_test.json',
-    # )
-    ...
+    from_csv(
+        # fname='collocations_test.json',
+    )
