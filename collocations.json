@@ -515,16 +515,6 @@
       "trad": null
     },
     {
-      "mot": "par conséquent",
-      "tag": "causalité",
-      "trad": null
-    },
-    {
-      "mot": "par la suite",
-      "tag": "causalité",
-      "trad": "впослѣдствіи"
-    },
-    {
       "mot": "permettre de",
       "tag": "causalité",
       "trad": null
@@ -1097,11 +1087,6 @@
       "trad": "moreover"
     },
     {
-      "mot": "par hasard",
-      "tag": "divers",
-      "trad": "случайно"
-    },
-    {
       "mot": "pas forcément",
       "tag": "divers",
       "trad": "not necessarily"
@@ -1663,66 +1648,6 @@
       "trad": null
     },
     {
-      "mot": "par chance",
-      "tag": "figé",
-      "trad": "къ счастью"
-    },
-    {
-      "mot": "par confort",
-      "tag": "figé",
-      "trad": "для удобства"
-    },
-    {
-      "mot": "par devoir",
-      "tag": "figé",
-      "trad": "по обязанности"
-    },
-    {
-      "mot": "par défaut",
-      "tag": "figé",
-      "trad": "by default"
-    },
-    {
-      "mot": "par ennui",
-      "tag": "figé",
-      "trad": "со скуки"
-    },
-    {
-      "mot": "par envie",
-      "tag": "figé",
-      "trad": "по желанію"
-    },
-    {
-      "mot": "par essence",
-      "tag": "figé",
-      "trad": "by nature"
-    },
-    {
-      "mot": "par obligation",
-      "tag": "figé",
-      "trad": "по обязанности"
-    },
-    {
-      "mot": "par procuration",
-      "tag": "figé",
-      "trad": "by proxy"
-    },
-    {
-      "mot": "par raison | par passion",
-      "tag": "figé",
-      "trad": null
-    },
-    {
-      "mot": "par sécurité",
-      "tag": "figé",
-      "trad": "for safety"
-    },
-    {
-      "mot": "par élimination",
-      "tag": "figé",
-      "trad": "методомъ исключенія"
-    },
-    {
       "mot": "par-dessus la marché",
       "tag": "figé",
       "trad": "въ придачу"
@@ -2146,11 +2071,6 @@
       "trad": "наоборотъ"
     },
     {
-      "mot": "par contraste avec qqch.,",
-      "tag": "oppositions",
-      "trad": "въ отличіе отъ"
-    },
-    {
       "mot": "par contre",
       "tag": "oppositions",
       "trad": null
@@ -2164,6 +2084,103 @@
       "mot": "à l'inverse (de)",
       "tag": "oppositions",
       "trad": null
+    }
+  ],
+  "par": [
+        {
+      "mot": "par défaut de qqch.",
+      "tag": "rapport",
+      "trad": "за отсутствіемъ чего-л."
+    },
+    {
+      "mot": "par rapport à",
+      "tag": "rapport",
+      "trad": "relative to, compared to"
+    },
+    {
+      "mot": "par le passé",
+      "tag": "temps",
+      "trad": "въ прошломъ"
+    },
+    {
+      "mot": "par conséquent",
+      "tag": "causalité",
+      "trad": null
+    },
+    {
+      "mot": "par la suite",
+      "tag": "causalité",
+      "trad": "впослѣдствіи"
+    },
+    {
+      "mot": "par hasard",
+      "tag": "divers",
+      "trad": "случайно"
+    },
+    {
+      "mot": "par chance",
+      "tag": "figé",
+      "trad": "къ счастью"
+    },
+    {
+      "mot": "par confort",
+      "tag": "figé",
+      "trad": "для удобства"
+    },
+    {
+      "mot": "par devoir",
+      "tag": "figé",
+      "trad": "по обязанности"
+    },
+    {
+      "mot": "par défaut",
+      "tag": "figé",
+      "trad": "by default"
+    },
+    {
+      "mot": "par ennui",
+      "tag": "figé",
+      "trad": "со скуки"
+    },
+    {
+      "mot": "par envie",
+      "tag": "figé",
+      "trad": "по желанію"
+    },
+    {
+      "mot": "par essence",
+      "tag": "figé",
+      "trad": "by nature"
+    },
+    {
+      "mot": "par obligation",
+      "tag": "figé",
+      "trad": "по обязанности"
+    },
+    {
+      "mot": "par procuration",
+      "tag": "figé",
+      "trad": "by proxy"
+    },
+    {
+      "mot": "par raison | par passion",
+      "tag": "figé",
+      "trad": null
+    },
+    {
+      "mot": "par sécurité",
+      "tag": "figé",
+      "trad": "for safety"
+    },
+    {
+      "mot": "par élimination",
+      "tag": "figé",
+      "trad": "методомъ исключенія"
+    },
+    {
+      "mot": "par contraste avec qqch.,",
+      "tag": "oppositions",
+      "trad": "въ отличіе отъ"
     }
   ],
   "paroles": [
@@ -3369,9 +3386,9 @@
       "trad": "связанный съ"
     },
     {
-      "mot": "mis à part lui",
+      "mot": "(mis) à part lui / eux / qqch.",
       "tag": "rapport",
-      "trad": "кромѣ него"
+      "trad": "apart from"
     },
     {
       "mot": "n'y faire exception",
@@ -3382,16 +3399,6 @@
       "mot": "outre qqch./qqn.",
       "tag": "rapport",
       "trad": "помимо"
-    },
-    {
-      "mot": "par défaut de qqch.",
-      "tag": "rapport",
-      "trad": "за отсутствіемъ чего-л."
-    },
-    {
-      "mot": "par rapport à",
-      "tag": "rapport",
-      "trad": "relative to, compared to"
     },
     {
       "mot": "qqch. en est un (autre)",
@@ -3462,11 +3469,6 @@
       "mot": "à mon égard",
       "tag": "rapport",
       "trad": "по отношенію ко мнѣ"
-    },
-    {
-      "mot": "à part qqch.",
-      "tag": "rapport",
-      "trad": "apart from"
     }
   ],
   "sentiments": [
@@ -3741,11 +3743,6 @@
       "mot": "n'avoir plus le temps d'enseigner",
       "tag": "temps",
       "trad": null
-    },
-    {
-      "mot": "par le passé",
-      "tag": "temps",
-      "trad": "въ прошломъ"
     },
     {
       "mot": "pendant ce temps",
