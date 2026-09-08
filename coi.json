@@ -1,153 +1,5 @@
 [
   {
-    "préposition": "à",
-    "verbe": "aider"
-  },
-  {
-    "préposition": "à",
-    "verbe": "apprendre"
-  },
-  {
-    "préposition": "à",
-    "verbe": "avoir du mal"
-  },
-  {
-    "préposition": "à",
-    "verbe": "avoir tendence"
-  },
-  {
-    "préposition": "à",
-    "verbe": "chercher"
-  },
-  {
-    "préposition": "à",
-    "verbe": "commencer"
-  },
-  {
-    "préposition": "à",
-    "verbe": "continuer"
-  },
-  {
-    "préposition": "à",
-    "verbe": "donner"
-  },
-  {
-    "préposition": "à",
-    "verbe": "emprunter"
-  },
-  {
-    "préposition": "à",
-    "verbe": "envoyer"
-  },
-  {
-    "préposition": "à",
-    "verbe": "faire confiance"
-  },
-  {
-    "préposition": "à",
-    "verbe": "forcer"
-  },
-  {
-    "préposition": "à",
-    "verbe": "hésiter"
-  },
-  {
-    "préposition": "à",
-    "verbe": "indiquer"
-  },
-  {
-    "préposition": "à",
-    "verbe": "inviter"
-  },
-  {
-    "préposition": "à",
-    "verbe": "n'arriver pas"
-  },
-  {
-    "préposition": "à",
-    "verbe": "obliger"
-  },
-  {
-    "préposition": "à",
-    "verbe": "offrir"
-  },
-  {
-    "préposition": "à",
-    "verbe": "parler"
-  },
-  {
-    "préposition": "à",
-    "verbe": "participer"
-  },
-  {
-    "préposition": "à",
-    "verbe": "plaire"
-  },
-  {
-    "préposition": "à",
-    "verbe": "prêter"
-  },
-  {
-    "préposition": "à",
-    "verbe": "rendre"
-  },
-  {
-    "préposition": "à",
-    "verbe": "ressembler"
-  },
-  {
-    "préposition": "à",
-    "verbe": "répondre"
-  },
-  {
-    "préposition": "à",
-    "verbe": "réussir"
-  },
-  {
-    "préposition": "à",
-    "verbe": "s'adapter"
-  },
-  {
-    "préposition": "à",
-    "verbe": "s'attendre"
-  },
-  {
-    "préposition": "à",
-    "verbe": "s'intéresser"
-  },
-  {
-    "préposition": "à",
-    "verbe": "se mettre"
-  },
-  {
-    "préposition": "à",
-    "verbe": "signaler"
-  },
-  {
-    "préposition": "à",
-    "verbe": "souhaiter"
-  },
-  {
-    "préposition": "à",
-    "verbe": "sourire"
-  },
-  {
-    "préposition": "à",
-    "verbe": "téléphoner"
-  },
-  {
-    "préposition": "à",
-    "verbe": "écrire"
-  },
-  {
-    "préposition": "à",
-    "verbe": "être habituer"
-  },
-  {
-    "préposition": "à",
-    "verbe": "être prêt"
-  },
-  {
     "préposition": "de",
     "verbe": "(s')arrêter"
   },
@@ -156,8 +8,28 @@
     "verbe": "accepter"
   },
   {
+    "préposition": "à",
+    "verbe": "aider"
+  },
+  {
+    "préposition": "On va à lui",
+    "verbe": "aller"
+  },
+  {
+    "préposition": "à",
+    "verbe": "apprendre"
+  },
+  {
+    "préposition": "On a affaire à lui",
+    "verbe": "avoir affaire"
+  },
+  {
     "préposition": "de",
     "verbe": "avoir besoin"
+  },
+  {
+    "préposition": "à",
+    "verbe": "avoir du mal"
   },
   {
     "préposition": "de",
@@ -172,24 +44,64 @@
     "verbe": "avoir peur"
   },
   {
+    "préposition": "à",
+    "verbe": "avoir tendence"
+  },
+  {
+    "préposition": "à",
+    "verbe": "chercher"
+  },
+  {
     "préposition": "de",
     "verbe": "choisir"
   },
   {
     "préposition": "de",
     "verbe": "choisir"
+  },
+  {
+    "préposition": "à",
+    "verbe": "commencer"
+  },
+  {
+    "préposition": "à",
+    "verbe": "continuer"
+  },
+  {
+    "préposition": "à ... de",
+    "verbe": "demander ... qqn. ... faire qqch."
+  },
+  {
+    "préposition": "à ... de",
+    "verbe": "dire ... qqn. ... faire qqch."
   },
   {
     "préposition": "de",
     "verbe": "discuter"
   },
   {
+    "préposition": "à",
+    "verbe": "donner"
+  },
+  {
     "préposition": "de",
     "verbe": "décider"
   },
   {
+    "préposition": "à",
+    "verbe": "emprunter"
+  },
+  {
+    "préposition": "à",
+    "verbe": "envoyer"
+  },
+  {
     "préposition": "de",
     "verbe": "essayer"
+  },
+  {
+    "préposition": "à",
+    "verbe": "faire confiance"
   },
   {
     "préposition": "de",
@@ -200,8 +112,24 @@
     "verbe": "finir"
   },
   {
+    "préposition": "à",
+    "verbe": "forcer"
+  },
+  {
+    "préposition": "à",
+    "verbe": "hésiter"
+  },
+  {
+    "préposition": "à",
+    "verbe": "indiquer"
+  },
+  {
     "préposition": "de",
     "verbe": "interdire"
+  },
+  {
+    "préposition": "à",
+    "verbe": "inviter"
   },
   {
     "préposition": "de",
@@ -212,12 +140,64 @@
     "verbe": "munir"
   },
   {
+    "préposition": "à",
+    "verbe": "n'arriver pas"
+  },
+  {
+    "préposition": "à",
+    "verbe": "obliger"
+  },
+  {
+    "préposition": "à",
+    "verbe": "offrir"
+  },
+  {
     "préposition": "de",
     "verbe": "oublier"
   },
   {
+    "préposition": "à",
+    "verbe": "parler"
+  },
+  {
+    "préposition": "à",
+    "verbe": "participer"
+  },
+  {
+    "préposition": "On pense à lui",
+    "verbe": "penser"
+  },
+  {
+    "préposition": "à ... de",
+    "verbe": "permettre ... qqn. ... faire qqch."
+  },
+  {
+    "préposition": "à",
+    "verbe": "plaire"
+  },
+  {
+    "préposition": "On prende garde à lui",
+    "verbe": "prendre garde"
+  },
+  {
     "préposition": "de",
     "verbe": "profiter"
+  },
+  {
+    "préposition": "à ... de",
+    "verbe": "proposer ... qqn. ... faire qqch."
+  },
+  {
+    "préposition": "On présente qqch. à lui",
+    "verbe": "présenter"
+  },
+  {
+    "préposition": "à",
+    "verbe": "prêter"
+  },
+  {
+    "préposition": "On recourt à lui",
+    "verbe": "recourir"
   },
   {
     "préposition": "de",
@@ -228,8 +208,52 @@
     "verbe": "regretter"
   },
   {
+    "préposition": "à",
+    "verbe": "rendre"
+  },
+  {
+    "préposition": "On renonce à lui",
+    "verbe": "renoncer"
+  },
+  {
+    "préposition": "à ... de",
+    "verbe": "reprocher ... qqn. ... faire qqch."
+  },
+  {
+    "préposition": "à",
+    "verbe": "ressembler"
+  },
+  {
+    "préposition": "à",
+    "verbe": "répondre"
+  },
+  {
+    "préposition": "à",
+    "verbe": "réussir"
+  },
+  {
+    "préposition": "On rêve à lui",
+    "verbe": "rêver"
+  },
+  {
+    "préposition": "à",
+    "verbe": "s'adapter"
+  },
+  {
+    "préposition": "On s'adresse à lui",
+    "verbe": "s'adresser"
+  },
+  {
+    "préposition": "à",
+    "verbe": "s'attendre"
+  },
+  {
     "préposition": "de",
     "verbe": "s'ennuyer"
+  },
+  {
+    "préposition": "à",
+    "verbe": "s'intéresser"
   },
   {
     "préposition": "de",
@@ -238,6 +262,14 @@
   {
     "préposition": "de",
     "verbe": "se dépécher"
+  },
+  {
+    "préposition": "On se fie à lui",
+    "verbe": "se fier"
+  },
+  {
+    "préposition": "à",
+    "verbe": "se mettre"
   },
   {
     "préposition": "de",
@@ -252,6 +284,34 @@
     "verbe": "se souvenir"
   },
   {
+    "préposition": "à",
+    "verbe": "signaler"
+  },
+  {
+    "préposition": "On songe à lui",
+    "verbe": "songer"
+  },
+  {
+    "préposition": "à",
+    "verbe": "souhaiter"
+  },
+  {
+    "préposition": "à",
+    "verbe": "sourire"
+  },
+  {
+    "préposition": "On tient à lui",
+    "verbe": "tenir"
+  },
+  {
+    "préposition": "à",
+    "verbe": "téléphoner"
+  },
+  {
+    "préposition": "à",
+    "verbe": "écrire"
+  },
+  {
     "préposition": "de",
     "verbe": "être accompagné ... qqn. / qqch."
   },
@@ -264,75 +324,15 @@
     "verbe": "être contraint ... faire qqch."
   },
   {
+    "préposition": "à",
+    "verbe": "être habituer"
+  },
+  {
     "préposition": "de",
     "verbe": "être pressé"
   },
   {
-    "préposition": "à ... de",
-    "verbe": "demander ... qqn. ... faire qqch."
-  },
-  {
-    "préposition": "à ... de",
-    "verbe": "dire ... qqn. ... faire qqch."
-  },
-  {
-    "préposition": "à ... de",
-    "verbe": "permettre ... qqn. ... faire qqch."
-  },
-  {
-    "préposition": "à ... de",
-    "verbe": "proposer ... qqn. ... faire qqch."
-  },
-  {
-    "préposition": "à ... de",
-    "verbe": "reprocher ... qqn. ... faire qqch."
-  },
-  {
-    "préposition": "On va à lui",
-    "verbe": "aller"
-  },
-  {
-    "préposition": "On rêve à lui",
-    "verbe": "rêver"
-  },
-  {
-    "préposition": "On pense à lui",
-    "verbe": "penser"
-  },
-  {
-    "préposition": "On songe à lui",
-    "verbe": "songer"
-  },
-  {
-    "préposition": "On tient à lui",
-    "verbe": "tenir"
-  },
-  {
-    "préposition": "On se fie à lui",
-    "verbe": "se fier"
-  },
-  {
-    "préposition": "On recourt à lui",
-    "verbe": "recourir"
-  },
-  {
-    "préposition": "On renonce à lui",
-    "verbe": "renoncer"
-  },
-  {
-    "préposition": "On a affaire à lui",
-    "verbe": "avoir affaire"
-  },
-  {
-    "préposition": "On s'adresse à lui",
-    "verbe": "s'adresser"
-  },
-  {
-    "préposition": "On prende garde à lui",
-    "verbe": "prendre garde"
-  },
-  {
-    "préposition": "On présente qqch. à lui",
-    "verbe": "présenter"
+    "préposition": "à",
+    "verbe": "être prêt"
   }
 ]
