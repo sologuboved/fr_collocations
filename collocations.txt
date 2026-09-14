@@ -1,6 +1,10 @@
 ACTIONS
+Bien fait pour lui. ~ Serves him right.
+Il leur arrivait de faire qqch. ~ Имъ случалось...
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
+Il n'en fallait pas plus pour faire qqch. ~ Ничего больше не нужно было, чтобы...
 J'ai dû faire qqch. ~ Должно быть, я...
+Je fais en sorte de faire qqch. ~ make sure to
 Je ne peux pas m'en passer. ~ I can't do without it.
 Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
@@ -14,6 +18,8 @@ n'arriver pas à faire qqch.
 n'en avoir que faire ~ couldn't care less
 peiner à faire qqch. ~ struggle to
 pousser qqn. à faire qqch. ~ drive smb. to do sth.
+pouvoir faire qqch. rien qu'en faisant qqch. ~ be able to do sth.just by doing sth.
+prévoir de | compter faire qqch. ~ планировать
 qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
 s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
@@ -53,6 +59,7 @@ fortement | massivement
 fâcheusement ~ annoyingly
 gratuitement ~ безплатно
 joliment ~ beautifully
+lentement et sûrement
 librement
 logiquement
 légitimement
@@ -68,10 +75,13 @@ quasiment ~ практически, почти что
 suffisamment
 systématiquement
 techniquement
+typiquement
 visiblement ~ явно
 volontiers ~ voluntarily, willingly
 vraisemblablement ~ presumably
 à la demande ~ по требованію
+à la légère ~ легкомысленно, легко
+à tâtons ~ наощупь
 éventuellement ~ по обстоятельствамъ, возможно
 
 CAUSALITÉ
@@ -105,8 +115,6 @@ entraîner
 favoriser ~ способствовать
 grâce à
 occasionner
-par conséquent
-par la suite ~ впослѣдствіи
 permettre de
 procurer
 produire
@@ -229,10 +237,10 @@ en règle générale ~ as a general rule
 en tout cas
 et tout à l'avenant ~ and so on
 guère
+la barbe en moins ~ minus the beard
 ou bien encore ~ или даже
 outre qqch. ~ помимо
 par ailleurs | en outre ~ moreover
-par hasard ~ случайно
 pas forcément ~ not necessarily
 pas mal ~ изрядно
 pas moyen (de faire qqch.) ~ no way
@@ -343,24 +351,13 @@ faire semblant de | faire mine de ~ притворяться
 faute de ~ за недостаткомъ
 faute de mieux ~ за неимѣніемъ лучшаго
 finir dans les délais
+hors d'atteinte ~ внѣ досягаемости
 il n'en était pas ainsi ~ that was not the case
 il n'y a rien à dire ~ ничего не скажешь
 l'air de rien
 la donne ~ раскладъ
 le baratin ~ bullshit
 le strict nécessaire
-par chance ~ къ счастью
-par confort ~ для удобства
-par devoir ~ по обязанности
-par défaut ~ by default
-par ennui ~ со скуки
-par envie ~ по желанію
-par essence ~ by nature
-par obligation ~ по обязанности
-par procuration ~ by proxy
-par raison | par passion
-par sécurité ~ for safety
-par élimination ~ методомъ исключенія
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 pour paradoxe
@@ -382,6 +379,7 @@ une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
 valider de façon ferme
 voyer tout en noir
+à bien des égards ~ во многихъ отношеніяхъ
 à brûle-pourpoint ~ сходу, спонтанно, безъ подготовки
 à dessein ~ намѣренно
 à force de qqch. ~ въ силу, въ ходѣ
@@ -403,6 +401,7 @@ voyer tout en noir
 être de sa faute
 être en droit de faire qqch. ~ имѣть право
 être en tête
+être pris au dépourvu ~ to be caught off guard
 être sur le qui-vive ~ быть начеку
 
 GÉNÉRALISATIONS
@@ -452,10 +451,30 @@ contre ~ versus
 en revanche ~ зато
 faire contraste
 inversement ~ наоборотъ
-par contraste avec qqch., ~ въ отличіе отъ
 par contre
 vice versa
 à l'inverse (de)
+
+PAR
+par chance ~ къ счастью
+par confort ~ для удобства
+par conséquent
+par contraste avec qqch., ~ въ отличіе отъ
+par devoir ~ по обязанности
+par défaut ~ by default
+par défaut de qqch. ~ за отсутствіемъ чего-л.
+par ennui ~ со скуки
+par envie ~ по желанію
+par essence ~ by nature
+par hasard ~ случайно
+par la suite ~ впослѣдствіи
+par le passé ~ въ прошломъ
+par obligation ~ по обязанности
+par procuration ~ by proxy
+par raison | par passion
+par rapport à ~ relative to, compared to
+par sécurité ~ for safety
+par élimination ~ методомъ исключенія
 
 PAROLES
 , au premier abord, ~ въ первомъ приближеніи
@@ -470,6 +489,7 @@ C'est dans ce sens que...
 C'est hors de question !
 Ce n'est rien à tout que...
 Comme dit plus haut
+Comme tu dis. ~ Именно такъ.
 Comment dit-on "..." en français ?
 Côté de...,
 Eh bien moi, je pense que
@@ -500,6 +520,7 @@ Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
 Quant à ...,
 Que dire d'autre?
 S'agissant de l’Ancien Régime, il importe de...
+Sauf son / votre respect ~ With all due respect
 Suis-je bête ! Cela m'avait échappé.
 [de façon peu assidue] il est vrai ~ admittedly [inconsistently]
 au bout du compte ~ въ конечномъ счетѣ
@@ -537,6 +558,7 @@ pourtant
 rebelote ~ here we go again
 sans aucun doute
 selon | d'après | à en croire | aux yeux de
+vu que ça approche ~ учитывая, что уже скоро
 À Dieu ne plaise ! | Dieu m'en garde ! ~ Боже упаси
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
@@ -604,9 +626,11 @@ L'important est de faire qqch.
 La faute à qqch. ~ It's all due to sth.
 La réponse ne va pas de soi. ~ The answer is not obvious.
 La tour Eiffel a dû choquer au début.
+Les choses ne se sont pas réellement passées de la sorte. ~ Things didn't actually happen that way.
 Les deux me vont. ~ Either is fine.
 Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !
 Mon plus beau souvenir reste à venir.
+On a beau lui donner rendez-vous plus tôt que l'heure prévue, il se débrouille toujours pour ne pas faillir à sa réputation. ~ No matter how early you arrange to meet him, he always manages to live up to his reputation.
 On pouvait s'y attendre ~ That was to be expected
 Place à la musique ! ~ Time for music!
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
@@ -669,6 +693,7 @@ un sur deux ~ каждый второй
 à une échelle réduite ~ on a small scale
 
 RAPPORT
+(mis) à part lui / eux / qqch. ~ apart from
 Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
 Ce qui fait la différence avec toi, c'est que moi, au moins, je...
 Il est fatigué mais il travaille pour autant
@@ -703,11 +728,8 @@ face à ~ по отношенію къ
 faute d'entretien ~ по недостатку ухода
 le cas échéant ~ if applicable
 lié à qqch. ~ связанный съ
-mis à part lui ~ кромѣ него
 n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
-par défaut de qqch. ~ за отсутствіемъ чего-л.
-par rapport à ~ relative to, compared to
 qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
 s'appuyant sur qqch.
@@ -722,7 +744,6 @@ vu que ~ given that
 à force d'être ~ въ силу
 à la différence d'autres ~ въ отличіе отъ прочихъ
 à mon égard ~ по отношенію ко мнѣ
-à part qqch. ~ apart from
 
 SENTIMENTS
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
@@ -758,6 +779,7 @@ dans la foulée ~ сразу
 dans la journée ~ during the daytime
 de nouveau ~ заново
 depuis belle lurette [fam.] ~ съ давнихъ поръ
+depuis des semaines ~ for weeks
 depuis le tout début ~ from the very beginning
 depuis longtemps
 depuis maintenant déjà 20 ans ~ вотъ уже 20 лѣтъ
@@ -781,7 +803,6 @@ la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
 maintes fois ~ many times
 n'avoir plus le temps d'enseigner
-par le passé ~ въ прошломъ
 pendant ce temps ~ въ это время
 pendant que | comme | alors que
 pendant qu’il en est temps ~ пока еще есть время
