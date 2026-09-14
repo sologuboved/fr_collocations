@@ -12,15 +12,15 @@ def add_tag(tag, fname='collocations.json'):
     print('...done')
 
 
-def from_csv(fname='collocations.json', drop=False):
-    print(f"mots_temp.csv -> {fname}")
+def from_csv(src_fname='mots_temp.csv', target_fname='collocations.json', drop=False):
+    print(f"{src_fname} -> {target_fname}")
     if drop:
         collocations = dict()
     else:
-        collocations = load_utf_json(fname)
+        collocations = load_utf_json(target_fname)
     mots = [collocation['mot'] for val in collocations.values() for collocation in val]
     print(f"Initially, {len(mots)} entries")
-    for row in read_csv('mots_temp.csv', as_dict=True):
+    for row in read_csv(src_fname, as_dict=True):
         print(row)
         row = {key: val.strip() or None for key, val in row.items()}
         mot = row['mot']
@@ -36,11 +36,11 @@ def from_csv(fname='collocations.json', drop=False):
     print(f"Finally, {sum(len(val) for val in collocations.values())} entries")
     for tag in list(collocations.keys()):
         collocations[tag] = sorted(collocations[tag], key=itemgetter('mot'))
-    dump_utf_json(collocations, fname)
+    dump_utf_json(collocations, target_fname)
 
 
 if __name__ == '__main__':
     # add_tag('')
     from_csv(
-        # fname='collocations_test.json',
+        # target_fname='collocations_test.json',
     )
