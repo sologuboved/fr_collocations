@@ -91,6 +91,11 @@
       "trad": "демонстрировать"
     },
     {
+      "mot": "faire semblant de | faire mine de",
+      "tag": "actions",
+      "trad": "притворяться"
+    },
+    {
       "mot": "forcer qqn. à faire qqch.",
       "tag": "actions",
       "trad": null
@@ -1703,11 +1708,6 @@
       "trad": "скипнуть"
     },
     {
-      "mot": "faire semblant de | faire mine de",
-      "tag": "actions",
-      "trad": "притворяться"
-    },
-    {
       "mot": "faute de",
       "tag": "figé",
       "trad": "за недостаткомъ"
@@ -2301,7 +2301,7 @@
     },
     {
       "mot": "par hasard",
-      "tag": "divers",
+      "tag": "par",
       "trad": "случайно"
     },
     {
