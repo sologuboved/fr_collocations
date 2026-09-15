@@ -6,7 +6,6 @@ from config import CITATIONS, DB_NAME, LOCALHOST, PORT
 from helpers import dump_utf_json, read_csv
 
 
-
 def collocations_csv_to_json():
     collocations = defaultdict(list)
     for row in read_csv('collocations.csv', as_dict=True):
