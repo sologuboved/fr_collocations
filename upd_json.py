@@ -21,7 +21,6 @@ def from_csv(src_fname='mots_temp.csv', target_fname='collocations.json', drop=F
     mots = [collocation['mot'] for val in collocations.values() for collocation in val]
     print(f"Initially, {len(mots)} entries")
     for row in read_csv(src_fname, as_dict=True):
-        print(row)
         row = {key: val.strip() or None for key, val in row.items()}
         mot = row['mot']
         tag = row['tag']

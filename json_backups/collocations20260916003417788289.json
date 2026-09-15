@@ -1107,6 +1107,11 @@
       "trad": "такъ же какъ"
     },
     {
+      "mot": "de plusieurs manières",
+      "tag": "manières",
+      "trad": "разными способами"
+    },
+    {
       "mot": "de surcroît | de surplus",
       "tag": "divers",
       "trad": "болѣе того"
@@ -2040,33 +2045,6 @@
       "trad": null
     }
   ],
-  "manières": [
-    {
-      "mot": "Et vous allez trouver ce budget de quelle manière ?",
-      "tag": "manières",
-      "trad": "Какимъ образомъ?"
-    },
-    {
-      "mot": "Et, d’une certaine manière, c'est ce qui s'est produit.",
-      "tag": "manières",
-      "trad": "Cela est arrivé."
-    },
-    {
-      "mot": "de la même manière",
-      "tag": "manières",
-      "trad": null
-    },
-    {
-      "mot": "de plusieurs manières",
-      "tag": "manières",
-      "trad": "разными способами"
-    },
-    {
-      "mot": "de toute manière,",
-      "tag": "manières",
-      "trad": "въ любомъ случаѣ"
-    }
-  ],
   "mises": [
     {
       "mot": ", mettons,",
@@ -2251,52 +2229,52 @@
   "par": [
     {
       "mot": "par chance",
-      "tag": "par",
+      "tag": "figé",
       "trad": "къ счастью"
     },
     {
       "mot": "par confort",
-      "tag": "par",
+      "tag": "figé",
       "trad": "для удобства"
     },
     {
       "mot": "par conséquent",
-      "tag": "par",
+      "tag": "causalité",
       "trad": null
     },
     {
       "mot": "par contraste avec qqch.,",
-      "tag": "par",
+      "tag": "oppositions",
       "trad": "въ отличіе отъ"
     },
     {
       "mot": "par devoir",
-      "tag": "par",
+      "tag": "figé",
       "trad": "по обязанности"
     },
     {
       "mot": "par défaut",
-      "tag": "par",
+      "tag": "figé",
       "trad": "by default"
     },
     {
       "mot": "par défaut de qqch.",
-      "tag": "par",
+      "tag": "rapport",
       "trad": "за отсутствіемъ чего-л."
     },
     {
       "mot": "par ennui",
-      "tag": "par",
+      "tag": "figé",
       "trad": "со скуки"
     },
     {
       "mot": "par envie",
-      "tag": "par",
+      "tag": "figé",
       "trad": "по желанію"
     },
     {
       "mot": "par essence",
-      "tag": "par",
+      "tag": "figé",
       "trad": "by nature"
     },
     {
@@ -2306,42 +2284,42 @@
     },
     {
       "mot": "par la suite",
-      "tag": "par",
+      "tag": "causalité",
       "trad": "впослѣдствіи"
     },
     {
       "mot": "par le passé",
-      "tag": "par",
+      "tag": "temps",
       "trad": "въ прошломъ"
     },
     {
       "mot": "par obligation",
-      "tag": "par",
+      "tag": "figé",
       "trad": "по обязанности"
     },
     {
       "mot": "par procuration",
-      "tag": "par",
+      "tag": "figé",
       "trad": "by proxy"
     },
     {
       "mot": "par raison | par passion",
-      "tag": "par",
+      "tag": "figé",
       "trad": null
     },
     {
       "mot": "par rapport à",
-      "tag": "par",
+      "tag": "rapport",
       "trad": "relative to, compared to"
     },
     {
       "mot": "par sécurité",
-      "tag": "par",
+      "tag": "figé",
       "trad": "for safety"
     },
     {
       "mot": "par élimination",
-      "tag": "par",
+      "tag": "figé",
       "trad": "методомъ исключенія"
     }
   ],
@@ -2947,6 +2925,11 @@
       "mot": "Est-ce que tu t'intéresses à la musique ?",
       "tag": "phrases",
       "trad": null
+    },
+    {
+      "mot": "Et vous allez trouver ce budget de quelle manière ?",
+      "tag": "manières",
+      "trad": "Какимъ образомъ?"
     },
     {
       "mot": "Fais-moi signe quand tu peux te libérer.",
@@ -4143,6 +4126,11 @@
     }
   ],
   "événements": [
+    {
+      "mot": "Et, d’une certaine manière, c'est ce qui s'est produit.",
+      "tag": "manières",
+      "trad": "Cela est arrivé."
+    },
     {
       "mot": "Qu'est-ce qui est arrivé ?",
       "tag": "événements",

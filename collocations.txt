@@ -5,12 +5,16 @@ Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
 Il n'en fallait pas plus pour faire qqch. ~ Ничего больше не нужно было, чтобы...
 J'ai dû faire qqch. ~ Должно быть, я...
 Je fais en sorte de faire qqch. ~ make sure to
+Je n'en suis pas à faire qqch. ~ I'm not at the point yet of doing sth.
 Je ne peux pas m'en passer. ~ I can't do without it.
 Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
+Le ministre a bien fait de prendre cette décision.
+Pas que j'aie spécialement fait qqch. ... ~ Не то чтобы я особенно (въ прошломъ)
 avoir failli faire qqch. ~ едва не
 ce qui lui est arrivé
 donner le meilleur de lui-même ~ do one's best
+faire de son mieux ~ do one's best
 faire en sorte que qqch. se passe ~ assure that
 faire preuve de ~ демонстрировать
 forcer qqn. à faire qqch.
@@ -25,6 +29,8 @@ s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
 se conclure avec qqch.
 se donner à voir comme ~ показывать себя как
+se passer de qqch.
+sortir gagnant-gagnant
 venir de faire qqch.
 y aller fort ~ перегибать палку
 être censé faire qqch.
@@ -67,15 +73,18 @@ majoritairement ~ по большей части
 modestement ~ скромно
 notamment ~ въ частности
 notoirement ~ notoriously
+paisiblement
 pleinement ~ полностью
 prioritairement ~ преимущественно
 promptement ~ promptly
 prématurément
 quasiment ~ практически, почти что
+spécialement
 suffisamment
 systématiquement
 techniquement
 typiquement
+vachement ~ frigging, bloody, beastly
 visiblement ~ явно
 volontiers ~ voluntarily, willingly
 vraisemblablement ~ presumably
@@ -224,7 +233,6 @@ davantage les... que les... ~ скорѣе ..., нежели ...
 de cette façon | ainsi ~ такимъ образомъ
 de même ~ аналогичнымъ образомъ
 de même que ~ такъ же какъ
-de plusieurs manières ~ разными способами
 de surcroît | de surplus ~ болѣе того
 de toute façon | quoi qu'il en soit ~ anyway
 du moins ~ по крайней мѣрѣ
@@ -282,6 +290,7 @@ en route ~ по дорогѣ
 hors d’atteinte pour qqn. ~ внѣ досягаемости
 par ici ~ this way
 se mettre en route ~ отправиться въ путь
+sur la route ~ по дорогѣ
 tout autour de toi
 travailler / étudier dans ce lieu
 un peu partout ~ just about everywhere
@@ -296,6 +305,7 @@ susciter ~ вызывать
 
 FIGÉ
 , à tort,
+Bon débarras. ~ Good riddance.
 [créer] de toutes pièces ~ from scratch
 [ne pas changer] grand-chose
 agir par intérêt
@@ -358,8 +368,10 @@ l'air de rien
 la donne ~ раскладъ
 le baratin ~ bullshit
 le strict nécessaire
+n'y est pas étranger ~ имеет к этому отношение, один из факторов
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
+plus fort que ce que qqch. n'a jamais été ~ stronger than ever
 pour paradoxe
 pêle-mêle ~ вперемешку
 qu'à cela ne tienne ~ peu importe !, ça ne fait rien, ну и ладно
@@ -392,6 +404,7 @@ voyer tout en noir
 à la décharge de qqn. ~ въ оправданіе, къ чести
 à la fin ~ in the end
 à la hâte ~ наспѣхъ
+à la limite d'agressif
 à la main ~ вручную
 à la pointe (de la technologie) ~ at the cutting edge
 à mi-chemin entre qqch. et qqch.
@@ -413,6 +426,13 @@ du même type
 figurer parmi les plus importants du monde
 une espèce de qqch. ~ своего рода
 être de plus en plus nombreux à faire qqch.
+
+MANIÈRES
+Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
+Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
+de la même manière
+de plusieurs manières ~ разными способами
+de toute manière, ~ въ любомъ случаѣ
 
 MISES
 , mettons, ~ положимъ,
@@ -513,6 +533,7 @@ On sait que...
 On voit bien que... ~ We can clearly see...
 Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
 Partons de ces derniers. ~ Начнемъ со вторыхъ.
+Pourquoi tu dis ça ? ~ Почему ты так думаешь?
 Qu'en est-il de... ~ Какъ насчетъ
 Qu'en penses-tu ? ~ How about that?
 Qu'est-ce que tu veux dire par là ?
@@ -522,6 +543,7 @@ Que dire d'autre?
 S'agissant de l’Ancien Régime, il importe de...
 Sauf son / votre respect ~ With all due respect
 Suis-je bête ! Cela m'avait échappé.
+Tu te fous de moi ? ~ Ты издѣваешься?
 [de façon peu assidue] il est vrai ~ admittedly [inconsistently]
 au bout du compte ~ въ конечномъ счетѣ
 au premier regard ~ на первый взглядъ
@@ -577,8 +599,10 @@ PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
 - Je te revaudrai ça. - J'espère bien ! ~ За мной должокъ.
 Alors autant s’y mettre. ~ Might just as well get started.
+Bisque bisque rage.
 C'est au tour de qqn. à faire qqch.
 C'est comme ça et pas autrement !
+C'est le seul moyen ? - Je n'en vois pas d'autre.
 C'est nul. <fam.> ~ Это отстой.
 C'est retour à la case départ. ~ Back to square one.
 C'est vraiment très gentil.
@@ -595,7 +619,6 @@ Dis-le-moi. Dis-m'en plus !
 Elle m'en veut. ~ She's mad at me.
 En quoi consiste [qqch.] ? ~ Въ чемъ заключается ...?
 Est-ce que tu t'intéresses à la musique ?
-Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
 Fais-moi signe quand tu peux te libérer. ~ Let me know when you can get away.
 Françoise, la gouvernante, se dit que ces salauds de boches s’y connaissaient en construction.
 Heureux temps que le nôtre.
@@ -612,6 +635,7 @@ J'y suis même plutôt bien. ~ I'm actually quite happy here.
 Jamais je n’aurais cru voir ça ici !
 Je bourais bien un café.
 Je ferais mieux de [faire qqch.] ~ I better
+Je m'attendais à pire. ~ Я ожидалъ худшаго.
 Je me suis cru dans... ~ I feel like I was in...
 Je ne connais pas grand-chose à qqch. / Je n'y connais pas grand-chose.
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
@@ -753,6 +777,7 @@ se sentir + adjectif | ressentir / éprouver + nom | sentir que
 TEMPS
 (tout) à la fois
 Actuellement,
+D’ici l’année prochaine, elle aura terminé  ses études. ~ by next year
 En pleine qqch. ? ~ Въ разгаръ чего-л.?
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
@@ -841,7 +866,6 @@ une énième fois ~ въ сотый разъ
 à plusieurs reprises
 
 ÉVÉNEMENTS
-Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
 Qu'est-ce qui est arrivé ?
 Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?
 avoir lieu
