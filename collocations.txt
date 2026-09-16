@@ -17,6 +17,7 @@ donner le meilleur de lui-même ~ do one's best
 faire de son mieux ~ do one's best
 faire en sorte que qqch. se passe ~ assure that
 faire preuve de ~ демонстрировать
+faire semblant de | faire mine de ~ притворяться
 forcer qqn. à faire qqch.
 n'arriver pas à faire qqch.
 n'en avoir que faire ~ couldn't care less
@@ -152,8 +153,8 @@ viser à faire qqch.
 CONCESSION
 Aucune femme n'a été élue présidente de la République en France quoique Ségolène Royal ait failli l'être en 2007.
 Bien qu'on ait voté des lois sur la parité, il y a des inégalités entre les hommes et les femmes.
-Encore que ceux qui ont une formation réussissent très. ~ тѣмъ не менѣее
-Il n'en reste pas moins que certains sont déçus en arrivant. ~ тѣмъ не менѣее
+Encore que ceux qui ont une formation réussissent très bien. ~ Это не отмѣняетъ того, что...
+Il n'en reste pas moins que certains sont déçus en arrivant. ~ Это не отмѣняетъ того, что...
 J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul chez moi, le soir. ~ even though
 Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.
 Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.
@@ -357,7 +358,6 @@ en vrac
 en échange de
 faire exprès de faire qqch.
 faire impasse sur ~ скипнуть
-faire semblant de | faire mine de ~ притворяться
 faute de ~ за недостаткомъ
 faute de mieux ~ за неимѣніемъ лучшаго
 finir dans les délais

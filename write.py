@@ -138,6 +138,5 @@ def backup_to_json(backup_fname):
 
 if __name__ == '__main__':
     # restore(filepath='collocations.csv', target_collname=COLLOCATIONS)
-    # to_csv()
-    # to_txt()
+    json_to_txt()
     to_email()
