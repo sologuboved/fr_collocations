@@ -1364,11 +1364,6 @@
       "trad": "там внизу"
     },
     {
-      "mot": "en pleine ville | en plein Paris",
-      "tag": "déplacements",
-      "trad": "въ самомъ/ой"
-    },
-    {
       "mot": "en route",
       "tag": "déplacements",
       "trad": "по дорогѣ"
@@ -1661,11 +1656,6 @@
       "mot": "en partant de rien",
       "tag": "figé",
       "trad": "съ нуля"
-    },
-    {
-      "mot": "en plein essor",
-      "tag": "figé",
-      "trad": "on the rise"
     },
     {
       "mot": "en retour",
@@ -3329,6 +3319,23 @@
       "trad": "not for the lack of trying"
     }
   ],
+  "plein": [
+    {
+      "mot": "En pleine qqch. ?",
+      "tag": "plein",
+      "trad": "Въ разгаръ чего-л.?"
+    },
+    {
+      "mot": "en plein essor",
+      "tag": "plein",
+      "trad": "on the rise"
+    },
+    {
+      "mot": "en pleine ville | en plein Paris",
+      "tag": "plein",
+      "trad": "въ самомъ/ой"
+    }
+  ],
   "quantités": [
     {
       "mot": "On y dénombre 10 enfants",
@@ -3710,11 +3717,6 @@
       "mot": "D’ici l’année prochaine, elle aura terminé  ses études.",
       "tag": "temps",
       "trad": "by next year"
-    },
-    {
-      "mot": "En pleine qqch. ?",
-      "tag": "temps",
-      "trad": "Въ разгаръ чего-л.?"
     },
     {
       "mot": "Le temps de faire qqch., j'aurais fait qqch.",
