@@ -7,9 +7,11 @@ J'ai dû faire qqch. ~ Должно быть, я...
 Je fais en sorte de faire qqch. ~ make sure to
 Je n'en suis pas à faire qqch. ~ I'm not at the point yet of doing sth.
 Je ne peux pas m'en passer. ~ I can't do without it.
+Je ne t'avais jamais vu cet air. ~ I had never seen you look like that.
 Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
 Le ministre a bien fait de prendre cette décision.
+Ma sœur me fait de la peine. ~ Мнѣ жаль мою сестру.
 Pas que j'aie spécialement fait qqch. ... ~ Не то чтобы я особенно (въ прошломъ)
 avoir failli faire qqch. ~ едва не
 ce qui lui est arrivé
@@ -32,6 +34,7 @@ se conclure avec qqch.
 se donner à voir comme ~ показывать себя как
 se passer de qqch.
 sortir gagnant-gagnant
+tenir à qqn. ~ care about someone
 venir de faire qqch.
 y aller fort ~ перегибать палку
 être censé faire qqch.
@@ -48,6 +51,7 @@ Je crois fermement que
 apparemment
 autrement ~ по-другому
 bien évidemment
+bruyamment ~ шумно
 carrément ~ downright
 concrètement
 considérablement
@@ -74,6 +78,7 @@ majoritairement ~ по большей части
 modestement ~ скромно
 notamment ~ въ частности
 notoirement ~ notoriously
+outre mesure ~ ~ excessivement
 paisiblement
 pleinement ~ полностью
 prioritairement ~ преимущественно
@@ -286,7 +291,6 @@ comme ailleurs ~ as elsewhere
 côté à côté ~ side by side
 d'en face ~ across the street
 en contrebas ~ там внизу
-en pleine ville | en plein Paris ~ въ самомъ/ой
 en route ~ по дорогѣ
 hors d’atteinte pour qqn. ~ внѣ досягаемости
 par ici ~ this way
@@ -305,6 +309,7 @@ sujet à qqch. ~ быть подверженнымъ / склоннымъ къ �
 susciter ~ вызывать
 
 FIGÉ
+(ne pas) faire son âge ~ выглядѣть на свой возраст
 , à tort,
 Bon débarras. ~ Good riddance.
 [créer] de toutes pièces ~ from scratch
@@ -333,6 +338,7 @@ contre son gré | à contre-cœur
 d'elle-même ~ on her own
 d'occasion ~ second-hand
 dans l'ordre ~ по порядку
+dans la doute ~ just to be safe
 de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
@@ -341,7 +347,9 @@ donner d'ailleurs raison
 du reste ~ къ тому же
 en activité ~ дѣйствующій
 en alternance ~ чередуя
+en biais ~ подъ угломъ
 en boucle ~ по кругу
+en carton ~ бутафорскій, карманный
 en concert avec ~ совмѣстно, заодно
 en direct ~ въ прямомъ эфирѣ
 en déplacement ~ въ дорогѣ
@@ -349,7 +357,7 @@ en flèche ~ стремительно
 en grandeur nature ~ full-scale
 en harmonie | en phase avec
 en partant de rien ~ съ нуля
-en plein essor ~ on the rise
+en priorité
 en retour
 en réalité | en vérité
 en secret | en coulisse
@@ -372,8 +380,11 @@ n'y est pas étranger ~ имеет к этому отношение, один и
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 plus fort que ce que qqch. n'a jamais été ~ stronger than ever
+pour la forme ~ half-heartedly
 pour paradoxe
 pêle-mêle ~ вперемешку
+qqch. de rechange ~ запасной
+qqch. de secours ~ backup
 qu'à cela ne tienne ~ peu importe !, ça ne fait rien, ну и ладно
 quel que soit qqch. ~ каковъ бы ни былъ
 sans effort
@@ -410,6 +421,7 @@ voyer tout en noir
 à mi-chemin entre qqch. et qqch.
 à part entière ~ полноправный
 à quelques exceptions près ~ за нѣкоторыми исключеніями
+à toutes fins utiles ~ for all intents and purposes
 être au cœur de qqch.
 être de sa faute
 être en droit de faire qqch. ~ имѣть право
@@ -525,6 +537,7 @@ J'avoue que...
 J'en suis persuadée | C'est ma conviction
 Je dois avouer que ~ Долженъ признаться
 Je ne suis pas certaine de comprendre.
+Je ne veux pas te vexer, mais non merci.
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
 On dirait
@@ -606,6 +619,7 @@ C'est le seul moyen ? - Je n'en vois pas d'autre.
 C'est nul. <fam.> ~ Это отстой.
 C'est retour à la case départ. ~ Back to square one.
 C'est vraiment très gentil.
+C'était compter sans qqn. ~ Но тутъ вмешался...
 Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
 Cela peut valoir la peine. ~ Можетъ стоить того.
 Cela quels que soient nos choix d'activités ou de modes de vie. ~ Какими бы ни были...
@@ -636,6 +650,7 @@ Jamais je n’aurais cru voir ça ici !
 Je bourais bien un café.
 Je ferais mieux de [faire qqch.] ~ I better
 Je m'attendais à pire. ~ Я ожидалъ худшаго.
+Je me rends. ~ Сдаюсь.
 Je me suis cru dans... ~ I feel like I was in...
 Je ne connais pas grand-chose à qqch. / Je n'y connais pas grand-chose.
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
@@ -653,8 +668,10 @@ La tour Eiffel a dû choquer au début.
 Les choses ne se sont pas réellement passées de la sorte. ~ Things didn't actually happen that way.
 Les deux me vont. ~ Either is fine.
 Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !
+Mais il manquait quelqu'un pour que la soirée soit vraiment parfaite. ~ But someone was missing for the night to truly be perfect.
 Mon plus beau souvenir reste à venir.
 On a beau lui donner rendez-vous plus tôt que l'heure prévue, il se débrouille toujours pour ne pas faillir à sa réputation. ~ No matter how early you arrange to meet him, he always manages to live up to his reputation.
+On n'est pas sorti de l'auberge. ~ We are not out of the woods yet.
 On ne peut rien à qqch. ~ There's nothing we can do about sth.
 On pouvait s'y attendre ~ That was to be expected
 Place à la musique ! ~ Time for music!
@@ -690,11 +707,18 @@ vivre l'une des plus importantes - sinon la plus importante - des révolutions d
 Ça me parle ! ~ It resonates with me!
 Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
 Ça ne fait pas tout.
+Ça ne t'engage à rien.
 Ça sera foutu.
 Ça te conviendrait de faire qqch. ?
 Ça te dit ? ~ How about that?
 Ça y ressemble. ~ Похоже, что такъ и есть.
 сe n'est pas faute d'avoir essayé de faire qqch. ~ not for the lack of trying
+
+PLEIN
+En pleine qqch. ? ~ Въ разгаръ чего-л.?
+en plein essor ~ on the rise
+en plein soleil ~ in direct sunlight
+en pleine ville | en plein Paris ~ въ самомъ/ой
 
 QUANTITÉS
 On y dénombre 10 enfants
@@ -778,7 +802,7 @@ TEMPS
 (tout) à la fois
 Actuellement,
 D’ici l’année prochaine, elle aura terminé  ses études. ~ by next year
-En pleine qqch. ? ~ Въ разгаръ чего-л.?
+Je n'ai plus jamais fait qqch.
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 [tout] d'une traite ~ in one go
