@@ -43,7 +43,7 @@ def upd_cartes(from_csv=False, sort=False, push=True):
 
 if __name__ == '__main__':
     upd_coi(
-        from_csv=True,
+        # from_csv=True,
         sort=True,
         # push=False,
     )
