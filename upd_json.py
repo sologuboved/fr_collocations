@@ -39,7 +39,7 @@ def from_csv(src_fname='mots_temp.csv', target_fname='collocations.json', drop=F
 
 
 if __name__ == '__main__':
-    # add_tag('')
-    from_csv(
-        # target_fname='collocations_test.json',
-    )
+    add_tag('intros')
+    # from_csv(
+    #     # target_fname='collocations_test.json',
+    # )

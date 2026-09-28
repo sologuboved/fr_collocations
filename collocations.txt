@@ -440,6 +440,18 @@ figurer parmi les plus importants du monde
 une espèce de qqch. ~ своего рода
 être de plus en plus nombreux à faire qqch.
 
+INTROS
+concernant qqch.
+dans le domaine de
+en ce qui concerne qqch.
+en matière de
+en termes de
+pour ce qui est de
+quant à
+s'agissant de ~ [très formel]
+sur le plan de
+à l'égard de
+
 MANIÈRES
 Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
 Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
@@ -526,7 +538,6 @@ Comme tu dis. ~ Именно такъ.
 Comment dit-on "..." en français ?
 Côté de...,
 Eh bien moi, je pense que
-En ce qui concerne qqch.,
 En clair, ~ иными словами
 En somme, ~ Короче говоря
 Enfin | Pour finir | En conclusion | Bref,
@@ -553,7 +564,6 @@ Qu'en est-il de... ~ Какъ насчетъ
 Qu'en penses-tu ? ~ How about that?
 Qu'est-ce que tu veux dire par là ?
 Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
-Quant à ...,
 Que dire d'autre?
 S'agissant de l’Ancien Régime, il importe de...
 Sauf son / votre respect ~ With all due respect
@@ -763,7 +773,6 @@ aux yeux de qqn. | à travers les yeux de qqn.
 avoir pour avantage de faire qqch.
 comparé à
 comporter | comprendre | inclure qqch. ~ включать въ себя
-concernant
 consister à ~ consist in
 convenir à qqch. ~ be associated with
 dans le cadre de
@@ -773,7 +782,6 @@ en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
 en faveur de
 en fonction de ~ depending on, in terms of
-en matière de
 en occurrence de
 en qualité de ~ въ качествѣ
 en tant que qqn. ~ as a

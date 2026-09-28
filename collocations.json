@@ -2105,6 +2105,58 @@
       "trad": null
     }
   ],
+  "intros": [
+    {
+      "mot": "concernant qqch.",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "dans le domaine de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "en ce qui concerne qqch.",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "en matière de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "en termes de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "pour ce qui est de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "quant à",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "s'agissant de",
+      "tag": "intros",
+      "trad": "[très formel]"
+    },
+    {
+      "mot": "sur le plan de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "à l'égard de",
+      "tag": "intros",
+      "trad": null
+    }
+  ],
   "manières": [
     {
       "mot": "Et vous allez trouver ce budget de quelle manière ?",
@@ -2492,11 +2544,6 @@
       "trad": null
     },
     {
-      "mot": "En ce qui concerne qqch.,",
-      "tag": "paroles",
-      "trad": null
-    },
-    {
       "mot": "En clair,",
       "tag": "paroles",
       "trad": "иными словами"
@@ -2623,11 +2670,6 @@
     },
     {
       "mot": "Qu'est-ce que ça veut dire ? Ça veut dire quoi ?",
-      "tag": "paroles",
-      "trad": null
-    },
-    {
-      "mot": "Quant à ...,",
       "tag": "paroles",
       "trad": null
     },
@@ -3645,11 +3687,6 @@
       "trad": "включать въ себя"
     },
     {
-      "mot": "concernant",
-      "tag": "rapport",
-      "trad": null
-    },
-    {
       "mot": "consister à",
       "tag": "rapport",
       "trad": "consist in"
@@ -3693,11 +3730,6 @@
       "mot": "en fonction de",
       "tag": "rapport",
       "trad": "depending on, in terms of"
-    },
-    {
-      "mot": "en matière de",
-      "tag": "rapport",
-      "trad": null
     },
     {
       "mot": "en occurrence de",

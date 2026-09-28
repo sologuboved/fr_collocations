@@ -1,9 +1,24 @@
 {
   "actions": [
     {
+      "mot": "Bien fait pour lui.",
+      "tag": "actions",
+      "trad": "Serves him right."
+    },
+    {
+      "mot": "Il leur arrivait de faire qqch.",
+      "tag": "actions",
+      "trad": "Имъ случалось..."
+    },
+    {
       "mot": "Il m'arrive de faire qqch.",
       "tag": "actions",
       "trad": "I happen to / I occasionally ..."
+    },
+    {
+      "mot": "Il n'en fallait pas plus pour faire qqch.",
+      "tag": "actions",
+      "trad": "Ничего больше не нужно было, чтобы..."
     },
     {
       "mot": "J'ai dû faire qqch.",
@@ -11,9 +26,24 @@
       "trad": "Должно быть, я..."
     },
     {
+      "mot": "Je fais en sorte de faire qqch.",
+      "tag": "actions",
+      "trad": "make sure to"
+    },
+    {
+      "mot": "Je n'en suis pas à faire qqch.",
+      "tag": "actions",
+      "trad": "I'm not at the point yet of doing sth."
+    },
+    {
       "mot": "Je ne peux pas m'en passer.",
       "tag": "actions",
       "trad": "I can't do without it."
+    },
+    {
+      "mot": "Je ne t'avais jamais vu cet air.",
+      "tag": "actions",
+      "trad": "I had never seen you look like that."
     },
     {
       "mot": "Je serais bien en peine de faire qqch.",
@@ -24,6 +54,21 @@
       "mot": "J’ai bien fait de prendre quelques précautions…",
       "tag": "actions",
       "trad": "I'm glad I took some precautions…"
+    },
+    {
+      "mot": "Le ministre a bien fait de prendre cette décision.",
+      "tag": "actions",
+      "trad": null
+    },
+    {
+      "mot": "Ma sœur me fait de la peine.",
+      "tag": "actions",
+      "trad": "Мнѣ жаль мою сестру."
+    },
+    {
+      "mot": "Pas que j'aie spécialement fait qqch. ...",
+      "tag": "actions",
+      "trad": "Не то чтобы я особенно (въ прошломъ)"
     },
     {
       "mot": "avoir failli faire qqch.",
@@ -41,6 +86,11 @@
       "trad": "do one's best"
     },
     {
+      "mot": "faire de son mieux",
+      "tag": "actions",
+      "trad": "do one's best"
+    },
+    {
       "mot": "faire en sorte que qqch. se passe",
       "tag": "actions",
       "trad": "assure that"
@@ -49,6 +99,11 @@
       "mot": "faire preuve de",
       "tag": "actions",
       "trad": "демонстрировать"
+    },
+    {
+      "mot": "faire semblant de | faire mine de",
+      "tag": "actions",
+      "trad": "притворяться"
     },
     {
       "mot": "forcer qqn. à faire qqch.",
@@ -76,9 +131,24 @@
       "trad": "drive smb. to do sth."
     },
     {
+      "mot": "pouvoir faire qqch. rien qu'en faisant qqch.",
+      "tag": "actions",
+      "trad": "be able to do sth.just by doing sth."
+    },
+    {
+      "mot": "prévoir de | compter faire qqch.",
+      "tag": "actions",
+      "trad": "планировать"
+    },
+    {
       "mot": "qui aurait mieux faire de se taire",
       "tag": "actions",
       "trad": "которому лучше было бы помолчать"
+    },
+    {
+      "mot": "renoncer à qqch.",
+      "tag": "actions",
+      "trad": "отказаться отъ чего-либо"
     },
     {
       "mot": "s'en sortir",
@@ -99,6 +169,21 @@
       "mot": "se donner à voir comme",
       "tag": "actions",
       "trad": "показывать себя как"
+    },
+    {
+      "mot": "se passer de qqch.",
+      "tag": "actions",
+      "trad": null
+    },
+    {
+      "mot": "sortir gagnant-gagnant",
+      "tag": "actions",
+      "trad": null
+    },
+    {
+      "mot": "tenir à qqn.",
+      "tag": "actions",
+      "trad": "care about someone"
     },
     {
       "mot": "venir de faire qqch.",
@@ -171,6 +256,11 @@
       "mot": "bien évidemment",
       "tag": "adverbes",
       "trad": null
+    },
+    {
+      "mot": "bruyamment",
+      "tag": "adverbes",
+      "trad": "шумно"
     },
     {
       "mot": "carrément",
@@ -263,6 +353,11 @@
       "trad": "beautifully"
     },
     {
+      "mot": "lentement et sûrement",
+      "tag": "adverbes",
+      "trad": null
+    },
+    {
       "mot": "librement",
       "tag": "adverbes",
       "trad": null
@@ -298,6 +393,16 @@
       "trad": "notoriously"
     },
     {
+      "mot": "outre mesure",
+      "tag": "adverbes",
+      "trad": "~ excessivement"
+    },
+    {
+      "mot": "paisiblement",
+      "tag": "adverbes",
+      "trad": null
+    },
+    {
       "mot": "pleinement",
       "tag": "adverbes",
       "trad": "полностью"
@@ -323,6 +428,11 @@
       "trad": "практически, почти что"
     },
     {
+      "mot": "spécialement",
+      "tag": "adverbes",
+      "trad": null
+    },
+    {
       "mot": "suffisamment",
       "tag": "adverbes",
       "trad": null
@@ -336,6 +446,16 @@
       "mot": "techniquement",
       "tag": "adverbes",
       "trad": null
+    },
+    {
+      "mot": "typiquement",
+      "tag": "adverbes",
+      "trad": null
+    },
+    {
+      "mot": "vachement",
+      "tag": "adverbes",
+      "trad": "frigging, bloody, beastly"
     },
     {
       "mot": "visiblement",
@@ -356,6 +476,16 @@
       "mot": "à la demande",
       "tag": "adverbes",
       "trad": "по требованію"
+    },
+    {
+      "mot": "à la légère",
+      "tag": "adverbes",
+      "trad": "легкомысленно, легко"
+    },
+    {
+      "mot": "à tâtons",
+      "tag": "adverbes",
+      "trad": "наощупь"
     },
     {
       "mot": "éventuellement",
@@ -515,16 +645,6 @@
       "trad": null
     },
     {
-      "mot": "par conséquent",
-      "tag": "causalité",
-      "trad": null
-    },
-    {
-      "mot": "par la suite",
-      "tag": "causalité",
-      "trad": "впослѣдствіи"
-    },
-    {
       "mot": "permettre de",
       "tag": "causalité",
       "trad": null
@@ -657,14 +777,14 @@
       "trad": null
     },
     {
-      "mot": "Encore que ceux qui ont une formation réussissent très.",
+      "mot": "Encore que ceux qui ont une formation réussissent très bien.",
       "tag": "concession",
-      "trad": "тѣмъ не менѣее"
+      "trad": "Это не отмѣняетъ того, что..."
     },
     {
       "mot": "Il n'en reste pas moins que certains sont déçus en arrivant.",
       "tag": "concession",
-      "trad": "тѣмъ не менѣее"
+      "trad": "Это не отмѣняетъ того, что..."
     },
     {
       "mot": "J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul chez moi, le soir.",
@@ -987,6 +1107,11 @@
       "trad": null
     },
     {
+      "mot": "certains d'entre eux / certains parmi eux",
+      "tag": "divers",
+      "trad": "нѣкоторые изъ нихъ"
+    },
+    {
       "mot": "d'ailleurs | au fait",
       "tag": "divers",
       "trad": "кстати говоря"
@@ -1015,11 +1140,6 @@
       "mot": "de même que",
       "tag": "divers",
       "trad": "такъ же какъ"
-    },
-    {
-      "mot": "de plusieurs manières",
-      "tag": "divers",
-      "trad": "разными способами"
     },
     {
       "mot": "de surcroît | de surplus",
@@ -1082,6 +1202,11 @@
       "trad": null
     },
     {
+      "mot": "la barbe en moins",
+      "tag": "divers",
+      "trad": "minus the beard"
+    },
+    {
       "mot": "ou bien encore",
       "tag": "divers",
       "trad": "или даже"
@@ -1095,11 +1220,6 @@
       "mot": "par ailleurs | en outre",
       "tag": "divers",
       "trad": "moreover"
-    },
-    {
-      "mot": "par hasard",
-      "tag": "divers",
-      "trad": "случайно"
     },
     {
       "mot": "pas forcément",
@@ -1274,11 +1394,6 @@
       "trad": "там внизу"
     },
     {
-      "mot": "en pleine ville | en plein Paris",
-      "tag": "déplacements",
-      "trad": "въ самомъ/ой"
-    },
-    {
       "mot": "en route",
       "tag": "déplacements",
       "trad": "по дорогѣ"
@@ -1297,6 +1412,11 @@
       "mot": "se mettre en route",
       "tag": "déplacements",
       "trad": "отправиться въ путь"
+    },
+    {
+      "mot": "sur la route",
+      "tag": "déplacements",
+      "trad": "по дорогѣ"
     },
     {
       "mot": "tout autour de toi",
@@ -1348,9 +1468,19 @@
   ],
   "figé": [
     {
+      "mot": "(ne pas) faire son âge",
+      "tag": "figé",
+      "trad": "выглядѣть на свой возраст"
+    },
+    {
       "mot": ", à tort,",
       "tag": "figé",
       "trad": null
+    },
+    {
+      "mot": "Bon débarras.",
+      "tag": "figé",
+      "trad": "Good riddance."
     },
     {
       "mot": "[créer] de toutes pièces",
@@ -1483,6 +1613,11 @@
       "trad": "по порядку"
     },
     {
+      "mot": "dans la doute",
+      "tag": "figé",
+      "trad": "just to be safe"
+    },
+    {
       "mot": "de l'extérieur",
       "tag": "figé",
       "trad": "на видъ"
@@ -1523,9 +1658,19 @@
       "trad": "чередуя"
     },
     {
+      "mot": "en biais",
+      "tag": "figé",
+      "trad": "подъ угломъ"
+    },
+    {
       "mot": "en boucle",
       "tag": "figé",
       "trad": "по кругу"
+    },
+    {
+      "mot": "en carton",
+      "tag": "figé",
+      "trad": "бутафорскій, карманный"
     },
     {
       "mot": "en concert avec",
@@ -1563,9 +1708,9 @@
       "trad": "съ нуля"
     },
     {
-      "mot": "en plein essor",
+      "mot": "en priorité",
       "tag": "figé",
-      "trad": "on the rise"
+      "trad": null
     },
     {
       "mot": "en retour",
@@ -1608,11 +1753,6 @@
       "trad": "скипнуть"
     },
     {
-      "mot": "faire semblant de | faire mine de",
-      "tag": "figé",
-      "trad": "притворяться"
-    },
-    {
       "mot": "faute de",
       "tag": "figé",
       "trad": "за недостаткомъ"
@@ -1626,6 +1766,11 @@
       "mot": "finir dans les délais",
       "tag": "figé",
       "trad": null
+    },
+    {
+      "mot": "hors d'atteinte",
+      "tag": "figé",
+      "trad": "внѣ досягаемости"
     },
     {
       "mot": "il n'en était pas ainsi",
@@ -1658,64 +1803,9 @@
       "trad": null
     },
     {
-      "mot": "par chance",
+      "mot": "n'y est pas étranger",
       "tag": "figé",
-      "trad": "къ счастью"
-    },
-    {
-      "mot": "par confort",
-      "tag": "figé",
-      "trad": "для удобства"
-    },
-    {
-      "mot": "par devoir",
-      "tag": "figé",
-      "trad": "по обязанности"
-    },
-    {
-      "mot": "par défaut",
-      "tag": "figé",
-      "trad": "by default"
-    },
-    {
-      "mot": "par ennui",
-      "tag": "figé",
-      "trad": "со скуки"
-    },
-    {
-      "mot": "par envie",
-      "tag": "figé",
-      "trad": "по желанію"
-    },
-    {
-      "mot": "par essence",
-      "tag": "figé",
-      "trad": "by nature"
-    },
-    {
-      "mot": "par obligation",
-      "tag": "figé",
-      "trad": "по обязанности"
-    },
-    {
-      "mot": "par procuration",
-      "tag": "figé",
-      "trad": "by proxy"
-    },
-    {
-      "mot": "par raison | par passion",
-      "tag": "figé",
-      "trad": null
-    },
-    {
-      "mot": "par sécurité",
-      "tag": "figé",
-      "trad": "for safety"
-    },
-    {
-      "mot": "par élimination",
-      "tag": "figé",
-      "trad": "методомъ исключенія"
+      "trad": "имеет к этому отношение, один из факторов"
     },
     {
       "mot": "par-dessus la marché",
@@ -1728,6 +1818,16 @@
       "trad": null
     },
     {
+      "mot": "plus fort que ce que qqch. n'a jamais été",
+      "tag": "figé",
+      "trad": "stronger than ever"
+    },
+    {
+      "mot": "pour la forme",
+      "tag": "figé",
+      "trad": "half-heartedly"
+    },
+    {
       "mot": "pour paradoxe",
       "tag": "figé",
       "trad": null
@@ -1736,6 +1836,16 @@
       "mot": "pêle-mêle",
       "tag": "figé",
       "trad": "вперемешку"
+    },
+    {
+      "mot": "qqch. de rechange",
+      "tag": "figé",
+      "trad": "запасной"
+    },
+    {
+      "mot": "qqch. de secours",
+      "tag": "figé",
+      "trad": "backup"
     },
     {
       "mot": "qu'à cela ne tienne",
@@ -1823,6 +1933,11 @@
       "trad": null
     },
     {
+      "mot": "à bien des égards",
+      "tag": "figé",
+      "trad": "во многихъ отношеніяхъ"
+    },
+    {
       "mot": "à brûle-pourpoint",
       "tag": "figé",
       "trad": "сходу, спонтанно, безъ подготовки"
@@ -1831,6 +1946,11 @@
       "mot": "à dessein",
       "tag": "figé",
       "trad": "намѣренно"
+    },
+    {
+      "mot": "à force de qqch.",
+      "tag": "figé",
+      "trad": "въ силу, въ ходѣ"
     },
     {
       "mot": "à jeun",
@@ -1863,6 +1983,11 @@
       "trad": "въ основѣ"
     },
     {
+      "mot": "à la décharge de qqn.",
+      "tag": "figé",
+      "trad": "въ оправданіе, къ чести"
+    },
+    {
       "mot": "à la fin",
       "tag": "figé",
       "trad": "in the end"
@@ -1871,6 +1996,11 @@
       "mot": "à la hâte",
       "tag": "figé",
       "trad": "наспѣхъ"
+    },
+    {
+      "mot": "à la limite d'agressif",
+      "tag": "figé",
+      "trad": null
     },
     {
       "mot": "à la main",
@@ -1893,6 +2023,16 @@
       "trad": "полноправный"
     },
     {
+      "mot": "à quelques exceptions près",
+      "tag": "figé",
+      "trad": "за нѣкоторыми исключеніями"
+    },
+    {
+      "mot": "à toutes fins utiles",
+      "tag": "figé",
+      "trad": "for all intents and purposes"
+    },
+    {
       "mot": "être au cœur de qqch.",
       "tag": "figé",
       "trad": null
@@ -1913,24 +2053,14 @@
       "trad": null
     },
     {
+      "mot": "être pris au dépourvu",
+      "tag": "figé",
+      "trad": "to be caught off guard"
+    },
+    {
       "mot": "être sur le qui-vive",
       "tag": "figé",
       "trad": "быть начеку"
-    },
-    {
-      "mot": "à quelques exceptions près",
-      "tag": "figé",
-      "trad": "за нѣкоторыми исключеніями"
-    },
-    {
-      "mot": "à force de qqch.",
-      "tag": "figé",
-      "trad": "въ силу, въ ходѣ"
-    },
-    {
-      "mot": "à la décharge de qqn.",
-      "tag": "figé",
-      "trad": "въ оправданіе, къ чести"
     }
   ],
   "généralisations": [
@@ -1973,6 +2103,85 @@
       "mot": "être de plus en plus nombreux à faire qqch.",
       "tag": "généralisations",
       "trad": null
+    }
+  ],
+  "intros": [
+    {
+      "mot": "concernant qqch.",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "dans le domaine de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "en ce qui concerne qqch.",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "en matière de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "en termes de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "pour ce qui est de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "quant à",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "s'agissant de",
+      "tag": "intros",
+      "trad": "[très formel]"
+    },
+    {
+      "mot": "sur le plan de",
+      "tag": "intros",
+      "trad": null
+    },
+    {
+      "mot": "à l'égard de",
+      "tag": "intros",
+      "trad": null
+    }
+  ],
+  "manières": [
+    {
+      "mot": "Et vous allez trouver ce budget de quelle manière ?",
+      "tag": "manières",
+      "trad": "Какимъ образомъ?"
+    },
+    {
+      "mot": "Et, d’une certaine manière, c'est ce qui s'est produit.",
+      "tag": "manières",
+      "trad": "Cela est arrivé."
+    },
+    {
+      "mot": "de la même manière",
+      "tag": "manières",
+      "trad": null
+    },
+    {
+      "mot": "de plusieurs manières",
+      "tag": "manières",
+      "trad": "разными способами"
+    },
+    {
+      "mot": "de toute manière,",
+      "tag": "manières",
+      "trad": "въ любомъ случаѣ"
     }
   ],
   "mises": [
@@ -2111,6 +2320,11 @@
   ],
   "oppositions": [
     {
+      "mot": "13 % des hommes le pensent contre 7 % des femmes.",
+      "tag": "oppositions",
+      "trad": null
+    },
+    {
       "mot": "au contraire",
       "tag": "oppositions",
       "trad": "напротивъ"
@@ -2119,11 +2333,6 @@
       "mot": "contrairement à",
       "tag": "oppositions",
       "trad": null
-    },
-    {
-      "mot": "contre",
-      "tag": "oppositions",
-      "trad": "versus"
     },
     {
       "mot": "en revanche",
@@ -2141,11 +2350,6 @@
       "trad": "наоборотъ"
     },
     {
-      "mot": "par contraste avec qqch.,",
-      "tag": "oppositions",
-      "trad": "въ отличіе отъ"
-    },
-    {
       "mot": "par contre",
       "tag": "oppositions",
       "trad": null
@@ -2159,6 +2363,103 @@
       "mot": "à l'inverse (de)",
       "tag": "oppositions",
       "trad": null
+    }
+  ],
+  "par": [
+    {
+      "mot": "par chance",
+      "tag": "par",
+      "trad": "къ счастью"
+    },
+    {
+      "mot": "par confort",
+      "tag": "par",
+      "trad": "для удобства"
+    },
+    {
+      "mot": "par conséquent",
+      "tag": "par",
+      "trad": null
+    },
+    {
+      "mot": "par contraste avec qqch.,",
+      "tag": "par",
+      "trad": "въ отличіе отъ"
+    },
+    {
+      "mot": "par devoir",
+      "tag": "par",
+      "trad": "по обязанности"
+    },
+    {
+      "mot": "par défaut",
+      "tag": "par",
+      "trad": "by default"
+    },
+    {
+      "mot": "par défaut de qqch.",
+      "tag": "par",
+      "trad": "за отсутствіемъ чего-л."
+    },
+    {
+      "mot": "par ennui",
+      "tag": "par",
+      "trad": "со скуки"
+    },
+    {
+      "mot": "par envie",
+      "tag": "par",
+      "trad": "по желанію"
+    },
+    {
+      "mot": "par essence",
+      "tag": "par",
+      "trad": "by nature"
+    },
+    {
+      "mot": "par hasard",
+      "tag": "par",
+      "trad": "случайно"
+    },
+    {
+      "mot": "par la suite",
+      "tag": "par",
+      "trad": "впослѣдствіи"
+    },
+    {
+      "mot": "par le passé",
+      "tag": "par",
+      "trad": "въ прошломъ"
+    },
+    {
+      "mot": "par obligation",
+      "tag": "par",
+      "trad": "по обязанности"
+    },
+    {
+      "mot": "par procuration",
+      "tag": "par",
+      "trad": "by proxy"
+    },
+    {
+      "mot": "par raison | par passion",
+      "tag": "par",
+      "trad": null
+    },
+    {
+      "mot": "par rapport à",
+      "tag": "par",
+      "trad": "relative to, compared to"
+    },
+    {
+      "mot": "par sécurité",
+      "tag": "par",
+      "trad": "for safety"
+    },
+    {
+      "mot": "par élimination",
+      "tag": "par",
+      "trad": "методомъ исключенія"
     }
   ],
   "paroles": [
@@ -2223,6 +2524,11 @@
       "trad": null
     },
     {
+      "mot": "Comme tu dis.",
+      "tag": "paroles",
+      "trad": "Именно такъ."
+    },
+    {
       "mot": "Comment dit-on \"...\" en français ?",
       "tag": "paroles",
       "trad": null
@@ -2234,11 +2540,6 @@
     },
     {
       "mot": "Eh bien moi, je pense que",
-      "tag": "paroles",
-      "trad": null
-    },
-    {
-      "mot": "En ce qui concerne qqch.,",
       "tag": "paroles",
       "trad": null
     },
@@ -2298,6 +2599,11 @@
       "trad": null
     },
     {
+      "mot": "Je ne veux pas te vexer, mais non merci.",
+      "tag": "paroles",
+      "trad": null
+    },
+    {
       "mot": "Le hic,",
       "tag": "paroles",
       "trad": "Вотъ въ чемъ проблема"
@@ -2333,9 +2639,19 @@
       "trad": "Или скорѣе, какъ варiантъ,"
     },
     {
+      "mot": "Où en etions-nous ?",
+      "tag": "paroles",
+      "trad": "На чемъ мы остановились?"
+    },
+    {
       "mot": "Partons de ces derniers.",
       "tag": "paroles",
       "trad": "Начнемъ со вторыхъ."
+    },
+    {
+      "mot": "Pourquoi tu dis ça ?",
+      "tag": "paroles",
+      "trad": "Почему ты так думаешь?"
     },
     {
       "mot": "Qu'en est-il de...",
@@ -2358,11 +2674,6 @@
       "trad": null
     },
     {
-      "mot": "Quant à ...,",
-      "tag": "paroles",
-      "trad": null
-    },
-    {
       "mot": "Que dire d'autre?",
       "tag": "paroles",
       "trad": null
@@ -2373,9 +2684,19 @@
       "trad": null
     },
     {
+      "mot": "Sauf son / votre respect",
+      "tag": "paroles",
+      "trad": "With all due respect"
+    },
+    {
       "mot": "Suis-je bête ! Cela m'avait échappé.",
       "tag": "paroles",
       "trad": null
+    },
+    {
+      "mot": "Tu te fous de moi ?",
+      "tag": "paroles",
+      "trad": "Ты издѣваешься?"
     },
     {
       "mot": "[de façon peu assidue] il est vrai",
@@ -2558,6 +2879,11 @@
       "trad": null
     },
     {
+      "mot": "vu que ça approche",
+      "tag": "paroles",
+      "trad": "учитывая, что уже скоро"
+    },
+    {
       "mot": "À Dieu ne plaise ! | Dieu m'en garde !",
       "tag": "paroles",
       "trad": "Боже упаси"
@@ -2640,12 +2966,22 @@
       "trad": "Might just as well get started."
     },
     {
+      "mot": "Bisque bisque rage.",
+      "tag": "phrases",
+      "trad": null
+    },
+    {
       "mot": "C'est au tour de qqn. à faire qqch.",
       "tag": "phrases",
       "trad": null
     },
     {
       "mot": "C'est comme ça et pas autrement !",
+      "tag": "phrases",
+      "trad": null
+    },
+    {
+      "mot": "C'est le seul moyen ? - Je n'en vois pas d'autre.",
       "tag": "phrases",
       "trad": null
     },
@@ -2663,6 +2999,11 @@
       "mot": "C'est vraiment très gentil.",
       "tag": "phrases",
       "trad": null
+    },
+    {
+      "mot": "C'était compter sans qqn.",
+      "tag": "phrases",
+      "trad": "Но тутъ вмешался..."
     },
     {
       "mot": "Ce lieu me donne la chair de poule.",
@@ -2728,11 +3069,6 @@
       "mot": "Est-ce que tu t'intéresses à la musique ?",
       "tag": "phrases",
       "trad": null
-    },
-    {
-      "mot": "Et vous allez trouver ce budget de quelle manière ?",
-      "tag": "phrases",
-      "trad": "Какимъ образомъ?"
     },
     {
       "mot": "Fais-moi signe quand tu peux te libérer.",
@@ -2815,6 +3151,16 @@
       "trad": "I better"
     },
     {
+      "mot": "Je m'attendais à pire.",
+      "tag": "phrases",
+      "trad": "Я ожидалъ худшаго."
+    },
+    {
+      "mot": "Je me rends.",
+      "tag": "phrases",
+      "trad": "Сдаюсь."
+    },
+    {
       "mot": "Je me suis cru dans...",
       "tag": "phrases",
       "trad": "I feel like I was in..."
@@ -2885,6 +3231,11 @@
       "trad": null
     },
     {
+      "mot": "Les choses ne se sont pas réellement passées de la sorte.",
+      "tag": "phrases",
+      "trad": "Things didn't actually happen that way."
+    },
+    {
       "mot": "Les deux me vont.",
       "tag": "phrases",
       "trad": "Either is fine."
@@ -2895,9 +3246,29 @@
       "trad": null
     },
     {
+      "mot": "Mais il manquait quelqu'un pour que la soirée soit vraiment parfaite.",
+      "tag": "phrases",
+      "trad": "But someone was missing for the night to truly be perfect."
+    },
+    {
       "mot": "Mon plus beau souvenir reste à venir.",
       "tag": "phrases",
       "trad": null
+    },
+    {
+      "mot": "On a beau lui donner rendez-vous plus tôt que l'heure prévue, il se débrouille toujours pour ne pas faillir à sa réputation.",
+      "tag": "phrases",
+      "trad": "No matter how early you arrange to meet him, he always manages to live up to his reputation."
+    },
+    {
+      "mot": "On n'est pas sorti de l'auberge.",
+      "tag": "phrases",
+      "trad": "We are not out of the woods yet."
+    },
+    {
+      "mot": "On ne peut rien à qqch.",
+      "tag": "phrases",
+      "trad": "There's nothing we can do about sth."
     },
     {
       "mot": "On pouvait s'y attendre",
@@ -3070,6 +3441,11 @@
       "trad": null
     },
     {
+      "mot": "Ça ne t'engage à rien.",
+      "tag": "phrases",
+      "trad": null
+    },
+    {
       "mot": "Ça sera foutu.",
       "tag": "phrases",
       "trad": null
@@ -3095,9 +3471,41 @@
       "trad": "not for the lack of trying"
     }
   ],
+  "plein": [
+    {
+      "mot": "En pleine qqch. ?",
+      "tag": "plein",
+      "trad": "Въ разгаръ чего-л.?"
+    },
+    {
+      "mot": "en plein essor",
+      "tag": "plein",
+      "trad": "on the rise"
+    },
+    {
+      "mot": "en plein soleil",
+      "tag": "plein",
+      "trad": "in direct sunlight"
+    },
+    {
+      "mot": "en pleine ville | en plein Paris",
+      "tag": "plein",
+      "trad": "въ самомъ/ой"
+    }
+  ],
   "quantités": [
     {
+      "mot": "La salaire moyen des femmes est infériour de 22,2 % à celui des hommes.",
+      "tag": "quantités",
+      "trad": null
+    },
+    {
       "mot": "On y dénombre 10 enfants",
+      "tag": "quantités",
+      "trad": null
+    },
+    {
+      "mot": "Sur les plus de 9 000 films que compte la base de données, près de 57 %...",
       "tag": "quantités",
       "trad": null
     },
@@ -3140,6 +3548,11 @@
       "mot": "en partie <-> totalement",
       "tag": "quantités",
       "trad": null
+    },
+    {
+      "mot": "en valider deux",
+      "tag": "quantités",
+      "trad": "изъ нихъ"
     },
     {
       "mot": "nettement plus",
@@ -3193,6 +3606,11 @@
     }
   ],
   "rapport": [
+    {
+      "mot": "(mis) à part lui / eux / qqch.",
+      "tag": "rapport",
+      "trad": "apart from"
+    },
     {
       "mot": "Ce n'est pas pour autant que | sans pour autant",
       "tag": "rapport",
@@ -3269,11 +3687,6 @@
       "trad": "включать въ себя"
     },
     {
-      "mot": "concernant",
-      "tag": "rapport",
-      "trad": null
-    },
-    {
       "mot": "consister à",
       "tag": "rapport",
       "trad": "consist in"
@@ -3319,11 +3732,6 @@
       "trad": "depending on, in terms of"
     },
     {
-      "mot": "en matière de",
-      "tag": "rapport",
-      "trad": null
-    },
-    {
       "mot": "en occurrence de",
       "tag": "rapport",
       "trad": null
@@ -3364,11 +3772,6 @@
       "trad": "связанный съ"
     },
     {
-      "mot": "mis à part lui",
-      "tag": "rapport",
-      "trad": "кромѣ него"
-    },
-    {
       "mot": "n'y faire exception",
       "tag": "rapport",
       "trad": "не исключеніе"
@@ -3377,16 +3780,6 @@
       "mot": "outre qqch./qqn.",
       "tag": "rapport",
       "trad": "помимо"
-    },
-    {
-      "mot": "par défaut de qqch.",
-      "tag": "rapport",
-      "trad": "за отсутствіемъ чего-л."
-    },
-    {
-      "mot": "par rapport à",
-      "tag": "rapport",
-      "trad": "relative to, compared to"
     },
     {
       "mot": "qqch. en est un (autre)",
@@ -3457,11 +3850,6 @@
       "mot": "à mon égard",
       "tag": "rapport",
       "trad": "по отношенію ко мнѣ"
-    },
-    {
-      "mot": "à part qqch.",
-      "tag": "rapport",
-      "trad": "apart from"
     }
   ],
   "sentiments": [
@@ -3488,9 +3876,14 @@
       "trad": null
     },
     {
-      "mot": "En pleine qqch. ?",
+      "mot": "D’ici l’année prochaine, elle aura terminé  ses études.",
       "tag": "temps",
-      "trad": "Въ разгаръ чего-л.?"
+      "trad": "by next year"
+    },
+    {
+      "mot": "Je n'ai plus jamais fait qqch.",
+      "tag": "temps",
+      "trad": null
     },
     {
       "mot": "Le temps de faire qqch., j'aurais fait qqch.",
@@ -3623,6 +4016,11 @@
       "trad": "съ давнихъ поръ"
     },
     {
+      "mot": "depuis des semaines",
+      "tag": "temps",
+      "trad": "for weeks"
+    },
+    {
       "mot": "depuis le tout début",
       "tag": "temps",
       "trad": "from the very beginning"
@@ -3736,11 +4134,6 @@
       "mot": "n'avoir plus le temps d'enseigner",
       "tag": "temps",
       "trad": null
-    },
-    {
-      "mot": "par le passé",
-      "tag": "temps",
-      "trad": "въ прошломъ"
     },
     {
       "mot": "pendant ce temps",
@@ -3919,11 +4312,6 @@
     }
   ],
   "événements": [
-    {
-      "mot": "Et, d’une certaine manière, c'est ce qui s'est produit.",
-      "tag": "événements",
-      "trad": "Cela est arrivé."
-    },
     {
       "mot": "Qu'est-ce qui est arrivé ?",
       "tag": "événements",
