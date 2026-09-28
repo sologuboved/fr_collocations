@@ -146,6 +146,11 @@
       "trad": "которому лучше было бы помолчать"
     },
     {
+      "mot": "renoncer à qqch.",
+      "tag": "actions",
+      "trad": "отказаться отъ чего-либо"
+    },
+    {
       "mot": "s'en sortir",
       "tag": "actions",
       "trad": "сводить концы с концами"
@@ -2263,6 +2268,11 @@
   ],
   "oppositions": [
     {
+      "mot": "13 % des hommes le pensent contre 7 % des femmes.",
+      "tag": "oppositions",
+      "trad": null
+    },
+    {
       "mot": "au contraire",
       "tag": "oppositions",
       "trad": "напротивъ"
@@ -2271,11 +2281,6 @@
       "mot": "contrairement à",
       "tag": "oppositions",
       "trad": null
-    },
-    {
-      "mot": "contre",
-      "tag": "oppositions",
-      "trad": "versus"
     },
     {
       "mot": "en revanche",
@@ -2585,6 +2590,11 @@
       "mot": "Ou bien, variante,",
       "tag": "paroles",
       "trad": "Или скорѣе, какъ варiантъ,"
+    },
+    {
+      "mot": "Où en etions-nous ?",
+      "tag": "paroles",
+      "trad": "На чемъ мы остановились?"
     },
     {
       "mot": "Partons de ces derniers.",
@@ -3443,7 +3453,17 @@
   ],
   "quantités": [
     {
+      "mot": "La salaire moyen des femmes est infériour de 22,2 % à celui des hommes.",
+      "tag": "quantités",
+      "trad": null
+    },
+    {
       "mot": "On y dénombre 10 enfants",
+      "tag": "quantités",
+      "trad": null
+    },
+    {
+      "mot": "Sur les plus de 9 000 films que compte la base de données, près de 57 %...",
       "tag": "quantités",
       "trad": null
     },
@@ -3486,6 +3506,11 @@
       "mot": "en partie <-> totalement",
       "tag": "quantités",
       "trad": null
+    },
+    {
+      "mot": "en valider deux",
+      "tag": "quantités",
+      "trad": "изъ нихъ"
     },
     {
       "mot": "nettement plus",

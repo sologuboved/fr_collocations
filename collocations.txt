@@ -28,6 +28,7 @@ pousser qqn. à faire qqch. ~ drive smb. to do sth.
 pouvoir faire qqch. rien qu'en faisant qqch. ~ be able to do sth.just by doing sth.
 prévoir de | compter faire qqch. ~ планировать
 qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
+renoncer à qqch. ~ отказаться отъ чего-либо
 s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
 se conclure avec qqch.
@@ -477,9 +478,9 @@ s'ôter de l'esprit qqch. ~ выбросить изъ головы
 évoquer un souvenir
 
 OPPOSITIONS
+13 % des hommes le pensent contre 7 % des femmes.
 au contraire ~ напротивъ
 contrairement à
-contre ~ versus
 en revanche ~ зато
 faire contraste
 inversement ~ наоборотъ
@@ -545,6 +546,7 @@ On dirait que ~ Похоже,
 On sait que...
 On voit bien que... ~ We can clearly see...
 Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
+Où en etions-nous ? ~ На чемъ мы остановились?
 Partons de ces derniers. ~ Начнемъ со вторыхъ.
 Pourquoi tu dis ça ? ~ Почему ты так думаешь?
 Qu'en est-il de... ~ Какъ насчетъ
@@ -721,7 +723,9 @@ en plein soleil ~ in direct sunlight
 en pleine ville | en plein Paris ~ въ самомъ/ой
 
 QUANTITÉS
+La salaire moyen des femmes est infériour de 22,2 % à celui des hommes.
 On y dénombre 10 enfants
+Sur les plus de 9 000 films que compte la base de données, près de 57 %...
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
 au total
@@ -730,6 +734,7 @@ de plus en plus
 de surcroît, ~ вдобавокъ
 en moyenne ~ on average
 en partie <-> totalement
+en valider deux ~ изъ нихъ
 nettement plus ~ significantly more
 petit à petit ~ понемножку
 peu ou prou ~ plus ou moins
