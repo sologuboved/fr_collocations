@@ -41,6 +41,11 @@
       "trad": "I can't do without it."
     },
     {
+      "mot": "Je ne sais pas comment m'y prendre.",
+      "tag": "actions",
+      "trad": "Я не знаю, какъ за это взяться."
+    },
+    {
       "mot": "Je ne t'avais jamais vu cet air.",
       "tag": "actions",
       "trad": "I had never seen you look like that."
@@ -1082,11 +1087,6 @@
       "trad": "at best"
     },
     {
-      "mot": "au même titre que qqch. / qn.",
-      "tag": "divers",
-      "trad": "in the same way as"
-    },
-    {
       "mot": "au point jersey",
       "tag": "divers",
       "trad": "въ техникѣ лицевой глади"
@@ -1546,6 +1546,11 @@
       "mot": "au premier regard,",
       "tag": "figé",
       "trad": "на первый взглядъ"
+    },
+    {
+      "mot": "au rabais",
+      "tag": "figé",
+      "trad": "по скидкѣ"
     },
     {
       "mot": "au ralenti",
@@ -2689,6 +2694,11 @@
       "trad": "With all due respect"
     },
     {
+      "mot": "Selon l’expression consacrée,",
+      "tag": "paroles",
+      "trad": "Какъ говорится,"
+    },
+    {
       "mot": "Suis-je bête ! Cela m'avait échappé.",
       "tag": "paroles",
       "trad": null
@@ -3011,6 +3021,11 @@
       "trad": "Отъ этого мѣста у меня мурашки по кожѣ."
     },
     {
+      "mot": "Cela ne tenait pas debout.",
+      "tag": "phrases",
+      "trad": "Это не выдерживало никакой критики."
+    },
+    {
       "mot": "Cela peut valoir la peine.",
       "tag": "phrases",
       "trad": "Можетъ стоить того."
@@ -3156,6 +3171,11 @@
       "trad": "Я ожидалъ худшаго."
     },
     {
+      "mot": "Je me demande combien nous avons été à nous faire avoir.",
+      "tag": "phrases",
+      "trad": "Я задаюсь вопросомъ, сколько насъ было облапошенныхъ."
+    },
+    {
       "mot": "Je me rends.",
       "tag": "phrases",
       "trad": "Сдаюсь."
@@ -3164,6 +3184,11 @@
       "mot": "Je me suis cru dans...",
       "tag": "phrases",
       "trad": "I feel like I was in..."
+    },
+    {
+      "mot": "Je n'ai pas envie de te faire de la peine, mais je ne peux pas ne rien dire. Tu as vécu des épreuves ces derniers temps, c'est normal que ta vision des choses soit altérée.",
+      "tag": "phrases",
+      "trad": "I don't want to hurt your feelings, but I can't say nothing. You've been through some tough times lately; it's only natural that your perspective is skewed."
     },
     {
       "mot": "Je ne connais pas grand-chose à qqch. / Je n'y connais pas grand-chose.",
@@ -3341,6 +3366,11 @@
       "trad": "Всё пропало!"
     },
     {
+      "mot": "Une tablette de chocolat ne serait pas de refus.",
+      "tag": "phrases",
+      "trad": "I wouldn't say no to a chocolate bar."
+    },
+    {
       "mot": "alors qu'ailleurs le processus de concentration n'a fait que débuter",
       "tag": "phrases",
       "trad": null
@@ -3494,6 +3524,11 @@
     }
   ],
   "quantités": [
+    {
+      "mot": "55 jours en tout",
+      "tag": "quantités",
+      "trad": "въ общей сложности 55 дней"
+    },
     {
       "mot": "La salaire moyen des femmes est infériour de 22,2 % à celui des hommes.",
       "tag": "quantités",
@@ -3657,6 +3692,11 @@
       "trad": null
     },
     {
+      "mot": "au même titre que qqch. / qn.",
+      "tag": "rapport",
+      "trad": "in the same way as"
+    },
+    {
       "mot": "au regard de",
       "tag": "rapport",
       "trad": "with regard to"
@@ -3712,6 +3752,11 @@
       "trad": "въ аспектѣ"
     },
     {
+      "mot": "en (dé)faveur de",
+      "tag": "rapport",
+      "trad": null
+    },
+    {
       "mot": "en comparaison de | auprès de",
       "tag": "rapport",
       "trad": "по сравненію съ"
@@ -3720,11 +3765,6 @@
       "mot": "en cours de",
       "tag": "rapport",
       "trad": "въ ходѣ, въ процессѣ"
-    },
-    {
-      "mot": "en faveur de",
-      "tag": "rapport",
-      "trad": null
     },
     {
       "mot": "en fonction de",

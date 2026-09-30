@@ -7,6 +7,7 @@ J'ai dû faire qqch. ~ Должно быть, я...
 Je fais en sorte de faire qqch. ~ make sure to
 Je n'en suis pas à faire qqch. ~ I'm not at the point yet of doing sth.
 Je ne peux pas m'en passer. ~ I can't do without it.
+Je ne sais pas comment m'y prendre. ~ Я не знаю, какъ за это взяться.
 Je ne t'avais jamais vu cet air. ~ I had never seen you look like that.
 Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
@@ -228,7 +229,6 @@ Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
 au lieu de ~ instead of
 au mieux ~ at best
-au même titre que qqch. / qn. ~ in the same way as
 au point jersey ~ въ техникѣ лицевой глади
 aucunement ~ pas du tout
 avant tout ~ прежде всего
@@ -326,6 +326,7 @@ au choix
 au figuré ~ въ переносномъ смыслѣ
 au passage ~ между дѣломъ
 au premier regard, ~ на первый взглядъ
+au rabais ~ по скидкѣ
 au ralenti ~ въ замедленной съемкѣ
 avec le recul ~ with hindsight, in retrospect
 bel et bien
@@ -567,6 +568,7 @@ Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
 Que dire d'autre?
 S'agissant de l’Ancien Régime, il importe de...
 Sauf son / votre respect ~ With all due respect
+Selon l’expression consacrée, ~ Какъ говорится,
 Suis-je bête ! Cela m'avait échappé.
 Tu te fous de moi ? ~ Ты издѣваешься?
 [de façon peu assidue] il est vrai ~ admittedly [inconsistently]
@@ -633,6 +635,7 @@ C'est retour à la case départ. ~ Back to square one.
 C'est vraiment très gentil.
 C'était compter sans qqn. ~ Но тутъ вмешался...
 Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
+Cela ne tenait pas debout. ~ Это не выдерживало никакой критики.
 Cela peut valoir la peine. ~ Можетъ стоить того.
 Cela quels que soient nos choix d'activités ou de modes de vie. ~ Какими бы ни были...
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
@@ -662,8 +665,10 @@ Jamais je n’aurais cru voir ça ici !
 Je bourais bien un café.
 Je ferais mieux de [faire qqch.] ~ I better
 Je m'attendais à pire. ~ Я ожидалъ худшаго.
+Je me demande combien nous avons été à nous faire avoir. ~ Я задаюсь вопросомъ, сколько насъ было облапошенныхъ.
 Je me rends. ~ Сдаюсь.
 Je me suis cru dans... ~ I feel like I was in...
+Je n'ai pas envie de te faire de la peine, mais je ne peux pas ne rien dire. Tu as vécu des épreuves ces derniers temps, c'est normal que ta vision des choses soit altérée. ~ I don't want to hurt your feelings, but I can't say nothing. You've been through some tough times lately; it's only natural that your perspective is skewed.
 Je ne connais pas grand-chose à qqch. / Je n'y connais pas grand-chose.
 Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix ans de plus que son âge.
 Je ne m'en suis pas rendu compte.
@@ -699,6 +704,7 @@ Telle est la première question.
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
 Tout est permis.
 Tout fout le camp ! ~ Всё пропало!
+Une tablette de chocolat ne serait pas de refus. ~ I wouldn't say no to a chocolate bar.
 alors qu'ailleurs le processus de concentration n'a fait que débuter
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
@@ -733,6 +739,7 @@ en plein soleil ~ in direct sunlight
 en pleine ville | en plein Paris ~ въ самомъ/ой
 
 QUANTITÉS
+55 jours en tout ~ въ общей сложности 55 дней
 La salaire moyen des femmes est infériour de 22,2 % à celui des hommes.
 On y dénombre 10 enfants
 Sur les plus de 9 000 films que compte la base de données, près de 57 %...
@@ -767,6 +774,7 @@ ainsi que ~ as well as
 au début <-> en fin
 au détriment de ~ at the expense of
 au moyen de | à l'aide de
+au même titre que qqch. / qn. ~ in the same way as
 au regard de ~ with regard to
 autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
 aux yeux de qqn. | à travers les yeux de qqn.
@@ -778,9 +786,9 @@ convenir à qqch. ~ be associated with
 dans le cadre de
 demander ce qu'il en était de la France ~ какъ съ этимъ во Франціи
 du côté de qqch. ~ въ аспектѣ
+en (dé)faveur de
 en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
-en faveur de
 en fonction de ~ depending on, in terms of
 en occurrence de
 en qualité de ~ въ качествѣ
