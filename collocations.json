@@ -116,6 +116,11 @@
       "trad": null
     },
     {
+      "mot": "jouer l'offusqué",
+      "tag": "actions",
+      "trad": "изображать возмущеніе, оскорблённость"
+    },
+    {
       "mot": "n'arriver pas à faire qqch.",
       "tag": "actions",
       "trad": null
@@ -278,6 +283,11 @@
       "trad": null
     },
     {
+      "mot": "conserver précieusement",
+      "tag": "adverbes",
+      "trad": "бережно хранить"
+    },
+    {
       "mot": "considérablement",
       "tag": "adverbes",
       "trad": null
@@ -341,6 +351,11 @@
       "mot": "fortement | massivement",
       "tag": "adverbes",
       "trad": null
+    },
+    {
+      "mot": "froidement",
+      "tag": "adverbes",
+      "trad": "холодно"
     },
     {
       "mot": "fâcheusement",
@@ -2241,6 +2256,11 @@
       "trad": "связывать между собой"
     },
     {
+      "mot": "mettre en sourdine <-> en exergue",
+      "tag": "mises",
+      "trad": "to downplay <-> to highlight"
+    },
+    {
       "mot": "mettre en œuvre",
       "tag": "mises",
       "trad": null
@@ -3256,6 +3276,11 @@
       "trad": null
     },
     {
+      "mot": "Le courant est bien passé.",
+      "tag": "phrases",
+      "trad": "Мы сразу нашли общій языкъ."
+    },
+    {
       "mot": "Les choses ne se sont pas réellement passées de la sorte.",
       "tag": "phrases",
       "trad": "Things didn't actually happen that way."
@@ -3364,6 +3389,11 @@
       "mot": "Tout fout le camp !",
       "tag": "phrases",
       "trad": "Всё пропало!"
+    },
+    {
+      "mot": "Tu as eu tort de ne pas participer aux élections.",
+      "tag": "phrases",
+      "trad": null
     },
     {
       "mot": "Une tablette de chocolat ne serait pas de refus.",
