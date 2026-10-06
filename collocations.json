@@ -812,6 +812,11 @@
       "trad": "даромъ что, тогда какъ"
     },
     {
+      "mot": "de toute façon | quoi qu'il en soit",
+      "tag": "concession",
+      "trad": "anyway"
+    },
+    {
       "mot": "en dépit de",
       "tag": "concession",
       "trad": "in spite of"
@@ -851,7 +856,7 @@
     {
       "mot": "pourvu que ce soit",
       "tag": "conditions",
-      "trad": "provided it would be"
+      "trad": "только бы (aussi ~ à condition que, provided)"
     },
     {
       "mot": "sauf si | excepté si | hormis celui de",
@@ -1042,11 +1047,6 @@
       "trad": "in a way"
     },
     {
-      "mot": "De quelle façon ... ?",
-      "tag": "divers",
-      "trad": "Какимъ образомъ"
-    },
-    {
       "mot": "Elle ne fait que faire qqch.",
       "tag": "divers",
       "trad": null
@@ -1127,11 +1127,6 @@
       "trad": "скорѣе ..., нежели ..."
     },
     {
-      "mot": "de cette façon | ainsi",
-      "tag": "divers",
-      "trad": "такимъ образомъ"
-    },
-    {
       "mot": "de même",
       "tag": "divers",
       "trad": "аналогичнымъ образомъ"
@@ -1145,11 +1140,6 @@
       "mot": "de surcroît | de surplus",
       "tag": "divers",
       "trad": "болѣе того"
-    },
-    {
-      "mot": "de toute façon | quoi qu'il en soit",
-      "tag": "divers",
-      "trad": "anyway"
     },
     {
       "mot": "du moins",
@@ -1853,11 +1843,6 @@
       "trad": "backup"
     },
     {
-      "mot": "qu'à cela ne tienne",
-      "tag": "figé",
-      "trad": "peu importe !, ça ne fait rien, ну и ладно"
-    },
-    {
       "mot": "quel que soit qqch.",
       "tag": "figé",
       "trad": "каковъ бы ни былъ"
@@ -1926,11 +1911,6 @@
       "mot": "utile en soi",
       "tag": "figé",
       "trad": "самоцѣнный"
-    },
-    {
-      "mot": "valider de façon ferme",
-      "tag": "figé",
-      "trad": null
     },
     {
       "mot": "voyer tout en noir",
@@ -2164,6 +2144,11 @@
   ],
   "manières": [
     {
+      "mot": "De quelle façon ... ?",
+      "tag": "manières",
+      "trad": "Какимъ образомъ"
+    },
+    {
       "mot": "Et vous allez trouver ce budget de quelle manière ?",
       "tag": "manières",
       "trad": "Какимъ образомъ?"
@@ -2172,6 +2157,21 @@
       "mot": "Et, d’une certaine manière, c'est ce qui s'est produit.",
       "tag": "manières",
       "trad": "Cela est arrivé."
+    },
+    {
+      "mot": "de cette façon",
+      "tag": "manières",
+      "trad": "такимъ образомъ"
+    },
+    {
+      "mot": "de façon générale | d'une façon plus générale",
+      "tag": "manières",
+      "trad": "generally speaking"
+    },
+    {
+      "mot": "de façon peu assidue",
+      "tag": "manières",
+      "trad": "admittedly"
     },
     {
       "mot": "de la même manière",
@@ -2184,9 +2184,14 @@
       "trad": "разными способами"
     },
     {
-      "mot": "de toute manière,",
+      "mot": "de toute manière, | de toute façon,",
       "tag": "manières",
       "trad": "въ любомъ случаѣ"
+    },
+    {
+      "mot": "valider de façon ferme",
+      "tag": "manières",
+      "trad": null
     }
   ],
   "mises": [
@@ -2679,6 +2684,11 @@
       "trad": null
     },
     {
+      "mot": "Qu'à cela ne tienne !",
+      "tag": "paroles",
+      "trad": "Peu importe !, ça ne fait rien, ну и пусть"
+    },
+    {
       "mot": "Que dire d'autre?",
       "tag": "paroles",
       "trad": null
@@ -2707,11 +2717,6 @@
       "mot": "Tu te fous de moi ?",
       "tag": "paroles",
       "trad": "Ты издѣваешься?"
-    },
-    {
-      "mot": "[de façon peu assidue] il est vrai",
-      "tag": "paroles",
-      "trad": "admittedly [inconsistently]"
     },
     {
       "mot": "au bout du compte",
@@ -2767,11 +2772,6 @@
       "mot": "dans le sens où cela allie qqch. et qqch.",
       "tag": "paroles",
       "trad": null
-    },
-    {
-      "mot": "de façon générale | d'une façon plus générale",
-      "tag": "paroles",
-      "trad": "generally speaking"
     },
     {
       "mot": "de plus",
