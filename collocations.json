@@ -785,70 +785,70 @@
       "trad": null
     }
   ],
-  "concession": [
+  "concessions": [
     {
       "mot": "Aucune femme n'a été élue présidente de la République en France quoique Ségolène Royal ait failli l'être en 2007.",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": null
     },
     {
       "mot": "Bien qu'on ait voté des lois sur la parité, il y a des inégalités entre les hommes et les femmes.",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": null
     },
     {
       "mot": "Encore que ceux qui ont une formation réussissent très bien.",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "Это не отмѣняетъ того, что..."
     },
     {
       "mot": "Il n'en reste pas moins que certains sont déçus en arrivant.",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "Это не отмѣняетъ того, что..."
     },
     {
       "mot": "J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul chez moi, le soir.",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "even though"
     },
     {
       "mot": "Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": null
     },
     {
       "mot": "Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": null
     },
     {
       "mot": "alors que",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "даромъ что, тогда какъ"
     },
     {
       "mot": "de toute façon | quoi qu'il en soit",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "anyway"
     },
     {
       "mot": "en dépit de",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "in spite of"
     },
     {
       "mot": "malgré tout",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": null
     },
     {
       "mot": "quand même",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "anyway"
     },
     {
       "mot": "quoi que vous fassiez",
-      "tag": "concession",
+      "tag": "concessions",
       "trad": "whatever you do"
     }
   ],
