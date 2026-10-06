@@ -6,6 +6,11 @@
       "trad": "Serves him right."
     },
     {
+      "mot": "Il faudra que je fasse avec.",
+      "tag": "actions",
+      "trad": "I'll have to deal with it."
+    },
+    {
       "mot": "Il leur arrivait de faire qqch.",
       "tag": "actions",
       "trad": "Имъ случалось..."
@@ -19,6 +24,11 @@
       "mot": "Il n'en fallait pas plus pour faire qqch.",
       "tag": "actions",
       "trad": "Ничего больше не нужно было, чтобы..."
+    },
+    {
+      "mot": "Il nous tarde déjà !",
+      "tag": "actions",
+      "trad": "Мы уже с нетерпением ждем!"
     },
     {
       "mot": "J'ai dû faire qqch.",
@@ -56,6 +66,11 @@
       "trad": "I would be hard-pressed to do sth."
     },
     {
+      "mot": "Je verrais bien qqn. faire qqch.",
+      "tag": "actions",
+      "trad": "Легко могу себѣ представить, какъ..."
+    },
+    {
       "mot": "J’ai bien fait de prendre quelques précautions…",
       "tag": "actions",
       "trad": "I'm glad I took some precautions…"
@@ -76,9 +91,19 @@
       "trad": "Не то чтобы я особенно (въ прошломъ)"
     },
     {
+      "mot": "Vous n'avez plus de faire qqch.",
+      "tag": "actions",
+      "trad": "Вамъ больше не нужно..."
+    },
+    {
       "mot": "avoir failli faire qqch.",
       "tag": "actions",
       "trad": "едва не"
+    },
+    {
+      "mot": "avoir hâte de faire qqch.",
+      "tag": "actions",
+      "trad": "can't wait to"
     },
     {
       "mot": "ce qui lui est arrivé",
@@ -89,6 +114,11 @@
       "mot": "donner le meilleur de lui-même",
       "tag": "actions",
       "trad": "do one's best"
+    },
+    {
+      "mot": "faire de la peine",
+      "tag": "actions",
+      "trad": "hurt one's feelings"
     },
     {
       "mot": "faire de son mieux",
@@ -121,6 +151,11 @@
       "trad": "изображать возмущеніе, оскорблённость"
     },
     {
+      "mot": "me / te / la traiter d'égoïste",
+      "tag": "actions",
+      "trad": "называть эгоистомъ"
+    },
+    {
       "mot": "n'arriver pas à faire qqch.",
       "tag": "actions",
       "trad": null
@@ -134,6 +169,11 @@
       "mot": "peiner à faire qqch.",
       "tag": "actions",
       "trad": "struggle to"
+    },
+    {
+      "mot": "pour te changer les idées",
+      "tag": "actions",
+      "trad": "чтобы тебѣ развѣяться"
     },
     {
       "mot": "pousser qqn. à faire qqch.",
@@ -204,6 +244,16 @@
       "mot": "y aller fort",
       "tag": "actions",
       "trad": "перегибать палку"
+    },
+    {
+      "mot": "être bien décidée à s'en occuper",
+      "tag": "actions",
+      "trad": "твердо рѣшить этимъ заняться"
+    },
+    {
+      "mot": "être bien placée pour faire qqch.",
+      "tag": "actions",
+      "trad": "быть вправѣ"
     },
     {
       "mot": "être censé faire qqch.",
@@ -296,6 +346,11 @@
       "mot": "convenablement",
       "tag": "adverbes",
       "trad": "properly, reasonabley"
+    },
+    {
+      "mot": "courageusement",
+      "tag": "adverbes",
+      "trad": null
     },
     {
       "mot": "couramment",
@@ -1167,6 +1222,11 @@
       "trad": "on one's own"
     },
     {
+      "mot": "en contrepartie",
+      "tag": "divers",
+      "trad": "взамѣнъ"
+    },
+    {
       "mot": "en gros",
       "tag": "divers",
       "trad": "в цѣлом, грубо говоря"
@@ -1469,6 +1529,11 @@
       "mot": "susciter",
       "tag": "effets",
       "trad": "вызывать"
+    },
+    {
+      "mot": "vivre des épreuves",
+      "tag": "effets",
+      "trad": "пережить испытанія"
     }
   ],
   "figé": [
@@ -1683,9 +1748,19 @@
       "trad": "бутафорскій, карманный"
     },
     {
+      "mot": "en chœur",
+      "tag": "figé",
+      "trad": "хоромъ"
+    },
+    {
       "mot": "en concert avec",
       "tag": "figé",
       "trad": "совмѣстно, заодно"
+    },
+    {
+      "mot": "en courant",
+      "tag": "figé",
+      "trad": "на бѣгу / бѣгомъ"
     },
     {
       "mot": "en direct",
@@ -1888,6 +1963,11 @@
       "trad": "from every angle"
     },
     {
+      "mot": "sur la pointe des pieds",
+      "tag": "figé",
+      "trad": "на цыпочкахъ"
+    },
+    {
       "mot": "sur le vif",
       "tag": "figé",
       "trad": "непосредственно"
@@ -1911,6 +1991,11 @@
       "mot": "tant pis",
       "tag": "figé",
       "trad": "что подѣлаешь"
+    },
+    {
+      "mot": "terminer au plus vite",
+      "tag": "figé",
+      "trad": "закончить поскорѣе"
     },
     {
       "mot": "un mal pour un bien",
@@ -1981,6 +2066,11 @@
       "mot": "à la base",
       "tag": "figé",
       "trad": "въ основѣ"
+    },
+    {
+      "mot": "à la dure",
+      "tag": "figé",
+      "trad": "the hard way"
     },
     {
       "mot": "à la décharge de qqn.",
@@ -2306,9 +2396,19 @@
       "trad": "take advantage"
     },
     {
+      "mot": "ne pas savoir mettre les formes",
+      "tag": "mises",
+      "trad": "смягчать углы"
+    },
+    {
       "mot": "se mettre en tête",
       "tag": "mises",
       "trad": "пришло въ голову"
+    },
+    {
+      "mot": "se remettre en question",
+      "tag": "mises",
+      "trad": "to question oneself"
     }
   ],
   "mémoire": [
@@ -2509,6 +2609,11 @@
       "trad": null
     },
     {
+      "mot": ", nuance",
+      "tag": "paroles",
+      "trad": "уточнимъ (ирон.)"
+    },
+    {
       "mot": ", paraît-il,",
       "tag": "paroles",
       "trad": null
@@ -2634,6 +2739,11 @@
       "trad": null
     },
     {
+      "mot": "Je te signale que moi, je...",
+      "tag": "paroles",
+      "trad": "Заметь, что я..."
+    },
+    {
       "mot": "Le hic,",
       "tag": "paroles",
       "trad": "Вотъ въ чемъ проблема"
@@ -2684,6 +2794,11 @@
       "trad": "Почему ты так думаешь?"
     },
     {
+      "mot": "Pourtant.",
+      "tag": "paroles",
+      "trad": "И всё же."
+    },
+    {
       "mot": "Qu'en est-il de...",
       "tag": "paroles",
       "trad": "Какъ насчетъ"
@@ -2732,6 +2847,16 @@
       "mot": "Suis-je bête ! Cela m'avait échappé.",
       "tag": "paroles",
       "trad": null
+    },
+    {
+      "mot": "Tout court.",
+      "tag": "paroles",
+      "trad": "И всё."
+    },
+    {
+      "mot": "Tu parles !",
+      "tag": "paroles",
+      "trad": "Ну конечно."
     },
     {
       "mot": "Tu te fous de moi ?",
@@ -3151,9 +3276,19 @@
       "trad": null
     },
     {
+      "mot": "Il n'y a que nous.",
+      "tag": "phrases",
+      "trad": "Никого нѣтъ, кромѣ насъ."
+    },
+    {
       "mot": "Il vaut mieux que tu sois là quand ils rentreront.",
       "tag": "phrases",
       "trad": null
+    },
+    {
+      "mot": "J'ai besoin de faire le point.",
+      "tag": "phrases",
+      "trad": "I need to take stock of the situation."
     },
     {
       "mot": "J'ai été scotché. <fam.>",
@@ -3261,6 +3396,11 @@
       "trad": null
     },
     {
+      "mot": "L'inverse n'est pas moins vrai.",
+      "tag": "phrases",
+      "trad": null
+    },
+    {
       "mot": "La faute à qqch.",
       "tag": "phrases",
       "trad": "It's all due to sth."
@@ -3301,6 +3441,11 @@
       "trad": "But someone was missing for the night to truly be perfect."
     },
     {
+      "mot": "Mais tu ne laisses rien passer, toi, pas vrai ?",
+      "tag": "phrases",
+      "trad": null
+    },
+    {
       "mot": "Mon plus beau souvenir reste à venir.",
       "tag": "phrases",
       "trad": null
@@ -3326,9 +3471,19 @@
       "trad": "That was to be expected"
     },
     {
+      "mot": "Personne n'en a rien à faire de ces conneries.",
+      "tag": "phrases",
+      "trad": "Nobody gives a shit about this bullshit."
+    },
+    {
       "mot": "Place à la musique !",
       "tag": "phrases",
       "trad": "Time for music!"
+    },
+    {
+      "mot": "Pour nous, ce n'était pas rien.",
+      "tag": "phrases",
+      "trad": "For us, it was no small matter."
     },
     {
       "mot": "Qu'est-ce que ça peut bien faire ce que...",
@@ -3767,6 +3922,11 @@
       "trad": "be associated with"
     },
     {
+      "mot": "d'autant plus que",
+      "tag": "rapport",
+      "trad": "тѣмъ болѣе что"
+    },
+    {
       "mot": "dans le cadre de",
       "tag": "rapport",
       "trad": null
@@ -4044,6 +4204,11 @@
       "mot": "avec le temps",
       "tag": "temps",
       "trad": null
+    },
+    {
+      "mot": "ces derniers temps",
+      "tag": "temps",
+      "trad": "въ послѣднее время"
     },
     {
       "mot": "d'emblée",

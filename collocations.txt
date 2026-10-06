@@ -1,8 +1,10 @@
 ACTIONS
 Bien fait pour lui. ~ Serves him right.
+Il faudra que je fasse avec. ~ I'll have to deal with it.
 Il leur arrivait de faire qqch. ~ Имъ случалось...
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
 Il n'en fallait pas plus pour faire qqch. ~ Ничего больше не нужно было, чтобы...
+Il nous tarde déjà ! ~ Мы уже с нетерпением ждем!
 J'ai dû faire qqch. ~ Должно быть, я...
 Je fais en sorte de faire qqch. ~ make sure to
 Je n'en suis pas à faire qqch. ~ I'm not at the point yet of doing sth.
@@ -10,22 +12,28 @@ Je ne peux pas m'en passer. ~ I can't do without it.
 Je ne sais pas comment m'y prendre. ~ Я не знаю, какъ за это взяться.
 Je ne t'avais jamais vu cet air. ~ I had never seen you look like that.
 Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
+Je verrais bien qqn. faire qqch. ~ Легко могу себѣ представить, какъ...
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
 Le ministre a bien fait de prendre cette décision.
 Ma sœur me fait de la peine. ~ Мнѣ жаль мою сестру.
 Pas que j'aie spécialement fait qqch. ... ~ Не то чтобы я особенно (въ прошломъ)
+Vous n'avez plus de faire qqch. ~ Вамъ больше не нужно...
 avoir failli faire qqch. ~ едва не
+avoir hâte de faire qqch. ~ can't wait to
 ce qui lui est arrivé
 donner le meilleur de lui-même ~ do one's best
+faire de la peine ~ hurt one's feelings
 faire de son mieux ~ do one's best
 faire en sorte que qqch. se passe ~ assure that
 faire preuve de ~ демонстрировать
 faire semblant de | faire mine de ~ притворяться
 forcer qqn. à faire qqch.
 jouer l'offusqué ~ изображать возмущеніе, оскорблённость
+me / te / la traiter d'égoïste ~ называть эгоистомъ
 n'arriver pas à faire qqch.
 n'en avoir que faire ~ couldn't care less
 peiner à faire qqch. ~ struggle to
+pour te changer les idées ~ чтобы тебѣ развѣяться
 pousser qqn. à faire qqch. ~ drive smb. to do sth.
 pouvoir faire qqch. rien qu'en faisant qqch. ~ be able to do sth.just by doing sth.
 prévoir de | compter faire qqch. ~ планировать
@@ -40,6 +48,8 @@ sortir gagnant-gagnant
 tenir à qqn. ~ care about someone
 venir de faire qqch.
 y aller fort ~ перегибать палку
+être bien décidée à s'en occuper ~ твердо рѣшить этимъ заняться
+être bien placée pour faire qqch. ~ быть вправѣ
 être censé faire qqch.
 être confronté à qqch. ~ столкнуться
 être en train de faire qqch.
@@ -60,6 +70,7 @@ concrètement
 conserver précieusement ~ бережно хранить
 considérablement
 convenablement ~ properly, reasonabley
+courageusement
 couramment ~ fluently / habitually
 décidément ~ definitely
 délibérément ~ цѣленаправленно
@@ -160,7 +171,7 @@ viser à faire qqch.
 être produit par
 être à l'origine de
 
-CONCESSION
+CONCESSIONS
 Aucune femme n'a été élue présidente de la République en France quoique Ségolène Royal ait failli l'être en 2007.
 Bien qu'on ait voté des lois sur la parité, il y a des inégalités entre les hommes et les femmes.
 Encore que ceux qui ont une formation réussissent très bien. ~ Это не отмѣняетъ того, что...
@@ -245,6 +256,7 @@ de même que ~ такъ же какъ
 de surcroît | de surplus ~ болѣе того
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
+en contrepartie ~ взамѣнъ
 en gros ~ в цѣлом, грубо говоря
 en guise de qqch ~ by way of
 en lui-même ~ само по себѣ
@@ -309,6 +321,7 @@ soumettre ~ подвергать
 subir ~ подвергаться, претерпѣвать
 sujet à qqch. ~ быть подверженнымъ / склоннымъ къ чему-либо
 susciter ~ вызывать
+vivre des épreuves ~ пережить испытанія
 
 FIGÉ
 (ne pas) faire son âge ~ выглядѣть на свой возраст
@@ -353,7 +366,9 @@ en alternance ~ чередуя
 en biais ~ подъ угломъ
 en boucle ~ по кругу
 en carton ~ бутафорскій, карманный
+en chœur ~ хоромъ
 en concert avec ~ совмѣстно, заодно
+en courant ~ на бѣгу / бѣгомъ
 en direct ~ въ прямомъ эфирѣ
 en déplacement ~ въ дорогѣ
 en flèche ~ стремительно
@@ -394,11 +409,13 @@ se mettre à faire qqch. ~ приняться за
 sous forme de qqch. ~ въ формѣ
 sous pretéxte que
 sous toutes les coutures ~ from every angle
+sur la pointe des pieds ~ на цыпочкахъ
 sur le vif ~ непосредственно
 sur-le-champ ~ on the spot
 tant attendu ~ long-awaited
 tant bien que mal ~ худо-бѣдно
 tant pis ~ что подѣлаешь
+terminer au plus vite ~ закончить поскорѣе
 un mal pour un bien ~ нѣтъ худа безъ добра
 une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
@@ -413,6 +430,7 @@ voyer tout en noir
 à l'infini
 à l'occurrence ~ въ данномъ случаѣ
 à la base ~ въ основѣ
+à la dure ~ the hard way
 à la décharge de qqn. ~ въ оправданіе, къ чести
 à la fin ~ in the end
 à la hâte ~ наспѣхъ
@@ -484,7 +502,9 @@ mettre un point final à
 mettre une heure de plus pour faire qqch. ~ понадобится на часъ больше
 mettre à jour
 mettre à profit ~ take advantage
+ne pas savoir mettre les formes ~ смягчать углы
 se mettre en tête ~ пришло въ голову
+se remettre en question ~ to question oneself
 
 MÉMOIRE
 Désolé, c'est un oubli.
@@ -531,6 +551,7 @@ PAROLES
 , au premier abord, ~ въ первомъ приближеніи
 , c'est bien connu,
 , mais sait-on jamais ? | Qui sait ?
+, nuance ~ уточнимъ (ирон.)
 , paraît-il,
 Admettons que...
 Affaire de lecture : ~ вопросъ интерпретаціи
@@ -556,6 +577,7 @@ J'en suis persuadée | C'est ma conviction
 Je dois avouer que ~ Долженъ признаться
 Je ne suis pas certaine de comprendre.
 Je ne veux pas te vexer, mais non merci.
+Je te signale que moi, je... ~ Заметь, что я...
 Le hic, ~ Вотъ въ чемъ проблема
 Non seulement ... mais encore (aussi)...
 On dirait
@@ -566,6 +588,7 @@ Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
 Où en etions-nous ? ~ На чемъ мы остановились?
 Partons de ces derniers. ~ Начнемъ со вторыхъ.
 Pourquoi tu dis ça ? ~ Почему ты так думаешь?
+Pourtant. ~ И всё же.
 Qu'en est-il de... ~ Какъ насчетъ
 Qu'en penses-tu ? ~ How about that?
 Qu'est-ce que tu veux dire par là ?
@@ -576,6 +599,8 @@ S'agissant de l’Ancien Régime, il importe de...
 Sauf son / votre respect ~ With all due respect
 Selon l’expression consacrée, ~ Какъ говорится,
 Suis-je bête ! Cela m'avait échappé.
+Tout court. ~ И всё.
+Tu parles ! ~ Ну конечно.
 Tu te fous de moi ? ~ Ты издѣваешься?
 au bout du compte ~ въ конечномъ счетѣ
 au premier regard ~ на первый взглядъ
@@ -661,7 +686,9 @@ Il est parfois difficile de savoir ce qu'il en est.
 Il est temps que tu grandisses.
 Il existe environ un million d'associations et 20 millions de Français adhèrent au moins à l'une d'entre elles.
 Il n'y a qu'à vous laisser convaincre de faire qqch.
+Il n'y a que nous. ~ Никого нѣтъ, кромѣ насъ.
 Il vaut mieux que tu sois là quand ils rentreront.
+J'ai besoin de faire le point. ~ I need to take stock of the situation.
 J'ai été scotché. <fam.> ~ Отвалъ башки.
 J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то-то.
 J'y suis même plutôt bien. ~ I'm actually quite happy here.
@@ -683,6 +710,7 @@ Je suis emballé. <fam.> ~ I am thrilled.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 Je voudrais te demander un service.
 L'important est de faire qqch.
+L'inverse n'est pas moins vrai.
 La faute à qqch. ~ It's all due to sth.
 La réponse ne va pas de soi. ~ The answer is not obvious.
 La tour Eiffel a dû choquer au début.
@@ -691,12 +719,15 @@ Les choses ne se sont pas réellement passées de la sorte. ~ Things didn't actu
 Les deux me vont. ~ Either is fine.
 Mais croyez-moi, s’ils savaient ce que l’on en a fait, ils ne seraient pas contents !
 Mais il manquait quelqu'un pour que la soirée soit vraiment parfaite. ~ But someone was missing for the night to truly be perfect.
+Mais tu ne laisses rien passer, toi, pas vrai ?
 Mon plus beau souvenir reste à venir.
 On a beau lui donner rendez-vous plus tôt que l'heure prévue, il se débrouille toujours pour ne pas faillir à sa réputation. ~ No matter how early you arrange to meet him, he always manages to live up to his reputation.
 On n'est pas sorti de l'auberge. ~ We are not out of the woods yet.
 On ne peut rien à qqch. ~ There's nothing we can do about sth.
 On pouvait s'y attendre ~ That was to be expected
+Personne n'en a rien à faire de ces conneries. ~ Nobody gives a shit about this bullshit.
 Place à la musique ! ~ Time for music!
+Pour nous, ce n'était pas rien. ~ For us, it was no small matter.
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Que t'importe ?
 Quel est l'objet dont on se sert pour faire qqch. ?
@@ -789,6 +820,7 @@ comparé à
 comporter | comprendre | inclure qqch. ~ включать въ себя
 consister à ~ consist in
 convenir à qqch. ~ be associated with
+d'autant plus que ~ тѣмъ болѣе что
 dans le cadre de
 demander ce qu'il en était de la France ~ какъ съ этимъ во Франціи
 du côté de qqch. ~ въ аспектѣ
@@ -848,6 +880,7 @@ autour de qqch. ~ въ районѣ (событія)
 avant même que le réveil ne sonne, ~ еще до того какъ прозвонилъ будильникъ,
 avant qcch./de faire qqch./que | en attendant de/que | le temps de/que
 avec le temps
+ces derniers temps ~ въ послѣднее время
 d'emblée ~ съ перваго раза, тутъ же
 d'ici à 10 ans
 d'un bond ~ однимъ махомъ
