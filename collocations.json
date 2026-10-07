@@ -211,6 +211,11 @@
       "trad": "to do rather well"
     },
     {
+      "mot": "se borner à qqch.",
+      "tag": "actions",
+      "trad": "ограничиться чѣмъ-нибудь"
+    },
+    {
       "mot": "se conclure avec qqch.",
       "tag": "actions",
       "trad": null
@@ -262,6 +267,11 @@
     },
     {
       "mot": "être confronté à qqch.",
+      "tag": "actions",
+      "trad": "столкнуться"
+    },
+    {
+      "mot": "être confronté à | faire face à",
       "tag": "actions",
       "trad": "столкнуться"
     },
@@ -403,6 +413,11 @@
       "trad": null
     },
     {
+      "mot": "follement",
+      "tag": "adverbes",
+      "trad": "безумно"
+    },
+    {
       "mot": "fortement | massivement",
       "tag": "adverbes",
       "trad": null
@@ -421,6 +436,11 @@
       "mot": "gratuitement",
       "tag": "adverbes",
       "trad": "безплатно"
+    },
+    {
+      "mot": "infiniment",
+      "tag": "adverbes",
+      "trad": "безконечно"
     },
     {
       "mot": "joliment",
@@ -578,6 +598,11 @@
       "mot": "d'occasion",
       "tag": "cas",
       "trad": "second-hand"
+    },
+    {
+      "mot": "en cas de besoin",
+      "tag": "cas",
+      "trad": "въ случаѣ необходимости"
     },
     {
       "mot": "en tout cas",
@@ -937,6 +962,11 @@
       "mot": "quand même",
       "tag": "concessions",
       "trad": "anyway"
+    },
+    {
+      "mot": "quoi que je fasse",
+      "tag": "concessions",
+      "trad": "no matter what I do"
     },
     {
       "mot": "quoi que vous fassiez",
@@ -1723,6 +1753,11 @@
       "mot": "de mal en pis from",
       "tag": "figé",
       "trad": "bad to worse"
+    },
+    {
+      "mot": "de vive voix <-> par écrit",
+      "tag": "figé",
+      "trad": null
     },
     {
       "mot": "donner d'ailleurs raison",
@@ -2599,6 +2634,11 @@
       "trad": "for safety"
     },
     {
+      "mot": "par écrit",
+      "tag": "par",
+      "trad": null
+    },
+    {
       "mot": "par élimination",
       "tag": "par",
       "trad": "методомъ исключенія"
@@ -2796,6 +2836,11 @@
       "trad": "На чемъ мы остановились?"
     },
     {
+      "mot": "Où en étions-nous ?",
+      "tag": "paroles",
+      "trad": "На чемъ мы остановились?"
+    },
+    {
       "mot": "Partons de ces derniers.",
       "tag": "paroles",
       "trad": "Начнемъ со вторыхъ."
@@ -2946,6 +2991,11 @@
       "trad": "въ конечномъ счетѣ"
     },
     {
+      "mot": "en d’autres termes",
+      "tag": "paroles",
+      "trad": "in other words"
+    },
+    {
       "mot": "en peu de mots",
       "tag": "paroles",
       "trad": "вкратцѣ"
@@ -3039,6 +3089,11 @@
       "mot": "sans aucun doute",
       "tag": "paroles",
       "trad": null
+    },
+    {
+      "mot": "selon ses termes",
+      "tag": "paroles",
+      "trad": "по его словамъ"
     },
     {
       "mot": "selon | d'après | à en croire | aux yeux de",
@@ -3727,6 +3782,11 @@
       "trad": "въ общей сложности 55 дней"
     },
     {
+      "mot": "C'est à peu près équivalent.",
+      "tag": "quantités",
+      "trad": "It's roughly equivalent."
+    },
+    {
       "mot": "La salaire moyen des femmes est infériour de 22,2 % à celui des hommes.",
       "tag": "quantités",
       "trad": null
@@ -3830,6 +3890,11 @@
       "mot": "à peu de chose près",
       "tag": "quantités",
       "trad": "практически, въ той или иной степени"
+    },
+    {
+      "mot": "à quel point j'y tiens",
+      "tag": "quantités",
+      "trad": "насколько мнѣ это дорого"
     },
     {
       "mot": "à une échelle réduite",
@@ -4323,6 +4388,11 @@
       "trad": "first thing"
     },
     {
+      "mot": "en un an",
+      "tag": "temps",
+      "trad": "за годъ"
+    },
+    {
       "mot": "ensuite | ultérieurement | postérieurement",
       "tag": "temps",
       "trad": null
@@ -4516,6 +4586,11 @@
       "mot": "à l'époque",
       "tag": "temps",
       "trad": "back then"
+    },
+    {
+      "mot": "à long terme",
+      "tag": "temps",
+      "trad": "long term"
     },
     {
       "mot": "à maintes reprises",

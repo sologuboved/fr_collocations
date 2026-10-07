@@ -41,6 +41,7 @@ qui aurait mieux faire de se taire ~ которому лучше было бы �
 renoncer à qqch. ~ отказаться отъ чего-либо
 s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
+se borner à qqch. ~ ограничиться чѣмъ-нибудь
 se conclure avec qqch.
 se donner à voir comme ~ показывать себя как
 se passer de qqch.
@@ -52,6 +53,7 @@ y aller fort ~ перегибать палку
 être bien placée pour faire qqch. ~ быть вправѣ
 être censé faire qqch.
 être confronté à qqch. ~ столкнуться
+être confronté à | faire face à ~ столкнуться
 être en train de faire qqch.
 être sur le point de faire qqch.
 
@@ -81,10 +83,12 @@ en apparence ~ внѣшне
 exagérément ~ exaggeratedly
 explicitement ~ explicitely
 financièrement
+follement ~ безумно
 fortement | massivement
 froidement ~ холодно
 fâcheusement ~ annoyingly
 gratuitement ~ безплатно
+infiniment ~ безконечно
 joliment ~ beautifully
 lentement et sûrement
 librement
@@ -114,6 +118,16 @@ vraisemblablement ~ presumably
 à la légère ~ легкомысленно, легко
 à tâtons ~ наощупь
 éventuellement ~ по обстоятельствамъ, возможно
+
+CAS
+au cas où | à tout hasard ~ just in case
+d'occasion ~ second-hand
+en cas de besoin ~ въ случаѣ необходимости
+en tout cas
+il n'en était pas ainsi ~ that was not the case
+le cas échéant ~ if applicable
+selon le cas ~ depending on the case
+à l'occasion de ~ по случаю
 
 CAUSALITÉ
 (a)mener à
@@ -184,6 +198,7 @@ de toute façon | quoi qu'il en soit ~ anyway
 en dépit de ~ in spite of
 malgré tout
 quand même ~ anyway
+quoi que je fasse ~ no matter what I do
 quoi que vous fassiez ~ whatever you do
 
 CONDITIONS
@@ -262,7 +277,6 @@ en guise de qqch ~ by way of
 en lui-même ~ само по себѣ
 en quelque sorte ~ въ своемъ родѣ
 en règle générale ~ as a general rule
-en tout cas
 et tout à l'avenant ~ and so on
 guère
 la barbe en moins ~ minus the beard
@@ -292,7 +306,6 @@ tout de même ~ still, all the same, even so
 tout à fait ~ quite
 toutefois ~ however
 voire ~ and even
-à l'occasion de ~ по случаю
 à la place de
 à l’instar de ~ наподобіе
 à répétition ~ повторяющійся
@@ -329,13 +342,11 @@ FIGÉ
 Bon débarras. ~ Good riddance.
 [créer] de toutes pièces ~ from scratch
 [ne pas changer] grand-chose
-agir par intérêt
 allant de soi ~ being self-evident
 aller bien au-delà ~ выходить далеко за рамки этого
 aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
-au cas où | à tout hasard ~ just in case
 au choix
 au figuré ~ въ переносномъ смыслѣ
 au passage ~ между дѣломъ
@@ -352,13 +363,13 @@ comme je l'entends ~ какъ я считаю нужнымъ
 connaître / savoir qqch. sur le bout des doigts ~ знать какъ свои пять пальцев
 contre son gré | à contre-cœur
 d'elle-même ~ on her own
-d'occasion ~ second-hand
 dans l'ordre ~ по порядку
 dans la doute ~ just to be safe
 de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
+de vive voix <-> par écrit
 donner d'ailleurs raison
 du reste ~ къ тому же
 en activité ~ дѣйствующій
@@ -388,7 +399,6 @@ faute de ~ за недостаткомъ
 faute de mieux ~ за неимѣніемъ лучшаго
 finir dans les délais
 hors d'atteinte ~ внѣ досягаемости
-il n'en était pas ainsi ~ that was not the case
 il n'y a rien à dire ~ ничего не скажешь
 l'air de rien
 la donne ~ раскладъ
@@ -527,6 +537,7 @@ vice versa
 à l'inverse (de)
 
 PAR
+agir par intérêt ~ изъ корыстныхъ побужденій
 par chance ~ къ счастью
 par confort ~ для удобства
 par conséquent
@@ -542,9 +553,10 @@ par la suite ~ впослѣдствіи
 par le passé ~ въ прошломъ
 par obligation ~ по обязанности
 par procuration ~ by proxy
-par raison | par passion
+par raison <-> par passion ~ изъ разумныхъ соображеній <-> по зову сердца
 par rapport à ~ relative to, compared to
 par sécurité ~ for safety
+par écrit
 par élimination ~ методомъ исключенія
 
 PAROLES
@@ -586,6 +598,7 @@ On sait que...
 On voit bien que... ~ We can clearly see...
 Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
 Où en etions-nous ? ~ На чемъ мы остановились?
+Où en étions-nous ? ~ На чемъ мы остановились?
 Partons de ces derniers. ~ Начнемъ со вторыхъ.
 Pourquoi tu dis ça ? ~ Почему ты так думаешь?
 Pourtant. ~ И всё же.
@@ -616,6 +629,7 @@ dans le sens où cela allie qqch. et qqch.
 de plus
 en clair ~ проще говоря
 en définitive ~ въ конечномъ счетѣ
+en d’autres termes ~ in other words
 en peu de mots ~ вкратцѣ
 en plus ~ кромѣ того
 en résumé ~ короче говоря
@@ -635,6 +649,7 @@ pour être plus précise
 pourtant
 rebelote ~ here we go again
 sans aucun doute
+selon ses termes ~ по его словамъ
 selon | d'après | à en croire | aux yeux de
 vu que ça approche ~ учитывая, что уже скоро
 À Dieu ne plaise ! | Dieu m'en garde ! ~ Боже упаси
@@ -777,6 +792,7 @@ en pleine ville | en plein Paris ~ въ самомъ/ой
 
 QUANTITÉS
 55 jours en tout ~ въ общей сложности 55 дней
+C'est à peu près équivalent. ~ It's roughly equivalent.
 La salaire moyen des femmes est infériour de 22,2 % à celui des hommes.
 On y dénombre 10 enfants
 Sur les plus de 9 000 films que compte la base de données, près de 57 %...
@@ -798,6 +814,7 @@ un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
 à moitié ~ наполовину
 à peu de chose près ~ практически, въ той или иной степени
+à quel point j'y tiens ~ насколько мнѣ это дорого
 à une échelle réduite ~ on a small scale
 
 RAPPORT
@@ -834,7 +851,6 @@ en tant que qqn. ~ as a
 envers qqn.
 face à ~ по отношенію къ
 faute d'entretien ~ по недостатку ухода
-le cas échéant ~ if applicable
 lié à qqch. ~ связанный съ
 n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
@@ -842,7 +858,6 @@ qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
 s'appuyant sur qqch.
 se rapporter à ~ относиться
-selon le cas ~ depending on the case
 sur ce coup ~ по этому поводу
 tandis que ~ whereas
 tout ce qui touche à qqch.
@@ -903,6 +918,7 @@ en ce moment
 en même temps
 en permanence
 en premier ~ first thing
+en un an ~ за годъ
 ensuite | ultérieurement | postérieurement
 entretemps ~ in the meanwhile
 il y a pile un siècle ~ ровно 100 лет назад
@@ -942,6 +958,7 @@ une énième fois ~ въ сотый разъ
 à l'avance ~ заранѣе
 à l'heure qu'il est,
 à l'époque ~ back then
+à long terme ~ long term
 à maintes reprises ~ многократно
 à partir de quand ~ at what point, from when
 à partir du moment où
