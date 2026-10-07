@@ -568,6 +568,43 @@
       "trad": "по обстоятельствамъ, возможно"
     }
   ],
+  "cas": [
+    {
+      "mot": "au cas où | à tout hasard",
+      "tag": "cas",
+      "trad": "just in case"
+    },
+    {
+      "mot": "d'occasion",
+      "tag": "cas",
+      "trad": "second-hand"
+    },
+    {
+      "mot": "en tout cas",
+      "tag": "cas",
+      "trad": null
+    },
+    {
+      "mot": "il n'en était pas ainsi",
+      "tag": "cas",
+      "trad": "that was not the case"
+    },
+    {
+      "mot": "le cas échéant",
+      "tag": "cas",
+      "trad": "if applicable"
+    },
+    {
+      "mot": "selon le cas",
+      "tag": "cas",
+      "trad": "depending on the case"
+    },
+    {
+      "mot": "à l'occasion de",
+      "tag": "cas",
+      "trad": "по случаю"
+    }
+  ],
   "causalité": [
     {
       "mot": "(a)mener à",
@@ -1252,11 +1289,6 @@
       "trad": "as a general rule"
     },
     {
-      "mot": "en tout cas",
-      "tag": "divers",
-      "trad": null
-    },
-    {
       "mot": "et tout à l'avenant",
       "tag": "divers",
       "trad": "and so on"
@@ -1400,11 +1432,6 @@
       "mot": "voire",
       "tag": "divers",
       "trad": "and even"
-    },
-    {
-      "mot": "à l'occasion de",
-      "tag": "divers",
-      "trad": "по случаю"
     },
     {
       "mot": "à la place de",
@@ -1563,11 +1590,6 @@
       "trad": null
     },
     {
-      "mot": "agir par intérêt",
-      "tag": "figé",
-      "trad": null
-    },
-    {
       "mot": "allant de soi",
       "tag": "figé",
       "trad": "being self-evident"
@@ -1591,11 +1613,6 @@
       "mot": "au besoin",
       "tag": "figé",
       "trad": "if necessary"
-    },
-    {
-      "mot": "au cas où | à tout hasard",
-      "tag": "figé",
-      "trad": "just in case"
     },
     {
       "mot": "au choix",
@@ -1676,11 +1693,6 @@
       "mot": "d'elle-même",
       "tag": "figé",
       "trad": "on her own"
-    },
-    {
-      "mot": "d'occasion",
-      "tag": "figé",
-      "trad": "second-hand"
     },
     {
       "mot": "dans l'ordre",
@@ -1856,11 +1868,6 @@
       "mot": "hors d'atteinte",
       "tag": "figé",
       "trad": "внѣ досягаемости"
-    },
-    {
-      "mot": "il n'en était pas ainsi",
-      "tag": "figé",
-      "trad": "that was not the case"
     },
     {
       "mot": "il n'y a rien à dire",
@@ -2497,6 +2504,11 @@
   ],
   "par": [
     {
+      "mot": "agir par intérêt",
+      "tag": "par",
+      "trad": "изъ корыстныхъ побужденій"
+    },
+    {
       "mot": "par chance",
       "tag": "par",
       "trad": "къ счастью"
@@ -2572,9 +2584,9 @@
       "trad": "by proxy"
     },
     {
-      "mot": "par raison | par passion",
+      "mot": "par raison <-> par passion",
       "tag": "par",
-      "trad": null
+      "trad": "изъ разумныхъ соображеній <-> по зову сердца"
     },
     {
       "mot": "par rapport à",
@@ -3992,11 +4004,6 @@
       "trad": "по недостатку ухода"
     },
     {
-      "mot": "le cas échéant",
-      "tag": "rapport",
-      "trad": "if applicable"
-    },
-    {
       "mot": "lié à qqch.",
       "tag": "rapport",
       "trad": "связанный съ"
@@ -4030,11 +4037,6 @@
       "mot": "se rapporter à",
       "tag": "rapport",
       "trad": "относиться"
-    },
-    {
-      "mot": "selon le cas",
-      "tag": "rapport",
-      "trad": "depending on the case"
     },
     {
       "mot": "sur ce coup",
