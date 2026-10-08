@@ -23,7 +23,7 @@ def from_csv(src_fname='mots_temp.csv', target_fname='collocations.json', drop=F
     for row in read_csv(src_fname, as_dict=True):
         row = {key: val.strip() or None for key, val in row.items()}
         mot = row['mot']
-        tag = row['tag']
+        tag = row.pop('tag')
         if mot in mots:
             print(f"'{mot}' est déjà présent ; on l'omet")
             continue

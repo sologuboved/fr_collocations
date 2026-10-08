@@ -18,9 +18,14 @@ def get_data(url=URL_COLLOCATIONS):
 def by_random(size):
     data = get_data()
     if size:
-        return order(random.sample([collocation for val in data.values() for collocation in val], size))
+        tags = list(data.keys())
+        sample = list()
+        for _ in range(size):
+            tag = random.choice(tags)
+            sample.append(random.choice(data[tag]) | {'tag': tag})
+        return order(sample)
     else:
-        return order([random.choice(val) for val in data.values()], by='tag')
+        return order([random.choice(val) | {'tag': tag} for tag, val in data.items()], by='tag')
 
 
 def by_tag(tag):
@@ -31,7 +36,6 @@ def by_tag(tag):
         pass
     else:
         for collocation in data:
-            collocation.pop('tag')
             collocations.append(collocation)
     if collocations:
         return order(collocations)
@@ -49,7 +53,6 @@ def get_all():
     for tag, val in sorted(data.items()):
         collocations = list()
         for entry in val:
-            entry.pop('tag')
             collocations.append(entry)
         tags_and_collocations.append((tag, order(collocations)))
     return tags_and_collocations
