@@ -33,5 +33,12 @@ def remove_individual_tags():
     dump_utf_json(collocations, 'collocations.json')
 
 
+def reorganize_citations():
+    citations = defaultdict(list)
+    for citation in load_utf_json('citations.json'):
+        citations[citation.pop('auteur')].append(citation)
+    dump_utf_json(citations, 'citations.json')
+
+
 if __name__ == '__main__':
-    remove_individual_tags()
+    reorganize_citations()

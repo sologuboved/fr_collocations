@@ -59,23 +59,28 @@ def get_all():
 
 
 def get_citation():
-    citation = random.choice(get_data(url=URL_CITATIONS))
+    data = get_data(url=URL_CITATIONS)
+    auteur = random.choice(list(data.keys()))
+    citation = random.choice(data[auteur])
     livre = citation.pop('œuvre')
-    citation = f"{citation['cit']}\n\n{citation['auteur']}"
+    citation = f"{citation['cit']}\n\n{auteur}"
     if livre:
         citation += f" - {livre}"
     return citation
 
 
 def get_stats():
-    data = get_data()
-    num_tags = len(data.keys())
-    num_entries = len(list(itertools.chain.from_iterable(data.values())))
-    stats = f"Nombre total : {num_entries} ; y compris {num_tags} tags\n\n"
-    for tag, val in data.items():
-        stats += f"{tag} : {len(val)}\n"
-    data = get_data(url=URL_CITATIONS)
-    stats += f"\nIl y a aussi {len(data)} citations ; {len({entry['auteur'] for entry in data})} auteur(s)"
+    stats = ''
+    for url, label in (
+        (URL_COLLOCATIONS, "Nombre total : {} ; y compris {} tag(s):\n\n"),
+        (URL_CITATIONS, "\nIl y a aussi {} citations ; {} auteur(s):\n\n"),
+    ):
+        data = get_data(url=url)
+        num_keys = len(data.keys())
+        num_entries = len(list(itertools.chain.from_iterable(data.values())))
+        stats += label.format(num_keys, num_entries)
+        for key, val in data.items():
+            stats += f"{key} : {len(val)}\n"
     return stats
 
 
