@@ -149,7 +149,6 @@ chercher à faire qqch.
 comme
 conduire à
 créer
-d'où ~ отсюда
 d'où [...] ~ отсюда
 dans le but de faire qqch. | Dans quel but ?
 de sorte que ~ cъ тѣмъ, чтобы
@@ -405,6 +404,7 @@ la donne ~ раскладъ
 le baratin ~ bullshit
 le strict nécessaire
 n'y est pas étranger ~ имеет к этому отношение, один из факторов
+ne pas poser un problème | ne pas être un souci
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 plus fort que ce que qqch. n'a jamais été ~ stronger than ever
@@ -641,6 +641,7 @@ mettre dans une parenthèse
 mouais ~ ну да
 on pourrait se dire que ~ one might think that
 or ~ однако
+pas de souci
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour autant que je me souvienne, ~ as far as I remember
 pour le moins ~ мягко говоря
@@ -809,6 +810,7 @@ nettement plus ~ significantly more
 petit à petit ~ понемножку
 peu ou prou ~ plus ou moins
 quel(le) que puisse être qqch. ~ каким/ой бы ни был/а...
+quelque peu ~ a little
 sans compter ceux qui ~ не считая тѣхъ
 un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй

@@ -583,10 +583,6 @@
       "trad": null
     },
     {
-      "mot": "d'où",
-      "trad": "отсюда"
-    },
-    {
       "mot": "d'où [...]",
       "trad": "отсюда"
     },
@@ -1553,6 +1549,10 @@
       "trad": "имеет к этому отношение, один из факторов"
     },
     {
+      "mot": "ne pas poser un problème | ne pas être un souci",
+      "trad": null
+    },
+    {
       "mot": "par-dessus la marché",
       "trad": "въ придачу"
     },
@@ -2449,6 +2449,10 @@
       "trad": "однако"
     },
     {
+      "mot": "pas de souci",
+      "trad": null
+    },
+    {
       "mot": "pour ainsi dire | c'est-à-dire | on va dire | à peu près",
       "trad": null
     },
@@ -3101,6 +3105,10 @@
     {
       "mot": "quel(le) que puisse être qqch.",
       "trad": "каким/ой бы ни был/а..."
+    },
+    {
+      "mot": "quelque peu",
+      "trad": "a little"
     },
     {
       "mot": "sans compter ceux qui",
