@@ -959,10 +959,6 @@
       "trad": "For lack of anything better, I make do with what I have."
     },
     {
-      "mot": "Qu’importe ce que...",
-      "trad": "Какая разница"
-    },
-    {
       "mot": "Tant mieux.",
       "trad": "Тѣмъ лучше."
     },
@@ -1093,10 +1089,6 @@
     {
       "mot": "pas tellement",
       "trad": "not so much"
-    },
-    {
-      "mot": "peu importe",
-      "trad": null
     },
     {
       "mot": "pour autant",
@@ -1795,6 +1787,36 @@
       "trad": null
     }
   ],
+  "importe": [
+        {
+      "mot": "L'important est de faire qqch.",
+      "trad": null
+    },
+    {
+      "mot": "Qu'importe ce que...",
+      "trad": "Какая разница"
+    },
+    {
+      "mot": "Qu'importe le reste.",
+      "trad": "The rest doesn't matter."
+    },
+    {
+      "mot": "Qu'à cela ne tienne !",
+      "trad": "Peu importe !, ça ne fait rien, ну и пусть"
+    },
+    {
+      "mot": "Que t'importe ?",
+      "trad": null
+    },
+    {
+      "mot": "peu importe",
+      "trad": null
+    },
+    {
+      "mot": "Ça m'importait.",
+      "trad": "Мнѣ это было важно."
+    }
+  ],
   "intros": [
     {
       "mot": "concernant qqch.",
@@ -2309,10 +2331,6 @@
       "trad": null
     },
     {
-      "mot": "Qu'à cela ne tienne !",
-      "trad": "Peu importe !, ça ne fait rien, ну и пусть"
-    },
-    {
       "mot": "Que dire d'autre?",
       "trad": null
     },
@@ -2779,10 +2797,6 @@
       "trad": null
     },
     {
-      "mot": "L'important est de faire qqch.",
-      "trad": null
-    },
-    {
       "mot": "L'inverse n'est pas moins vrai.",
       "trad": null
     },
@@ -2859,20 +2873,12 @@
       "trad": "What does it matter that..."
     },
     {
-      "mot": "Que t'importe ?",
-      "trad": null
-    },
-    {
       "mot": "Quel est l'objet dont on se sert pour faire qqch. ?",
       "trad": null
     },
     {
       "mot": "Quelle tuile ! C'était foutu !",
       "trad": "What a disaster! It was all over!"
-    },
-    {
-      "mot": "Qu’importe le reste.",
-      "trad": "The rest doesn't matter."
     },
     {
       "mot": "Raison de plus pour faire qqch.",
