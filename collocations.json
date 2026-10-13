@@ -909,6 +909,10 @@
       "trad": "by the same token"
     },
     {
+      "mot": "pour le coup",
+      "trad": "dans ce cas précis"
+    },
+    {
       "mot": "sur le coup",
       "trad": "at the time, on the spur of the moment"
     },
@@ -1185,6 +1189,10 @@
   ],
   "déplacements": [
     {
+      "mot": "Est-il temps d'y aller ?",
+      "trad": "Time to go?"
+    },
+    {
       "mot": "au sein de",
       "trad": "within"
     },
@@ -1317,6 +1325,10 @@
       "trad": "въ переносномъ смыслѣ"
     },
     {
+      "mot": "au fond",
+      "trad": "въ своей основѣ"
+    },
+    {
       "mot": "au passage",
       "trad": "между дѣломъ"
     },
@@ -1447,6 +1459,10 @@
     {
       "mot": "en déplacement",
       "trad": "въ дорогѣ"
+    },
+    {
+      "mot": "en filigrane",
+      "trad": "implicitly"
     },
     {
       "mot": "en flèche",
@@ -1788,7 +1804,7 @@
     }
   ],
   "importe": [
-        {
+    {
       "mot": "L'important est de faire qqch.",
       "trad": null
     },
@@ -2305,6 +2321,10 @@
     {
       "mot": "Partons de ces derniers.",
       "trad": "Начнемъ со вторыхъ."
+    },
+    {
+      "mot": "Pas tout à fait.",
+      "trad": "Не совсѣмъ."
     },
     {
       "mot": "Pourquoi tu dis ça ?",
@@ -2913,6 +2933,10 @@
       "trad": null
     },
     {
+      "mot": "Une commission d’enquête dotée de quelques moyens et d’un peu plus d’imagination qu’elles n’en ont montrée jusqu’ici aurait peut-être pu le savoir.",
+      "trad": null
+    },
+    {
       "mot": "Une tablette de chocolat ne serait pas de refus.",
       "trad": "I wouldn't say no to a chocolate bar."
     },
@@ -3345,6 +3369,10 @@
   ],
   "sentiments": [
     {
+      "mot": "Il y a quelque chose qui ne va pas chez moi.",
+      "trad": "Что-то со мной не такъ."
+    },
+    {
       "mot": "se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que",
       "trad": null
     },
@@ -3583,6 +3611,10 @@
     {
       "mot": "n'avoir plus le temps d'enseigner",
       "trad": null
+    },
+    {
+      "mot": "naguère",
+      "trad": "еще недавно <lit.>"
     },
     {
       "mot": "pendant ce temps",

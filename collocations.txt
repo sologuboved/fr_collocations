@@ -238,6 +238,7 @@ coup de poing [quasi-adjectif] ~ high impact
 d'un (seul) coup ~ рѣзко, однимъ махомъ, разомъ
 du coup ~ therefore
 du même coup ~ by the same token
+pour le coup ~ dans ce cas précis
 sur le coup ~ at the time, on the spur of the moment
 tout à coup ~ внезапно
 un coup de pouce ~ поддержка
@@ -252,7 +253,6 @@ C'est aussi quelque part un... ~ in a way
 Elle ne fait que faire qqch.
 Elle ne pouvait que faire X, à défaut de faire Y. ~ за невозможностью
 Faute de [mieux, je fais avec ce que j'ai.] ~ For lack of anything better, I make do with what I have.
-Qu’importe ce que... ~ Какая разница
 Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
 au lieu de ~ instead of
@@ -286,7 +286,6 @@ pas forcément ~ not necessarily
 pas mal ~ изрядно
 pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
-peu importe
 pour autant ~ however
 que ce soit qqch. ou qqch., ~ будь то ... или ...,
 que non pas ~ not at all
@@ -312,6 +311,7 @@ voire ~ and even
 à tous égards ~ in all respects
 
 DÉPLACEMENTS
+Est-il temps d'y aller ? ~ Time to go?
 au sein de ~ within
 comme ailleurs ~ as elsewhere
 côté à côté ~ side by side
@@ -348,6 +348,7 @@ assez sommaire en matière de confort
 au besoin ~ if necessary
 au choix
 au figuré ~ въ переносномъ смыслѣ
+au fond ~ въ своей основѣ
 au passage ~ между дѣломъ
 au premier regard, ~ на первый взглядъ
 au rabais ~ по скидкѣ
@@ -381,6 +382,7 @@ en concert avec ~ совмѣстно, заодно
 en courant ~ на бѣгу / бѣгомъ
 en direct ~ въ прямомъ эфирѣ
 en déplacement ~ въ дорогѣ
+en filigrane ~ implicitly
 en flèche ~ стремительно
 en grandeur nature ~ full-scale
 en harmonie | en phase avec
@@ -467,6 +469,15 @@ du même type
 figurer parmi les plus importants du monde
 une espèce de qqch. ~ своего рода
 être de plus en plus nombreux à faire qqch.
+
+IMPORTE
+L'important est de faire qqch.
+Qu'importe ce que... ~ Какая разница
+Qu'importe le reste. ~ The rest doesn't matter.
+Qu'à cela ne tienne ! ~ Peu importe !, ça ne fait rien, ну и пусть
+Que t'importe ?
+peu importe
+Ça m'importait. ~ Мнѣ это было важно.
 
 INTROS
 concernant qqch.
@@ -600,13 +611,13 @@ Ou bien, variante, ~ Или скорѣе, какъ варiантъ,
 Où en etions-nous ? ~ На чемъ мы остановились?
 Où en étions-nous ? ~ На чемъ мы остановились?
 Partons de ces derniers. ~ Начнемъ со вторыхъ.
+Pas tout à fait. ~ Не совсѣмъ.
 Pourquoi tu dis ça ? ~ Почему ты так думаешь?
 Pourtant. ~ И всё же.
 Qu'en est-il de... ~ Какъ насчетъ
 Qu'en penses-tu ? ~ How about that?
 Qu'est-ce que tu veux dire par là ?
 Qu'est-ce que ça veut dire ? Ça veut dire quoi ?
-Qu'à cela ne tienne ! ~ Peu importe !, ça ne fait rien, ну и пусть
 Que dire d'autre?
 S'agissant de l’Ancien Régime, il importe de...
 Sauf son / votre respect ~ With all due respect
@@ -725,7 +736,6 @@ Je suis coincée ici pour une semaine, autant en profiter ! ~ I'm stuck here for
 Je suis emballé. <fam.> ~ I am thrilled.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 Je voudrais te demander un service.
-L'important est de faire qqch.
 L'inverse n'est pas moins vrai.
 La faute à qqch. ~ It's all due to sth.
 La réponse ne va pas de soi. ~ The answer is not obvious.
@@ -745,10 +755,8 @@ Personne n'en a rien à faire de ces conneries. ~ Nobody gives a shit about this
 Place à la musique ! ~ Time for music!
 Pour nous, ce n'était pas rien. ~ For us, it was no small matter.
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
-Que t'importe ?
 Quel est l'objet dont on se sert pour faire qqch. ?
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
-Qu’importe le reste. ~ The rest doesn't matter.
 Raison de plus pour faire qqch.
 Ras-le-bol de l'état policier ! ~ хватитъ полицейщины
 Rien de tel ici. ~ Ничего подобнаго здѣсь.
@@ -757,6 +765,7 @@ Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely w
 Tout est permis.
 Tout fout le camp ! ~ Всё пропало!
 Tu as eu tort de ne pas participer aux élections.
+Une commission d’enquête dotée de quelques moyens et d’un peu plus d’imagination qu’elles n’en ont montrée jusqu’ici aurait peut-être pu le savoir.
 Une tablette de chocolat ne serait pas de refus. ~ I wouldn't say no to a chocolate bar.
 alors qu'ailleurs le processus de concentration n'a fait que débuter
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
@@ -871,8 +880,12 @@ vu que ~ given that
 à mon égard ~ по отношенію ко мнѣ
 
 SENTIMENTS
+Il y a quelque chose qui ne va pas chez moi. ~ Что-то со мной не такъ.
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
 se sentir + adjectif | ressentir / éprouver + nom | sentir que
+
+SYNONYMES
+doté de | muni de | pourvu de |fourni de | équipé de <-> démuni de | dépourvu de | privé de
 
 TEMPS
 (tout) à la fois
@@ -931,6 +944,7 @@ la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
 maintes fois ~ many times
 n'avoir plus le temps d'enseigner
+naguère ~ еще недавно <lit.>
 pendant ce temps ~ въ это время
 pendant que | comme | alors que
 pendant qu’il en est temps ~ пока еще есть время
