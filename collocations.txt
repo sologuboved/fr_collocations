@@ -69,6 +69,7 @@ bien évidemment
 bruyamment ~ шумно
 carrément ~ downright
 concrètement
+conjointement ~ совмѣстно
 conserver précieusement ~ бережно хранить
 considérablement
 convenablement ~ properly, reasonabley
@@ -237,7 +238,7 @@ après coup ~ after the fact
 coup de poing [quasi-adjectif] ~ high impact
 d'un (seul) coup ~ рѣзко, однимъ махомъ, разомъ
 du coup ~ therefore
-du même coup ~ by the same token
+du même coup ~ by the same token, заодно
 pour le coup ~ dans ce cas précis
 sur le coup ~ at the time, on the spur of the moment
 tout à coup ~ внезапно
@@ -407,6 +408,7 @@ le baratin ~ bullshit
 le strict nécessaire
 n'y est pas étranger ~ имеет к этому отношение, один из факторов
 ne pas poser un problème | ne pas être un souci
+par la même occasion ~ заодно
 par-dessus la marché ~ въ придачу
 perdre du temps à faire qqch.
 plus fort que ce que qqch. n'a jamais été ~ stronger than ever
@@ -810,6 +812,7 @@ Sur les plus de 9 000 films que compte la base de données, près de 57 %...
 [une chose] en moins ~ [одной вещью] меньше
 au total
 d'autant que ~ тѣм болѣе что
+de loin ~ by far
 de plus en plus
 de surcroît, ~ вдобавокъ
 en moyenne ~ on average
@@ -922,6 +925,7 @@ depuis belle lurette [fam.] ~ съ давнихъ поръ
 depuis des semaines ~ for weeks
 depuis le tout début ~ from the very beginning
 depuis longtemps
+depuis lors ~ since then
 depuis maintenant déjà 20 ans ~ вотъ уже 20 лѣтъ
 depuis tout ce temps-là ~ all this time
 du jour au lendemain ~ overnight
