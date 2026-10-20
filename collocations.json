@@ -255,6 +255,10 @@
       "trad": null
     },
     {
+      "mot": "aucunement",
+      "trad": "никоимъ образомъ"
+    },
+    {
       "mot": "autrement",
       "trad": "по-другому"
     },
@@ -941,19 +945,81 @@
       "trad": "every time"
     }
   ],
-  "divers": [
+  "déixis": [
     {
       "mot": ", à peu de chose près,",
       "trad": "практически"
     },
     {
-      "mot": "Après tout,",
-      "trad": "after all"
+      "mot": "Alors autant s’y mettre.",
+      "trad": "Might just as well get started."
     },
     {
       "mot": "C'est aussi quelque part un...",
       "trad": "in a way"
     },
+    {
+      "mot": "Ce n'est pas pour autant que | sans pour autant",
+      "trad": "that doesn't mean"
+    },
+    {
+      "mot": "Il est fatigué mais il travaille pour autant",
+      "trad": "He is tired, yet he continues to work."
+    },
+    {
+      "mot": "Je suis coincée ici pour une semaine, autant en profiter !",
+      "trad": "I'm stuck here for a week, might as well make the most of it!"
+    },
+    {
+      "mot": "Tant mieux.",
+      "trad": "Тѣмъ лучше."
+    },
+    {
+      "mot": "autant qqch. que qqch.",
+      "trad": "въ той же мѣрѣ ..., что и ..."
+    },
+    {
+      "mot": "avant tout",
+      "trad": "прежде всего"
+    },
+    {
+      "mot": "certains d'entre eux / certains parmi eux",
+      "trad": "нѣкоторые изъ нихъ"
+    },
+    {
+      "mot": "d'autant (plus) que",
+      "trad": "тѣмъ болѣе что"
+    },
+    {
+      "mot": "de même",
+      "trad": "аналогичнымъ образомъ"
+    },
+    {
+      "mot": "de même que",
+      "trad": "такъ же какъ"
+    },
+    {
+      "mot": "du moins",
+      "trad": "по крайней мѣрѣ"
+    },
+    {
+      "mot": "du sien",
+      "trad": "on one's own"
+    },
+    {
+      "mot": "en lui-même",
+      "trad": "само по себѣ"
+    },
+    {
+      "mot": "pour autant",
+      "trad": "however"
+    },
+    {
+      "mot": "pour autant que je me souvienne / puisse en juger,",
+      "trad": "as far as I remember / can judge"
+    }
+  ],
+  "divers": [
     {
       "mot": "Elle ne fait que faire qqch.",
       "trad": null
@@ -965,10 +1031,6 @@
     {
       "mot": "Faute de [mieux, je fais avec ce que j'ai.]",
       "trad": "For lack of anything better, I make do with what I have."
-    },
-    {
-      "mot": "Tant mieux.",
-      "trad": "Тѣмъ лучше."
     },
     {
       "mot": "[en demander] encore davantage",
@@ -987,52 +1049,20 @@
       "trad": "въ техникѣ лицевой глади"
     },
     {
-      "mot": "aucunement",
-      "trad": "pas du tout"
-    },
-    {
-      "mot": "avant tout",
-      "trad": "прежде всего"
-    },
-    {
       "mot": "bien entendu",
       "trad": null
-    },
-    {
-      "mot": "certains d'entre eux / certains parmi eux",
-      "trad": "нѣкоторые изъ нихъ"
     },
     {
       "mot": "d'ailleurs | au fait",
       "trad": "кстати говоря"
     },
     {
-      "mot": "d'autant (plus) que",
-      "trad": "тѣмъ болѣе что"
-    },
-    {
       "mot": "davantage les... que les...",
       "trad": "скорѣе ..., нежели ..."
     },
     {
-      "mot": "de même",
-      "trad": "аналогичнымъ образомъ"
-    },
-    {
-      "mot": "de même que",
-      "trad": "такъ же какъ"
-    },
-    {
       "mot": "de surcroît | de surplus",
       "trad": "болѣе того"
-    },
-    {
-      "mot": "du moins",
-      "trad": "по крайней мѣрѣ"
-    },
-    {
-      "mot": "du sien",
-      "trad": "on one's own"
     },
     {
       "mot": "en contrepartie",
@@ -1045,14 +1075,6 @@
     {
       "mot": "en guise de qqch",
       "trad": "by way of"
-    },
-    {
-      "mot": "en lui-même",
-      "trad": "само по себѣ"
-    },
-    {
-      "mot": "en quelque sorte",
-      "trad": "въ своемъ родѣ"
     },
     {
       "mot": "en règle générale",
@@ -1097,10 +1119,6 @@
     {
       "mot": "pas tellement",
       "trad": "not so much"
-    },
-    {
-      "mot": "pour autant",
-      "trad": "however"
     },
     {
       "mot": "que ce soit qqch. ou qqch.,",
@@ -1921,6 +1939,10 @@
       "trad": "въ любомъ случаѣ"
     },
     {
+      "mot": "en quelque sorte",
+      "trad": "въ своемъ родѣ"
+    },
+    {
       "mot": "valider de façon ferme",
       "trad": null
     }
@@ -2391,6 +2413,10 @@
       "trad": "Ты издѣваешься?"
     },
     {
+      "mot": "après tout,",
+      "trad": "after all"
+    },
+    {
       "mot": "au bout du compte",
       "trad": "въ конечномъ счетѣ"
     },
@@ -2503,10 +2529,6 @@
       "trad": null
     },
     {
-      "mot": "pour autant que je me souvienne,",
-      "trad": "as far as I remember"
-    },
-    {
       "mot": "pour le moins",
       "trad": "мягко говоря"
     },
@@ -2605,10 +2627,6 @@
       "trad": "За мной должокъ."
     },
     {
-      "mot": "Alors autant s’y mettre.",
-      "trad": "Might just as well get started."
-    },
-    {
       "mot": "Bisque bisque rage.",
       "trad": null
     },
@@ -2663,10 +2681,6 @@
     {
       "mot": "Comment se déroule votre travail ?",
       "trad": "How is your work going?"
-    },
-    {
-      "mot": "Comment ça a pu arriver ?",
-      "trad": null
     },
     {
       "mot": "Comment ça se fait ?",
@@ -2807,10 +2821,6 @@
     {
       "mot": "Je ne sais pas trop.",
       "trad": null
-    },
-    {
-      "mot": "Je suis coincée ici pour une semaine, autant en profiter !",
-      "trad": "I'm stuck here for a week, might as well make the most of it!"
     },
     {
       "mot": "Je suis emballé. <fam.>",
@@ -3105,10 +3115,6 @@
       "trad": null
     },
     {
-      "mot": "d'autant que",
-      "trad": "тѣм болѣе что"
-    },
-    {
       "mot": "de loin",
       "trad": "by far"
     },
@@ -3187,15 +3193,7 @@
       "trad": "apart from"
     },
     {
-      "mot": "Ce n'est pas pour autant que | sans pour autant",
-      "trad": "that doesn't mean"
-    },
-    {
       "mot": "Ce qui fait la différence avec toi, c'est que moi, au moins, je...",
-      "trad": null
-    },
-    {
-      "mot": "Il est fatigué mais il travaille pour autant",
       "trad": null
     },
     {
@@ -3231,10 +3229,6 @@
       "trad": "with regard to"
     },
     {
-      "mot": "autant qqch. que qqch.",
-      "trad": "въ той же мѣрѣ ..., что и ..."
-    },
-    {
       "mot": "aux yeux de qqn. | à travers les yeux de qqn.",
       "trad": null
     },
@@ -3257,10 +3251,6 @@
     {
       "mot": "convenir à qqch.",
       "trad": "be associated with"
-    },
-    {
-      "mot": "d'autant plus que",
-      "trad": "тѣмъ болѣе что"
     },
     {
       "mot": "dans le cadre de",
@@ -3778,6 +3768,10 @@
     }
   ],
   "événements": [
+    {
+      "mot": "Comment ça a pu arriver ?",
+      "trad": null
+    },
     {
       "mot": "Qu'est-ce qui est arrivé ?",
       "trad": null
