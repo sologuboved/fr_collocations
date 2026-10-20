@@ -25,6 +25,7 @@ donner le meilleur de lui-même ~ do one's best
 faire de la peine ~ hurt one's feelings
 faire de son mieux ~ do one's best
 faire en sorte que qqch. se passe ~ assure that
+faire mieux de faire qqch.
 faire preuve de ~ демонстрировать
 faire semblant de | faire mine de ~ притворяться
 forcer qqn. à faire qqch.
@@ -64,6 +65,7 @@ Je crois fermement que
 [la présence de cathares en Navarre n’est] aucunement [avérée]
 [se consacrer] uniquement [à]
 apparemment
+aucunement ~ никоимъ образомъ
 autrement ~ по-другому
 bien évidemment
 bruyamment ~ шумно
@@ -90,6 +92,7 @@ froidement ~ холодно
 fâcheusement ~ annoyingly
 gratuitement ~ безплатно
 infiniment ~ безконечно
+inlassablement ~ tirelessly
 joliment ~ beautifully
 lentement et sûrement
 librement
@@ -99,9 +102,11 @@ majoritairement ~ по большей части
 modestement ~ скромно
 notamment ~ въ частности
 notoirement ~ notoriously
+ordinairement
 outre mesure ~ ~ excessivement
 paisiblement
 pleinement ~ полностью
+pratiquement
 prioritairement ~ преимущественно
 promptement ~ promptly
 prématurément
@@ -137,6 +142,7 @@ C'est que [indicatif] ~ this is because
 Il en résulte de... ~ This has resulted in
 Quelle est la cause | l'origine | la raison de ... ?
 Résultat, ~ Въ рѣзультатѣ
+aboutir à des spéculations prématurées ~ привести
 afin de | en vue de | pour
 afin que | pour que
 ainsi
@@ -173,6 +179,7 @@ résulter de
 s'efforcer de faire qqch. ~ стремиться, стараться
 s'expliquer par
 venir | provenir de
+viser qqn. ~ быть направленным на кого-нибудь
 viser à faire qqch.
 à cause de
 à l'intention de
@@ -230,7 +237,7 @@ COOPÉRATION
 adhérer à | s'inscrire à | rejoindre | intégrer
 coopérer avec | être solidaire avec | collaborer
 participer à | prendre part à | faire partie de
-s'engager dans | s'impliquer dans | s'investir dans
+s'engager dans | s'impliquer dans | s'investir dans | se livrer à
 s'occuper de | assister | aider | soutenir | appuyer | secourir
 
 COUPS
@@ -248,34 +255,21 @@ un coup médiatique ~ media buzz
 à tous les coups ~ every time
 
 DIVERS
-, à peu de chose près, ~ практически
-Après tout, ~ after all
-C'est aussi quelque part un... ~ in a way
 Elle ne fait que faire qqch.
 Elle ne pouvait que faire X, à défaut de faire Y. ~ за невозможностью
 Faute de [mieux, je fais avec ce que j'ai.] ~ For lack of anything better, I make do with what I have.
-Tant mieux. ~ Тѣмъ лучше.
 [en demander] encore davantage ~ even more
+au hasard ~ наугадъ
 au lieu de ~ instead of
 au mieux ~ at best
 au point jersey ~ въ техникѣ лицевой глади
-aucunement ~ pas du tout
-avant tout ~ прежде всего
 bien entendu
-certains d'entre eux / certains parmi eux ~ нѣкоторые изъ нихъ
 d'ailleurs | au fait ~ кстати говоря
-d'autant (plus) que ~ тѣмъ болѣе что
 davantage les... que les... ~ скорѣе ..., нежели ...
-de même ~ аналогичнымъ образомъ
-de même que ~ такъ же какъ
 de surcroît | de surplus ~ болѣе того
-du moins ~ по крайней мѣрѣ
-du sien ~ on one's own
 en contrepartie ~ взамѣнъ
 en gros ~ в цѣлом, грубо говоря
 en guise de qqch ~ by way of
-en lui-même ~ само по себѣ
-en quelque sorte ~ въ своемъ родѣ
 en règle générale ~ as a general rule
 et tout à l'avenant ~ and so on
 guère
@@ -287,13 +281,10 @@ pas forcément ~ not necessarily
 pas mal ~ изрядно
 pas moyen (de faire qqch.) ~ no way
 pas tellement ~ not so much
-pour autant ~ however
 que ce soit qqch. ou qqch., ~ будь то ... или ...,
 que non pas ~ not at all
 qui me / lui / leur est / sont propre(s) ~ свой собственный
 qui que se soit ~ кому бы то ни было
-quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
-quoi que ce soit ~ что бы то ни было
 sans doute
 sans quoi ~ иначе, въ противномъ случаѣ
 surtout ~ above all
@@ -310,6 +301,33 @@ voire ~ and even
 à répétition ~ повторяющійся
 à titre de ~ въ знакъ
 à tous égards ~ in all respects
+
+DÉIXIS
+, à peu de chose près, ~ практически
+Alors autant s’y mettre. ~ Might just as well get started.
+C'est aussi quelque part un... ~ in a way
+Ce n'est pas autant qqch. que qqch.
+Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
+Il est fatigué mais il travaille pour autant ~ He is tired, yet he continues to work.
+Je suis coincée ici pour une semaine, autant en profiter ! ~ I'm stuck here for a week, might as well make the most of it!
+Tant mieux. ~ Тѣмъ лучше.
+autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
+avant tout ~ прежде всего
+certains d'entre eux / certains parmi eux ~ нѣкоторые изъ нихъ
+d'autant (plus) que ~ тѣмъ болѣе что
+de même ~ аналогичнымъ образомъ
+de même que ~ такъ же какъ
+du moins ~ по крайней мѣрѣ
+du sien ~ on one's own
+en lui-même ~ само по себѣ
+pour autant ~ however
+pour autant que je me souvienne / puisse en juger, ~ as far as I remember / can judge
+puis, peu à peu
+quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
+quoi que ce soit ~ что бы то ни было
+un réseau tel que celui-ci ~ подобный, такой, какъ этотъ
+vas-y ~ давай
+à peu près ça | un truc du genre
 
 DÉPLACEMENTS
 Est-il temps d'y aller ? ~ Time to go?
@@ -364,6 +382,7 @@ comme je l'entends ~ какъ я считаю нужнымъ
 connaître / savoir qqch. sur le bout des doigts ~ знать какъ свои пять пальцев
 contre son gré | à contre-cœur
 d'elle-même ~ on her own
+d'égal à l'égal ~ на равныхъ
 dans l'ordre ~ по порядку
 dans la doute ~ just to be safe
 de l'extérieur ~ на видъ
@@ -371,6 +390,7 @@ de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
 de vive voix <-> par écrit
+deux hommes normaux par la taille et l’aspect
 donner d'ailleurs raison
 du reste ~ къ тому же
 en activité ~ дѣйствующій
@@ -393,6 +413,7 @@ en retour
 en réalité | en vérité
 en secret | en coulisse
 en sécurité ~ въ безопасности
+en temps réel
 en vrac
 en échange de
 faire exprès de faire qqch.
@@ -431,6 +452,7 @@ tant bien que mal ~ худо-бѣдно
 tant pis ~ что подѣлаешь
 terminer au plus vite ~ закончить поскорѣе
 un mal pour un bien ~ нѣтъ худа безъ добра
+un pas après l'autre ~ шагъ за шагомъ
 une broutille | un bibelot | une babiole ~ пустякъ
 utile en soi ~ самоцѣнный
 voyer tout en noir
@@ -478,6 +500,7 @@ Qu'importe ce que... ~ Какая разница
 Qu'importe le reste. ~ The rest doesn't matter.
 Qu'à cela ne tienne ! ~ Peu importe !, ça ne fait rien, ну и пусть
 Que t'importe ?
+mais qu'importe
 peu importe
 Ça m'importait. ~ Мнѣ это было важно.
 
@@ -503,6 +526,7 @@ de façon peu assidue ~ admittedly
 de la même manière
 de plusieurs manières ~ разными способами
 de toute manière, | de toute façon, ~ въ любомъ случаѣ
+en quelque sorte ~ въ своемъ родѣ
 valider de façon ferme
 
 MISES
@@ -518,6 +542,8 @@ mettre en relation ~ связывать между собой
 mettre en sourdine <-> en exergue ~ to downplay <-> to highlight
 mettre en œuvre
 mettre fin à ~ положить конецъ
+mettre les connaissances en commun
+mettre qqch. à distance
 mettre qqn. au courant
 mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
@@ -528,6 +554,7 @@ mettre à profit ~ take advantage
 ne pas savoir mettre les formes ~ смягчать углы
 se mettre en tête ~ пришло въ голову
 se remettre en question ~ to question oneself
+être / mettre aux prises avec qqch.
 
 MÉMOIRE
 Désolé, c'est un oubli.
@@ -600,6 +627,7 @@ Il s'est avéré que...
 J'avoue que...
 J'en suis persuadée | C'est ma conviction
 Je dois avouer que ~ Долженъ признаться
+Je ne peux parler que pour moi-même.
 Je ne suis pas certaine de comprendre.
 Je ne veux pas te vexer, mais non merci.
 Je te signale que moi, je... ~ Заметь, что я...
@@ -628,12 +656,14 @@ Suis-je bête ! Cela m'avait échappé.
 Tout court. ~ И всё.
 Tu parles ! ~ Ну конечно.
 Tu te fous de moi ? ~ Ты издѣваешься?
+après tout, ~ after all
 au bout du compte ~ въ конечномъ счетѣ
 au premier regard ~ на первый взглядъ
 au sens de ~ въ смыслѣ
 au sens propre / figuré
 au sens strict du terme
 autrement dit ~ иными словами
+ce qu’il y a derrière l’orthoténie ~ стоитъ за
 cependant
 certainement | certes
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
@@ -656,7 +686,6 @@ on pourrait se dire que ~ one might think that
 or ~ однако
 pas de souci
 pour ainsi dire | c'est-à-dire | on va dire | à peu près
-pour autant que je me souvienne, ~ as far as I remember
 pour le moins ~ мягко говоря
 pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
@@ -670,6 +699,7 @@ vu que ça approche ~ учитывая, что уже скоро
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
+Ça n'a pas de sens.
 Ça n'a pas de sens. | Ça ne veut rien dire.
 Ça n'a rien à voir avec ce que... ~ This has nothing to do with...
 Ça ne vous regarde pas ! ~ Васъ это не касается!
@@ -677,13 +707,13 @@ vu que ça approche ~ учитывая, что уже скоро
 Ça y est ! ~ Наконецъ-то.
 à ce que je sache | à ma connaissance ~ afaik
 à commencer par
+à mon grand regret
 à proprement parler | proprement dit(e)
 à vrai dire ~ по правдѣ говоря
 
 PHRASES
 (Il) faut ce qu'il faut ~ надо - значитъ надо
 - Je te revaudrai ça. - J'espère bien ! ~ За мной должокъ.
-Alors autant s’y mettre. ~ Might just as well get started.
 Bisque bisque rage.
 C'est au tour de qqn. à faire qqch.
 C'est comme ça et pas autrement !
@@ -698,7 +728,6 @@ Cela peut valoir la peine. ~ Можетъ стоить того.
 Cela quels que soient nos choix d'activités ou de modes de vie. ~ Какими бы ни были...
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
-Comment ça a pu arriver ?
 Comment ça se fait ? ~ How come?
 D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
@@ -734,7 +763,6 @@ Je ne l'avais pas vu depuis longtemps ; qu'est-ce qu'il a vieilli ! Il fait dix 
 Je ne m'en suis pas rendu compte.
 Je ne m'y attendais pas.
 Je ne sais pas trop.
-Je suis coincée ici pour une semaine, autant en profiter ! ~ I'm stuck here for a week, might as well make the most of it!
 Je suis emballé. <fam.> ~ I am thrilled.
 Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 Je voudrais te demander un service.
@@ -811,7 +839,6 @@ Sur les plus de 9 000 films que compte la base de données, près de 57 %...
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
 au total
-d'autant que ~ тѣм болѣе что
 de loin ~ by far
 de plus en plus
 de surcroît, ~ вдобавокъ
@@ -833,9 +860,7 @@ un sur deux ~ каждый второй
 
 RAPPORT
 (mis) à part lui / eux / qqch. ~ apart from
-Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
 Ce qui fait la différence avec toi, c'est que moi, au moins, je...
-Il est fatigué mais il travaille pour autant
 Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи съ ...
 [très inattendu] de sa part ~ съ его стороны
 ainsi que ~ as well as
@@ -844,14 +869,12 @@ au détriment de ~ at the expense of
 au moyen de | à l'aide de
 au même titre que qqch. / qn. ~ in the same way as
 au regard de ~ with regard to
-autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
 aux yeux de qqn. | à travers les yeux de qqn.
 avoir pour avantage de faire qqch.
 comparé à
 comporter | comprendre | inclure qqch. ~ включать въ себя
 consister à ~ consist in
 convenir à qqch. ~ be associated with
-d'autant plus que ~ тѣмъ болѣе что
 dans le cadre de
 demander ce qu'il en était de la France ~ какъ съ этимъ во Франціи
 du côté de qqch. ~ въ аспектѣ
@@ -908,11 +931,13 @@ au fil du temps / de l'année ~ съ теченіемъ времени / въ т
 au fur et à mesure que | tant que | aussi longtemps que ~ по мѣрѣ
 au jour le jour ~ day by day
 au plus tôt ~ самое раннее
+auparavant
 aussitôt ~ right away
 autour de qqch. ~ въ районѣ (событія)
 avant même que le réveil ne sonne, ~ еще до того какъ прозвонилъ будильникъ,
 avant qcch./de faire qqch./que | en attendant de/que | le temps de/que
 avec le temps
+bien plus tard
 ces derniers temps ~ въ послѣднее время
 d'emblée ~ съ перваго раза, тутъ же
 d'ici à 10 ans
@@ -957,6 +982,7 @@ plus que jamais
 ponctuellement, régulièrement ou de façon permanente ~ на разовой, регулярной или постоянной основѣ
 pour l'instant | pour le moment
 pour la première fois
+pour l’instant
 pour une fois ~ for once
 préalablement | auparavant | antérieurement
 qqn. de toujours ~ постоянный, вѣчный
@@ -968,6 +994,7 @@ tout à l’heure ~ just now
 toute de suite ~ immediately
 tôt ou tard,
 un jour
+une bonne fois ~ разъ и навсегда
 une bonne fois pour toutes ~ once and for all
 une fois [arrivé à destination,]
 une énième fois ~ въ сотый разъ
@@ -987,8 +1014,10 @@ une énième fois ~ въ сотый разъ
 à plusieurs reprises
 
 ÉVÉNEMENTS
+Comment ça a pu arriver ?
 Qu'est-ce qui est arrivé ?
 Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?
+Vous est-il déjà arrivé de faire qqch. ?
 avoir lieu
 débuter
 décliner

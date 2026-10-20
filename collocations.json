@@ -105,6 +105,10 @@
       "trad": "assure that"
     },
     {
+      "mot": "faire mieux de faire qqch.",
+      "trad": null
+    },
+    {
       "mot": "faire preuve de",
       "trad": "демонстрировать"
     },
@@ -363,6 +367,10 @@
       "trad": "безконечно"
     },
     {
+      "mot": "inlassablement",
+      "trad": "tirelessly"
+    },
+    {
       "mot": "joliment",
       "trad": "beautifully"
     },
@@ -399,6 +407,10 @@
       "trad": "notoriously"
     },
     {
+      "mot": "ordinairement",
+      "trad": null
+    },
+    {
       "mot": "outre mesure",
       "trad": "~ excessivement"
     },
@@ -409,6 +421,10 @@
     {
       "mot": "pleinement",
       "trad": "полностью"
+    },
+    {
+      "mot": "pratiquement",
+      "trad": null
     },
     {
       "mot": "prioritairement",
@@ -537,6 +553,10 @@
     {
       "mot": "Résultat,",
       "trad": "Въ рѣзультатѣ"
+    },
+    {
+      "mot": "aboutir à des spéculations prématurées",
+      "trad": "привести"
     },
     {
       "mot": "afin de | en vue de | pour",
@@ -681,6 +701,10 @@
     {
       "mot": "venir | provenir de",
       "trad": null
+    },
+    {
+      "mot": "viser qqn.",
+      "trad": "быть направленным на кого-нибудь"
     },
     {
       "mot": "viser à faire qqch.",
@@ -887,7 +911,7 @@
       "trad": null
     },
     {
-      "mot": "s'engager dans | s'impliquer dans | s'investir dans",
+      "mot": "s'engager dans | s'impliquer dans | s'investir dans | se livrer à",
       "trad": null
     },
     {
@@ -945,80 +969,6 @@
       "trad": "every time"
     }
   ],
-  "déixis": [
-    {
-      "mot": ", à peu de chose près,",
-      "trad": "практически"
-    },
-    {
-      "mot": "Alors autant s’y mettre.",
-      "trad": "Might just as well get started."
-    },
-    {
-      "mot": "C'est aussi quelque part un...",
-      "trad": "in a way"
-    },
-    {
-      "mot": "Ce n'est pas pour autant que | sans pour autant",
-      "trad": "that doesn't mean"
-    },
-    {
-      "mot": "Il est fatigué mais il travaille pour autant",
-      "trad": "He is tired, yet he continues to work."
-    },
-    {
-      "mot": "Je suis coincée ici pour une semaine, autant en profiter !",
-      "trad": "I'm stuck here for a week, might as well make the most of it!"
-    },
-    {
-      "mot": "Tant mieux.",
-      "trad": "Тѣмъ лучше."
-    },
-    {
-      "mot": "autant qqch. que qqch.",
-      "trad": "въ той же мѣрѣ ..., что и ..."
-    },
-    {
-      "mot": "avant tout",
-      "trad": "прежде всего"
-    },
-    {
-      "mot": "certains d'entre eux / certains parmi eux",
-      "trad": "нѣкоторые изъ нихъ"
-    },
-    {
-      "mot": "d'autant (plus) que",
-      "trad": "тѣмъ болѣе что"
-    },
-    {
-      "mot": "de même",
-      "trad": "аналогичнымъ образомъ"
-    },
-    {
-      "mot": "de même que",
-      "trad": "такъ же какъ"
-    },
-    {
-      "mot": "du moins",
-      "trad": "по крайней мѣрѣ"
-    },
-    {
-      "mot": "du sien",
-      "trad": "on one's own"
-    },
-    {
-      "mot": "en lui-même",
-      "trad": "само по себѣ"
-    },
-    {
-      "mot": "pour autant",
-      "trad": "however"
-    },
-    {
-      "mot": "pour autant que je me souvienne / puisse en juger,",
-      "trad": "as far as I remember / can judge"
-    }
-  ],
   "divers": [
     {
       "mot": "Elle ne fait que faire qqch.",
@@ -1035,6 +985,10 @@
     {
       "mot": "[en demander] encore davantage",
       "trad": "even more"
+    },
+    {
+      "mot": "au hasard",
+      "trad": "наугадъ"
     },
     {
       "mot": "au lieu de",
@@ -1137,14 +1091,6 @@
       "trad": "кому бы то ни было"
     },
     {
-      "mot": "quitte à faire qqch.",
-      "trad": "even if it means to, at the risk of, разъ ужъ"
-    },
-    {
-      "mot": "quoi que ce soit",
-      "trad": "что бы то ни было"
-    },
-    {
       "mot": "sans doute",
       "trad": null
     },
@@ -1207,6 +1153,108 @@
     {
       "mot": "à tous égards",
       "trad": "in all respects"
+    }
+  ],
+  "déixis": [
+    {
+      "mot": ", à peu de chose près,",
+      "trad": "практически"
+    },
+    {
+      "mot": "Alors autant s’y mettre.",
+      "trad": "Might just as well get started."
+    },
+    {
+      "mot": "C'est aussi quelque part un...",
+      "trad": "in a way"
+    },
+    {
+      "mot": "Ce n'est pas autant qqch. que qqch.",
+      "trad": null
+    },
+    {
+      "mot": "Ce n'est pas pour autant que | sans pour autant",
+      "trad": "that doesn't mean"
+    },
+    {
+      "mot": "Il est fatigué mais il travaille pour autant",
+      "trad": "He is tired, yet he continues to work."
+    },
+    {
+      "mot": "Je suis coincée ici pour une semaine, autant en profiter !",
+      "trad": "I'm stuck here for a week, might as well make the most of it!"
+    },
+    {
+      "mot": "Tant mieux.",
+      "trad": "Тѣмъ лучше."
+    },
+    {
+      "mot": "autant qqch. que qqch.",
+      "trad": "въ той же мѣрѣ ..., что и ..."
+    },
+    {
+      "mot": "avant tout",
+      "trad": "прежде всего"
+    },
+    {
+      "mot": "certains d'entre eux / certains parmi eux",
+      "trad": "нѣкоторые изъ нихъ"
+    },
+    {
+      "mot": "d'autant (plus) que",
+      "trad": "тѣмъ болѣе что"
+    },
+    {
+      "mot": "de même",
+      "trad": "аналогичнымъ образомъ"
+    },
+    {
+      "mot": "de même que",
+      "trad": "такъ же какъ"
+    },
+    {
+      "mot": "du moins",
+      "trad": "по крайней мѣрѣ"
+    },
+    {
+      "mot": "du sien",
+      "trad": "on one's own"
+    },
+    {
+      "mot": "en lui-même",
+      "trad": "само по себѣ"
+    },
+    {
+      "mot": "pour autant",
+      "trad": "however"
+    },
+    {
+      "mot": "pour autant que je me souvienne / puisse en juger,",
+      "trad": "as far as I remember / can judge"
+    },
+    {
+      "mot": "puis, peu à peu",
+      "trad": null
+    },
+    {
+      "mot": "quitte à faire qqch.",
+      "trad": "even if it means to, at the risk of, разъ ужъ"
+    },
+    {
+      "mot": "quoi que ce soit",
+      "trad": "что бы то ни было"
+    },
+    {
+      "mot": "un réseau tel que celui-ci",
+      "trad": "подобный, такой, какъ этотъ"
+    },
+    {
+      "mot": "vas-y",
+      "trad": "давай"
+    },
+    {
+      "mot": "à peu près ça | un truc du genre",
+      "trad": null
     }
   ],
   "déplacements": [
@@ -1407,6 +1455,10 @@
       "trad": "on her own"
     },
     {
+      "mot": "d'égal à l'égal",
+      "trad": "на равныхъ"
+    },
+    {
       "mot": "dans l'ordre",
       "trad": "по порядку"
     },
@@ -1432,6 +1484,10 @@
     },
     {
       "mot": "de vive voix <-> par écrit",
+      "trad": null
+    },
+    {
+      "mot": "deux hommes normaux par la taille et l’aspect",
       "trad": null
     },
     {
@@ -1521,6 +1577,10 @@
     {
       "mot": "en sécurité",
       "trad": "въ безопасности"
+    },
+    {
+      "mot": "en temps réel",
+      "trad": null
     },
     {
       "mot": "en vrac",
@@ -1673,6 +1733,10 @@
     {
       "mot": "un mal pour un bien",
       "trad": "нѣтъ худа безъ добра"
+    },
+    {
+      "mot": "un pas après l'autre",
+      "trad": "шагъ за шагомъ"
     },
     {
       "mot": "une broutille | un bibelot | une babiole",
@@ -1851,6 +1915,10 @@
       "trad": null
     },
     {
+      "mot": "mais qu'importe",
+      "trad": null
+    },
+    {
       "mot": "peu importe",
       "trad": null
     },
@@ -1997,6 +2065,14 @@
       "trad": "положить конецъ"
     },
     {
+      "mot": "mettre les connaissances en commun",
+      "trad": null
+    },
+    {
+      "mot": "mettre qqch. à distance",
+      "trad": null
+    },
+    {
       "mot": "mettre qqn. au courant",
       "trad": null
     },
@@ -2035,6 +2111,10 @@
     {
       "mot": "se remettre en question",
       "trad": "to question oneself"
+    },
+    {
+      "mot": "être / mettre aux prises avec qqch.",
+      "trad": null
     }
   ],
   "mémoire": [
@@ -2301,6 +2381,10 @@
       "trad": "Долженъ признаться"
     },
     {
+      "mot": "Je ne peux parler que pour moi-même.",
+      "trad": null
+    },
+    {
       "mot": "Je ne suis pas certaine de comprendre.",
       "trad": null
     },
@@ -2439,6 +2523,10 @@
     {
       "mot": "autrement dit",
       "trad": "иными словами"
+    },
+    {
+      "mot": "ce qu’il y a derrière l’orthoténie",
+      "trad": "стоитъ за"
     },
     {
       "mot": "cependant",
@@ -2581,6 +2669,10 @@
       "trad": "Вот это да!"
     },
     {
+      "mot": "Ça n'a pas de sens.",
+      "trad": null
+    },
+    {
       "mot": "Ça n'a pas de sens. | Ça ne veut rien dire.",
       "trad": null
     },
@@ -2606,6 +2698,10 @@
     },
     {
       "mot": "à commencer par",
+      "trad": null
+    },
+    {
+      "mot": "à mon grand regret",
       "trad": null
     },
     {
@@ -3459,6 +3555,10 @@
       "trad": "самое раннее"
     },
     {
+      "mot": "auparavant",
+      "trad": null
+    },
+    {
       "mot": "aussitôt",
       "trad": "right away"
     },
@@ -3476,6 +3576,10 @@
     },
     {
       "mot": "avec le temps",
+      "trad": null
+    },
+    {
+      "mot": "bien plus tard",
       "trad": null
     },
     {
@@ -3655,6 +3759,10 @@
       "trad": null
     },
     {
+      "mot": "pour l’instant",
+      "trad": null
+    },
+    {
       "mot": "pour une fois",
       "trad": "for once"
     },
@@ -3697,6 +3805,10 @@
     {
       "mot": "un jour",
       "trad": null
+    },
+    {
+      "mot": "une bonne fois",
+      "trad": "разъ и навсегда"
     },
     {
       "mot": "une bonne fois pour toutes",
@@ -3778,6 +3890,10 @@
     },
     {
       "mot": "Qu'est-ce qui se passe ? | Qu'est-ce qui s'est passé ?",
+      "trad": null
+    },
+    {
+      "mot": "Vous est-il déjà arrivé de faire qqch. ?",
       "trad": null
     },
     {
