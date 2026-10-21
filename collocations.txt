@@ -27,6 +27,7 @@ faire de son mieux ~ do one's best
 faire en sorte que qqch. se passe ~ assure that
 faire mieux de faire qqch.
 faire preuve de ~ демонстрировать
+faire semblant de faire qqch.
 faire semblant de | faire mine de ~ притворяться
 forcer qqn. à faire qqch.
 jouer l'offusqué ~ изображать возмущеніе, оскорблённость
@@ -37,6 +38,7 @@ peiner à faire qqch. ~ struggle to
 pour te changer les idées ~ чтобы тебѣ развѣяться
 pousser qqn. à faire qqch. ~ drive smb. to do sth.
 pouvoir faire qqch. rien qu'en faisant qqch. ~ be able to do sth.just by doing sth.
+pretendre faire qqch.
 prévoir de | compter faire qqch. ~ планировать
 qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
 renoncer à qqch. ~ отказаться отъ чего-либо
@@ -56,6 +58,7 @@ y aller fort ~ перегибать палку
 être confronté à qqch. ~ столкнуться
 être confronté à | faire face à ~ столкнуться
 être en train de faire qqch.
+être forcé de faire qqch. ~ have to
 être sur le point de faire qqch.
 
 ADVERBES
@@ -83,6 +86,7 @@ désespérément ~ hopelessly
 effectivement ~ въ самомъ дѣлѣ, фактически
 empiriquement
 en apparence ~ внѣшне
+en hâte ~ поспѣшно
 exagérément ~ exaggeratedly
 explicitement ~ explicitely
 financièrement
@@ -109,12 +113,14 @@ pleinement ~ полностью
 pratiquement
 prioritairement ~ преимущественно
 promptement ~ promptly
+provisoirement
 prématurément
 quasiment ~ практически, почти что
 spécialement
 suffisamment
 systématiquement
 techniquement
+textuellement ~ verbatim, буквально
 typiquement
 vachement ~ frigging, bloody, beastly
 visiblement ~ явно
@@ -163,6 +169,7 @@ des conséquences | effets | suites
 developper
 en raison de
 entraîner
+et pour cause ! ~ and for a good reason
 favoriser ~ способствовать
 grâce à
 occasionner
@@ -320,6 +327,7 @@ de même que ~ такъ же какъ
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
 en lui-même ~ само по себѣ
+et ainsi de suite ~ and so on
 pour autant ~ however
 pour autant que je me souvienne / puisse en juger, ~ as far as I remember / can judge
 puis, peu à peu
@@ -327,6 +335,7 @@ quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
 quoi que ce soit ~ что бы то ни было
 un réseau tel que celui-ci ~ подобный, такой, какъ этотъ
 vas-y ~ давай
+Ça ne fait rien. | Ça ne sert à rien. ~ Это безполезно.
 à peu près ça | un truc du genre
 
 DÉPLACEMENTS
@@ -335,12 +344,16 @@ au sein de ~ within
 comme ailleurs ~ as elsewhere
 côté à côté ~ side by side
 d'en face ~ across the street
+dans le sens (inverse) des aiguilles d'une montre
+en chemin ~ по пути
 en contrebas ~ там внизу
 en route ~ по дорогѣ
 hors d’atteinte pour qqn. ~ внѣ досягаемости
 par ici ~ this way
+s'arrêter sur place ~ остановиться на мѣстѣ
 se mettre en route ~ отправиться въ путь
 sur la route ~ по дорогѣ
+tourner qqch. de six degrés ~ повернуть на 6 градусовъ
 tout autour de toi
 travailler / étudier dans ce lieu
 un peu partout ~ just about everywhere
@@ -366,12 +379,14 @@ aller se faire foutre ~ go fuck oneself
 assez sommaire en matière de confort
 au besoin ~ if necessary
 au choix
+au défi ~ на споръ
 au figuré ~ въ переносномъ смыслѣ
 au fond ~ въ своей основѣ
 au passage ~ между дѣломъ
 au premier regard, ~ на первый взглядъ
 au rabais ~ по скидкѣ
 au ralenti ~ въ замедленной съемкѣ
+avec force détail ~ во всѣхъ подробностяхъ
 avec le recul ~ with hindsight, in retrospect
 bel et bien
 bon débarras ~ good riddance
@@ -389,6 +404,7 @@ de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
+de métier ~ по профессіи, профессіональный
 de vive voix <-> par écrit
 deux hommes normaux par la taille et l’aspect
 donner d'ailleurs raison
@@ -454,6 +470,7 @@ terminer au plus vite ~ закончить поскорѣе
 un mal pour un bien ~ нѣтъ худа безъ добра
 un pas après l'autre ~ шагъ за шагомъ
 une broutille | un bibelot | une babiole ~ пустякъ
+une explication par le seul hasard ~ чистой случайностью
 utile en soi ~ самоцѣнный
 voyer tout en noir
 à bien des égards ~ во многихъ отношеніяхъ
@@ -475,6 +492,7 @@ voyer tout en noir
 à la pointe (de la technologie) ~ at the cutting edge
 à mi-chemin entre qqch. et qqch.
 à part entière ~ полноправный
+à part soi | en pensée ~ про себя
 à quelques exceptions près ~ за нѣкоторыми исключеніями
 à toutes fins utiles ~ for all intents and purposes
 être au cœur de qqch.
@@ -502,6 +520,7 @@ Qu'à cela ne tienne ! ~ Peu importe !, ça ne fait rien, ну и пусть
 Que t'importe ?
 mais qu'importe
 peu importe
+rien à foutre ~ couldn't give a fuck
 Ça m'importait. ~ Мнѣ это было важно.
 
 INTROS
@@ -532,10 +551,13 @@ valider de façon ferme
 MISES
 , mettons, ~ положимъ,
 On pourrait s'y mettre à plusieurs.
+mettre au clair ~ прояснить
 mettre au point ~ fine-tune
 mettre en avant | mettre en valeur ~ highlight
 mettre en cause ~ ставить под сомнение
+mettre en jeu ~ пустить въ ходъ
 mettre en lumière ~ highlight
+mettre en pause
 mettre en place ~ настраивать
 mettre en pratique
 mettre en relation ~ связывать между собой
@@ -610,6 +632,7 @@ Affaire de lecture : ~ вопросъ интерпретаціи
 Alors franchement ~ Честно говоря
 Alors à mon tour, ~ Въ свою очередь, я
 C'est dans ce sens que...
+C'est déplacé. ~ This is uncalled for.
 C'est hors de question !
 Ce n'est rien à tout que...
 Comme dit plus haut
@@ -622,6 +645,7 @@ En somme, ~ Короче говоря
 Enfin | Pour finir | En conclusion | Bref,
 Enfin, pire de tout,
 Et le pompon, c'est que...
+Et nul doute que
 Il me semble que...
 Il s'est avéré que...
 J'avoue que...
@@ -670,6 +694,8 @@ d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 dans le sens où cela allie qqch. et qqch.
 de plus
+derrière qqch. ~ за чѣмъ-либо
+dont il est question ici ~ ~ dont il s'agit
 en clair ~ проще говоря
 en définitive ~ въ конечномъ счетѣ
 en d’autres termes ~ in other words
@@ -707,6 +733,7 @@ vu que ça approche ~ учитывая, что уже скоро
 Ça y est ! ~ Наконецъ-то.
 à ce que je sache | à ma connaissance ~ afaik
 à commencer par
+à la lumière de qqch. ~ въ свѣтѣ
 à mon grand regret
 à proprement parler | proprement dit(e)
 à vrai dire ~ по правдѣ говоря
@@ -729,6 +756,7 @@ Cela quels que soient nos choix d'activités ou de modes de vie. ~ Какими 
 Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
 Comment ça se fait ? ~ How come?
+C’est là une question passionnante et qu’il est temps de poser, quitte à la laisser provisoirement sans réponse.
 D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 Dis-le-moi. Dis-m'en plus !
@@ -942,6 +970,7 @@ ces derniers temps ~ въ послѣднее время
 d'emblée ~ съ перваго раза, тутъ же
 d'ici à 10 ans
 d'un bond ~ однимъ махомъ
+d'un moment à l'autre ~ съ минуты на минуту
 dans l'avenir
 dans la foulée ~ сразу
 dans la journée ~ during the daytime
@@ -972,6 +1001,7 @@ jusqu'à présent | jusqu'ici ~ so far
 la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
 maintes fois ~ many times
+monochrome mais tantôt doré, tantôt orange, tantôt rouge, ou même sans luminosité propre et obscur la nuit ~ то - то
 n'avoir plus le temps d'enseigner
 naguère ~ еще недавно <lit.>
 pendant ce temps ~ въ это время

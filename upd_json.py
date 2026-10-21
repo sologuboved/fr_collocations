@@ -21,17 +21,22 @@ def from_csv(src_fname='mots_temp.csv', target_fname='collocations.json', drop=F
     mots = [collocation['mot'] for val in collocations.values() for collocation in val]
     print(f"Initially, {len(mots)} entries")
     for row in read_csv(src_fname, as_dict=True):
-        row = {key: val.strip() or None for key, val in row.items()}
-        mot = row['mot']
-        tag = row.pop('tag')
-        if mot in mots:
-            print(f"'{mot}' est déjà présent ; on l'omet")
-            continue
         try:
-            collocations[tag].append(row)
-        except KeyError:
-            print(f"'{tag}' n'existe pas ; on l'omet (row {mot},{row['trad']},{tag})")
+            row = {key: val.strip() or None for key, val in row.items()}
+        except AttributeError:
+            print(f"Quelque chose cloche avec cette ligne: {row}")
             continue
+        else:
+            mot = row['mot']
+            tag = row.pop('tag')
+            if mot in mots:
+                print(f"'{mot}' est déjà présent ; on l'omet")
+                continue
+            try:
+                collocations[tag].append(row)
+            except KeyError:
+                print(f"'{tag}' n'existe pas ; on l'omet (row {mot},{row['trad']},{tag})")
+                continue
     print(f"Finally, {sum(len(val) for val in collocations.values())} entries")
     for tag in list(collocations.keys()):
         collocations[tag] = sorted(collocations[tag], key=itemgetter('mot'))

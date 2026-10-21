@@ -113,6 +113,10 @@
       "trad": "демонстрировать"
     },
     {
+      "mot": "faire semblant de faire qqch.",
+      "trad": null
+    },
+    {
       "mot": "faire semblant de | faire mine de",
       "trad": "притворяться"
     },
@@ -151,6 +155,10 @@
     {
       "mot": "pouvoir faire qqch. rien qu'en faisant qqch.",
       "trad": "be able to do sth.just by doing sth."
+    },
+    {
+      "mot": "pretendre faire qqch.",
+      "trad": null
     },
     {
       "mot": "prévoir de | compter faire qqch.",
@@ -227,6 +235,10 @@
     {
       "mot": "être en train de faire qqch.",
       "trad": null
+    },
+    {
+      "mot": "être forcé de faire qqch.",
+      "trad": "have to"
     },
     {
       "mot": "être sur le point de faire qqch.",
@@ -329,6 +341,10 @@
     {
       "mot": "en apparence",
       "trad": "внѣшне"
+    },
+    {
+      "mot": "en hâte",
+      "trad": "поспѣшно"
     },
     {
       "mot": "exagérément",
@@ -435,6 +451,10 @@
       "trad": "promptly"
     },
     {
+      "mot": "provisoirement",
+      "trad": null
+    },
+    {
       "mot": "prématurément",
       "trad": null
     },
@@ -457,6 +477,10 @@
     {
       "mot": "techniquement",
       "trad": null
+    },
+    {
+      "mot": "textuellement",
+      "trad": "verbatim, буквально"
     },
     {
       "mot": "typiquement",
@@ -637,6 +661,10 @@
     {
       "mot": "entraîner",
       "trad": null
+    },
+    {
+      "mot": "et pour cause !",
+      "trad": "and for a good reason"
     },
     {
       "mot": "favoriser",
@@ -1225,6 +1253,10 @@
       "trad": "само по себѣ"
     },
     {
+      "mot": "et ainsi de suite",
+      "trad": "and so on"
+    },
+    {
       "mot": "pour autant",
       "trad": "however"
     },
@@ -1253,6 +1285,10 @@
       "trad": "давай"
     },
     {
+      "mot": "Ça ne fait rien. | Ça ne sert à rien.",
+      "trad": "Это безполезно."
+    },
+    {
       "mot": "à peu près ça | un truc du genre",
       "trad": null
     }
@@ -1279,6 +1315,14 @@
       "trad": "across the street"
     },
     {
+      "mot": "dans le sens (inverse) des aiguilles d'une montre",
+      "trad": null
+    },
+    {
+      "mot": "en chemin",
+      "trad": "по пути"
+    },
+    {
       "mot": "en contrebas",
       "trad": "там внизу"
     },
@@ -1295,12 +1339,20 @@
       "trad": "this way"
     },
     {
+      "mot": "s'arrêter sur place",
+      "trad": "остановиться на мѣстѣ"
+    },
+    {
       "mot": "se mettre en route",
       "trad": "отправиться въ путь"
     },
     {
       "mot": "sur la route",
       "trad": "по дорогѣ"
+    },
+    {
+      "mot": "tourner qqch. de six degrés",
+      "trad": "повернуть на 6 градусовъ"
     },
     {
       "mot": "tout autour de toi",
@@ -1419,6 +1471,10 @@
       "trad": "въ замедленной съемкѣ"
     },
     {
+      "mot": "avec force détail",
+      "trad": "во всѣхъ подробностяхъ"
+    },
+    {
       "mot": "avec le recul",
       "trad": "with hindsight, in retrospect"
     },
@@ -1485,6 +1541,10 @@
     {
       "mot": "de mal en pis from",
       "trad": "bad to worse"
+    },
+    {
+      "mot": "de métier",
+      "trad": "по профессіи, профессіональный"
     },
     {
       "mot": "de vive voix <-> par écrit",
@@ -1747,6 +1807,10 @@
       "trad": "пустякъ"
     },
     {
+      "mot": "une explication par le seul hasard",
+      "trad": "чистой случайностью"
+    },
+    {
       "mot": "utile en soi",
       "trad": "самоцѣнный"
     },
@@ -1829,6 +1893,10 @@
     {
       "mot": "à part entière",
       "trad": "полноправный"
+    },
+    {
+      "mot": "à part soi | en pensée",
+      "trad": "про себя"
     },
     {
       "mot": "à quelques exceptions près",
@@ -1925,6 +1993,10 @@
     {
       "mot": "peu importe",
       "trad": null
+    },
+    {
+      "mot": "rien à foutre",
+      "trad": "couldn't give a fuck"
     },
     {
       "mot": "Ça m'importait.",
@@ -2029,6 +2101,10 @@
       "trad": null
     },
     {
+      "mot": "mettre au clair",
+      "trad": "прояснить"
+    },
+    {
       "mot": "mettre au point",
       "trad": "fine-tune"
     },
@@ -2041,8 +2117,16 @@
       "trad": "ставить под сомнение"
     },
     {
+      "mot": "mettre en jeu",
+      "trad": "пустить въ ходъ"
+    },
+    {
       "mot": "mettre en lumière",
       "trad": "highlight"
+    },
+    {
+      "mot": "mettre en pause",
+      "trad": null
     },
     {
       "mot": "mettre en place",
@@ -2317,6 +2401,10 @@
       "trad": null
     },
     {
+      "mot": "C'est déplacé.",
+      "trad": "This is uncalled for."
+    },
+    {
       "mot": "C'est hors de question !",
       "trad": null
     },
@@ -2362,6 +2450,10 @@
     },
     {
       "mot": "Et le pompon, c'est que...",
+      "trad": null
+    },
+    {
+      "mot": "Et nul doute que",
       "trad": null
     },
     {
@@ -2557,6 +2649,14 @@
       "trad": null
     },
     {
+      "mot": "derrière qqch.",
+      "trad": "за чѣмъ-либо"
+    },
+    {
+      "mot": "dont il est question ici",
+      "trad": "~ dont il s'agit"
+    },
+    {
       "mot": "en clair",
       "trad": "проще говоря"
     },
@@ -2705,6 +2805,10 @@
       "trad": null
     },
     {
+      "mot": "à la lumière de qqch.",
+      "trad": "въ свѣтѣ"
+    },
+    {
       "mot": "à mon grand regret",
       "trad": null
     },
@@ -2785,6 +2889,10 @@
     {
       "mot": "Comment ça se fait ?",
       "trad": "How come?"
+    },
+    {
+      "mot": "C’est là une question passionnante et qu’il est temps de poser, quitte à la laisser provisoirement sans réponse.",
+      "trad": null
     },
     {
       "mot": "D'où vient qu'on verse des indemnités aux éleveurs ?",
@@ -3603,6 +3711,10 @@
       "trad": "однимъ махомъ"
     },
     {
+      "mot": "d'un moment à l'autre",
+      "trad": "съ минуты на минуту"
+    },
+    {
       "mot": "dans l'avenir",
       "trad": null
     },
@@ -3721,6 +3833,10 @@
     {
       "mot": "maintes fois",
       "trad": "many times"
+    },
+    {
+      "mot": "monochrome mais tantôt doré, tantôt orange, tantôt rouge, ou même sans luminosité propre et obscur la nuit",
+      "trad": "то - то"
     },
     {
       "mot": "n'avoir plus le temps d'enseigner",
