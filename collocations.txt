@@ -18,14 +18,17 @@ Le ministre a bien fait de prendre cette décision.
 Ma sœur me fait de la peine. ~ Мнѣ жаль мою сестру.
 Pas que j'aie spécialement fait qqch. ... ~ Не то чтобы я особенно (въ прошломъ)
 Vous n'avez plus de faire qqch. ~ Вамъ больше не нужно...
+avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
 avoir failli faire qqch. ~ едва не
 avoir hâte de faire qqch. ~ can't wait to
 ce qui lui est arrivé
 donner le meilleur de lui-même ~ do one's best
+faire confiance à qqch.
 faire de la peine ~ hurt one's feelings
 faire de son mieux ~ do one's best
 faire en sorte que qqch. se passe ~ assure that
 faire mieux de faire qqch.
+faire passer qqch. pour qqch.
 faire preuve de ~ демонстрировать
 faire semblant de faire qqch.
 faire semblant de | faire mine de ~ притворяться
@@ -42,6 +45,7 @@ pretendre faire qqch.
 prévoir de | compter faire qqch. ~ планировать
 qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
 renoncer à qqch. ~ отказаться отъ чего-либо
+s'en prendre à qqn. ~ срываться на кого-нибудь
 s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
 se borner à qqch. ~ ограничиться чѣмъ-нибудь
@@ -117,6 +121,7 @@ provisoirement
 prématurément
 quasiment ~ практически, почти что
 spécialement
+succinctement ~ лаконично
 suffisamment
 systématiquement
 techniquement
@@ -202,6 +207,7 @@ viser à faire qqch.
 CONCESSIONS
 Aucune femme n'a été élue présidente de la République en France quoique Ségolène Royal ait failli l'être en 2007.
 Bien qu'on ait voté des lois sur la parité, il y a des inégalités entre les hommes et les femmes.
+Bien que n'étant pas vraiment un mathématicien professionnel, il...
 Encore que ceux qui ont une formation réussissent très bien. ~ Это не отмѣняетъ того, что...
 Il n'en reste pas moins que certains sont déçus en arrivant. ~ Это не отмѣняетъ того, что...
 J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul chez moi, le soir. ~ even though
@@ -275,6 +281,7 @@ d'ailleurs | au fait ~ кстати говоря
 davantage les... que les... ~ скорѣе ..., нежели ...
 de surcroît | de surplus ~ болѣе того
 en contrepartie ~ взамѣнъ
+en entier ~ цѣликомъ
 en gros ~ в цѣлом, грубо говоря
 en guise de qqch ~ by way of
 en règle générale ~ as a general rule
@@ -539,6 +546,7 @@ MANIÈRES
 De quelle façon ... ? ~ Какимъ образомъ
 Et vous allez trouver ce budget de quelle manière ? ~ Какимъ образомъ?
 Et, d’une certaine manière, c'est ce qui s'est produit. ~ Cela est arrivé.
+d'une certaine manière ~ въ своемъ родѣ
 de cette façon ~ такимъ образомъ
 de façon générale | d'une façon plus générale ~ generally speaking
 de façon peu assidue ~ admittedly
@@ -555,11 +563,13 @@ mettre au clair ~ прояснить
 mettre au point ~ fine-tune
 mettre en avant | mettre en valeur ~ highlight
 mettre en cause ~ ставить под сомнение
+mettre en gage / au clou ~ сдать въ ломбардъ
 mettre en jeu ~ пустить въ ходъ
 mettre en lumière ~ highlight
 mettre en pause
 mettre en place ~ настраивать
 mettre en pratique
+mettre en péril
 mettre en relation ~ связывать между собой
 mettre en sourdine <-> en exergue ~ to downplay <-> to highlight
 mettre en œuvre
@@ -572,6 +582,7 @@ mettre un certain temps à faire qqch.
 mettre un point final à
 mettre une heure de plus pour faire qqch. ~ понадобится на часъ больше
 mettre à jour
+mettre à la porte ~ выставить кого-нибудь за дверь
 mettre à profit ~ take advantage
 ne pas savoir mettre les formes ~ смягчать углы
 se mettre en tête ~ пришло въ голову
@@ -648,9 +659,8 @@ Et le pompon, c'est que...
 Et nul doute que
 Il me semble que...
 Il s'est avéré que...
-J'avoue que...
+J'avoue / dois avouer que / avoir fait qqch.
 J'en suis persuadée | C'est ma conviction
-Je dois avouer que ~ Долженъ признаться
 Je ne peux parler que pour moi-même.
 Je ne suis pas certaine de comprendre.
 Je ne veux pas te vexer, mais non merci.
@@ -716,6 +726,7 @@ pour le moins ~ мягко говоря
 pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
 pourtant
+qqch. ne se dit pas en français / qqch. est dit vieilli
 rebelote ~ here we go again
 sans aucun doute
 selon ses termes ~ по его словамъ
@@ -729,6 +740,7 @@ vu que ça approche ~ учитывая, что уже скоро
 Ça n'a pas de sens. | Ça ne veut rien dire.
 Ça n'a rien à voir avec ce que... ~ This has nothing to do with...
 Ça ne vous regarde pas ! ~ Васъ это не касается!
+Ça qui me frappe... ~ Вотъ что мнѣ бросается въ глаза
 Ça se tient. ~ It makes sense.
 Ça y est ! ~ Наконецъ-то.
 à ce que je sache | à ma connaissance ~ afaik
@@ -759,6 +771,7 @@ Comment ça se fait ? ~ How come?
 C’est là une question passionnante et qu’il est temps de poser, quitte à la laisser provisoirement sans réponse.
 D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
+De quoi l'IA est-elle militairement le nom ? ~ What does AI signify in a military context?
 Dis-le-moi. Dis-m'en plus !
 Elle m'en veut. ~ She's mad at me.
 En quoi consiste [qqch.] ? ~ Въ чемъ заключается ...?
@@ -828,7 +841,6 @@ Une tablette de chocolat ne serait pas de refus. ~ I wouldn't say no to a chocol
 alors qu'ailleurs le processus de concentration n'a fait que débuter
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
-avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
 avoir pour seul trait commun de faire qqch.
 comme si de rien n'était ~ as if nothing had happened
 de ... se dégage l’impression que ...

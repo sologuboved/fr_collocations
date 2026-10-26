@@ -77,6 +77,10 @@
       "trad": "Вамъ больше не нужно..."
     },
     {
+      "mot": "avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.",
+      "trad": null
+    },
+    {
       "mot": "avoir failli faire qqch.",
       "trad": "едва не"
     },
@@ -85,16 +89,16 @@
       "trad": "can't wait to"
     },
     {
-      "mot": "avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.",
-      "trad": null
-    },
-    {
       "mot": "ce qui lui est arrivé",
       "trad": null
     },
     {
       "mot": "donner le meilleur de lui-même",
       "trad": "do one's best"
+    },
+    {
+      "mot": "faire confiance à qqch.",
+      "trad": null
     },
     {
       "mot": "faire de la peine",
@@ -110,6 +114,10 @@
     },
     {
       "mot": "faire mieux de faire qqch.",
+      "trad": null
+    },
+    {
+      "mot": "faire passer qqch. pour qqch.",
       "trad": null
     },
     {
@@ -175,6 +183,10 @@
     {
       "mot": "renoncer à qqch.",
       "trad": "отказаться отъ чего-либо"
+    },
+    {
+      "mot": "s'en prendre à qqn.",
+      "trad": "срываться на кого-нибудь"
     },
     {
       "mot": "s'en sortir",
@@ -469,6 +481,10 @@
     {
       "mot": "spécialement",
       "trad": null
+    },
+    {
+      "mot": "succinctement",
+      "trad": "лаконично"
     },
     {
       "mot": "suffisamment",
@@ -793,6 +809,10 @@
       "trad": null
     },
     {
+      "mot": "Bien que n'étant pas vraiment un mathématicien professionnel, il...",
+      "trad": null
+    },
+    {
       "mot": "Encore que ceux qui ont une formation réussissent très bien.",
       "trad": "Это не отмѣняетъ того, что..."
     },
@@ -1053,6 +1073,10 @@
     {
       "mot": "en contrepartie",
       "trad": "взамѣнъ"
+    },
+    {
+      "mot": "en entier",
+      "trad": "цѣликомъ"
     },
     {
       "mot": "en gros",
@@ -2063,6 +2087,10 @@
       "trad": "Cela est arrivé."
     },
     {
+      "mot": "d'une certaine manière",
+      "trad": "въ своемъ родѣ"
+    },
+    {
       "mot": "de cette façon",
       "trad": "такимъ образомъ"
     },
@@ -2121,6 +2149,10 @@
       "trad": "ставить под сомнение"
     },
     {
+      "mot": "mettre en gage / au clou",
+      "trad": "сдать въ ломбардъ"
+    },
+    {
       "mot": "mettre en jeu",
       "trad": "пустить въ ходъ"
     },
@@ -2138,6 +2170,10 @@
     },
     {
       "mot": "mettre en pratique",
+      "trad": null
+    },
+    {
+      "mot": "mettre en péril",
       "trad": null
     },
     {
@@ -2187,6 +2223,10 @@
     {
       "mot": "mettre à jour",
       "trad": null
+    },
+    {
+      "mot": "mettre à la porte",
+      "trad": "выставить кого-нибудь за дверь"
     },
     {
       "mot": "mettre à profit",
@@ -2469,16 +2509,12 @@
       "trad": null
     },
     {
-      "mot": "J'avoue que...",
+      "mot": "J'avoue / dois avouer que / avoir fait qqch.",
       "trad": null
     },
     {
       "mot": "J'en suis persuadée | C'est ma conviction",
       "trad": null
-    },
-    {
-      "mot": "Je dois avouer que",
-      "trad": "Долженъ признаться"
     },
     {
       "mot": "Je ne peux parler que pour moi-même.",
@@ -2741,6 +2777,10 @@
       "trad": null
     },
     {
+      "mot": "qqch. ne se dit pas en français / qqch. est dit vieilli",
+      "trad": null
+    },
+    {
       "mot": "rebelote",
       "trad": "here we go again"
     },
@@ -2791,6 +2831,10 @@
     {
       "mot": "Ça ne vous regarde pas !",
       "trad": "Васъ это не касается!"
+    },
+    {
+      "mot": "Ça qui me frappe...",
+      "trad": "Вотъ что мнѣ бросается въ глаза"
     },
     {
       "mot": "Ça se tient.",
@@ -2905,6 +2949,10 @@
     {
       "mot": "De quoi il s'agit ?",
       "trad": null
+    },
+    {
+      "mot": "De quoi l'IA est-elle militairement le nom ?",
+      "trad": "What does AI signify in a military context?"
     },
     {
       "mot": "Dis-le-moi. Dis-m'en plus !",
