@@ -221,6 +221,10 @@
       "trad": "care about someone"
     },
     {
+      "mot": "tenu pour [adjectif]",
+      "trad": "be considered"
+    },
+    {
       "mot": "venir de faire qqch.",
       "trad": null
     },
@@ -281,6 +285,10 @@
     {
       "mot": "[se consacrer] uniquement [à]",
       "trad": null
+    },
+    {
+      "mot": "accessoirement",
+      "trad": "попутнымъ образомъ"
     },
     {
       "mot": "apparemment",
@@ -395,6 +403,10 @@
       "trad": "безплатно"
     },
     {
+      "mot": "incontestablement",
+      "trad": "несомнѣнно, безспорно"
+    },
+    {
       "mot": "infiniment",
       "trad": "безконечно"
     },
@@ -420,6 +432,10 @@
     },
     {
       "mot": "légitimement",
+      "trad": null
+    },
+    {
+      "mot": "machinalement",
       "trad": null
     },
     {
@@ -477,6 +493,10 @@
     {
       "mot": "quasiment",
       "trad": "практически, почти что"
+    },
+    {
+      "mot": "raisonnablement",
+      "trad": null
     },
     {
       "mot": "spécialement",
@@ -585,6 +605,10 @@
     {
       "mot": "C'est que [indicatif]",
       "trad": "this is because"
+    },
+    {
+      "mot": "Et le but où nous tendons, qui nous dit que d’autres ne l’ont pas déjà atteint ?",
+      "trad": null
     },
     {
       "mot": "Il en résulte de...",
@@ -1553,6 +1577,10 @@
     {
       "mot": "dans la doute",
       "trad": "just to be safe"
+    },
+    {
+      "mot": "dans l’affirmative",
+      "trad": "въ случаѣ, если да"
     },
     {
       "mot": "de l'extérieur",
@@ -2943,6 +2971,10 @@
       "trad": null
     },
     {
+      "mot": "C’est mince.",
+      "trad": "Этого маловато."
+    },
+    {
       "mot": "D'où vient qu'on verse des indemnités aux éleveurs ?",
       "trad": null
     },
@@ -2957,6 +2989,10 @@
     {
       "mot": "Dis-le-moi. Dis-m'en plus !",
       "trad": null
+    },
+    {
+      "mot": "Donc, on doit raisonnablement s'attendre à tout.",
+      "trad": "Разумно, такимъ образомъ, ожидать чего угодно."
     },
     {
       "mot": "Elle m'en veut.",
@@ -3371,6 +3407,10 @@
       "trad": null
     },
     {
+      "mot": "de cette envergure [about people & things] | de cette ampleur [about things]",
+      "trad": "такого масштаба"
+    },
+    {
       "mot": "de loin",
       "trad": "by far"
     },
@@ -3641,7 +3681,11 @@
   ],
   "synonymes": [
     {
-      "mot": "doté de | muni de | pourvu de |fourni de | équipé de <-> démuni de | dépourvu de | privé de",
+      "mot": "des sornettes | baratin",
+      "trad": null
+    },
+    {
+      "mot": "doter de | munir de | pourvoir de |fournir de | équiper de <-> démunir de | dépourvoir de | priver de",
       "trad": null
     }
   ],
