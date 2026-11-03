@@ -54,6 +54,7 @@ se donner à voir comme ~ показывать себя как
 se passer de qqch.
 sortir gagnant-gagnant
 tenir à qqn. ~ care about someone
+tenu pour [adjectif] ~ be considered
 venir de faire qqch.
 y aller fort ~ перегибать палку
 être bien décidée à s'en occuper ~ твердо рѣшить этимъ заняться
@@ -71,6 +72,7 @@ Je crois fermement que
 [J'aime] particulièrement
 [la présence de cathares en Navarre n’est] aucunement [avérée]
 [se consacrer] uniquement [à]
+accessoirement ~ попутнымъ образомъ
 apparemment
 aucunement ~ никоимъ образомъ
 autrement ~ по-другому
@@ -99,6 +101,7 @@ fortement | massivement
 froidement ~ холодно
 fâcheusement ~ annoyingly
 gratuitement ~ безплатно
+incontestablement ~ несомнѣнно, безспорно
 infiniment ~ безконечно
 inlassablement ~ tirelessly
 joliment ~ beautifully
@@ -106,6 +109,7 @@ lentement et sûrement
 librement
 logiquement
 légitimement
+machinalement
 majoritairement ~ по большей части
 modestement ~ скромно
 notamment ~ въ частности
@@ -120,6 +124,7 @@ promptement ~ promptly
 provisoirement
 prématurément
 quasiment ~ практически, почти что
+raisonnablement
 spécialement
 succinctement ~ лаконично
 suffisamment
@@ -150,6 +155,7 @@ CAUSALITÉ
 (a)mener à
 C'est bien pour ça que ~ Именно поэтому
 C'est que [indicatif] ~ this is because
+Et le but où nous tendons, qui nous dit que d’autres ne l’ont pas déjà atteint ?
 Il en résulte de... ~ This has resulted in
 Quelle est la cause | l'origine | la raison de ... ?
 Résultat, ~ Въ рѣзультатѣ
@@ -407,6 +413,7 @@ d'elle-même ~ on her own
 d'égal à l'égal ~ на равныхъ
 dans l'ordre ~ по порядку
 dans la doute ~ just to be safe
+dans l’affirmative ~ въ случаѣ, если да
 de l'extérieur ~ на видъ
 de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
@@ -769,10 +776,12 @@ Comment faites-vous pour faire qqch. ? ~ How do you go about doing something?
 Comment se déroule votre travail ? ~ How is your work going?
 Comment ça se fait ? ~ How come?
 C’est là une question passionnante et qu’il est temps de poser, quitte à la laisser provisoirement sans réponse.
+C’est mince. ~ Этого маловато.
 D'où vient qu'on verse des indemnités aux éleveurs ?
 De quoi il s'agit ?
 De quoi l'IA est-elle militairement le nom ? ~ What does AI signify in a military context?
 Dis-le-moi. Dis-m'en plus !
+Donc, on doit raisonnablement s'attendre à tout. ~ Разумно, такимъ образомъ, ожидать чего угодно.
 Elle m'en veut. ~ She's mad at me.
 En quoi consiste [qqch.] ? ~ Въ чемъ заключается ...?
 Est-ce que tu t'intéresses à la musique ?
@@ -879,6 +888,7 @@ Sur les plus de 9 000 films que compte la base de données, près de 57 %...
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
 au total
+de cette envergure [about people & things] | de cette ampleur [about things] ~ такого масштаба
 de loin ~ by far
 de plus en plus
 de surcroît, ~ вдобавокъ
@@ -951,7 +961,8 @@ se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
 se sentir + adjectif | ressentir / éprouver + nom | sentir que
 
 SYNONYMES
-doté de | muni de | pourvu de |fourni de | équipé de <-> démuni de | dépourvu de | privé de
+des sornettes | baratin
+doter de | munir de | pourvoir de |fournir de | équiper de <-> démunir de | dépourvoir de | priver de
 
 TEMPS
 (tout) à la fois
