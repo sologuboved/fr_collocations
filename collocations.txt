@@ -14,6 +14,7 @@ Je ne t'avais jamais vu cet air. ~ I had never seen you look like that.
 Je serais bien en peine de faire qqch. ~ I would be hard-pressed to do sth.
 Je verrais bien qqn. faire qqch. ~ Легко могу себѣ представить, какъ...
 J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some precautions…
+J’ai cru tout d’abord à une comète d’un genre spécial.
 Le ministre a bien fait de prendre cette décision.
 Ma sœur me fait de la peine. ~ Мнѣ жаль мою сестру.
 Pas que j'aie spécialement fait qqch. ... ~ Не то чтобы я особенно (въ прошломъ)
@@ -27,6 +28,7 @@ faire confiance à qqch.
 faire de la peine ~ hurt one's feelings
 faire de son mieux ~ do one's best
 faire en sorte que qqch. se passe ~ assure that
+faire le rapprochement entre qqch. et qqch.
 faire mieux de faire qqch.
 faire passer qqch. pour qqch.
 faire preuve de ~ демонстрировать
@@ -43,6 +45,7 @@ pousser qqn. à faire qqch. ~ drive smb. to do sth.
 pouvoir faire qqch. rien qu'en faisant qqch. ~ be able to do sth.just by doing sth.
 pretendre faire qqch.
 prévoir de | compter faire qqch. ~ планировать
+qqch. est à faire qqch. ~ слѣдуетъ
 qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
 renoncer à qqch. ~ отказаться отъ чего-либо
 s'en prendre à qqn. ~ срываться на кого-нибудь
@@ -50,6 +53,7 @@ s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
 se borner à qqch. ~ ограничиться чѣмъ-нибудь
 se conclure avec qqch.
+se diriger plutôt vers ~ склоняться къ
 se donner à voir comme ~ показывать себя как
 se passer de qqch.
 sortir gagnant-gagnant
@@ -57,6 +61,7 @@ tenir à qqn. ~ care about someone
 tenu pour [adjectif] ~ be considered
 venir de faire qqch.
 y aller fort ~ перегибать палку
+à laquelle, esprit curieux, il lui était arrivé de penser
 être bien décidée à s'en occuper ~ твердо рѣшить этимъ заняться
 être bien placée pour faire qqch. ~ быть вправѣ
 être censé faire qqch.
@@ -157,6 +162,7 @@ C'est bien pour ça que ~ Именно поэтому
 C'est que [indicatif] ~ this is because
 Et le but où nous tendons, qui nous dit que d’autres ne l’ont pas déjà atteint ?
 Il en résulte de... ~ This has resulted in
+Il résulte de tout cela que
 Quelle est la cause | l'origine | la raison de ... ?
 Résultat, ~ Въ рѣзультатѣ
 aboutir à des spéculations prématurées ~ привести
@@ -260,7 +266,7 @@ s'engager dans | s'impliquer dans | s'investir dans | se livrer à
 s'occuper de | assister | aider | soutenir | appuyer | secourir
 
 COUPS
-après coup ~ after the fact
+après coup ~ заднимъ числомъ, постфактумъ
 coup de poing [quasi-adjectif] ~ high impact
 d'un (seul) coup ~ рѣзко, однимъ махомъ, разомъ
 du coup ~ therefore
@@ -341,6 +347,7 @@ du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
 en lui-même ~ само по себѣ
 et ainsi de suite ~ and so on
+ni même qqn. ~ ни даже такой-то
 pour autant ~ however
 pour autant que je me souvienne / puisse en juger, ~ as far as I remember / can judge
 puis, peu à peu
@@ -657,6 +664,7 @@ Comme dit plus haut
 Comme tu dis. ~ Именно такъ.
 Comment dit-on "..." en français ?
 Côté de...,
+Dieu seul le sait.
 Eh bien moi, je pense que
 En clair, ~ иными словами
 En somme, ~ Короче говоря
@@ -693,6 +701,7 @@ Que dire d'autre?
 S'agissant de l’Ancien Régime, il importe de...
 Sauf son / votre respect ~ With all due respect
 Selon l’expression consacrée, ~ Какъ говорится,
+Soit. ~ Пусть такъ.
 Suis-je bête ! Cela m'avait échappé.
 Tout court. ~ И всё.
 Tu parles ! ~ Ну конечно.
@@ -707,6 +716,7 @@ autrement dit ~ иными словами
 ce qu’il y a derrière l’orthoténie ~ стоитъ за
 cependant
 certainement | certes
+citons ~ достаточно упомянуть
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
 d'une part ... d'autre part | d'un côté ... de l'autre côté | en revanche
 dans le sens où cela allie qqch. et qqch.
@@ -754,6 +764,7 @@ vu que ça approche ~ учитывая, что уже скоро
 à commencer par
 à la lumière de qqch. ~ въ свѣтѣ
 à mon grand regret
+à plus forte raison qqn. / qqch. ~ что ужъ говорить о
 à proprement parler | proprement dit(e)
 à vrai dire ~ по правдѣ говоря
 
@@ -769,6 +780,7 @@ C'est retour à la case départ. ~ Back to square one.
 C'est vraiment très gentil.
 C'était compter sans qqn. ~ Но тутъ вмешался...
 Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
+Cela a-t-il une signification ?
 Cela ne tenait pas debout. ~ Это не выдерживало никакой критики.
 Cela peut valoir la peine. ~ Можетъ стоить того.
 Cela quels que soient nos choix d'activités ou de modes de vie. ~ Какими бы ни были...
@@ -901,6 +913,7 @@ peu ou prou ~ plus ou moins
 quel(le) que puisse être qqch. ~ каким/ой бы ни был/а...
 quelque peu ~ a little
 sans compter ceux qui ~ не считая тѣхъ
+se compter par dizaines
 un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
 à moitié ~ наполовину
@@ -963,6 +976,7 @@ se sentir + adjectif | ressentir / éprouver + nom | sentir que
 SYNONYMES
 des sornettes | baratin
 doter de | munir de | pourvoir de |fournir de | équiper de <-> démunir de | dépourvoir de | priver de
+modéré | retenu | frugal | tempéré
 
 TEMPS
 (tout) à la fois
