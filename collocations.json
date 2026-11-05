@@ -335,6 +335,10 @@
       "trad": "downright"
     },
     {
+      "mot": "changer progressivement",
+      "trad": null
+    },
+    {
       "mot": "concrètement",
       "trad": null
     },
@@ -365,6 +369,10 @@
     {
       "mot": "décidément",
       "trad": "definitely"
+    },
+    {
+      "mot": "définitivement",
+      "trad": "окончательно"
     },
     {
       "mot": "délibérément",
@@ -587,6 +595,14 @@
     {
       "mot": "d'occasion",
       "trad": "second-hand"
+    },
+    {
+      "mot": "dans ces cas-là",
+      "trad": null
+    },
+    {
+      "mot": "dans la majorité des cas",
+      "trad": null
     },
     {
       "mot": "en cas de besoin",
@@ -1489,6 +1505,10 @@
     {
       "mot": "Bon débarras.",
       "trad": "Good riddance."
+    },
+    {
+      "mot": "Franchement, t’abuses ! | C’est abusé !",
+      "trad": "Ты перегибаешь палку! | Это переборъ."
     },
     {
       "mot": "[créer] de toutes pièces",
@@ -2513,6 +2533,10 @@
       "trad": null
     },
     {
+      "mot": "Cela ne veut pas dire que",
+      "trad": "Это не значитъ, что"
+    },
+    {
       "mot": "Comme dit plus haut",
       "trad": null
     },
@@ -3503,6 +3527,10 @@
       "trad": "a little"
     },
     {
+      "mot": "représenter 43 à 46 % des",
+      "trad": null
+    },
+    {
       "mot": "sans compter ceux qui",
       "trad": "не считая тѣхъ"
     },
@@ -3953,6 +3981,10 @@
     {
       "mot": "entretemps",
       "trad": "in the meanwhile"
+    },
+    {
+      "mot": "et. ce jour-là,",
+      "trad": null
     },
     {
       "mot": "il y a pile un siècle",

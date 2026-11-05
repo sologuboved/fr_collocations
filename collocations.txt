@@ -84,6 +84,7 @@ autrement ~ по-другому
 bien évidemment
 bruyamment ~ шумно
 carrément ~ downright
+changer progressivement
 concrètement
 conjointement ~ совмѣстно
 conserver précieusement ~ бережно хранить
@@ -92,6 +93,7 @@ convenablement ~ properly, reasonabley
 courageusement
 couramment ~ fluently / habitually
 décidément ~ definitely
+définitivement ~ окончательно
 délibérément ~ цѣленаправленно
 désespérément ~ hopelessly
 effectivement ~ въ самомъ дѣлѣ, фактически
@@ -149,6 +151,8 @@ vraisemblablement ~ presumably
 CAS
 au cas où | à tout hasard ~ just in case
 d'occasion ~ second-hand
+dans ces cas-là
+dans la majorité des cas
 en cas de besoin ~ въ случаѣ необходимости
 en tout cas
 il n'en était pas ainsi ~ that was not the case
@@ -391,6 +395,7 @@ FIGÉ
 (ne pas) faire son âge ~ выглядѣть на свой возраст
 , à tort,
 Bon débarras. ~ Good riddance.
+Franchement, t’abuses ! | C’est abusé ! ~ Ты перегибаешь палку! | Это переборъ.
 [créer] de toutes pièces ~ from scratch
 [ne pas changer] grand-chose
 allant de soi ~ being self-evident
@@ -581,7 +586,7 @@ mettre en gage / au clou ~ сдать въ ломбардъ
 mettre en jeu ~ пустить въ ходъ
 mettre en lumière ~ highlight
 mettre en pause
-mettre en place ~ настраивать
+mettre en place ~ настраивать, размѣщать
 mettre en pratique
 mettre en péril
 mettre en relation ~ связывать между собой
@@ -660,6 +665,7 @@ C'est dans ce sens que...
 C'est déplacé. ~ This is uncalled for.
 C'est hors de question !
 Ce n'est rien à tout que...
+Cela ne veut pas dire que ~ Это не значитъ, что
 Comme dit plus haut
 Comme tu dis. ~ Именно такъ.
 Comment dit-on "..." en français ?
@@ -912,6 +918,7 @@ petit à petit ~ понемножку
 peu ou prou ~ plus ou moins
 quel(le) que puisse être qqch. ~ каким/ой бы ни был/а...
 quelque peu ~ a little
+représenter 43 à 46 % des
 sans compter ceux qui ~ не считая тѣхъ
 se compter par dizaines
 un par un ~ одинъ за другимъ
@@ -1031,6 +1038,7 @@ en premier ~ first thing
 en un an ~ за годъ
 ensuite | ultérieurement | postérieurement
 entretemps ~ in the meanwhile
+et. ce jour-là,
 il y a pile un siècle ~ ровно 100 лет назад
 irrégulièrement
 jadis ~ нѣкогда, давнымъ-давно
