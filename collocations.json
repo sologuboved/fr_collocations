@@ -865,6 +865,26 @@
   ],
   "concessions": [
     {
+      "mot": "cependant",
+      "trad": null
+    },
+    {
+      "mot": "néanmoins",
+      "trad": "however"
+    },
+    {
+      "mot": "pour autant",
+      "trad": "however"
+    },
+    {
+      "mot": "pourtant",
+      "trad": null
+    },
+    {
+      "mot": "toutefois",
+      "trad": "however"
+    },
+    {
       "mot": "Aucune femme n'a été élue présidente de la République en France quoique Ségolène Royal ait failli l'être en 2007.",
       "trad": null
     },
@@ -913,7 +933,7 @@
       "trad": null
     },
     {
-      "mot": "quand même",
+      "mot": "quand même | en tout cas",
       "trad": "anyway"
     },
     {
@@ -1245,10 +1265,6 @@
     {
       "mot": "tout à fait",
       "trad": "quite"
-    },
-    {
-      "mot": "toutefois",
-      "trad": "however"
     },
     {
       "mot": "voire",
@@ -2753,10 +2769,6 @@
       "trad": "стоитъ за"
     },
     {
-      "mot": "cependant",
-      "trad": null
-    },
-    {
       "mot": "certainement | certes",
       "trad": null
     },
@@ -2862,10 +2874,6 @@
     },
     {
       "mot": "pour être plus précise",
-      "trad": null
-    },
-    {
-      "mot": "pourtant",
       "trad": null
     },
     {
@@ -3756,20 +3764,6 @@
     },
     {
       "mot": "se sentir + adjectif | ressentir / éprouver + nom | sentir que",
-      "trad": null
-    }
-  ],
-  "synonymes": [
-    {
-      "mot": "des sornettes | baratin",
-      "trad": null
-    },
-    {
-      "mot": "doter de | munir de | pourvoir de |fournir de | équiper de | subvenir à <-> démunir de | dépourvoir de | priver de",
-      "trad": null
-    },
-    {
-      "mot": "modéré | retenu | frugal | tempéré",
       "trad": null
     }
   ],
