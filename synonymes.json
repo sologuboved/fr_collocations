@@ -1,4 +1,16 @@
 {
+  "gap": [
+    "un écart",
+    "le décalage",
+    "la brèche",
+    "une fosse"
+  ],
+  "go out together": [
+    "se fréquenter",
+    "se voir",
+    "sortir ensemble",
+    "se mettre en couple"
+  ],
   "nonsense": [
     "des sornettes",
     "baratin"
@@ -12,26 +24,14 @@
     "dépourvoir de",
     "priver de"
   ],
+  "tackle": [
+    "s'attaquer à",
+    "aborder"
+  ],
   "умѣренный": [
     "modéré",
     "retenu",
     "frugal",
     "tempéré"
-  ],
-  "gap": [
-    "un écart",
-    "le décalage",
-    "la brèche",
-    "une fosse"
-  ],
-  "tackle": [
-    "s'attaquer à",
-    "aborder"
-  ],
-  "go out together": [
-    "se fréquenter",
-    "se voir",
-    "sortir ensemble",
-    "se mettre en couple"
   ]
 }
