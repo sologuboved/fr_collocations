@@ -25,6 +25,10 @@
       "trad": "Мы уже с нетерпением ждем!"
     },
     {
+      "mot": "J'ai cru voir un fantôme.",
+      "trad": null
+    },
+    {
       "mot": "J'ai dû faire qqch.",
       "trad": "Должно быть, я..."
     },
@@ -73,8 +77,20 @@
       "trad": "Мнѣ жаль мою сестру."
     },
     {
+      "mot": "Nous aviserons plus tard. | J'aviserai.",
+      "trad": "We'll decide later. | Тогда и подумаю."
+    },
+    {
       "mot": "Pas que j'aie spécialement fait qqch. ...",
       "trad": "Не то чтобы я особенно (въ прошломъ)"
+    },
+    {
+      "mot": "T'est-il déjà arrivé de [faire qqch.] ?",
+      "trad": null
+    },
+    {
+      "mot": "T'est-il déjà arrivé de faire qqch.?",
+      "trad": null
     },
     {
       "mot": "Vous n'avez plus de faire qqch.",
@@ -197,6 +213,10 @@
       "trad": "отказаться отъ чего-либо"
     },
     {
+      "mot": "s'aviser de qqch. / de faire qqch.",
+      "trad": "додуматься [въ томъ числѣ ирон.]"
+    },
+    {
       "mot": "s'en prendre à qqn.",
       "trad": "срываться на кого-нибудь"
     },
@@ -271,6 +291,10 @@
     {
       "mot": "être confronté à | faire face à",
       "trad": "столкнуться"
+    },
+    {
+      "mot": "être contraint de faire qqch.",
+      "trad": "быть вынужденнымъ"
     },
     {
       "mot": "être en train de faire qqch.",
@@ -383,6 +407,10 @@
       "trad": "hopelessly"
     },
     {
+      "mot": "dûment",
+      "trad": "duly"
+    },
+    {
       "mot": "effectivement",
       "trad": "въ самомъ дѣлѣ, фактически"
     },
@@ -423,8 +451,16 @@
       "trad": "холодно"
     },
     {
+      "mot": "furtivement <-> ouvertement",
+      "trad": null
+    },
+    {
       "mot": "fâcheusement",
       "trad": "annoyingly"
+    },
+    {
+      "mot": "grammaticalement",
+      "trad": null
     },
     {
       "mot": "gratuitement",
@@ -605,6 +641,10 @@
       "trad": null
     },
     {
+      "mot": "dans le meilleur des cas",
+      "trad": "въ лучшемъ случаѣ"
+    },
+    {
       "mot": "en cas de besoin",
       "trad": "въ случаѣ необходимости"
     },
@@ -767,6 +807,10 @@
       "trad": null
     },
     {
+      "mot": "pour plein de raisons",
+      "trad": null
+    },
+    {
       "mot": "procurer",
       "trad": null
     },
@@ -835,6 +879,10 @@
       "trad": "въ видѣ неизбежнаго слѣдствія"
     },
     {
+      "mot": "à la suite de",
+      "trad": "въ результатѣ"
+    },
+    {
       "mot": "à vouloir ainsi faire qqch.",
       "trad": "изъ-за такихъ-то дѣйствій"
     },
@@ -864,26 +912,6 @@
     }
   ],
   "concessions": [
-    {
-      "mot": "cependant",
-      "trad": null
-    },
-    {
-      "mot": "néanmoins",
-      "trad": "however"
-    },
-    {
-      "mot": "pour autant",
-      "trad": "however"
-    },
-    {
-      "mot": "pourtant",
-      "trad": null
-    },
-    {
-      "mot": "toutefois",
-      "trad": "however"
-    },
     {
       "mot": "Aucune femme n'a été élue présidente de la République en France quoique Ségolène Royal ait failli l'être en 2007.",
       "trad": null
@@ -921,6 +949,10 @@
       "trad": "даромъ что, тогда какъ"
     },
     {
+      "mot": "cependant",
+      "trad": null
+    },
+    {
       "mot": "de toute façon | quoi qu'il en soit",
       "trad": "anyway"
     },
@@ -930,6 +962,18 @@
     },
     {
       "mot": "malgré tout",
+      "trad": null
+    },
+    {
+      "mot": "néanmoins",
+      "trad": "however"
+    },
+    {
+      "mot": "pour autant",
+      "trad": "however"
+    },
+    {
+      "mot": "pourtant",
       "trad": null
     },
     {
@@ -943,6 +987,10 @@
     {
       "mot": "quoi que vous fassiez",
       "trad": "whatever you do"
+    },
+    {
+      "mot": "toutefois",
+      "trad": "however"
     }
   ],
   "conditions": [
@@ -1317,8 +1365,24 @@
       "trad": "He is tired, yet he continues to work."
     },
     {
+      "mot": "Il ne peut faire qqch. s'il fait qqch.",
+      "trad": "He cannot do sth. unless he does sth."
+    },
+    {
+      "mot": "Il ne reste plus grand-chose.",
+      "trad": null
+    },
+    {
+      "mot": "Il serait inexplicable qu’il n’en ait pas été ainsi.",
+      "trad": "Было бы необъяснимо, если бы дѣло обстояло иначе."
+    },
+    {
       "mot": "Je suis coincée ici pour une semaine, autant en profiter !",
       "trad": "I'm stuck here for a week, might as well make the most of it!"
+    },
+    {
+      "mot": "Mais s'il en est ainsi,",
+      "trad": "But if that is the case,"
     },
     {
       "mot": "Tant mieux.",
@@ -1667,6 +1731,10 @@
       "trad": "по профессіи, профессіональный"
     },
     {
+      "mot": "de toutes pièces",
+      "trad": "from scratch"
+    },
+    {
       "mot": "de vive voix <-> par écrit",
       "trad": null
     },
@@ -1765,6 +1833,10 @@
     {
       "mot": "en temps réel",
       "trad": null
+    },
+    {
+      "mot": "en vain",
+      "trad": "напрасно"
     },
     {
       "mot": "en vrac",
@@ -1913,6 +1985,10 @@
     {
       "mot": "terminer au plus vite",
       "trad": "закончить поскорѣе"
+    },
+    {
+      "mot": "tomber par terre",
+      "trad": null
     },
     {
       "mot": "un mal pour un bien",
@@ -2199,6 +2275,10 @@
       "trad": null
     },
     {
+      "mot": "de manière interchangeable",
+      "trad": "interchangeably"
+    },
+    {
       "mot": "de plusieurs manières",
       "trad": "разными способами"
     },
@@ -2415,6 +2495,10 @@
       "trad": "изъ корыстныхъ побужденій"
     },
     {
+      "mot": "juste par espièglerie",
+      "trad": "просто изъ озорства"
+    },
+    {
       "mot": "par chance",
       "trad": "къ счастью"
     },
@@ -2441,6 +2525,10 @@
     {
       "mot": "par défaut de qqch.",
       "trad": "за отсутствіемъ чего-л."
+    },
+    {
+      "mot": "par dépit",
+      "trad": "out of spite"
     },
     {
       "mot": "par ennui",
@@ -2523,6 +2611,10 @@
     {
       "mot": "Affaire de lecture :",
       "trad": "вопросъ интерпретаціи"
+    },
+    {
+      "mot": "Allons donc ! C'est impossible.",
+      "trad": "Да ну!"
     },
     {
       "mot": "Alors franchement",
@@ -2735,6 +2827,10 @@
     {
       "mot": "Tu te fous de moi ?",
       "trad": "Ты издѣваешься?"
+    },
+    {
+      "mot": "allez savoir",
+      "trad": "поди узнай"
     },
     {
       "mot": "après tout,",
@@ -3307,6 +3403,10 @@
       "trad": "Ничего подобнаго здѣсь."
     },
     {
+      "mot": "Sur cette question trop d'idées me viennent en tête. Passons.",
+      "trad": null
+    },
+    {
       "mot": "Telle est la première question.",
       "trad": null
     },
@@ -3487,6 +3587,10 @@
       "trad": null
     },
     {
+      "mot": "dans une certaine mesure",
+      "trad": "въ какой-то степени"
+    },
+    {
       "mot": "de cette envergure [about people & things] | de cette ampleur [about things]",
       "trad": "такого масштаба"
     },
@@ -3571,7 +3675,7 @@
       "trad": "on a small scale"
     }
   ],
-  "rapport": [
+  "rapports": [
     {
       "mot": "(mis) à part lui / eux / qqch.",
       "trad": "apart from"
@@ -3627,6 +3731,10 @@
     {
       "mot": "comporter | comprendre | inclure qqch.",
       "trad": "включать въ себя"
+    },
+    {
+      "mot": "conformément à",
+      "trad": "въ соотвѣтствіи съ"
     },
     {
       "mot": "consister à",
@@ -3707,6 +3815,10 @@
     {
       "mot": "quels que soient",
       "trad": "whatever, regardless of"
+    },
+    {
+      "mot": "rien au regard de la réalité",
+      "trad": "ничто по сравненію съ реальностью"
     },
     {
       "mot": "s'appuyant sur qqch.",
@@ -3803,6 +3915,10 @@
     {
       "mot": "au bout d'un certain temps",
       "trad": "по истеченіи некоторого времени"
+    },
+    {
+      "mot": "au bout d'un moment < après quelque temps",
+      "trad": "after a while"
     },
     {
       "mot": "au bout de 20 ans / quelque temps",
@@ -3995,6 +4111,10 @@
     {
       "mot": "jusqu'à présent | jusqu'ici",
       "trad": "so far"
+    },
+    {
+      "mot": "jusque-là",
+      "trad": "until then"
     },
     {
       "mot": "la première fois que qqn. avait fait qqch.",

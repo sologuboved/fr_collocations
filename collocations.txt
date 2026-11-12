@@ -5,6 +5,7 @@ Il leur arrivait de faire qqch. ~ Имъ случалось...
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
 Il n'en fallait pas plus pour faire qqch. ~ Ничего больше не нужно было, чтобы...
 Il nous tarde déjà ! ~ Мы уже с нетерпением ждем!
+J'ai cru voir un fantôme.
 J'ai dû faire qqch. ~ Должно быть, я...
 Je fais en sorte de faire qqch. ~ make sure to
 Je n'en suis pas à faire qqch. ~ I'm not at the point yet of doing sth.
@@ -17,7 +18,10 @@ J’ai bien fait de prendre quelques précautions… ~ I'm glad I took some prec
 J’ai cru tout d’abord à une comète d’un genre spécial.
 Le ministre a bien fait de prendre cette décision.
 Ma sœur me fait de la peine. ~ Мнѣ жаль мою сестру.
+Nous aviserons plus tard. | J'aviserai. ~ We'll decide later. | Тогда и подумаю.
 Pas que j'aie spécialement fait qqch. ... ~ Не то чтобы я особенно (въ прошломъ)
+T'est-il déjà arrivé de [faire qqch.] ?
+T'est-il déjà arrivé de faire qqch.?
 Vous n'avez plus de faire qqch. ~ Вамъ больше не нужно...
 avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
 avoir failli faire qqch. ~ едва не
@@ -48,6 +52,7 @@ prévoir de | compter faire qqch. ~ планировать
 qqch. est à faire qqch. ~ слѣдуетъ
 qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
 renoncer à qqch. ~ отказаться отъ чего-либо
+s'aviser de qqch. / de faire qqch. ~ додуматься [въ томъ числѣ ирон.]
 s'en prendre à qqn. ~ срываться на кого-нибудь
 s'en sortir ~ сводить концы с концами
 s'en tirer plutôt bien ~ to do rather well
@@ -67,6 +72,7 @@ y aller fort ~ перегибать палку
 être censé faire qqch.
 être confronté à qqch. ~ столкнуться
 être confronté à | faire face à ~ столкнуться
+être contraint de faire qqch. ~ быть вынужденнымъ
 être en train de faire qqch.
 être forcé de faire qqch. ~ have to
 être sur le point de faire qqch.
@@ -94,8 +100,9 @@ courageusement
 couramment ~ fluently / habitually
 décidément ~ definitely
 définitivement ~ окончательно
-délibérément ~ цѣленаправленно
+délibérément induit en erreur ~ цѣленаправленно
 désespérément ~ hopelessly
+dûment ~ duly
 effectivement ~ въ самомъ дѣлѣ, фактически
 empiriquement
 en apparence ~ внѣшне
@@ -106,7 +113,9 @@ financièrement
 follement ~ безумно
 fortement | massivement
 froidement ~ холодно
+furtivement <-> ouvertement
 fâcheusement ~ annoyingly
+grammaticalement
 gratuitement ~ безплатно
 incontestablement ~ несомнѣнно, безспорно
 infiniment ~ безконечно
@@ -153,6 +162,7 @@ au cas où | à tout hasard ~ just in case
 d'occasion ~ second-hand
 dans ces cas-là
 dans la majorité des cas
+dans le meilleur des cas ~ въ лучшемъ случаѣ
 en cas de besoin ~ въ случаѣ необходимости
 en tout cas
 il n'en était pas ainsi ~ that was not the case
@@ -195,6 +205,7 @@ favoriser ~ способствовать
 grâce à
 occasionner
 permettre de
+pour plein de raisons
 procurer
 produire
 projeter de faire qqch.
@@ -212,6 +223,7 @@ viser à faire qqch.
 à cause de
 à l'intention de
 à la clef ~ въ видѣ неизбежнаго слѣдствія
+à la suite de ~ въ результатѣ
 à vouloir ainsi faire qqch. ~ изъ-за такихъ-то дѣйствій
 étant donné que
 être causé par
@@ -230,12 +242,17 @@ J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul 
 Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.
 Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.
 alors que ~ даромъ что, тогда какъ
+cependant
 de toute façon | quoi qu'il en soit ~ anyway
 en dépit de ~ in spite of
 malgré tout
-quand même ~ anyway
+néanmoins ~ however
+pour autant ~ however
+pourtant
+quand même | en tout cas ~ anyway
 quoi que je fasse ~ no matter what I do
 quoi que vous fassiez ~ whatever you do
+toutefois ~ however
 
 CONDITIONS
 J'accepte votre proposition, sous réserve que
@@ -266,7 +283,7 @@ COOPÉRATION
 adhérer à | s'inscrire à | rejoindre | intégrer
 coopérer avec | être solidaire avec | collaborer
 participer à | prendre part à | faire partie de
-s'engager dans | s'impliquer dans | s'investir dans | se livrer à
+s'engager dans | s'impliquer dans | s'investir dans | se livrer à | s'embarquer dans
 s'occuper de | assister | aider | soutenir | appuyer | secourir
 
 COUPS
@@ -324,7 +341,6 @@ toujours plus [intense]
 tout comme ~ такъ же какъ и
 tout de même ~ still, all the same, even so
 tout à fait ~ quite
-toutefois ~ however
 voire ~ and even
 à la place de
 à l’instar de ~ наподобіе
@@ -339,7 +355,11 @@ C'est aussi quelque part un... ~ in a way
 Ce n'est pas autant qqch. que qqch.
 Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
 Il est fatigué mais il travaille pour autant ~ He is tired, yet he continues to work.
+Il ne peut faire qqch. s'il fait qqch. ~ He cannot do sth. unless he does sth.
+Il ne reste plus grand-chose.
+Il serait inexplicable qu’il n’en ait pas été ainsi. ~ Было бы необъяснимо, если бы дѣло обстояло иначе.
 Je suis coincée ici pour une semaine, autant en profiter ! ~ I'm stuck here for a week, might as well make the most of it!
+Mais s'il en est ainsi, ~ But if that is the case,
 Tant mieux. ~ Тѣмъ лучше.
 autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
 avant tout ~ прежде всего
@@ -431,6 +451,7 @@ de la tête aux pieds ~ съ головы до ногъ
 de mal en pis ~ from bad to worse
 de mal en pis from ~ bad to worse
 de métier ~ по профессіи, профессіональный
+de toutes pièces ~ from scratch
 de vive voix <-> par écrit
 deux hommes normaux par la taille et l’aspect
 donner d'ailleurs raison
@@ -456,6 +477,7 @@ en réalité | en vérité
 en secret | en coulisse
 en sécurité ~ въ безопасности
 en temps réel
+en vain ~ напрасно
 en vrac
 en échange de
 faire exprès de faire qqch.
@@ -493,6 +515,7 @@ tant attendu ~ long-awaited
 tant bien que mal ~ худо-бѣдно
 tant pis ~ что подѣлаешь
 terminer au plus vite ~ закончить поскорѣе
+tomber par terre
 un mal pour un bien ~ нѣтъ худа безъ добра
 un pas après l'autre ~ шагъ за шагомъ
 une broutille | un bibelot | une babiole ~ пустякъ
@@ -570,6 +593,7 @@ de cette façon ~ такимъ образомъ
 de façon générale | d'une façon plus générale ~ generally speaking
 de façon peu assidue ~ admittedly
 de la même manière
+de manière interchangeable ~ interchangeably
 de plusieurs manières ~ разными способами
 de toute manière, | de toute façon, ~ въ любомъ случаѣ
 en quelque sorte ~ въ своемъ родѣ
@@ -630,6 +654,7 @@ vice versa
 
 PAR
 agir par intérêt ~ изъ корыстныхъ побужденій
+juste par espièglerie ~ просто изъ озорства
 par chance ~ къ счастью
 par confort ~ для удобства
 par conséquent
@@ -637,6 +662,7 @@ par contraste avec qqch., ~ въ отличіе отъ
 par devoir ~ по обязанности
 par défaut ~ by default
 par défaut de qqch. ~ за отсутствіемъ чего-л.
+par dépit ~ out of spite
 par ennui ~ со скуки
 par envie ~ по желанію
 par essence ~ by nature
@@ -659,6 +685,7 @@ PAROLES
 , paraît-il,
 Admettons que...
 Affaire de lecture : ~ вопросъ интерпретаціи
+Allons donc ! C'est impossible. ~ Да ну!
 Alors franchement ~ Честно говоря
 Alors à mon tour, ~ Въ свою очередь, я
 C'est dans ce sens que...
@@ -712,6 +739,7 @@ Suis-je bête ! Cela m'avait échappé.
 Tout court. ~ И всё.
 Tu parles ! ~ Ну конечно.
 Tu te fous de moi ? ~ Ты издѣваешься?
+allez savoir ~ поди узнай
 après tout, ~ after all
 au bout du compte ~ въ конечномъ счетѣ
 au premier regard ~ на первый взглядъ
@@ -720,7 +748,6 @@ au sens propre / figuré
 au sens strict du terme
 autrement dit ~ иными словами
 ce qu’il y a derrière l’orthoténie ~ стоитъ за
-cependant
 certainement | certes
 citons ~ достаточно упомянуть
 d'abord | premièrement - deuxièmement | troisièmement | ensuite | après
@@ -748,7 +775,6 @@ pour ainsi dire | c'est-à-dire | on va dire | à peu près
 pour le moins ~ мягко говоря
 pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
-pourtant
 qqch. ne se dit pas en français / qqch. est dit vieilli
 rebelote ~ here we go again
 sans aucun doute
@@ -858,6 +884,7 @@ Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
 Raison de plus pour faire qqch.
 Ras-le-bol de l'état policier ! ~ хватитъ полицейщины
 Rien de tel ici. ~ Ничего подобнаго здѣсь.
+Sur cette question trop d'idées me viennent en tête. Passons.
 Telle est la première question.
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
 Tout est permis.
@@ -906,6 +933,7 @@ Sur les plus de 9 000 films que compte la base de données, près de 57 %...
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
 au total
+dans une certaine mesure ~ въ какой-то степени
 de cette envergure [about people & things] | de cette ampleur [about things] ~ такого масштаба
 de loin ~ by far
 de plus en plus
@@ -928,7 +956,7 @@ un sur deux ~ каждый второй
 à quel point j'y tiens ~ насколько мнѣ это дорого
 à une échelle réduite ~ on a small scale
 
-RAPPORT
+RAPPORTS
 (mis) à part lui / eux / qqch. ~ apart from
 Ce qui fait la différence avec toi, c'est que moi, au moins, je...
 Mais je ne vois pas le rapport avec ... . ~ Но я не вижу связи съ ...
@@ -943,6 +971,7 @@ aux yeux de qqn. | à travers les yeux de qqn.
 avoir pour avantage de faire qqch.
 comparé à
 comporter | comprendre | inclure qqch. ~ включать въ себя
+conformément à ~ въ соотвѣтствіи съ
 consister à ~ consist in
 convenir à qqch. ~ be associated with
 dans le cadre de
@@ -963,6 +992,7 @@ n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
 qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
+rien au regard de la réalité ~ ничто по сравненію съ реальностью
 s'appuyant sur qqch.
 se rapporter à ~ относиться
 sur ce coup ~ по этому поводу
@@ -980,11 +1010,6 @@ Il y a quelque chose qui ne va pas chez moi. ~ Что-то со мной не т
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
 se sentir + adjectif | ressentir / éprouver + nom | sentir que
 
-SYNONYMES
-des sornettes | baratin
-doter de | munir de | pourvoir de |fournir de | équiper de <-> démunir de | dépourvoir de | priver de
-modéré | retenu | frugal | tempéré
-
 TEMPS
 (tout) à la fois
 Actuellement,
@@ -995,6 +1020,7 @@ Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once 
 [tout] d'une traite ~ in one go
 après qqch./avoir fait qqch./que | une fois que
 au bout d'un certain temps ~ по истеченіи некоторого времени
+au bout d'un moment < après quelque temps ~ after a while
 au bout de 20 ans / quelque temps ~ after 20 years / a while
 au contretemps ~ въ неподходящее время
 au cours de ~ въ теченіе
@@ -1043,6 +1069,7 @@ il y a pile un siècle ~ ровно 100 лет назад
 irrégulièrement
 jadis ~ нѣкогда, давнымъ-давно
 jusqu'à présent | jusqu'ici ~ so far
+jusque-là ~ until then
 la première fois que qqn. avait fait qqch.
 longuement ~ подолгу
 maintes fois ~ many times
