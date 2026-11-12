@@ -949,8 +949,8 @@
       "trad": "даромъ что, тогда какъ"
     },
     {
-      "mot": "cependant",
-      "trad": null
+      "mot": "cependant | néanmoins | pour autant | pourtant | toutefois",
+      "trad": "however"
     },
     {
       "mot": "de toute façon | quoi qu'il en soit",
@@ -965,18 +965,6 @@
       "trad": null
     },
     {
-      "mot": "néanmoins",
-      "trad": "however"
-    },
-    {
-      "mot": "pour autant",
-      "trad": "however"
-    },
-    {
-      "mot": "pourtant",
-      "trad": null
-    },
-    {
       "mot": "quand même | en tout cas",
       "trad": "anyway"
     },
@@ -987,10 +975,6 @@
     {
       "mot": "quoi que vous fassiez",
       "trad": "whatever you do"
-    },
-    {
-      "mot": "toutefois",
-      "trad": "however"
     }
   ],
   "conditions": [
