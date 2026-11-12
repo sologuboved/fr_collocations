@@ -257,6 +257,10 @@
       "trad": null
     },
     {
+      "mot": "tendre vers qqch.",
+      "trad": null
+    },
+    {
       "mot": "tenir à qqn.",
       "trad": "care about someone"
     },
@@ -447,10 +451,6 @@
       "trad": "безумно"
     },
     {
-      "mot": "fortement | massivement",
-      "trad": null
-    },
-    {
       "mot": "froidement",
       "trad": "холодно"
     },
@@ -509,6 +509,10 @@
     {
       "mot": "majoritairement",
       "trad": "по большей части"
+    },
+    {
+      "mot": "massivement",
+      "trad": null
     },
     {
       "mot": "modestement",
@@ -599,6 +603,10 @@
       "trad": null
     },
     {
+      "mot": "une structure fortement charpentée",
+      "trad": null
+    },
+    {
       "mot": "vachement",
       "trad": "frigging, bloody, beastly"
     },
@@ -609,6 +617,10 @@
     {
       "mot": "volontiers",
       "trad": "voluntarily, willingly"
+    },
+    {
+      "mot": "volumineusement",
+      "trad": "обширно"
     },
     {
       "mot": "vraisemblablement",
