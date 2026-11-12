@@ -5,6 +5,7 @@ Il leur arrivait de faire qqch. ~ Имъ случалось...
 Il m'arrive de faire qqch. ~ I happen to / I occasionally ...
 Il n'en fallait pas plus pour faire qqch. ~ Ничего больше не нужно было, чтобы...
 Il nous tarde déjà ! ~ Мы уже с нетерпением ждем!
+Il s'y prenait mal. ~ Получалось у него плохо.
 J'ai cru voir un fantôme.
 J'ai dû faire qqch. ~ Должно быть, я...
 Je fais en sorte de faire qqch. ~ make sure to
@@ -75,7 +76,7 @@ y aller fort ~ перегибать палку
 être contraint de faire qqch. ~ быть вынужденнымъ
 être en train de faire qqch.
 être forcé de faire qqch. ~ have to
-être sur le point de faire qqch.
+être sur le point | en passe de faire qqch.
 
 ADVERBES
 (regarder qqn.) de haut ~ свысока
@@ -141,6 +142,7 @@ provisoirement
 prématurément
 quasiment ~ практически, почти что
 raisonnablement
+socialement acceptable
 spécialement
 succinctement ~ лаконично
 suffisamment
@@ -167,6 +169,7 @@ en cas de besoin ~ въ случаѣ необходимости
 en tout cas
 il n'en était pas ainsi ~ that was not the case
 le cas échéant ~ if applicable
+ne faire qqch. en aucun cas ~ ни въ коемъ случаѣ
 selon le cas ~ depending on the case
 à l'occasion de ~ по случаю
 
@@ -242,17 +245,14 @@ J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul 
 Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.
 Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.
 alors que ~ даромъ что, тогда какъ
-cependant
+cependant | néanmoins | pour autant | pourtant | toutefois ~ however
 de toute façon | quoi qu'il en soit ~ anyway
 en dépit de ~ in spite of
 malgré tout
-néanmoins ~ however
-pour autant ~ however
-pourtant
+ou tout au moins ~ или, по крайней мѣрѣ
 quand même | en tout cas ~ anyway
 quoi que je fasse ~ no matter what I do
 quoi que vous fassiez ~ whatever you do
-toutefois ~ however
 
 CONDITIONS
 J'accepte votre proposition, sous réserve que
@@ -503,6 +503,8 @@ pêle-mêle ~ вперемешку
 qqch. de rechange ~ запасной
 qqch. de secours ~ backup
 quel que soit qqch. ~ каковъ бы ни былъ
+rendez-vous à l'aveugle
+sans distinction
 sans effort
 se mettre à faire qqch. ~ приняться за
 sous forme de qqch. ~ въ формѣ
@@ -620,6 +622,7 @@ mettre fin à ~ положить конецъ
 mettre les connaissances en commun
 mettre qqch. à distance
 mettre qqn. au courant
+mettre qqn. en mesure de faire qqch. ~ to enable
 mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
 mettre un point final à
@@ -781,7 +784,7 @@ sans aucun doute
 selon ses termes ~ по его словамъ
 selon | d'après | à en croire | aux yeux de
 vu que ça approche ~ учитывая, что уже скоро
-À Dieu ne plaise ! | Dieu m'en garde ! ~ Боже упаси
+À Dieu ne plaise ! | [Que] Dieu m'en garde ! ~ Боже упаси
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
@@ -810,6 +813,7 @@ C'est le seul moyen ? - Je n'en vois pas d'autre.
 C'est nul. <fam.> ~ Это отстой.
 C'est retour à la case départ. ~ Back to square one.
 C'est vraiment très gentil.
+C'est à ce moment précis que tout a véritablement merdé. ~ пошло наперекосяк
 C'était compter sans qqn. ~ Но тутъ вмешался...
 Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
 Cela a-t-il une signification ?
@@ -839,6 +843,7 @@ Il est temps que tu grandisses.
 Il existe environ un million d'associations et 20 millions de Français adhèrent au moins à l'une d'entre elles.
 Il n'y a qu'à vous laisser convaincre de faire qqch.
 Il n'y a que nous. ~ Никого нѣтъ, кромѣ насъ.
+Il ne manquait pas grand-chose | Il s'en est fallu de peu pour que ce roman soit meilleur.
 Il vaut mieux que tu sois là quand ils rentreront.
 J'ai besoin de faire le point. ~ I need to take stock of the situation.
 J'ai été scotché. <fam.> ~ Отвалъ башки.
@@ -862,6 +867,7 @@ Je vais me débrouiller pour lui parler. ~ I'll find a way to talk to him.
 Je voudrais te demander un service.
 L'inverse n'est pas moins vrai.
 La faute à qqch. ~ It's all due to sth.
+La qualité laisse à désirer.
 La réponse ne va pas de soi. ~ The answer is not obvious.
 La tour Eiffel a dû choquer au début.
 Le courant est bien passé. ~ Мы сразу нашли общій языкъ.
@@ -881,6 +887,7 @@ Pour nous, ce n'était pas rien. ~ For us, it was no small matter.
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Quel est l'objet dont on se sert pour faire qqch. ?
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
+Quelles pensées et quelles associations ce tableau t'évoque-t-il ?
 Raison de plus pour faire qqch.
 Ras-le-bol de l'état policier ! ~ хватитъ полицейщины
 Rien de tel ici. ~ Ничего подобнаго здѣсь.
@@ -932,6 +939,7 @@ On y dénombre 10 enfants
 Sur les plus de 9 000 films que compte la base de données, près de 57 %...
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
+au point de ~ до такой степени, что
 au total
 dans une certaine mesure ~ въ какой-то степени
 de cette envergure [about people & things] | de cette ampleur [about things] ~ такого масштаба
@@ -1015,6 +1023,7 @@ TEMPS
 Actuellement,
 D’ici l’année prochaine, elle aura terminé  ses études. ~ by next year
 Je n'ai plus jamais fait qqch.
+Je ne sais toujours pas dans quelles circonstances tu as dessiné cet hippopotame. ~ до сихъ поръ
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 [tout] d'une traite ~ in one go

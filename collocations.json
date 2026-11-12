@@ -25,6 +25,10 @@
       "trad": "Мы уже с нетерпением ждем!"
     },
     {
+      "mot": "Il s'y prenait mal.",
+      "trad": "Получалось у него плохо."
+    },
+    {
       "mot": "J'ai cru voir un fantôme.",
       "trad": null
     },
@@ -305,7 +309,7 @@
       "trad": "have to"
     },
     {
-      "mot": "être sur le point de faire qqch.",
+      "mot": "être sur le point | en passe de faire qqch.",
       "trad": null
     }
   ],
@@ -563,6 +567,10 @@
       "trad": null
     },
     {
+      "mot": "socialement acceptable",
+      "trad": null
+    },
+    {
       "mot": "spécialement",
       "trad": null
     },
@@ -659,6 +667,10 @@
     {
       "mot": "le cas échéant",
       "trad": "if applicable"
+    },
+    {
+      "mot": "ne faire qqch. en aucun cas",
+      "trad": "ни въ коемъ случаѣ"
     },
     {
       "mot": "selon le cas",
@@ -963,6 +975,10 @@
     {
       "mot": "malgré tout",
       "trad": null
+    },
+    {
+      "mot": "ou tout au moins",
+      "trad": "или, по крайней мѣрѣ"
     },
     {
       "mot": "quand même | en tout cas",
@@ -1923,6 +1939,14 @@
       "trad": "каковъ бы ни былъ"
     },
     {
+      "mot": "rendez-vous à l'aveugle",
+      "trad": null
+    },
+    {
+      "mot": "sans distinction",
+      "trad": null
+    },
+    {
       "mot": "sans effort",
       "trad": null
     },
@@ -2359,6 +2383,10 @@
     {
       "mot": "mettre qqn. au courant",
       "trad": null
+    },
+    {
+      "mot": "mettre qqn. en mesure de faire qqch.",
+      "trad": "to enable"
     },
     {
       "mot": "mettre sur pied un projet",
@@ -2981,7 +3009,7 @@
       "trad": "учитывая, что уже скоро"
     },
     {
-      "mot": "À Dieu ne plaise ! | Dieu m'en garde !",
+      "mot": "À Dieu ne plaise ! | [Que] Dieu m'en garde !",
       "trad": "Боже упаси"
     },
     {
@@ -3089,6 +3117,10 @@
     {
       "mot": "C'est vraiment très gentil.",
       "trad": null
+    },
+    {
+      "mot": "C'est à ce moment précis que tout a véritablement merdé.",
+      "trad": "пошло наперекосяк"
     },
     {
       "mot": "C'était compter sans qqn.",
@@ -3207,6 +3239,10 @@
       "trad": "Никого нѣтъ, кромѣ насъ."
     },
     {
+      "mot": "Il ne manquait pas grand-chose | Il s'en est fallu de peu pour que ce roman soit meilleur.",
+      "trad": null
+    },
+    {
       "mot": "Il vaut mieux que tu sois là quand ils rentreront.",
       "trad": null
     },
@@ -3299,6 +3335,10 @@
       "trad": "It's all due to sth."
     },
     {
+      "mot": "La qualité laisse à désirer.",
+      "trad": null
+    },
+    {
       "mot": "La réponse ne va pas de soi.",
       "trad": "The answer is not obvious."
     },
@@ -3373,6 +3413,10 @@
     {
       "mot": "Quelle tuile ! C'était foutu !",
       "trad": "What a disaster! It was all over!"
+    },
+    {
+      "mot": "Quelles pensées et quelles associations ce tableau t'évoque-t-il ?",
+      "trad": null
     },
     {
       "mot": "Raison de plus pour faire qqch.",
@@ -3565,6 +3609,10 @@
     {
       "mot": "[une chose] en moins",
       "trad": "[одной вещью] меньше"
+    },
+    {
+      "mot": "au point de",
+      "trad": "до такой степени, что"
     },
     {
       "mot": "au total",
@@ -3879,6 +3927,10 @@
     {
       "mot": "Je n'ai plus jamais fait qqch.",
       "trad": null
+    },
+    {
+      "mot": "Je ne sais toujours pas dans quelles circonstances tu as dessiné cet hippopotame.",
+      "trad": "до сихъ поръ"
     },
     {
       "mot": "Le temps de faire qqch., j'aurais fait qqch.",
