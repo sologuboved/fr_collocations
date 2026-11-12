@@ -1,4 +1,11 @@
 {
+  "annoying": [
+    "agaçant",
+    "contrariant",
+    "fâcheux",
+    "irritant",
+    "vexant"
+  ],
   "gap": [
     "un écart",
     "le décalage",
@@ -28,6 +35,10 @@
     "subvenir à <-> démunir de",
     "dépourvoir de",
     "priver de"
+  ],
+  "satisfy": [
+    "combler",
+    "satisfaire"
   ],
   "tackle": [
     "s'attaquer à",
