@@ -30,11 +30,13 @@
   "provide": [
     "doter de",
     "munir de",
-    "pourvoir de |fournir de",
+    "pourvoir de",
+    "fournir de",
     "équiper de",
-    "subvenir à <-> démunir de",
-    "dépourvoir de",
-    "priver de"
+    "subvenir à",
+    "<-> démunir de",
+    "<-> dépourvoir de",
+    "<-> priver de"
   ],
   "satisfy": [
     "combler",
