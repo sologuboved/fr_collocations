@@ -153,11 +153,7 @@
       "trad": "демонстрировать"
     },
     {
-      "mot": "faire semblant de faire qqch.",
-      "trad": null
-    },
-    {
-      "mot": "faire semblant de | faire mine de",
+      "mot": "faire semblant de | faire mine de | feindre de faire qqch.",
       "trad": "притворяться"
     },
     {
@@ -973,7 +969,7 @@
       "trad": "however"
     },
     {
-      "mot": "de toute façon | quoi qu'il en soit",
+      "mot": "de toute manière | de toute façon | en tout état de cause | quoi qu'il en soit",
       "trad": "anyway"
     },
     {
@@ -2833,7 +2829,7 @@
       "trad": "after all"
     },
     {
-      "mot": "au bout du compte",
+      "mot": "au bout du compte | en définitive | tout compte fait",
       "trad": "въ конечномъ счетѣ"
     },
     {
@@ -2895,10 +2891,6 @@
     {
       "mot": "en clair",
       "trad": "проще говоря"
-    },
-    {
-      "mot": "en définitive",
-      "trad": "въ конечномъ счетѣ"
     },
     {
       "mot": "en d’autres termes",
