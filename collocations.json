@@ -3833,20 +3833,6 @@
       "trad": "по отношенію ко мнѣ"
     }
   ],
-  "sentiments": [
-    {
-      "mot": "Il y a quelque chose qui ne va pas chez moi.",
-      "trad": "Что-то со мной не такъ."
-    },
-    {
-      "mot": "se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que",
-      "trad": null
-    },
-    {
-      "mot": "se sentir + adjectif | ressentir / éprouver + nom | sentir que",
-      "trad": null
-    }
-  ],
   "rien": [
     {
       "mot": "Ce n'est rien à tout que...",
@@ -3918,6 +3904,20 @@
     },
     {
       "mot": "Ça ne veut rien dire.",
+      "trad": null
+    }
+  ],
+  "sentiments": [
+    {
+      "mot": "Il y a quelque chose qui ne va pas chez moi.",
+      "trad": "Что-то со мной не такъ."
+    },
+    {
+      "mot": "se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que",
+      "trad": null
+    },
+    {
+      "mot": "se sentir + adjectif | ressentir / éprouver + nom | sentir que",
       "trad": null
     }
   ],
