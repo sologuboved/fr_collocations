@@ -1080,7 +1080,7 @@ D’ici l’année prochaine, elle aura terminé  ses études. ~ by next year
 Je le reverrai à partir de | dès que...
 Je n'ai plus jamais fait qqch.
 Je ne sais toujours pas dans quelles circonstances tu as dessiné cet hippopotame. ~ до сихъ поръ
-Je reviens vendredi après-midi · demain matin.
+Je reviens vendredi après-midi · demain matin · avant le 31 août · après le 31 août.
 Je travaille jusqu'à 6 heures · entre 3 heures et 6 heures · de 9 heures à midi · la journée · du 1ᵉʳ au 31 août · du mercredi au vendredi
 Le jeudi j'avais un cours de français. · Dimanche, je vais rencontrer mon ami. · le samedi 11
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
@@ -1154,6 +1154,24 @@ jadis ~ нѣкогда, давнымъ-давно
 jusqu'à présent | jusqu'ici ~ so far
 jusque-là ~ until then
 la première fois que qqn. avait fait qqch.
+la semaine derniere\tla semaine précédente / avant
+le mois dernier\tle mois précédent / avant
+l'année derniere\tl'année précédente / avant
+
+la semaine prochaine\tla semaine suivante / après
+le mois prochain\tle mois suivant / après
+l'année prochaine\tl'année suivante / après
+
+avant-hier\tl'avant-veille
+hier\tla veille
+aujourd'hui\tce jour-là
+demain\tle lendemain
+après-demain\tle surlendemain
+
+il y a 5 ans\t5 ans avant
+dans 5 ans\t5 ans après / plus tard
+
+maintenant\tà ce moment-là
 le 1ᵉʳ août · du 1ᵉʳ au 31 août
 le mercredi soir
 longuement ~ подолгу

@@ -1,22 +1,19 @@
 mot,trad,tag
-en semaine,въ будній день,temps
-au printemps · en été · en automne · en hiver,,temps
-pendant l'année,,temps
-en août · au mois d'août prochain,,temps
-"Le jeudi j'avais un cours de français. · Dimanche, je vais rencontrer mon ami. · le samedi 11",,temps
-en 2026,,temps
-le 1ᵉʳ août · du 1ᵉʳ au 31 août,,temps
-"On est quel jour, aujourd'hui ? - On est jeudi 26 novembre 2026. · On est le 26 novembre. · Nous sommes mardi ? · On est le 4 ? · On est en novembre / au mois de novembre. · Nous ne sommes pas en juillet.",,temps
-Nous sommes restés jusqu'à la fin août. · Nous sommes rentrés vers la fin août.,,temps
-d'ici au / jusqu'au 31 août.,,temps
-Je le reverrai à partir de | dès que...,,temps
-Nous nous retrouverons au cours du mois d'août | dans le courant d'août.,,temps
-Nous nous retrouverons vers | aux environs du | autour du 31 août.,,temps
-9 heures de matin · 9 heures et quart · 9 heures et demie · 9 heures moins le quart · 9 heures 10 du soir,,temps
-le mercredi soir,,temps
-arriver en avance · à l'heure · en retard,,temps
-tous le jours,,temps
-Je travaille jusqu'à 6 heures · entre 3 heures et 6 heures · de 9 heures à midi · la journée · du 1ᵉʳ au 31 août · du mercredi au vendredi,,temps
-en milieu d'après-midi,,temps
-Quelle heure est-il ? · Le train est à quelle heure ?,,temps
-Je reviens vendredi après-midi · demain matin.,,temps
+"la semaine derniere\tla semaine précédente / avant
+le mois dernier\tle mois précédent / avant
+l'année derniere\tl'année précédente / avant
+
+la semaine prochaine\tla semaine suivante / après
+le mois prochain\tle mois suivant / après
+l'année prochaine\tl'année suivante / après
+
+avant-hier\tl'avant-veille
+hier\tla veille
+aujourd'hui\tce jour-là
+demain\tle lendemain
+après-demain\tle surlendemain
+
+il y a 5 ans\t5 ans avant
+dans 5 ans\t5 ans après / plus tard
+
+maintenant\tà ce moment-là",,temps

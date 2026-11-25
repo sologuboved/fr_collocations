@@ -25,6 +25,14 @@
       "trad": "Мы уже с нетерпением ждем!"
     },
     {
+      "mot": "Il s'y prenait mal.",
+      "trad": "Получалось у него плохо."
+    },
+    {
+      "mot": "J'ai cru voir un fantôme.",
+      "trad": null
+    },
+    {
       "mot": "J'ai dû faire qqch.",
       "trad": "Должно быть, я..."
     },
@@ -35,6 +43,10 @@
     {
       "mot": "Je n'en suis pas à faire qqch.",
       "trad": "I'm not at the point yet of doing sth."
+    },
+    {
+      "mot": "Je ne m'y fie pas beaucoup.",
+      "trad": "Я не очень-то на это полагаюсь."
     },
     {
       "mot": "Je ne peux pas m'en passer.",
@@ -73,8 +85,20 @@
       "trad": "Мнѣ жаль мою сестру."
     },
     {
+      "mot": "Nous aviserons plus tard. | J'aviserai.",
+      "trad": "We'll decide later. | Тогда и подумаю."
+    },
+    {
       "mot": "Pas que j'aie spécialement fait qqch. ...",
       "trad": "Не то чтобы я особенно (въ прошломъ)"
+    },
+    {
+      "mot": "T'est-il déjà arrivé de [faire qqch.] ?",
+      "trad": null
+    },
+    {
+      "mot": "T'est-il déjà arrivé de faire qqch.?",
+      "trad": null
     },
     {
       "mot": "Vous n'avez plus de faire qqch.",
@@ -95,6 +119,10 @@
     {
       "mot": "ce qui lui est arrivé",
       "trad": null
+    },
+    {
+      "mot": "dispenser qqn. de faire qqch.",
+      "trad": "освобождать отъ обязанности"
     },
     {
       "mot": "donner le meilleur de lui-même",
@@ -133,11 +161,11 @@
       "trad": "демонстрировать"
     },
     {
-      "mot": "faire semblant de faire qqch.",
-      "trad": null
+      "mot": "faire remonter à qqn./qqch. qqch.",
+      "trad": "возвести что-н. к кому-н./чему-н."
     },
     {
-      "mot": "faire semblant de | faire mine de",
+      "mot": "faire semblant de | faire mine de | feindre de faire qqch.",
       "trad": "притворяться"
     },
     {
@@ -173,10 +201,6 @@
       "trad": "drive smb. to do sth."
     },
     {
-      "mot": "pouvoir faire qqch. rien qu'en faisant qqch.",
-      "trad": "be able to do sth.just by doing sth."
-    },
-    {
       "mot": "pretendre faire qqch.",
       "trad": null
     },
@@ -189,12 +213,20 @@
       "trad": "слѣдуетъ"
     },
     {
+      "mot": "qqch. n'est pas en reste",
+      "trad": "не отставать"
+    },
+    {
       "mot": "qui aurait mieux faire de se taire",
       "trad": "которому лучше было бы помолчать"
     },
     {
       "mot": "renoncer à qqch.",
       "trad": "отказаться отъ чего-либо"
+    },
+    {
+      "mot": "s'aviser de qqch. / de faire qqch.",
+      "trad": "додуматься [въ томъ числѣ ирон.]"
     },
     {
       "mot": "s'en prendre à qqn.",
@@ -229,7 +261,23 @@
       "trad": null
     },
     {
+      "mot": "se refuser de faire qqch.",
+      "trad": null
+    },
+    {
+      "mot": "se tenir à qqch.",
+      "trad": "to stick to something"
+    },
+    {
       "mot": "sortir gagnant-gagnant",
+      "trad": null
+    },
+    {
+      "mot": "s’épuiser à faire qqch.",
+      "trad": "тщетно пытаться"
+    },
+    {
+      "mot": "tendre vers qqch.",
       "trad": null
     },
     {
@@ -273,6 +321,14 @@
       "trad": "столкнуться"
     },
     {
+      "mot": "être contraint de faire qqch.",
+      "trad": "быть вынужденнымъ"
+    },
+    {
+      "mot": "être en mesure de trancher toutes ces questions",
+      "trad": "быть въ состояніи"
+    },
+    {
       "mot": "être en train de faire qqch.",
       "trad": null
     },
@@ -281,7 +337,7 @@
       "trad": "have to"
     },
     {
-      "mot": "être sur le point de faire qqch.",
+      "mot": "être sur le point | en passe de faire qqch.",
       "trad": null
     }
   ],
@@ -335,6 +391,10 @@
       "trad": "downright"
     },
     {
+      "mot": "changer progressivement",
+      "trad": null
+    },
+    {
       "mot": "concrètement",
       "trad": null
     },
@@ -363,16 +423,28 @@
       "trad": "fluently / habitually"
     },
     {
+      "mot": "davantage",
+      "trad": "дополнительно"
+    },
+    {
       "mot": "décidément",
       "trad": "definitely"
     },
     {
-      "mot": "délibérément",
+      "mot": "définitivement",
+      "trad": "окончательно"
+    },
+    {
+      "mot": "délibérément induit en erreur",
       "trad": "цѣленаправленно"
     },
     {
       "mot": "désespérément",
       "trad": "hopelessly"
+    },
+    {
+      "mot": "dûment",
+      "trad": "duly"
     },
     {
       "mot": "effectivement",
@@ -399,6 +471,10 @@
       "trad": "explicitely"
     },
     {
+      "mot": "extrêmement",
+      "trad": null
+    },
+    {
       "mot": "financièrement",
       "trad": null
     },
@@ -407,20 +483,28 @@
       "trad": "безумно"
     },
     {
-      "mot": "fortement | massivement",
-      "trad": null
-    },
-    {
       "mot": "froidement",
       "trad": "холодно"
+    },
+    {
+      "mot": "furtivement <-> ouvertement",
+      "trad": null
     },
     {
       "mot": "fâcheusement",
       "trad": "annoyingly"
     },
     {
+      "mot": "grammaticalement",
+      "trad": null
+    },
+    {
       "mot": "gratuitement",
       "trad": "безплатно"
+    },
+    {
+      "mot": "immanquablement",
+      "trad": "неизбежно, безошибочно"
     },
     {
       "mot": "incontestablement",
@@ -433,6 +517,10 @@
     {
       "mot": "inlassablement",
       "trad": "tirelessly"
+    },
+    {
+      "mot": "involontairement",
+      "trad": null
     },
     {
       "mot": "joliment",
@@ -461,6 +549,10 @@
     {
       "mot": "majoritairement",
       "trad": "по большей части"
+    },
+    {
+      "mot": "massivement",
+      "trad": null
     },
     {
       "mot": "modestement",
@@ -519,6 +611,10 @@
       "trad": null
     },
     {
+      "mot": "socialement acceptable",
+      "trad": null
+    },
+    {
       "mot": "spécialement",
       "trad": null
     },
@@ -547,6 +643,10 @@
       "trad": null
     },
     {
+      "mot": "une structure fortement charpentée",
+      "trad": null
+    },
+    {
       "mot": "vachement",
       "trad": "frigging, bloody, beastly"
     },
@@ -557,6 +657,10 @@
     {
       "mot": "volontiers",
       "trad": "voluntarily, willingly"
+    },
+    {
+      "mot": "volumineusement",
+      "trad": "обширно"
     },
     {
       "mot": "vraisemblablement",
@@ -575,6 +679,10 @@
       "trad": "наощупь"
     },
     {
+      "mot": "écarter dédaigneusement qqch.",
+      "trad": "презрительно отмахнуться отъ"
+    },
+    {
       "mot": "éventuellement",
       "trad": "по обстоятельствамъ, возможно"
     }
@@ -587,6 +695,18 @@
     {
       "mot": "d'occasion",
       "trad": "second-hand"
+    },
+    {
+      "mot": "dans ces cas-là",
+      "trad": null
+    },
+    {
+      "mot": "dans la majorité des cas",
+      "trad": null
+    },
+    {
+      "mot": "dans le meilleur des cas",
+      "trad": "въ лучшемъ случаѣ"
     },
     {
       "mot": "en cas de besoin",
@@ -603,6 +723,10 @@
     {
       "mot": "le cas échéant",
       "trad": "if applicable"
+    },
+    {
+      "mot": "ne faire qqch. en aucun cas",
+      "trad": "ни въ коемъ случаѣ"
     },
     {
       "mot": "selon le cas",
@@ -711,6 +835,10 @@
       "trad": null
     },
     {
+      "mot": "de la sorte",
+      "trad": "такимъ образомъ"
+    },
+    {
       "mot": "de sorte que",
       "trad": "cъ тѣмъ, чтобы"
     },
@@ -735,7 +863,7 @@
       "trad": "and for a good reason"
     },
     {
-      "mot": "favoriser",
+      "mot": "favoriser ; Le site est favorisé par de nombreux transports.",
       "trad": "способствовать"
     },
     {
@@ -748,6 +876,10 @@
     },
     {
       "mot": "permettre de",
+      "trad": null
+    },
+    {
+      "mot": "pour plein de raisons",
       "trad": null
     },
     {
@@ -819,6 +951,10 @@
       "trad": "въ видѣ неизбежнаго слѣдствія"
     },
     {
+      "mot": "à la suite de",
+      "trad": "въ результатѣ"
+    },
+    {
       "mot": "à vouloir ainsi faire qqch.",
       "trad": "изъ-за такихъ-то дѣйствій"
     },
@@ -874,7 +1010,7 @@
     },
     {
       "mot": "Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.",
-      "trad": null
+      "trad": "сколько бы ни / как бы ни"
     },
     {
       "mot": "Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.",
@@ -885,7 +1021,11 @@
       "trad": "даромъ что, тогда какъ"
     },
     {
-      "mot": "de toute façon | quoi qu'il en soit",
+      "mot": "cependant | néanmoins | pour autant | pourtant | toutefois",
+      "trad": "however"
+    },
+    {
+      "mot": "de toute manière | de toute façon | en tout état de cause | quoi qu'il en soit",
       "trad": "anyway"
     },
     {
@@ -897,7 +1037,11 @@
       "trad": null
     },
     {
-      "mot": "quand même",
+      "mot": "ou tout au moins",
+      "trad": "или, по крайней мѣрѣ"
+    },
+    {
+      "mot": "quand même | en tout cas",
       "trad": "anyway"
     },
     {
@@ -1011,7 +1155,7 @@
       "trad": null
     },
     {
-      "mot": "s'engager dans | s'impliquer dans | s'investir dans | se livrer à",
+      "mot": "s'engager dans | s'impliquer dans | s'investir dans | se livrer à | s'embarquer dans",
       "trad": null
     },
     {
@@ -1049,8 +1193,12 @@
       "trad": "at the time, on the spur of the moment"
     },
     {
-      "mot": "tout à coup",
+      "mot": "tout à coup | tout d'un coup",
       "trad": "внезапно"
+    },
+    {
+      "mot": "un contrecoup de",
+      "trad": "отдача, послѣдствія,отголосокъ, отвѣтная реакція"
     },
     {
       "mot": "un coup de pouce",
@@ -1231,10 +1379,6 @@
       "trad": "quite"
     },
     {
-      "mot": "toutefois",
-      "trad": "however"
-    },
-    {
       "mot": "voire",
       "trad": "and even"
     },
@@ -1261,6 +1405,10 @@
   ],
   "déixis": [
     {
+      "mot": "(exactement) tel quel",
+      "trad": "as is"
+    },
+    {
       "mot": ", à peu de chose près,",
       "trad": "практически"
     },
@@ -1285,8 +1433,24 @@
       "trad": "He is tired, yet he continues to work."
     },
     {
+      "mot": "Il ne peut faire qqch. s'il fait qqch.",
+      "trad": "He cannot do sth. unless he does sth."
+    },
+    {
+      "mot": "Il ne reste plus grand-chose.",
+      "trad": null
+    },
+    {
+      "mot": "Il serait inexplicable qu’il n’en ait pas été ainsi.",
+      "trad": "Было бы необъяснимо, если бы дѣло обстояло иначе."
+    },
+    {
       "mot": "Je suis coincée ici pour une semaine, autant en profiter !",
       "trad": "I'm stuck here for a week, might as well make the most of it!"
+    },
+    {
+      "mot": "Mais s'il en est ainsi,",
+      "trad": "But if that is the case,"
     },
     {
       "mot": "Tant mieux.",
@@ -1313,10 +1477,6 @@
       "trad": "аналогичнымъ образомъ"
     },
     {
-      "mot": "de même que",
-      "trad": "такъ же какъ"
-    },
-    {
       "mot": "du moins",
       "trad": "по крайней мѣрѣ"
     },
@@ -1331,6 +1491,10 @@
     {
       "mot": "et ainsi de suite",
       "trad": "and so on"
+    },
+    {
+      "mot": "les accepter tels qu'ils sont",
+      "trad": "accept them as they are"
     },
     {
       "mot": "ni même qqn.",
@@ -1350,7 +1514,7 @@
     },
     {
       "mot": "quitte à faire qqch.",
-      "trad": "even if it means to, at the risk of, разъ ужъ"
+      "trad": "even if it means to, if only to, at the risk of, разъ ужъ"
     },
     {
       "mot": "quoi que ce soit",
@@ -1365,10 +1529,6 @@
       "trad": "давай"
     },
     {
-      "mot": "Ça ne fait rien. | Ça ne sert à rien.",
-      "trad": "Это безполезно."
-    },
-    {
       "mot": "à peu près ça | un truc du genre",
       "trad": null
     }
@@ -1377,6 +1537,10 @@
     {
       "mot": "Est-il temps d'y aller ?",
       "trad": "Time to go?"
+    },
+    {
+      "mot": "au carré",
+      "trad": "²"
     },
     {
       "mot": "au sein de",
@@ -1417,6 +1581,10 @@
     {
       "mot": "par ici",
       "trad": "this way"
+    },
+    {
+      "mot": "par l’intérieur",
+      "trad": "изнутри"
     },
     {
       "mot": "s'arrêter sur place",
@@ -1491,6 +1659,10 @@
       "trad": "Good riddance."
     },
     {
+      "mot": "Franchement, t’abuses ! | C’est abusé !",
+      "trad": "Ты перегибаешь палку! | Это переборъ."
+    },
+    {
       "mot": "[créer] de toutes pièces",
       "trad": "from scratch"
     },
@@ -1549,6 +1721,10 @@
     {
       "mot": "au ralenti",
       "trad": "въ замедленной съемкѣ"
+    },
+    {
+      "mot": "aux dépens de",
+      "trad": "за счет"
     },
     {
       "mot": "avec force détail",
@@ -1631,6 +1807,10 @@
       "trad": "по профессіи, профессіональный"
     },
     {
+      "mot": "de toutes pièces",
+      "trad": "from scratch"
+    },
+    {
       "mot": "de vive voix <-> par écrit",
       "trad": null
     },
@@ -1703,10 +1883,6 @@
       "trad": null
     },
     {
-      "mot": "en partant de rien",
-      "trad": "съ нуля"
-    },
-    {
       "mot": "en priorité",
       "trad": null
     },
@@ -1729,6 +1905,10 @@
     {
       "mot": "en temps réel",
       "trad": null
+    },
+    {
+      "mot": "en vain",
+      "trad": "напрасно"
     },
     {
       "mot": "en vrac",
@@ -1763,12 +1943,8 @@
       "trad": "внѣ досягаемости"
     },
     {
-      "mot": "il n'y a rien à dire",
-      "trad": "ничего не скажешь"
-    },
-    {
-      "mot": "l'air de rien",
-      "trad": null
+      "mot": "jusqu'à plus ample informé",
+      "trad": "until further notice"
     },
     {
       "mot": "la donne",
@@ -1831,6 +2007,14 @@
       "trad": "каковъ бы ни былъ"
     },
     {
+      "mot": "rendez-vous à l'aveugle",
+      "trad": null
+    },
+    {
+      "mot": "sans distinction",
+      "trad": null
+    },
+    {
       "mot": "sans effort",
       "trad": null
     },
@@ -1879,6 +2063,14 @@
       "trad": "закончить поскорѣе"
     },
     {
+      "mot": "tomber par terre",
+      "trad": null
+    },
+    {
+      "mot": "tour à tour",
+      "trad": "по очереди"
+    },
+    {
       "mot": "un mal pour un bien",
       "trad": "нѣтъ худа безъ добра"
     },
@@ -1911,6 +2103,10 @@
       "trad": "сходу, спонтанно, безъ подготовки"
     },
     {
+      "mot": "à charge à moi-même",
+      "trad": "въ тягость себѣ"
+    },
+    {
       "mot": "à dessein",
       "trad": "намѣренно"
     },
@@ -1933,6 +2129,10 @@
     {
       "mot": "à l'infini",
       "trad": null
+    },
+    {
+      "mot": "à l'insu de | sans le savoir",
+      "trad": "unwittingly"
     },
     {
       "mot": "à l'occurrence",
@@ -2033,6 +2233,10 @@
       "trad": null
     },
     {
+      "mot": "dans l'ensemble",
+      "trad": "въ цѣломъ"
+    },
+    {
       "mot": "du même type",
       "trad": null
     },
@@ -2077,10 +2281,6 @@
     {
       "mot": "peu importe",
       "trad": null
-    },
-    {
-      "mot": "rien à foutre",
-      "trad": "couldn't give a fuck"
     },
     {
       "mot": "Ça m'importait.",
@@ -2163,6 +2363,10 @@
       "trad": null
     },
     {
+      "mot": "de manière interchangeable",
+      "trad": "interchangeably"
+    },
+    {
       "mot": "de plusieurs manières",
       "trad": "разными способами"
     },
@@ -2222,7 +2426,7 @@
     },
     {
       "mot": "mettre en place",
-      "trad": "настраивать"
+      "trad": "настраивать, размѣщать"
     },
     {
       "mot": "mettre en pratique",
@@ -2261,6 +2465,10 @@
       "trad": null
     },
     {
+      "mot": "mettre qqn. en mesure de faire qqch.",
+      "trad": "to enable"
+    },
+    {
       "mot": "mettre sur pied un projet",
       "trad": "воплотить въ жизнь"
     },
@@ -2275,6 +2483,10 @@
     {
       "mot": "mettre une heure de plus pour faire qqch.",
       "trad": "понадобится на часъ больше"
+    },
+    {
+      "mot": "mettre à distance",
+      "trad": null
     },
     {
       "mot": "mettre à jour",
@@ -2337,12 +2549,12 @@
   ],
   "oppositions": [
     {
-      "mot": "13 % des hommes le pensent contre 7 % des femmes.",
-      "trad": null
+      "mot": "(bien) au contraire",
+      "trad": "(ровно) наоборотъ"
     },
     {
-      "mot": "au contraire",
-      "trad": "напротивъ"
+      "mot": "13 % des hommes le pensent contre 7 % des femmes.",
+      "trad": null
     },
     {
       "mot": "contrairement à",
@@ -2379,6 +2591,14 @@
       "trad": "изъ корыстныхъ побужденій"
     },
     {
+      "mot": "juste par espièglerie",
+      "trad": "просто изъ озорства"
+    },
+    {
+      "mot": "par abus",
+      "trad": "by way of misappropriation"
+    },
+    {
       "mot": "par chance",
       "trad": "къ счастью"
     },
@@ -2405,6 +2625,10 @@
     {
       "mot": "par défaut de qqch.",
       "trad": "за отсутствіемъ чего-л."
+    },
+    {
+      "mot": "par dépit",
+      "trad": "out of spite"
     },
     {
       "mot": "par ennui",
@@ -2489,6 +2713,10 @@
       "trad": "вопросъ интерпретаціи"
     },
     {
+      "mot": "Allons donc ! C'est impossible.",
+      "trad": "Да ну!"
+    },
+    {
       "mot": "Alors franchement",
       "trad": "Честно говоря"
     },
@@ -2501,6 +2729,10 @@
       "trad": null
     },
     {
+      "mot": "C'est dur à dire.",
+      "trad": null
+    },
+    {
       "mot": "C'est déplacé.",
       "trad": "This is uncalled for."
     },
@@ -2509,8 +2741,12 @@
       "trad": null
     },
     {
-      "mot": "Ce n'est rien à tout que...",
-      "trad": null
+      "mot": "Cela ne veut pas dire que",
+      "trad": "Это не значитъ, что"
+    },
+    {
+      "mot": "Cela va de soi.",
+      "trad": "That goes without saying."
     },
     {
       "mot": "Comme dit plus haut",
@@ -2561,8 +2797,20 @@
       "trad": null
     },
     {
+      "mot": "Il me paraît que cela explique...",
+      "trad": null
+    },
+    {
       "mot": "Il me semble que...",
       "trad": null
+    },
+    {
+      "mot": "Il n'en reste pas moins que",
+      "trad": "Фактъ остается фактомъ, что"
+    },
+    {
+      "mot": "Il s'en faut de beaucoup.",
+      "trad": "Far from it."
     },
     {
       "mot": "Il s'est avéré que...",
@@ -2637,6 +2885,10 @@
       "trad": "Не совсѣмъ."
     },
     {
+      "mot": "Pour introduire plus de clarté dans ce dédale dialectique,",
+      "trad": null
+    },
+    {
       "mot": "Pourquoi tu dis ça ?",
       "trad": "Почему ты так думаешь?"
     },
@@ -2697,11 +2949,15 @@
       "trad": "Ты издѣваешься?"
     },
     {
+      "mot": "allez savoir",
+      "trad": "поди узнай"
+    },
+    {
       "mot": "après tout,",
       "trad": "after all"
     },
     {
-      "mot": "au bout du compte",
+      "mot": "au bout du compte | en fin de compte | tout compte faite | en définitive",
       "trad": "въ конечномъ счетѣ"
     },
     {
@@ -2721,16 +2977,16 @@
       "trad": null
     },
     {
+      "mot": "au-delà de ce que l’on imagine",
+      "trad": "beyond what one might imagine"
+    },
+    {
       "mot": "autrement dit",
       "trad": "иными словами"
     },
     {
       "mot": "ce qu’il y a derrière l’orthoténie",
       "trad": "стоитъ за"
-    },
-    {
-      "mot": "cependant",
-      "trad": null
     },
     {
       "mot": "certainement | certes",
@@ -2767,10 +3023,6 @@
     {
       "mot": "en clair",
       "trad": "проще говоря"
-    },
-    {
-      "mot": "en définitive",
-      "trad": "въ конечномъ счетѣ"
     },
     {
       "mot": "en d’autres termes",
@@ -2841,12 +3093,12 @@
       "trad": null
     },
     {
-      "mot": "pourtant",
+      "mot": "qqch. ne se dit pas en français / qqch. est dit vieilli",
       "trad": null
     },
     {
-      "mot": "qqch. ne se dit pas en français / qqch. est dit vieilli",
-      "trad": null
+      "mot": "qqch., j'entends qqch.",
+      "trad": "я подразумѣваю"
     },
     {
       "mot": "rebelote",
@@ -2869,7 +3121,7 @@
       "trad": "учитывая, что уже скоро"
     },
     {
-      "mot": "À Dieu ne plaise ! | Dieu m'en garde !",
+      "mot": "À Dieu ne plaise ! | [Que] Dieu m'en garde !",
       "trad": "Боже упаси"
     },
     {
@@ -2885,16 +3137,16 @@
       "trad": "Вот это да!"
     },
     {
+      "mot": "Ça m'intéresse de savoir.",
+      "trad": null
+    },
+    {
       "mot": "Ça n'a pas de sens.",
       "trad": null
     },
     {
       "mot": "Ça n'a pas de sens. | Ça ne veut rien dire.",
       "trad": null
-    },
-    {
-      "mot": "Ça n'a rien à voir avec ce que...",
-      "trad": "This has nothing to do with..."
     },
     {
       "mot": "Ça ne vous regarde pas !",
@@ -2977,6 +3229,10 @@
     {
       "mot": "C'est vraiment très gentil.",
       "trad": null
+    },
+    {
+      "mot": "C'est à ce moment précis que tout a véritablement merdé.",
+      "trad": "пошло наперекосяк"
     },
     {
       "mot": "C'était compter sans qqn.",
@@ -3095,6 +3351,10 @@
       "trad": "Никого нѣтъ, кромѣ насъ."
     },
     {
+      "mot": "Il ne manquait pas grand-chose | Il s'en est fallu de peu pour que ce roman soit meilleur.",
+      "trad": null
+    },
+    {
       "mot": "Il vaut mieux que tu sois là quand ils rentreront.",
       "trad": null
     },
@@ -3187,6 +3447,10 @@
       "trad": "It's all due to sth."
     },
     {
+      "mot": "La qualité laisse à désirer.",
+      "trad": null
+    },
+    {
       "mot": "La réponse ne va pas de soi.",
       "trad": "The answer is not obvious."
     },
@@ -3231,24 +3495,12 @@
       "trad": "We are not out of the woods yet."
     },
     {
-      "mot": "On ne peut rien à qqch.",
-      "trad": "There's nothing we can do about sth."
-    },
-    {
       "mot": "On pouvait s'y attendre",
       "trad": "That was to be expected"
     },
     {
-      "mot": "Personne n'en a rien à faire de ces conneries.",
-      "trad": "Nobody gives a shit about this bullshit."
-    },
-    {
       "mot": "Place à la musique !",
       "trad": "Time for music!"
-    },
-    {
-      "mot": "Pour nous, ce n'était pas rien.",
-      "trad": "For us, it was no small matter."
     },
     {
       "mot": "Qu'est-ce que ça peut bien faire ce que...",
@@ -3263,6 +3515,10 @@
       "trad": "What a disaster! It was all over!"
     },
     {
+      "mot": "Quelles pensées et quelles associations ce tableau t'évoque-t-il ?",
+      "trad": null
+    },
+    {
       "mot": "Raison de plus pour faire qqch.",
       "trad": null
     },
@@ -3271,8 +3527,8 @@
       "trad": "хватитъ полицейщины"
     },
     {
-      "mot": "Rien de tel ici.",
-      "trad": "Ничего подобнаго здѣсь."
+      "mot": "Sur cette question trop d'idées me viennent en tête. Passons.",
+      "trad": null
     },
     {
       "mot": "Telle est la première question.",
@@ -3319,10 +3575,6 @@
       "trad": null
     },
     {
-      "mot": "comme si de rien n'était",
-      "trad": "as if nothing had happened"
-    },
-    {
       "mot": "de ... se dégage l’impression que ...",
       "trad": null
     },
@@ -3333,10 +3585,6 @@
     {
       "mot": "il en est / sera autrement de",
       "trad": "it will be different for"
-    },
-    {
-      "mot": "n'avoir rien à y faire",
-      "trad": "нечего там дѣлать"
     },
     {
       "mot": "pour que tout un chacun comprenne que...",
@@ -3371,15 +3619,7 @@
       "trad": "It resonates with me!"
     },
     {
-      "mot": "Ça n'a rien à faire ici.",
-      "trad": "Этому здѣсь не мѣсто."
-    },
-    {
       "mot": "Ça ne fait pas tout.",
-      "trad": null
-    },
-    {
-      "mot": "Ça ne t'engage à rien.",
       "trad": null
     },
     {
@@ -3451,8 +3691,20 @@
       "trad": "[одной вещью] меньше"
     },
     {
+      "mot": "au plus haut point",
+      "trad": "въ высшей степени"
+    },
+    {
+      "mot": "au point de",
+      "trad": "до такой степени, что"
+    },
+    {
       "mot": "au total",
       "trad": null
+    },
+    {
+      "mot": "dans une certaine mesure",
+      "trad": "въ какой-то степени"
     },
     {
       "mot": "de cette envergure [about people & things] | de cette ampleur [about things]",
@@ -3487,6 +3739,10 @@
       "trad": "significantly more"
     },
     {
+      "mot": "non plus non moins",
+      "trad": null
+    },
+    {
       "mot": "petit à petit",
       "trad": "понемножку"
     },
@@ -3495,12 +3751,20 @@
       "trad": "plus ou moins"
     },
     {
+      "mot": "pris à part",
+      "trad": "въ отдѣльности"
+    },
+    {
       "mot": "quel(le) que puisse être qqch.",
       "trad": "каким/ой бы ни был/а..."
     },
     {
       "mot": "quelque peu",
       "trad": "a little"
+    },
+    {
+      "mot": "représenter 43 à 46 % des",
+      "trad": null
     },
     {
       "mot": "sans compter ceux qui",
@@ -3519,6 +3783,14 @@
       "trad": "каждый второй"
     },
     {
+      "mot": "un tant soit peu",
+      "trad": "~peu"
+    },
+    {
+      "mot": "à ce point",
+      "trad": "до такой степени"
+    },
+    {
       "mot": "à moitié",
       "trad": "наполовину"
     },
@@ -3531,11 +3803,15 @@
       "trad": "насколько мнѣ это дорого"
     },
     {
+      "mot": "à tel point",
+      "trad": "до такой степени"
+    },
+    {
       "mot": "à une échelle réduite",
       "trad": "on a small scale"
     }
   ],
-  "rapport": [
+  "rapports": [
     {
       "mot": "(mis) à part lui / eux / qqch.",
       "trad": "apart from"
@@ -3593,6 +3869,10 @@
       "trad": "включать въ себя"
     },
     {
+      "mot": "conformément à",
+      "trad": "въ соотвѣтствіи съ"
+    },
+    {
       "mot": "consister à",
       "trad": "consist in"
     },
@@ -3603,6 +3883,10 @@
     {
       "mot": "dans le cadre de",
       "trad": null
+    },
+    {
+      "mot": "de même que..., de même...",
+      "trad": "такъ же какъ / подобно тому, какъ ... такъ и"
     },
     {
       "mot": "demander ce qu'il en était de la France",
@@ -3627,6 +3911,10 @@
     {
       "mot": "en fonction de",
       "trad": "depending on, in terms of"
+    },
+    {
+      "mot": "en guise de réaction",
+      "trad": "въ качествѣ отвѣтной реакціи"
     },
     {
       "mot": "en occurrence de",
@@ -3705,6 +3993,10 @@
       "trad": null
     },
     {
+      "mot": "à certains égards",
+      "trad": "въ нѣкоторыхъ отношеніяхъ"
+    },
+    {
       "mot": "à force d'être",
       "trad": "въ силу"
     },
@@ -3713,8 +4005,102 @@
       "trad": "въ отличіе отъ прочихъ"
     },
     {
+      "mot": "à l’occasion de",
+      "trad": "въ саязи съ"
+    },
+    {
       "mot": "à mon égard",
       "trad": "по отношенію ко мнѣ"
+    },
+    {
+      "mot": "à ses yeux",
+      "trad": null
+    }
+  ],
+  "rien": [
+    {
+      "mot": "Ce n'est rien à tout que...",
+      "trad": null
+    },
+    {
+      "mot": "Je n’y suis pour rien.",
+      "trad": "Я тутъ ни при чемъ."
+    },
+    {
+      "mot": "Mais ça n'a rien à voir.",
+      "trad": "Но это совсѣмъ другое дѣло."
+    },
+    {
+      "mot": "On ne peut rien à qqch.",
+      "trad": "There's nothing we can do about sth."
+    },
+    {
+      "mot": "Personne n'en a rien à faire de ces conneries.",
+      "trad": "Nobody gives a shit about this bullshit."
+    },
+    {
+      "mot": "Pour nous, ce n'était pas rien.",
+      "trad": "For us, it was no small matter."
+    },
+    {
+      "mot": "Rien de tel ici.",
+      "trad": "Ничего подобнаго здѣсь."
+    },
+    {
+      "mot": "comme si de rien n'était",
+      "trad": "as if nothing had happened"
+    },
+    {
+      "mot": "en partant de rien",
+      "trad": "съ нуля"
+    },
+    {
+      "mot": "il n'y a rien à dire",
+      "trad": "ничего не скажешь"
+    },
+    {
+      "mot": "l'air de rien",
+      "trad": null
+    },
+    {
+      "mot": "n'avoir rien à y faire",
+      "trad": "нечего там дѣлать"
+    },
+    {
+      "mot": "pouvoir faire qqch. rien qu'en faisant qqch.",
+      "trad": "be able to do sth.just by doing sth."
+    },
+    {
+      "mot": "rien au regard de la réalité",
+      "trad": "ничто по сравненію съ реальностью"
+    },
+    {
+      "mot": "rien à foutre",
+      "trad": "couldn't give a fuck"
+    },
+    {
+      "mot": "Ça n'a rien à faire ici.",
+      "trad": "Этому здѣсь не мѣсто."
+    },
+    {
+      "mot": "Ça n'a rien à voir avec ce que...",
+      "trad": "This has nothing to do with..."
+    },
+    {
+      "mot": "Ça n'a rien à voir.",
+      "trad": null
+    },
+    {
+      "mot": "Ça ne fait rien. | Ça ne sert à rien.",
+      "trad": "Это безполезно."
+    },
+    {
+      "mot": "Ça ne t'engage à rien.",
+      "trad": null
+    },
+    {
+      "mot": "Ça ne veut rien dire.",
+      "trad": null
     }
   ],
   "sentiments": [
@@ -3723,31 +4109,25 @@
       "trad": "Что-то со мной не такъ."
     },
     {
+      "mot": "Je m'étonne. Je n'y crois pas.",
+      "trad": null
+    },
+    {
       "mot": "se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que",
       "trad": null
     },
     {
       "mot": "se sentir + adjectif | ressentir / éprouver + nom | sentir que",
       "trad": null
-    }
-  ],
-  "synonymes": [
-    {
-      "mot": "des sornettes | baratin",
-      "trad": null
     },
     {
-      "mot": "doter de | munir de | pourvoir de |fournir de | équiper de <-> démunir de | dépourvoir de | priver de",
-      "trad": null
-    },
-    {
-      "mot": "modéré | retenu | frugal | tempéré",
-      "trad": null
+      "mot": "se soucier peu de qqch.",
+      "trad": "мало безпокоиться"
     }
   ],
   "temps": [
     {
-      "mot": "(tout) à la fois",
+      "mot": "9 heures de matin · 9 heures et quart · 9 heures et demie · 9 heures moins le quart · 9 heures 10 du soir",
       "trad": null
     },
     {
@@ -3759,12 +4139,52 @@
       "trad": "by next year"
     },
     {
+      "mot": "Je le reverrai à partir de | dès que...",
+      "trad": null
+    },
+    {
       "mot": "Je n'ai plus jamais fait qqch.",
+      "trad": null
+    },
+    {
+      "mot": "Je ne sais toujours pas dans quelles circonstances tu as dessiné cet hippopotame.",
+      "trad": "до сихъ поръ"
+    },
+    {
+      "mot": "Je reviens vendredi après-midi · demain matin · avant le 31 août · après le 31 août.",
+      "trad": null
+    },
+    {
+      "mot": "Je travaille jusqu'à 6 heures · entre 3 heures et 6 heures · de 9 heures à midi · la journée · du 1ᵉʳ au 31 août · du mercredi au vendredi",
+      "trad": null
+    },
+    {
+      "mot": "Le jeudi j'avais un cours de français. · Dimanche, je vais rencontrer mon ami. · le samedi 11",
       "trad": null
     },
     {
       "mot": "Le temps de faire qqch., j'aurais fait qqch.",
       "trad": "By the time I do sth, I would have done sth."
+    },
+    {
+      "mot": "Nous nous retrouverons au cours du mois d'août | dans le courant d'août.",
+      "trad": null
+    },
+    {
+      "mot": "Nous nous retrouverons vers | aux environs du | autour du 31 août.",
+      "trad": null
+    },
+    {
+      "mot": "Nous sommes restés jusqu'à la fin août. · Nous sommes rentrés vers la fin août.",
+      "trad": null
+    },
+    {
+      "mot": "On est quel jour, aujourd'hui ? - On est jeudi 26 novembre 2026. · On est le 26 novembre. · Nous sommes mardi ? · On est le 4 ? · On est en novembre / au mois de novembre. · Nous ne sommes pas en juillet.",
+      "trad": null
+    },
+    {
+      "mot": "Quelle heure est-il ? · Le train est à quelle heure ?",
+      "trad": null
     },
     {
       "mot": "Une fois que j'aurai terminé ma formation, j'espère devenir éditrice.",
@@ -3775,12 +4195,24 @@
       "trad": "in one go"
     },
     {
+      "mot": "[tout] à la fois",
+      "trad": null
+    },
+    {
       "mot": "après qqch./avoir fait qqch./que | une fois que",
+      "trad": null
+    },
+    {
+      "mot": "arriver en avance · à l'heure · en retard",
       "trad": null
     },
     {
       "mot": "au bout d'un certain temps",
       "trad": "по истеченіи некоторого времени"
+    },
+    {
+      "mot": "au bout d'un moment < après quelque temps",
+      "trad": "after a while"
     },
     {
       "mot": "au bout de 20 ans / quelque temps",
@@ -3813,6 +4245,10 @@
     {
       "mot": "au plus tôt",
       "trad": "самое раннее"
+    },
+    {
+      "mot": "au printemps · en été · en automne · en hiver",
+      "trad": null
     },
     {
       "mot": "auparavant",
@@ -3851,6 +4287,10 @@
       "trad": "съ перваго раза, тутъ же"
     },
     {
+      "mot": "d'ici au / jusqu'au 31 août.",
+      "trad": null
+    },
+    {
       "mot": "d'ici à 10 ans",
       "trad": null
     },
@@ -3873,6 +4313,10 @@
     {
       "mot": "dans la journée",
       "trad": "during the daytime"
+    },
+    {
+      "mot": "dans la même journée",
+      "trad": "въ тотъ же день"
     },
     {
       "mot": "de nouveau",
@@ -3923,11 +4367,27 @@
       "trad": "ASAP"
     },
     {
+      "mot": "dès que qqn. fait qqch.",
+      "trad": "какъ только"
+    },
+    {
       "mot": "désormais",
       "trad": "from now on"
     },
     {
+      "mot": "en 2026",
+      "trad": null
+    },
+    {
+      "mot": "en août · au mois d'août prochain",
+      "trad": null
+    },
+    {
       "mot": "en ce moment",
+      "trad": null
+    },
+    {
+      "mot": "en milieu d'après-midi",
       "trad": null
     },
     {
@@ -3943,6 +4403,10 @@
       "trad": "first thing"
     },
     {
+      "mot": "en semaine",
+      "trad": "въ будній день"
+    },
+    {
       "mot": "en un an",
       "trad": "за годъ"
     },
@@ -3953,6 +4417,10 @@
     {
       "mot": "entretemps",
       "trad": "in the meanwhile"
+    },
+    {
+      "mot": "et. ce jour-là,",
+      "trad": null
     },
     {
       "mot": "il y a pile un siècle",
@@ -3971,7 +4439,23 @@
       "trad": "so far"
     },
     {
+      "mot": "jusque-là",
+      "trad": "until then"
+    },
+    {
       "mot": "la première fois que qqn. avait fait qqch.",
+      "trad": null
+    },
+    {
+      "mot": "la semaine derniere\\tla semaine précédente / avant\nle mois dernier\\tle mois précédent / avant\nl'année derniere\\tl'année précédente / avant\n\nla semaine prochaine\\tla semaine suivante / après\nle mois prochain\\tle mois suivant / après\nl'année prochaine\\tl'année suivante / après\n\navant-hier\\tl'avant-veille\nhier\\tla veille\naujourd'hui\\tce jour-là\ndemain\\tle lendemain\naprès-demain\\tle surlendemain\n\nil y a 5 ans\\t5 ans avant\ndans 5 ans\\t5 ans après / plus tard\n\nmaintenant\\tà ce moment-là",
+      "trad": null
+    },
+    {
+      "mot": "le 1ᵉʳ août · du 1ᵉʳ au 31 août",
+      "trad": null
+    },
+    {
+      "mot": "le mercredi soir",
       "trad": null
     },
     {
@@ -3997,6 +4481,10 @@
     {
       "mot": "pendant ce temps",
       "trad": "въ это время"
+    },
+    {
+      "mot": "pendant l'année",
+      "trad": null
     },
     {
       "mot": "pendant que | comme | alors que",
@@ -4049,6 +4537,10 @@
     {
       "mot": "tant que",
       "trad": "as long as"
+    },
+    {
+      "mot": "tous le jours",
+      "trad": null
     },
     {
       "mot": "tout de suite",
@@ -4145,6 +4637,14 @@
     {
       "mot": "à plusieurs reprises",
       "trad": null
+    },
+    {
+      "mot": "à tout moment",
+      "trad": "at any time"
+    },
+    {
+      "mot": "être parti pour durer",
+      "trad": "всерьезъ и надолго"
     }
   ],
   "événements": [
