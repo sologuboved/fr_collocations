@@ -4447,7 +4447,7 @@
       "trad": null
     },
     {
-      "mot": "la semaine derniere    la semaine précédente / avant\nle mois dernier    le mois précédent / avant\nl'année derniere    l'année précédente / avant\n\nla semaine prochaine    la semaine suivante / après\nle mois prochain    le mois suivant / après\nl'année prochaine    l'année suivante / après\n\navant-hier    l'avant-veille\nhier    la veille\naujourd'hui    ce jour-là\ndemain    le lendemain\naprès-demain    le surlendemain\n\nil y a 5 ans    5 ans avant\ndans 5 ans    5 ans après / plus tard\n\nmaintenant    à ce moment-là",
+      "mot": "la semaine derniere\tla semaine précédente / avant\nle mois dernier\tle mois précédent / avant\nl'année derniere\tl'année précédente / avant\n\nla semaine prochaine\tla semaine suivante / après\nle mois prochain\tle mois suivant / après\nl'année prochaine\tl'année suivante / après\n\navant-hier\tl'avant-veille\nhier\tla veille\naujourd'hui\tce jour-là\ndemain\tle lendemain\naprès-demain\tle surlendemain\n\nil y a 5 ans\t5 ans avant\ndans 5 ans\t5 ans après / plus tard\n\nmaintenant\tà ce moment-là",
       "trad": null
     },
     {
