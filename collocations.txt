@@ -10,6 +10,7 @@ J'ai cru voir un fantôme.
 J'ai dû faire qqch. ~ Должно быть, я...
 Je fais en sorte de faire qqch. ~ make sure to
 Je n'en suis pas à faire qqch. ~ I'm not at the point yet of doing sth.
+Je ne m'y fie pas beaucoup. ~ Я не очень-то на это полагаюсь.
 Je ne peux pas m'en passer. ~ I can't do without it.
 Je ne sais pas comment m'y prendre. ~ Я не знаю, какъ за это взяться.
 Je ne t'avais jamais vu cet air. ~ I had never seen you look like that.
@@ -64,7 +65,9 @@ se diriger plutôt vers ~ склоняться къ
 se donner à voir comme ~ показывать себя как
 se passer de qqch.
 se refuser de faire qqch.
+se tenir à qqch. ~ to stick to something
 sortir gagnant-gagnant
+s’épuiser à faire qqch. ~ тщетно пытаться
 tendre vers qqch.
 tenir à qqn. ~ care about someone
 tenu pour [adjectif] ~ be considered
@@ -77,6 +80,7 @@ y aller fort ~ перегибать палку
 être confronté à qqch. ~ столкнуться
 être confronté à | faire face à ~ столкнуться
 être contraint de faire qqch. ~ быть вынужденнымъ
+être en mesure de trancher toutes ces questions ~ быть въ состояніи
 être en train de faire qqch.
 être forcé de faire qqch. ~ have to
 être sur le point | en passe de faire qqch.
@@ -102,6 +106,7 @@ considérablement
 convenablement ~ properly, reasonabley
 courageusement
 couramment ~ fluently / habitually
+davantage ~ дополнительно
 décidément ~ definitely
 définitivement ~ окончательно
 délibérément induit en erreur ~ цѣленаправленно
@@ -121,9 +126,11 @@ furtivement <-> ouvertement
 fâcheusement ~ annoyingly
 grammaticalement
 gratuitement ~ безплатно
+immanquablement ~ неизбежно, безошибочно
 incontestablement ~ несомнѣнно, безспорно
 infiniment ~ безконечно
 inlassablement ~ tirelessly
+involontairement
 joliment ~ beautifully
 lentement et sûrement
 librement
@@ -205,13 +212,14 @@ conduire à
 créer
 d'où [...] ~ отсюда
 dans le but de faire qqch. | Dans quel but ?
+de la sorte ~ такимъ образомъ
 de sorte que ~ cъ тѣмъ, чтобы
 des conséquences | effets | suites
 developper
 en raison de
 entraîner
 et pour cause ! ~ and for a good reason
-favoriser ~ способствовать
+favoriser ; Le site est favorisé par de nombreux transports. ~ способствовать
 grâce à
 occasionner
 permettre de
@@ -249,7 +257,7 @@ Bien que n'étant pas vraiment un mathématicien professionnel, il...
 Encore que ceux qui ont une formation réussissent très bien. ~ Это не отмѣняетъ того, что...
 Il n'en reste pas moins que certains sont déçus en arrivant. ~ Это не отмѣняетъ того, что...
 J'ai eu beau m'inscrire à des clubs de gym ou de marche, je me retrouvais seul chez moi, le soir. ~ even though
-Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage.
+Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque toujours les femmes qui font la lessive et le repassage. ~ сколько бы ни / как бы ни
 Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.
 alors que ~ даромъ что, тогда какъ
 cependant | néanmoins | pour autant | pourtant | toutefois ~ however
@@ -375,11 +383,11 @@ avant tout ~ прежде всего
 certains d'entre eux / certains parmi eux ~ нѣкоторые изъ нихъ
 d'autant (plus) que ~ тѣмъ болѣе что
 de même ~ аналогичнымъ образомъ
-de même que ~ такъ же какъ
 du moins ~ по крайней мѣрѣ
 du sien ~ on one's own
 en lui-même ~ само по себѣ
 et ainsi de suite ~ and so on
+les accepter tels qu'ils sont ~ accept them as they are
 ni même qqn. ~ ни даже такой-то
 pour autant ~ however
 pour autant que je me souvienne / puisse en juger, ~ as far as I remember / can judge
@@ -392,6 +400,7 @@ vas-y ~ давай
 
 DÉPLACEMENTS
 Est-il temps d'y aller ? ~ Time to go?
+au carré ~ ²
 au sein de ~ within
 comme ailleurs ~ as elsewhere
 côté à côté ~ side by side
@@ -535,12 +544,14 @@ utile en soi ~ самоцѣнный
 voyer tout en noir
 à bien des égards ~ во многихъ отношеніяхъ
 à brûle-pourpoint ~ сходу, спонтанно, безъ подготовки
+à charge à moi-même ~ въ тягость себѣ
 à dessein ~ намѣренно
 à force de qqch. ~ въ силу, въ ходѣ
 à jeun ~ натощакъ
 à l'envers ~ шиворотъ-навыворотъ
 à l'identique
 à l'infini
+à l'insu de | sans le savoir ~ unwittingly
 à l'occurrence ~ въ данномъ случаѣ
 à la base ~ въ основѣ
 à la dure ~ the hard way
@@ -567,6 +578,7 @@ Il est de ces personnes qui..,
 Je compte parmi les femmes à ne pas pouvoir faire qqch.
 Je ne me compte pas parmi eux.
 Je suis du genre à me tétaniser d'horreur en faisant qqch.
+dans l'ensemble ~ въ цѣломъ
 du même type
 figurer parmi les plus importants du monde
 une espèce de qqch. ~ своего рода
@@ -635,6 +647,7 @@ mettre sur pied un projet ~ воплотить въ жизнь
 mettre un certain temps à faire qqch.
 mettre un point final à
 mettre une heure de plus pour faire qqch. ~ понадобится на часъ больше
+mettre à distance
 mettre à jour
 mettre à la porte ~ выставить кого-нибудь за дверь
 mettre à profit ~ take advantage
@@ -666,6 +679,7 @@ vice versa
 PAR
 agir par intérêt ~ изъ корыстныхъ побужденій
 juste par espièglerie ~ просто изъ озорства
+par abus ~ by way of misappropriation
 par chance ~ къ счастью
 par confort ~ для удобства
 par conséquent
@@ -700,9 +714,11 @@ Allons donc ! C'est impossible. ~ Да ну!
 Alors franchement ~ Честно говоря
 Alors à mon tour, ~ Въ свою очередь, я
 C'est dans ce sens que...
+C'est dur à dire.
 C'est déplacé. ~ This is uncalled for.
 C'est hors de question !
 Cela ne veut pas dire que ~ Это не значитъ, что
+Cela va de soi. ~ That goes without saying.
 Comme dit plus haut
 Comme tu dis. ~ Именно такъ.
 Comment dit-on "..." en français ?
@@ -717,6 +733,7 @@ Et le pompon, c'est que...
 Et nul doute que
 Il me paraît que cela explique...
 Il me semble que...
+Il n'en reste pas moins que ~ Фактъ остается фактомъ, что
 Il s'en faut de beaucoup. ~ Far from it.
 Il s'est avéré que...
 J'avoue / dois avouer que / avoir fait qqch.
@@ -799,6 +816,7 @@ vu que ça approche ~ учитывая, что уже скоро
 À côté de ça, ~ Кромѣ того
 À l’entendre, ~ Послушать его,
 Ça alors ! ~ Вот это да!
+Ça m'intéresse de savoir.
 Ça n'a pas de sens.
 Ça n'a pas de sens. | Ça ne veut rien dire.
 Ça ne vous regarde pas ! ~ Васъ это не касается!
@@ -964,6 +982,8 @@ sans compter ceux qui ~ не считая тѣхъ
 se compter par dizaines
 un par un ~ одинъ за другимъ
 un sur deux ~ каждый второй
+un tant soit peu ~ ~peu
+à ce point ~ до такой степени
 à moitié ~ наполовину
 à peu de chose près ~ практически, въ той или иной степени
 à quel point j'y tiens ~ насколько мнѣ это дорого
@@ -989,7 +1009,7 @@ conformément à ~ въ соотвѣтствіи съ
 consister à ~ consist in
 convenir à qqch. ~ be associated with
 dans le cadre de
-de même que qqch. ~ подобно
+de même que..., de même... ~ такъ же какъ / подобно тому, какъ ... такъ и
 demander ce qu'il en était de la France ~ какъ съ этимъ во Франціи
 du côté de qqch. ~ въ аспектѣ
 en (dé)faveur de
@@ -1019,6 +1039,7 @@ vu que ~ given that
 à certains égards ~ въ нѣкоторыхъ отношеніяхъ
 à force d'être ~ въ силу
 à la différence d'autres ~ въ отличіе отъ прочихъ
+à l’occasion de ~ въ саязи съ
 à mon égard ~ по отношенію ко мнѣ
 à ses yeux
 
@@ -1040,6 +1061,7 @@ rien au regard de la réalité ~ ничто по сравненію съ реа�
 rien à foutre ~ couldn't give a fuck
 Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
 Ça n'a rien à voir avec ce que... ~ This has nothing to do with...
+Ça n'a rien à voir.
 Ça ne fait rien. | Ça ne sert à rien. ~ Это безполезно.
 Ça ne t'engage à rien.
 Ça ne veut rien dire.
@@ -1158,6 +1180,8 @@ une énième fois ~ въ сотый разъ
 à peine ~ едва
 à plus tard ~ на болѣе позднее время
 à plusieurs reprises
+à tout moment ~ at any time
+être parti pour durer ~ всерьезъ и надолго
 
 ÉVÉNEMENTS
 Comment ça a pu arriver ?

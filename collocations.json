@@ -45,6 +45,10 @@
       "trad": "I'm not at the point yet of doing sth."
     },
     {
+      "mot": "Je ne m'y fie pas beaucoup.",
+      "trad": "Я не очень-то на это полагаюсь."
+    },
+    {
       "mot": "Je ne peux pas m'en passer.",
       "trad": "I can't do without it."
     },
@@ -261,8 +265,16 @@
       "trad": null
     },
     {
+      "mot": "se tenir à qqch.",
+      "trad": "to stick to something"
+    },
+    {
       "mot": "sortir gagnant-gagnant",
       "trad": null
+    },
+    {
+      "mot": "s’épuiser à faire qqch.",
+      "trad": "тщетно пытаться"
     },
     {
       "mot": "tendre vers qqch.",
@@ -311,6 +323,10 @@
     {
       "mot": "être contraint de faire qqch.",
       "trad": "быть вынужденнымъ"
+    },
+    {
+      "mot": "être en mesure de trancher toutes ces questions",
+      "trad": "быть въ состояніи"
     },
     {
       "mot": "être en train de faire qqch.",
@@ -407,6 +423,10 @@
       "trad": "fluently / habitually"
     },
     {
+      "mot": "davantage",
+      "trad": "дополнительно"
+    },
+    {
       "mot": "décidément",
       "trad": "definitely"
     },
@@ -483,6 +503,10 @@
       "trad": "безплатно"
     },
     {
+      "mot": "immanquablement",
+      "trad": "неизбежно, безошибочно"
+    },
+    {
       "mot": "incontestablement",
       "trad": "несомнѣнно, безспорно"
     },
@@ -493,6 +517,10 @@
     {
       "mot": "inlassablement",
       "trad": "tirelessly"
+    },
+    {
+      "mot": "involontairement",
+      "trad": null
     },
     {
       "mot": "joliment",
@@ -805,6 +833,10 @@
     {
       "mot": "dans le but de faire qqch. | Dans quel but ?",
       "trad": null
+    },
+    {
+      "mot": "de la sorte",
+      "trad": "такимъ образомъ"
     },
     {
       "mot": "de sorte que",
@@ -1461,6 +1493,10 @@
       "trad": "and so on"
     },
     {
+      "mot": "les accepter tels qu'ils sont",
+      "trad": "accept them as they are"
+    },
+    {
       "mot": "ni même qqn.",
       "trad": "ни даже такой-то"
     },
@@ -1501,6 +1537,10 @@
     {
       "mot": "Est-il temps d'y aller ?",
       "trad": "Time to go?"
+    },
+    {
+      "mot": "au carré",
+      "trad": "²"
     },
     {
       "mot": "au sein de",
@@ -2063,6 +2103,10 @@
       "trad": "сходу, спонтанно, безъ подготовки"
     },
     {
+      "mot": "à charge à moi-même",
+      "trad": "въ тягость себѣ"
+    },
+    {
       "mot": "à dessein",
       "trad": "намѣренно"
     },
@@ -2085,6 +2129,10 @@
     {
       "mot": "à l'infini",
       "trad": null
+    },
+    {
+      "mot": "à l'insu de | sans le savoir",
+      "trad": "unwittingly"
     },
     {
       "mot": "à l'occurrence",
@@ -2183,6 +2231,10 @@
     {
       "mot": "Je suis du genre à me tétaniser d'horreur en faisant qqch.",
       "trad": null
+    },
+    {
+      "mot": "dans l'ensemble",
+      "trad": "въ цѣломъ"
     },
     {
       "mot": "du même type",
@@ -2433,6 +2485,10 @@
       "trad": "понадобится на часъ больше"
     },
     {
+      "mot": "mettre à distance",
+      "trad": null
+    },
+    {
       "mot": "mettre à jour",
       "trad": null
     },
@@ -2537,6 +2593,10 @@
     {
       "mot": "juste par espièglerie",
       "trad": "просто изъ озорства"
+    },
+    {
+      "mot": "par abus",
+      "trad": "by way of misappropriation"
     },
     {
       "mot": "par chance",
@@ -2669,6 +2729,10 @@
       "trad": null
     },
     {
+      "mot": "C'est dur à dire.",
+      "trad": null
+    },
+    {
       "mot": "C'est déplacé.",
       "trad": "This is uncalled for."
     },
@@ -2679,6 +2743,10 @@
     {
       "mot": "Cela ne veut pas dire que",
       "trad": "Это не значитъ, что"
+    },
+    {
+      "mot": "Cela va de soi.",
+      "trad": "That goes without saying."
     },
     {
       "mot": "Comme dit plus haut",
@@ -2735,6 +2803,10 @@
     {
       "mot": "Il me semble que...",
       "trad": null
+    },
+    {
+      "mot": "Il n'en reste pas moins que",
+      "trad": "Фактъ остается фактомъ, что"
     },
     {
       "mot": "Il s'en faut de beaucoup.",
@@ -3063,6 +3135,10 @@
     {
       "mot": "Ça alors !",
       "trad": "Вот это да!"
+    },
+    {
+      "mot": "Ça m'intéresse de savoir.",
+      "trad": null
     },
     {
       "mot": "Ça n'a pas de sens.",
@@ -3707,6 +3783,14 @@
       "trad": "каждый второй"
     },
     {
+      "mot": "un tant soit peu",
+      "trad": "~peu"
+    },
+    {
+      "mot": "à ce point",
+      "trad": "до такой степени"
+    },
+    {
       "mot": "à moitié",
       "trad": "наполовину"
     },
@@ -3921,6 +4005,10 @@
       "trad": "въ отличіе отъ прочихъ"
     },
     {
+      "mot": "à l’occasion de",
+      "trad": "въ саязи съ"
+    },
+    {
       "mot": "à mon égard",
       "trad": "по отношенію ко мнѣ"
     },
@@ -3997,6 +4085,10 @@
     {
       "mot": "Ça n'a rien à voir avec ce que...",
       "trad": "This has nothing to do with..."
+    },
+    {
+      "mot": "Ça n'a rien à voir.",
+      "trad": null
     },
     {
       "mot": "Ça ne fait rien. | Ça ne sert à rien.",
@@ -4457,6 +4549,14 @@
     {
       "mot": "à plusieurs reprises",
       "trad": null
+    },
+    {
+      "mot": "à tout moment",
+      "trad": "at any time"
+    },
+    {
+      "mot": "être parti pour durer",
+      "trad": "всерьезъ и надолго"
     }
   ],
   "événements": [
