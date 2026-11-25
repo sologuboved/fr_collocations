@@ -28,6 +28,7 @@ avoir du mal à | n'être pas doué pour | être nul / nulle à (faire) qqch.
 avoir failli faire qqch. ~ едва не
 avoir hâte de faire qqch. ~ can't wait to
 ce qui lui est arrivé
+dispenser qqn. de faire qqch. ~ освобождать отъ обязанности
 donner le meilleur de lui-même ~ do one's best
 faire confiance à qqch.
 faire de la peine ~ hurt one's feelings
@@ -37,8 +38,8 @@ faire le rapprochement entre qqch. et qqch.
 faire mieux de faire qqch.
 faire passer qqch. pour qqch.
 faire preuve de ~ демонстрировать
-faire semblant de faire qqch.
-faire semblant de | faire mine de ~ притворяться
+faire remonter à qqn./qqch. qqch. ~ возвести что-н. к кому-н./чему-н.
+faire semblant de | faire mine de | feindre de faire qqch. ~ притворяться
 forcer qqn. à faire qqch.
 jouer l'offusqué ~ изображать возмущеніе, оскорблённость
 me / te / la traiter d'égoïste ~ называть эгоистомъ
@@ -47,10 +48,10 @@ n'en avoir que faire ~ couldn't care less
 peiner à faire qqch. ~ struggle to
 pour te changer les idées ~ чтобы тебѣ развѣяться
 pousser qqn. à faire qqch. ~ drive smb. to do sth.
-pouvoir faire qqch. rien qu'en faisant qqch. ~ be able to do sth.just by doing sth.
 pretendre faire qqch.
 prévoir de | compter faire qqch. ~ планировать
 qqch. est à faire qqch. ~ слѣдуетъ
+qqch. n'est pas en reste ~ не отставать
 qui aurait mieux faire de se taire ~ которому лучше было бы помолчать
 renoncer à qqch. ~ отказаться отъ чего-либо
 s'aviser de qqch. / de faire qqch. ~ додуматься [въ томъ числѣ ирон.]
@@ -62,7 +63,9 @@ se conclure avec qqch.
 se diriger plutôt vers ~ склоняться къ
 se donner à voir comme ~ показывать себя как
 se passer de qqch.
+se refuser de faire qqch.
 sortir gagnant-gagnant
+tendre vers qqch.
 tenir à qqn. ~ care about someone
 tenu pour [adjectif] ~ be considered
 venir de faire qqch.
@@ -110,9 +113,9 @@ en apparence ~ внѣшне
 en hâte ~ поспѣшно
 exagérément ~ exaggeratedly
 explicitement ~ explicitely
+extrêmement
 financièrement
 follement ~ безумно
-fortement | massivement
 froidement ~ холодно
 furtivement <-> ouvertement
 fâcheusement ~ annoyingly
@@ -128,6 +131,7 @@ logiquement
 légitimement
 machinalement
 majoritairement ~ по большей части
+massivement
 modestement ~ скромно
 notamment ~ въ частности
 notoirement ~ notoriously
@@ -150,13 +154,16 @@ systématiquement
 techniquement
 textuellement ~ verbatim, буквально
 typiquement
+une structure fortement charpentée
 vachement ~ frigging, bloody, beastly
 visiblement ~ явно
 volontiers ~ voluntarily, willingly
+volumineusement ~ обширно
 vraisemblablement ~ presumably
 à la demande ~ по требованію
 à la légère ~ легкомысленно, легко
 à tâtons ~ наощупь
+écarter dédaigneusement qqch. ~ презрительно отмахнуться отъ
 éventuellement ~ по обстоятельствамъ, возможно
 
 CAS
@@ -246,7 +253,7 @@ Les hommes ont beau dire qu'ils font la cuisine et la vaisselle, ce sont presque
 Même si les partis politiques revendiquent la parité, il y a trop peu de femmes élues.
 alors que ~ даромъ что, тогда какъ
 cependant | néanmoins | pour autant | pourtant | toutefois ~ however
-de toute façon | quoi qu'il en soit ~ anyway
+de toute manière | de toute façon | en tout état de cause | quoi qu'il en soit ~ anyway
 en dépit de ~ in spite of
 malgré tout
 ou tout au moins ~ или, по крайней мѣрѣ
@@ -294,7 +301,8 @@ du coup ~ therefore
 du même coup ~ by the same token, заодно
 pour le coup ~ dans ce cas précis
 sur le coup ~ at the time, on the spur of the moment
-tout à coup ~ внезапно
+tout à coup | tout d'un coup ~ внезапно
+un contrecoup de ~ отдача, послѣдствія,отголосокъ, отвѣтная реакція
 un coup de pouce ~ поддержка
 un coup médiatique ~ media buzz
 à coup(s) de ~ при помощи
@@ -349,6 +357,7 @@ voire ~ and even
 à tous égards ~ in all respects
 
 DÉIXIS
+(exactement) tel quel ~ as is
 , à peu de chose près, ~ практически
 Alors autant s’y mettre. ~ Might just as well get started.
 C'est aussi quelque part un... ~ in a way
@@ -375,11 +384,10 @@ ni même qqn. ~ ни даже такой-то
 pour autant ~ however
 pour autant que je me souvienne / puisse en juger, ~ as far as I remember / can judge
 puis, peu à peu
-quitte à faire qqch. ~ even if it means to, at the risk of, разъ ужъ
+quitte à faire qqch. ~ even if it means to, if only to, at the risk of, разъ ужъ
 quoi que ce soit ~ что бы то ни было
 un réseau tel que celui-ci ~ подобный, такой, какъ этотъ
 vas-y ~ давай
-Ça ne fait rien. | Ça ne sert à rien. ~ Это безполезно.
 à peu près ça | un truc du genre
 
 DÉPLACEMENTS
@@ -394,6 +402,7 @@ en contrebas ~ там внизу
 en route ~ по дорогѣ
 hors d’atteinte pour qqn. ~ внѣ досягаемости
 par ici ~ this way
+par l’intérieur ~ изнутри
 s'arrêter sur place ~ остановиться на мѣстѣ
 se mettre en route ~ отправиться въ путь
 sur la route ~ по дорогѣ
@@ -431,6 +440,7 @@ au passage ~ между дѣломъ
 au premier regard, ~ на первый взглядъ
 au rabais ~ по скидкѣ
 au ralenti ~ въ замедленной съемкѣ
+aux dépens de ~ за счет
 avec force détail ~ во всѣхъ подробностяхъ
 avec le recul ~ with hindsight, in retrospect
 bel et bien
@@ -470,7 +480,6 @@ en filigrane ~ implicitly
 en flèche ~ стремительно
 en grandeur nature ~ full-scale
 en harmonie | en phase avec
-en partant de rien ~ съ нуля
 en priorité
 en retour
 en réalité | en vérité
@@ -486,8 +495,7 @@ faute de ~ за недостаткомъ
 faute de mieux ~ за неимѣніемъ лучшаго
 finir dans les délais
 hors d'atteinte ~ внѣ досягаемости
-il n'y a rien à dire ~ ничего не скажешь
-l'air de rien
+jusqu'à plus ample informé ~ until further notice
 la donne ~ раскладъ
 le baratin ~ bullshit
 le strict nécessaire
@@ -518,6 +526,7 @@ tant bien que mal ~ худо-бѣдно
 tant pis ~ что подѣлаешь
 terminer au plus vite ~ закончить поскорѣе
 tomber par terre
+tour à tour ~ по очереди
 un mal pour un bien ~ нѣтъ худа безъ добра
 un pas après l'autre ~ шагъ за шагомъ
 une broutille | un bibelot | une babiole ~ пустякъ
@@ -571,7 +580,6 @@ Qu'à cela ne tienne ! ~ Peu importe !, ça ne fait rien, ну и пусть
 Que t'importe ?
 mais qu'importe
 peu importe
-rien à foutre ~ couldn't give a fuck
 Ça m'importait. ~ Мнѣ это было важно.
 
 INTROS
@@ -645,8 +653,8 @@ s'ôter de l'esprit qqch. ~ выбросить изъ головы
 évoquer un souvenir
 
 OPPOSITIONS
+(bien) au contraire ~ (ровно) наоборотъ
 13 % des hommes le pensent contre 7 % des femmes.
-au contraire ~ напротивъ
 contrairement à
 en revanche ~ зато
 faire contraste
@@ -694,7 +702,6 @@ Alors à mon tour, ~ Въ свою очередь, я
 C'est dans ce sens que...
 C'est déplacé. ~ This is uncalled for.
 C'est hors de question !
-Ce n'est rien à tout que...
 Cela ne veut pas dire que ~ Это не значитъ, что
 Comme dit plus haut
 Comme tu dis. ~ Именно такъ.
@@ -708,7 +715,9 @@ Enfin | Pour finir | En conclusion | Bref,
 Enfin, pire de tout,
 Et le pompon, c'est que...
 Et nul doute que
+Il me paraît que cela explique...
 Il me semble que...
+Il s'en faut de beaucoup. ~ Far from it.
 Il s'est avéré que...
 J'avoue / dois avouer que / avoir fait qqch.
 J'en suis persuadée | C'est ma conviction
@@ -727,6 +736,7 @@ Où en etions-nous ? ~ На чемъ мы остановились?
 Où en étions-nous ? ~ На чемъ мы остановились?
 Partons de ces derniers. ~ Начнемъ со вторыхъ.
 Pas tout à fait. ~ Не совсѣмъ.
+Pour introduire plus de clarté dans ce dédale dialectique,
 Pourquoi tu dis ça ? ~ Почему ты так думаешь?
 Pourtant. ~ И всё же.
 Qu'en est-il de... ~ Какъ насчетъ
@@ -744,11 +754,12 @@ Tu parles ! ~ Ну конечно.
 Tu te fous de moi ? ~ Ты издѣваешься?
 allez savoir ~ поди узнай
 après tout, ~ after all
-au bout du compte ~ въ конечномъ счетѣ
+au bout du compte | en fin de compte | tout compte faite | en définitive ~ въ конечномъ счетѣ
 au premier regard ~ на первый взглядъ
 au sens de ~ въ смыслѣ
 au sens propre / figuré
 au sens strict du terme
+au-delà de ce que l’on imagine ~ beyond what one might imagine
 autrement dit ~ иными словами
 ce qu’il y a derrière l’orthoténie ~ стоитъ за
 certainement | certes
@@ -760,7 +771,6 @@ de plus
 derrière qqch. ~ за чѣмъ-либо
 dont il est question ici ~ ~ dont il s'agit
 en clair ~ проще говоря
-en définitive ~ въ конечномъ счетѣ
 en d’autres termes ~ in other words
 en peu de mots ~ вкратцѣ
 en plus ~ кромѣ того
@@ -779,6 +789,7 @@ pour le moins ~ мягко говоря
 pour ma part | en ce qui me concerne ~ as for me
 pour être plus précise
 qqch. ne se dit pas en français / qqch. est dit vieilli
+qqch., j'entends qqch. ~ я подразумѣваю
 rebelote ~ here we go again
 sans aucun doute
 selon ses termes ~ по его словамъ
@@ -790,7 +801,6 @@ vu que ça approche ~ учитывая, что уже скоро
 Ça alors ! ~ Вот это да!
 Ça n'a pas de sens.
 Ça n'a pas de sens. | Ça ne veut rien dire.
-Ça n'a rien à voir avec ce que... ~ This has nothing to do with...
 Ça ne vous regarde pas ! ~ Васъ это не касается!
 Ça qui me frappe... ~ Вотъ что мнѣ бросается въ глаза
 Ça se tient. ~ It makes sense.
@@ -879,18 +889,14 @@ Mais tu ne laisses rien passer, toi, pas vrai ?
 Mon plus beau souvenir reste à venir.
 On a beau lui donner rendez-vous plus tôt que l'heure prévue, il se débrouille toujours pour ne pas faillir à sa réputation. ~ No matter how early you arrange to meet him, he always manages to live up to his reputation.
 On n'est pas sorti de l'auberge. ~ We are not out of the woods yet.
-On ne peut rien à qqch. ~ There's nothing we can do about sth.
 On pouvait s'y attendre ~ That was to be expected
-Personne n'en a rien à faire de ces conneries. ~ Nobody gives a shit about this bullshit.
 Place à la musique ! ~ Time for music!
-Pour nous, ce n'était pas rien. ~ For us, it was no small matter.
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Quel est l'objet dont on se sert pour faire qqch. ?
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
 Quelles pensées et quelles associations ce tableau t'évoque-t-il ?
 Raison de plus pour faire qqch.
 Ras-le-bol de l'état policier ! ~ хватитъ полицейщины
-Rien de tel ici. ~ Ничего подобнаго здѣсь.
 Sur cette question trop d'idées me viennent en tête. Passons.
 Telle est la première question.
 Ton projet, c'est justement ce dont je me méfie ! ~ Your project is precisely what I'm wary of!
@@ -903,11 +909,9 @@ alors qu'ailleurs le processus de concentration n'a fait que débuter
 alors qu'on imagine mal qqn. faire qqch. ~ whereas it's hard to imagine
 asseoir sa théorie sur qqch. ~ основывать свою теорію
 avoir pour seul trait commun de faire qqch.
-comme si de rien n'était ~ as if nothing had happened
 de ... se dégage l’impression que ...
 faire son possible pour [faire qqch.]
 il en est / sera autrement de ~ it will be different for
-n'avoir rien à y faire ~ нечего там дѣлать
 pour que tout un chacun comprenne que... ~ so that everyone understands that...
 vivre l'une des plus importantes - sinon la plus importante - des révolutions de l'histoire humaine
 À quand remonte la dernière fois que vous avez fait qqch. ?
@@ -916,9 +920,7 @@ vivre l'une des plus importantes - sinon la plus importante - des révolutions d
 Ça fait longtemps que je fais qqch. Ça fait deux fois que je fais qqch.
 Ça finit par fatiguer.
 Ça me parle ! ~ It resonates with me!
-Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
 Ça ne fait pas tout.
-Ça ne t'engage à rien.
 Ça sera foutu.
 Ça te conviendrait de faire qqch. ?
 Ça te dit ? ~ How about that?
@@ -939,6 +941,7 @@ On y dénombre 10 enfants
 Sur les plus de 9 000 films que compte la base de données, près de 57 %...
 [faire qqch.] en majorité
 [une chose] en moins ~ [одной вещью] меньше
+au plus haut point ~ въ высшей степени
 au point de ~ до такой степени, что
 au total
 dans une certaine mesure ~ въ какой-то степени
@@ -950,8 +953,10 @@ en moyenne ~ on average
 en partie <-> totalement
 en valider deux ~ изъ нихъ
 nettement plus ~ significantly more
+non plus non moins
 petit à petit ~ понемножку
 peu ou prou ~ plus ou moins
+pris à part ~ въ отдѣльности
 quel(le) que puisse être qqch. ~ каким/ой бы ни был/а...
 quelque peu ~ a little
 représenter 43 à 46 % des
@@ -962,6 +967,7 @@ un sur deux ~ каждый второй
 à moitié ~ наполовину
 à peu de chose près ~ практически, въ той или иной степени
 à quel point j'y tiens ~ насколько мнѣ это дорого
+à tel point ~ до такой степени
 à une échelle réduite ~ on a small scale
 
 RAPPORTS
@@ -983,12 +989,14 @@ conformément à ~ въ соотвѣтствіи съ
 consister à ~ consist in
 convenir à qqch. ~ be associated with
 dans le cadre de
+de même que qqch. ~ подобно
 demander ce qu'il en était de la France ~ какъ съ этимъ во Франціи
 du côté de qqch. ~ въ аспектѣ
 en (dé)faveur de
 en comparaison de | auprès de ~ по сравненію съ
 en cours de ~ въ ходѣ, въ процессѣ
 en fonction de ~ depending on, in terms of
+en guise de réaction ~ въ качествѣ отвѣтной реакціи
 en occurrence de
 en qualité de ~ въ качествѣ
 en tant que qqn. ~ as a
@@ -1000,7 +1008,6 @@ n'y faire exception ~ не исключеніе
 outre qqch./qqn. ~ помимо
 qqch. en est un (autre) ~ другой примѣръ того же
 quels que soient ~ whatever, regardless of
-rien au regard de la réalité ~ ничто по сравненію съ реальностью
 s'appuyant sur qqch.
 se rapporter à ~ относиться
 sur ce coup ~ по этому поводу
@@ -1009,17 +1016,42 @@ tout ce qui touche à qqch.
 vis-à-vis de
 vu que ~ given that
 Ça ne te regarde pas. | Cela ne te concerne pas. | Ce ne sont pas tes affaires.
+à certains égards ~ въ нѣкоторыхъ отношеніяхъ
 à force d'être ~ въ силу
 à la différence d'autres ~ въ отличіе отъ прочихъ
 à mon égard ~ по отношенію ко мнѣ
+à ses yeux
+
+RIEN
+Ce n'est rien à tout que...
+Je n’y suis pour rien. ~ Я тутъ ни при чемъ.
+Mais ça n'a rien à voir. ~ Но это совсѣмъ другое дѣло.
+On ne peut rien à qqch. ~ There's nothing we can do about sth.
+Personne n'en a rien à faire de ces conneries. ~ Nobody gives a shit about this bullshit.
+Pour nous, ce n'était pas rien. ~ For us, it was no small matter.
+Rien de tel ici. ~ Ничего подобнаго здѣсь.
+comme si de rien n'était ~ as if nothing had happened
+en partant de rien ~ съ нуля
+il n'y a rien à dire ~ ничего не скажешь
+l'air de rien
+n'avoir rien à y faire ~ нечего там дѣлать
+pouvoir faire qqch. rien qu'en faisant qqch. ~ be able to do sth.just by doing sth.
+rien au regard de la réalité ~ ничто по сравненію съ реальностью
+rien à foutre ~ couldn't give a fuck
+Ça n'a rien à faire ici. ~ Этому здѣсь не мѣсто.
+Ça n'a rien à voir avec ce que... ~ This has nothing to do with...
+Ça ne fait rien. | Ça ne sert à rien. ~ Это безполезно.
+Ça ne t'engage à rien.
+Ça ne veut rien dire.
 
 SENTIMENTS
 Il y a quelque chose qui ne va pas chez moi. ~ Что-то со мной не такъ.
+Je m'étonne. Je n'y crois pas.
 se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
 se sentir + adjectif | ressentir / éprouver + nom | sentir que
+se soucier peu de qqch. ~ мало безпокоиться
 
 TEMPS
-(tout) à la fois
 Actuellement,
 D’ici l’année prochaine, elle aura terminé  ses études. ~ by next year
 Je n'ai plus jamais fait qqch.
@@ -1027,6 +1059,7 @@ Je ne sais toujours pas dans quelles circonstances tu as dessiné cet hippopotam
 Le temps de faire qqch., j'aurais fait qqch. ~ By the time I do sth, I would have done sth.
 Une fois que j'aurai terminé ma formation, j'espère devenir éditrice. ~ Once I have...
 [tout] d'une traite ~ in one go
+[tout] à la fois
 après qqch./avoir fait qqch./que | une fois que
 au bout d'un certain temps ~ по истеченіи некоторого времени
 au bout d'un moment < après quelque temps ~ after a while
@@ -1053,6 +1086,7 @@ d'un moment à l'autre ~ съ минуты на минуту
 dans l'avenir
 dans la foulée ~ сразу
 dans la journée ~ during the daytime
+dans la même journée ~ въ тотъ же день
 de nouveau ~ заново
 depuis belle lurette [fam.] ~ съ давнихъ поръ
 depuis des semaines ~ for weeks
@@ -1065,6 +1099,7 @@ du jour au lendemain ~ overnight
 dès le départ ~ from the very start
 dès lors ~ since then
 dès que possible ~ ASAP
+dès que qqn. fait qqch. ~ какъ только
 désormais ~ from now on
 en ce moment
 en même temps

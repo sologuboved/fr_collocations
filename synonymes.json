@@ -6,6 +6,11 @@
     "irritant",
     "vexant"
   ],
+  "cranky": [
+    "farfelu",
+    "hurluberlu",
+    "loufoque"
+  ],
   "gap": [
     "un écart",
     "un décalage",
@@ -18,14 +23,34 @@
     "sortir ensemble",
     "se mettre en couple"
   ],
+  "have to do": [
+    "Ce truc a à voir avec...",
+    "Ce truc est lié à notre projet.",
+    "Ce truc porte sur la physique quantique.",
+    "Ce truc relève de la magie. [On classe la chose dans la catégorie 'magie']",
+    "Ce truc touche à la psychologie."
+  ],
   "ingenious": [
     "inventif",
     "ingénieux",
     "rusé"
   ],
+  "moderate": [
+    "modéré",
+    "modique",
+    "retenu",
+    "frugal",
+    "tempéré"
+  ],
   "nonsense": [
     "des sornettes",
     "le baratin"
+  ],
+  "passions": [
+    "convoitise",
+    "emballement",
+    "engouement",
+    "être entraîné par"
   ],
   "provide": [
     "doter de",
@@ -45,11 +70,5 @@
   "tackle": [
     "s'attaquer à",
     "aborder"
-  ],
-  "умѣренный": [
-    "modéré",
-    "retenu",
-    "frugal",
-    "tempéré"
   ]
 }
