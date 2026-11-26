@@ -367,6 +367,8 @@ voire ~ and even
 DÉIXIS
 (exactement) tel quel ~ as is
 , à peu de chose près, ~ практически
+Ah ! J'y suis. ~ ~ Je comprends.
+Allons-y !
 Alors autant s’y mettre. ~ Might just as well get started.
 C'est aussi quelque part un... ~ in a way
 Ce n'est pas autant qqch. que qqch.
@@ -374,10 +376,26 @@ Ce n'est pas pour autant que | sans pour autant ~ that doesn't mean
 Il est fatigué mais il travaille pour autant ~ He is tired, yet he continues to work.
 Il ne peut faire qqch. s'il fait qqch. ~ He cannot do sth. unless he does sth.
 Il ne reste plus grand-chose.
+Il s'y connaît. ~ Онъ въ этомъ понимаетъ.
 Il serait inexplicable qu’il n’en ait pas été ainsi. ~ Было бы необъяснимо, если бы дѣло обстояло иначе.
+J'en ai assez ! · J'en ai marre. · Je n'en peux plus ! ~ Съ меня хватитъ! · Достало. · Больше не могу.
+J'en suis à faire qqch. ~ Я дошел до того, что...
+Je lui en veux. ~ I hold it against him.
+Je m'en fiche. | Je m'en fous. | Je m'en tape.
+Je m'en occupe. ~ I'll take care of it.
+Je m'en vais. ~ Я пошла.
+Je m'y mets. ~ I'm at it.
+Je n'en ai pas pour longtemps. ~ I won't be long.
+Je n'y manquerai pas ! ~ I certainly will!
+Je n'y suis pour personne. ~ Меня ни для кого нѣтъ.
+Je n'y suis pour rien. ~ Я тутъ ни при чемъ.
 Je suis coincée ici pour une semaine, autant en profiter ! ~ I'm stuck here for a week, might as well make the most of it!
 Mais s'il en est ainsi, ~ But if that is the case,
+Ne vous en faites pas. · Il s'en fait. ~ Don't worry about it. · He’s worrying about it.
+On s'y fait. ~ It gets better.
+On y va ! ~ Here we go!
 Tant mieux. ~ Тѣмъ лучше.
+Voilà, ça y est ! ~ Готово!
 autant qqch. que qqch. ~ въ той же мѣрѣ ..., что и ...
 avant tout ~ прежде всего
 certains d'entre eux / certains parmi eux ~ нѣкоторые изъ нихъ
@@ -396,6 +414,7 @@ quitte à faire qqch. ~ even if it means to, if only to, at the risk of, раз�
 quoi que ce soit ~ что бы то ни было
 un réseau tel que celui-ci ~ подобный, такой, какъ этотъ
 vas-y ~ давай
+À bien y penser... ~ Come to think of it...
 à peu près ça | un truc du genre
 
 DÉPLACEMENTS
@@ -875,7 +894,6 @@ Il ne manquait pas grand-chose | Il s'en est fallu de peu pour que ce roman soit
 Il vaut mieux que tu sois là quand ils rentreront.
 J'ai besoin de faire le point. ~ I need to take stock of the situation.
 J'ai été scotché. <fam.> ~ Отвалъ башки.
-J'en suis à faire qqch. ~ Я дошелъ до того, что дѣлаю то-то.
 J'y suis même plutôt bien. ~ I'm actually quite happy here.
 Jamais je n’aurais cru voir ça ici !
 Je bourais bien un café.
@@ -1154,24 +1172,24 @@ jadis ~ нѣкогда, давнымъ-давно
 jusqu'à présent | jusqu'ici ~ so far
 jusque-là ~ until then
 la première fois que qqn. avait fait qqch.
-la semaine derniere\tla semaine précédente / avant
-le mois dernier\tle mois précédent / avant
-l'année derniere\tl'année précédente / avant
+la semaine derniere	la semaine précédente / avant
+le mois dernier	le mois précédent / avant
+l'année derniere	l'année précédente / avant
 
-la semaine prochaine\tla semaine suivante / après
-le mois prochain\tle mois suivant / après
-l'année prochaine\tl'année suivante / après
+la semaine prochaine	la semaine suivante / après
+le mois prochain	le mois suivant / après
+l'année prochaine	l'année suivante / après
 
-avant-hier\tl'avant-veille
-hier\tla veille
-aujourd'hui\tce jour-là
-demain\tle lendemain
-après-demain\tle surlendemain
+avant-hier	l'avant-veille
+hier	la veille
+aujourd'hui	ce jour-là
+demain	le lendemain
+après-demain	le surlendemain
 
-il y a 5 ans\t5 ans avant
-dans 5 ans\t5 ans après / plus tard
+il y a 5 ans	5 ans avant
+dans 5 ans	5 ans après / plus tard
 
-maintenant\tà ce moment-là
+maintenant	à ce moment-là
 le 1ᵉʳ août · du 1ᵉʳ au 31 août
 le mercredi soir
 longuement ~ подолгу

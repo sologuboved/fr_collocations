@@ -1413,6 +1413,14 @@
       "trad": "практически"
     },
     {
+      "mot": "Ah ! J'y suis.",
+      "trad": "~ Je comprends."
+    },
+    {
+      "mot": "Allons-y !",
+      "trad": null
+    },
+    {
       "mot": "Alors autant s’y mettre.",
       "trad": "Might just as well get started."
     },
@@ -1441,8 +1449,56 @@
       "trad": null
     },
     {
+      "mot": "Il s'y connaît.",
+      "trad": "Онъ въ этомъ понимаетъ."
+    },
+    {
       "mot": "Il serait inexplicable qu’il n’en ait pas été ainsi.",
       "trad": "Было бы необъяснимо, если бы дѣло обстояло иначе."
+    },
+    {
+      "mot": "J'en ai assez ! · J'en ai marre. · Je n'en peux plus !",
+      "trad": "Съ меня хватитъ! · Достало. · Больше не могу."
+    },
+    {
+      "mot": "J'en suis à faire qqch.",
+      "trad": "Я дошел до того, что..."
+    },
+    {
+      "mot": "Je lui en veux.",
+      "trad": "I hold it against him."
+    },
+    {
+      "mot": "Je m'en fiche. | Je m'en fous. | Je m'en tape.",
+      "trad": null
+    },
+    {
+      "mot": "Je m'en occupe.",
+      "trad": "I'll take care of it."
+    },
+    {
+      "mot": "Je m'en vais.",
+      "trad": "Я пошла."
+    },
+    {
+      "mot": "Je m'y mets.",
+      "trad": "I'm at it."
+    },
+    {
+      "mot": "Je n'en ai pas pour longtemps.",
+      "trad": "I won't be long."
+    },
+    {
+      "mot": "Je n'y manquerai pas !",
+      "trad": "I certainly will!"
+    },
+    {
+      "mot": "Je n'y suis pour personne.",
+      "trad": "Меня ни для кого нѣтъ."
+    },
+    {
+      "mot": "Je n'y suis pour rien.",
+      "trad": "Я тутъ ни при чемъ."
     },
     {
       "mot": "Je suis coincée ici pour une semaine, autant en profiter !",
@@ -1453,8 +1509,24 @@
       "trad": "But if that is the case,"
     },
     {
+      "mot": "Ne vous en faites pas. · Il s'en fait.",
+      "trad": "Don't worry about it. · He’s worrying about it."
+    },
+    {
+      "mot": "On s'y fait.",
+      "trad": "It gets better."
+    },
+    {
+      "mot": "On y va !",
+      "trad": "Here we go!"
+    },
+    {
       "mot": "Tant mieux.",
       "trad": "Тѣмъ лучше."
+    },
+    {
+      "mot": "Voilà, ça y est !",
+      "trad": "Готово!"
     },
     {
       "mot": "autant qqch. que qqch.",
@@ -1527,6 +1599,10 @@
     {
       "mot": "vas-y",
       "trad": "давай"
+    },
+    {
+      "mot": "À bien y penser...",
+      "trad": "Come to think of it..."
     },
     {
       "mot": "à peu près ça | un truc du genre",
@@ -3365,10 +3441,6 @@
     {
       "mot": "J'ai été scotché. <fam.>",
       "trad": "Отвалъ башки."
-    },
-    {
-      "mot": "J'en suis à faire qqch.",
-      "trad": "Я дошелъ до того, что дѣлаю то-то."
     },
     {
       "mot": "J'y suis même plutôt bien.",
