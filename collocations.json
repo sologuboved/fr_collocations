@@ -2623,6 +2623,116 @@
       "trad": null
     }
   ],
+  "météo": [
+    {
+      "mot": "Il fait 20 degrés.",
+      "trad": null
+    },
+    {
+      "mot": "Il fait chaud / frais / froid.",
+      "trad": null
+    },
+    {
+      "mot": "Il fait combien ? | Quelle est la température? | Quelle température fait-il ?",
+      "trad": null
+    },
+    {
+      "mot": "Il fait du vent. | Il y a du vent. | Le vent souffle. | Les vents sont faibles / modérés / forts.",
+      "trad": null
+    },
+    {
+      "mot": "Il fait mauvais. | Il fait un temps épouvantable / affreux.",
+      "trad": null
+    },
+    {
+      "mot": "Il fait nuageux. | Il y a des nuages. | Le temps est nuageux. | Le ciel est nuageux.",
+      "trad": null
+    },
+    {
+      "mot": "Il fait très beau. | Il fait un temps splendide.",
+      "trad": null
+    },
+    {
+      "mot": "Il grèle.",
+      "trad": "Идёт градъ."
+    },
+    {
+      "mot": "Il gèle.",
+      "trad": "Морозъ."
+    },
+    {
+      "mot": "Il neige. | Il y a de la neige. | Il tombe de la neige. | Le neige tombe.",
+      "trad": null
+    },
+    {
+      "mot": "Il tonne. | Il y a du tonnere.",
+      "trad": "There is thunder."
+    },
+    {
+      "mot": "Il y a de la pluie. | Le temps est pluvieux. | La pluie tombe. | Il pleut à torrents. | Il y a des averses. | Il bruine.",
+      "trad": null
+    },
+    {
+      "mot": "Il y a des orages.",
+      "trad": "There is a thunderstorm."
+    },
+    {
+      "mot": "Il y a des éclairs.",
+      "trad": "Сверкаютъ молніи."
+    },
+    {
+      "mot": "Il y a du brouillard. · Il y a de la brume. | Le temps est brumeux.",
+      "trad": null
+    },
+    {
+      "mot": "Il y a du soleil. | Il fait un soleil radieux. | Le temps est ensoleillé. | Le soleil brille.",
+      "trad": null
+    },
+    {
+      "mot": "Il y a du verglas.",
+      "trad": "Гололедица."
+    },
+    {
+      "mot": "Il y a un arc-en-ciel.",
+      "trad": null
+    },
+    {
+      "mot": "Il y a un ouragan.",
+      "trad": null
+    },
+    {
+      "mot": "Il y a une tempête.",
+      "trad": null
+    },
+    {
+      "mot": "La température est en baisse / en hausse. | La température monte / descend.",
+      "trad": null
+    },
+    {
+      "mot": "La température est polaire / fraiche / douce / élevée / caniculaire.",
+      "trad": null
+    },
+    {
+      "mot": "Le ciel est couvert. | Le ciel est voilé. | Le ciel est gris. | Il fait gris.",
+      "trad": null
+    },
+    {
+      "mot": "Le ciel est dégagé. | Il y a des éclarcies. Le temps est clair.",
+      "trad": null
+    },
+    {
+      "mot": "Le temps est humide.",
+      "trad": null
+    },
+    {
+      "mot": "Le temps est orageux. | Il y a de l'orage (qui monte). | Il y a un orage qui se prépare. ~ Le temps est à l'orage.",
+      "trad": null
+    },
+    {
+      "mot": "Quel temps fait-il ? | Il fair quel temps ?",
+      "trad": null
+    }
+  ],
   "oppositions": [
     {
       "mot": "(bien) au contraire",

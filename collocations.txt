@@ -684,6 +684,35 @@ Je n'arrive pas à m'en souvenir.
 s'ôter de l'esprit qqch. ~ выбросить изъ головы
 évoquer un souvenir
 
+MÉTÉO
+Il fait 20 degrés.
+Il fait chaud / frais / froid.
+Il fait combien ? | Quelle est la température? | Quelle température fait-il ?
+Il fait du vent. | Il y a du vent. | Le vent souffle. | Les vents sont faibles / modérés / forts.
+Il fait mauvais. | Il fait un temps épouvantable / affreux.
+Il fait nuageux. | Il y a des nuages. | Le temps est nuageux. | Le ciel est nuageux.
+Il fait très beau. | Il fait un temps splendide.
+Il grèle. ~ Идёт градъ.
+Il gèle. ~ Морозъ.
+Il neige. | Il y a de la neige. | Il tombe de la neige. | Le neige tombe.
+Il tonne. | Il y a du tonnere. ~ There is thunder.
+Il y a de la pluie. | Le temps est pluvieux. | La pluie tombe. | Il pleut à torrents. | Il y a des averses. | Il bruine.
+Il y a des orages. ~ There is a thunderstorm.
+Il y a des éclairs. ~ Сверкаютъ молніи.
+Il y a du brouillard. · Il y a de la brume. | Le temps est brumeux.
+Il y a du soleil. | Il fait un soleil radieux. | Le temps est ensoleillé. | Le soleil brille.
+Il y a du verglas. ~ Гололедица.
+Il y a un arc-en-ciel.
+Il y a un ouragan.
+Il y a une tempête.
+La température est en baisse / en hausse. | La température monte / descend.
+La température est polaire / fraiche / douce / élevée / caniculaire.
+Le ciel est couvert. | Le ciel est voilé. | Le ciel est gris. | Il fait gris.
+Le ciel est dégagé. | Il y a des éclarcies. Le temps est clair.
+Le temps est humide.
+Le temps est orageux. | Il y a de l'orage (qui monte). | Il y a un orage qui se prépare. ~ Le temps est à l'orage.
+Quel temps fait-il ? | Il fair quel temps ?
+
 OPPOSITIONS
 (bien) au contraire ~ (ровно) наоборотъ
 13 % des hommes le pensent contre 7 % des femmes.
