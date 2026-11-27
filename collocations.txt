@@ -40,7 +40,7 @@ faire mieux de faire qqch.
 faire passer qqch. pour qqch.
 faire preuve de ~ демонстрировать
 faire remonter à qqn./qqch. qqch. ~ возвести что-н. к кому-н./чему-н.
-faire semblant de | faire mine de | feindre de faire qqch. ~ притворяться
+faire semblant de | faire mine de | feindre de faire qqch. | faire celui / celle qui s'y intéresse ~ притворяться, изображать
 forcer qqn. à faire qqch.
 jouer l'offusqué ~ изображать возмущеніе, оскорблённость
 me / te / la traiter d'égoïste ~ называть эгоистомъ
@@ -116,6 +116,7 @@ effectivement ~ въ самомъ дѣлѣ, фактически
 empiriquement
 en apparence ~ внѣшне
 en hâte ~ поспѣшно
+entièrement
 exagérément ~ exaggeratedly
 explicitement ~ explicitely
 extrêmement
@@ -419,26 +420,54 @@ vas-y ~ давай
 
 DÉPLACEMENTS
 Est-il temps d'y aller ? ~ Time to go?
+Il va jusqu'a croisement.
+Il traverse sur le passage piétons.
+Il tourne dans la rue, à droite.
+Il monte en haut de l'escalier.
+Il arrive en bas de son immeuble.
+Il est chez lui.
+ailleurs • partout • quelque part • nulle part
+au Proche-Orient | Moyen-Orient | Extrême-Orient
 au carré ~ ²
-au sein de ~ within
+au début de <-> au bout de
 comme ailleurs ~ as elsewhere
 côté à côté ~ side by side
 d'en face ~ across the street
+dans le nord / au nord de
 dans le sens (inverse) des aiguilles d'une montre
+dans un fauteil • le journal • la rue • le train
+derrière <-> devant
+sous <-> sur
+près de | à côté de | en face de <-> loin de
+en bas de <-> en haut de
+à gauche <-> à droite
+à l'intérieur de <-> à l'extérieur de
+le long de
+au bord de
+au centre de | au milieu de | au sein de
+au fond de
+au-dessus <-> au-dessous
+dedans <-> dehors
 en chemin ~ по пути
 en contrebas ~ там внизу
 en route ~ по дорогѣ
 hors d’atteinte pour qqn. ~ внѣ досягаемости
+ici • là • là bas
 par ici ~ this way
+par là ~ over there
 par l’intérieur ~ изнутри
 s'arrêter sur place ~ остановиться на мѣстѣ
 se mettre en route ~ отправиться въ путь
+sous la parapluie
+sur Internet • le boulevard • une chaise • la photo • la place
 sur la route ~ по дорогѣ
 tourner qqch. de six degrés ~ повернуть на 6 градусовъ
 tout autour de toi
+tout droit ~ straight ahead
 travailler / étudier dans ce lieu
 un peu partout ~ just about everywhere
 à deux pas de l'arrêt ~ въ двухъ шагахъ отъ остановки
+à la radio • télé
 
 EFFETS
 propice à qqch. ~ благопріятный для
@@ -468,6 +497,7 @@ au passage ~ между дѣломъ
 au premier regard, ~ на первый взглядъ
 au rabais ~ по скидкѣ
 au ralenti ~ въ замедленной съемкѣ
+au toucher ~ на ощупь
 aux dépens de ~ за счет
 avec force détail ~ во всѣхъ подробностяхъ
 avec le recul ~ with hindsight, in retrospect
@@ -765,6 +795,7 @@ C'est dans ce sens que...
 C'est dur à dire.
 C'est déplacé. ~ This is uncalled for.
 C'est hors de question !
+C'est toi qui vois. | À toi de voir. ~ Up to you.
 Cela ne veut pas dire que ~ Это не значитъ, что
 Cela va de soi. ~ That goes without saying.
 Comme dit plus haut
@@ -892,6 +923,7 @@ C'est vraiment très gentil.
 C'est à ce moment précis que tout a véritablement merdé. ~ пошло наперекосяк
 C'était compter sans qqn. ~ Но тутъ вмешался...
 Ce lieu me donne la chair de poule. ~ Отъ этого мѣста у меня мурашки по кожѣ.
+Ce serait du gâchis de (ne pas) faire qqch. ~ It would be a waste (not) to
 Cela a-t-il une signification ?
 Cela ne tenait pas debout. ~ Это не выдерживало никакой критики.
 Cela peut valoir la peine. ~ Можетъ стоить того.
@@ -956,6 +988,7 @@ On a beau lui donner rendez-vous plus tôt que l'heure prévue, il se débrouill
 On n'est pas sorti de l'auberge. ~ We are not out of the woods yet.
 On pouvait s'y attendre ~ That was to be expected
 Place à la musique ! ~ Time for music!
+Qu'est-ce que vous y associez ?
 Qu'est-ce que ça peut bien faire ce que... ~ What does it matter that...
 Quel est l'objet dont on se sert pour faire qqch. ?
 Quelle tuile ! C'était foutu ! ~ What a disaster! It was all over!
@@ -985,6 +1018,7 @@ vivre l'une des plus importantes - sinon la plus importante - des révolutions d
 Ça fait longtemps que je fais qqch. Ça fait deux fois que je fais qqch.
 Ça finit par fatiguer.
 Ça me parle ! ~ It resonates with me!
+Ça n'allait pas fort depuis deux ans. Mais je me disais que c'était / nous étions dans une mauvaise passe.
 Ça ne fait pas tout.
 Ça sera foutu.
 Ça te conviendrait de faire qqch. ?
@@ -1113,6 +1147,53 @@ rien à foutre ~ couldn't give a fuck
 Ça ne t'engage à rien.
 Ça ne veut rien dire.
 
+SE
+Ce conducteur vient de se faire contrôler à 200 km/h.
+Je me fais coiffer deux fois par mois.
+Mon oncle s’est fait voler son portefeuille.
+se faire avoir | se faire arnaquer
+se faire bousculer
+se faire cambrioler
+se faire couper les cheveux
+se faire faire les ongles
+se faire faire une robe
+se faire gronder par les parents
+se faire insulter
+se faire manger par un lion
+se faire maquiller
+se faire masser
+se faire mordre par un chien
+se faire opérer
+se faire piquer par un insecte
+se faire renverser par une voiture
+se faire taper ~ быть поколоченнымъ
+se faire tatouer / se faire faire un tatouage : Sa fille va se faire tatouer un dragon.
+se faire tuer
+se faire voler qqch.
+se faire écraser par un camion
+se faire étrangler
+se laisser aller ~ пустить на самотекъ
+se laisser boire
+se laisser captiver par qqch. / qqn. ~ оказаться во власти
+se laisser convaincre ~ дать себя переубѣдить
+se laisser distraire ~ отвлекаться
+se laisser décourager ~ падать духом
+se laisser embarquer dans qch ~ позволить втянуть себя во что-то
+se laisser emmener ~ дать себя увести
+se laisser emporter par qqch. / qqn. ~ увлечься
+se laisser emporter par ses sentiments (émotions) ~ поддаться чувствамъ
+se laisser fasciner ~ быть очарованнымъ
+se laisser impressionner par qqch. / qqn.
+se laisser influencer
+se laisser intimider ~ дать себя запугать
+se laisser mourir
+se laisser piéger ~ попасться в ловушку
+se laisser pleurer
+se laisser pousser les cheveux | une barbe | une moustache
+se laisser provoquer ~ поддаться на провокацию
+se laisser soigner ~ дать позаботиться о себе
+se laisser séduire | tenter ~ поддаться искушению
+
 SENTIMENTS
 Il y a quelque chose qui ne va pas chez moi. ~ Что-то со мной не такъ.
 Je m'étonne. Je n'y crois pas.
@@ -1120,7 +1201,32 @@ se sentir + adjectif | ressentir + nom | éprouver + nom | sentir + que
 se sentir + adjectif | ressentir / éprouver + nom | sentir que
 se soucier peu de qqch. ~ мало безпокоиться
 
+STYLE
+bouffer • manger • se restaurer
+casse-pied • ennuyeux • fâcheux
+cavaler • se sauver • s'enfuir
+cinglé • fou • aliéné
+crêcher • habiter • loger
+drôle • marrant • désopilant
+flemmard • paresseux • indolent
+friqué • riche • opulent
+la trouille • la peur • l'appréhension
+moche • laid • hideux
+piger • comprendre • discerner
+piquer • voler • dérober
+se gourer • se tromper • se fourvoyer
+se pieuter • se coucher • s'aliter
+un boulot • un travail • un profession
+un bouquin • un livre • un ouvrage
+un pépin • un ennui • un désagrément
+une bagnole • une voiture • un véhicule
+une baraque • une maison • une demeure
+une bécane • un vélo • une bicyclette
+une pompe • une chaussure • un soulier
+une veine • une chance • une fortune
+
 TEMPS
+(deux fois) de suite ~ подрядъ
 9 heures de matin · 9 heures et quart · 9 heures et demie · 9 heures moins le quart · 9 heures 10 du soir
 Actuellement,
 D’ici l’année prochaine, elle aura terminé  ses études. ~ by next year
@@ -1242,10 +1348,9 @@ qqn. de toujours ~ постоянный, вѣчный
 quand | lorsque | au moment où
 tant que ~ as long as
 tous le jours
-tout de suite
+tout de suite ~ immediately
 tout à l'heure ~ и тутъ
 tout à l’heure ~ just now
-toute de suite ~ immediately
 tôt ou tard,
 un jour
 une bonne fois ~ разъ и навсегда

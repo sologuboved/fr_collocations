@@ -165,8 +165,8 @@
       "trad": "возвести что-н. к кому-н./чему-н."
     },
     {
-      "mot": "faire semblant de | faire mine de | feindre de faire qqch.",
-      "trad": "притворяться"
+      "mot": "faire semblant de | faire mine de | feindre de faire qqch. | faire celui / celle qui s'y intéresse",
+      "trad": "притворяться, изображать"
     },
     {
       "mot": "forcer qqn. à faire qqch.",
@@ -461,6 +461,10 @@
     {
       "mot": "en hâte",
       "trad": "поспѣшно"
+    },
+    {
+      "mot": "entièrement",
+      "trad": null
     },
     {
       "mot": "exagérément",
@@ -1615,12 +1619,24 @@
       "trad": "Time to go?"
     },
     {
+      "mot": "Il va jusqu'a croisement.\nIl traverse sur le passage piétons.\nIl tourne dans la rue, à droite.\nIl monte en haut de l'escalier.\nIl arrive en bas de son immeuble.\nIl est chez lui.",
+      "trad": null
+    },
+    {
+      "mot": "ailleurs • partout • quelque part • nulle part",
+      "trad": null
+    },
+    {
+      "mot": "au Proche-Orient | Moyen-Orient | Extrême-Orient",
+      "trad": null
+    },
+    {
       "mot": "au carré",
       "trad": "²"
     },
     {
-      "mot": "au sein de",
-      "trad": "within"
+      "mot": "au début de <-> au bout de",
+      "trad": null
     },
     {
       "mot": "comme ailleurs",
@@ -1635,7 +1651,19 @@
       "trad": "across the street"
     },
     {
+      "mot": "dans le nord / au nord de",
+      "trad": null
+    },
+    {
       "mot": "dans le sens (inverse) des aiguilles d'une montre",
+      "trad": null
+    },
+    {
+      "mot": "dans un fauteil • le journal • la rue • le train",
+      "trad": null
+    },
+    {
+      "mot": "derrière <-> devant\nsous <-> sur\nprès de | à côté de | en face de <-> loin de\nen bas de <-> en haut de\nà gauche <-> à droite\nà l'intérieur de <-> à l'extérieur de\nle long de\nau bord de\nau centre de | au milieu de | au sein de\nau fond de\nau-dessus <-> au-dessous\ndedans <-> dehors",
       "trad": null
     },
     {
@@ -1655,8 +1683,16 @@
       "trad": "внѣ досягаемости"
     },
     {
+      "mot": "ici • là • là bas",
+      "trad": null
+    },
+    {
       "mot": "par ici",
       "trad": "this way"
+    },
+    {
+      "mot": "par là",
+      "trad": "over there"
     },
     {
       "mot": "par l’intérieur",
@@ -1671,6 +1707,14 @@
       "trad": "отправиться въ путь"
     },
     {
+      "mot": "sous la parapluie",
+      "trad": null
+    },
+    {
+      "mot": "sur Internet • le boulevard • une chaise • la photo • la place",
+      "trad": null
+    },
+    {
       "mot": "sur la route",
       "trad": "по дорогѣ"
     },
@@ -1683,6 +1727,10 @@
       "trad": null
     },
     {
+      "mot": "tout droit",
+      "trad": "straight ahead"
+    },
+    {
       "mot": "travailler / étudier dans ce lieu",
       "trad": null
     },
@@ -1693,6 +1741,10 @@
     {
       "mot": "à deux pas de l'arrêt",
       "trad": "въ двухъ шагахъ отъ остановки"
+    },
+    {
+      "mot": "à la radio • télé",
+      "trad": null
     }
   ],
   "effets": [
@@ -1797,6 +1849,10 @@
     {
       "mot": "au ralenti",
       "trad": "въ замедленной съемкѣ"
+    },
+    {
+      "mot": "au toucher",
+      "trad": "на ощупь"
     },
     {
       "mot": "aux dépens de",
@@ -2927,6 +2983,10 @@
       "trad": null
     },
     {
+      "mot": "C'est toi qui vois. | À toi de voir.",
+      "trad": "Up to you."
+    },
+    {
       "mot": "Cela ne veut pas dire que",
       "trad": "Это не значитъ, что"
     },
@@ -3429,6 +3489,10 @@
       "trad": "Отъ этого мѣста у меня мурашки по кожѣ."
     },
     {
+      "mot": "Ce serait du gâchis de (ne pas) faire qqch.",
+      "trad": "It would be a waste (not) to"
+    },
+    {
       "mot": "Cela a-t-il une signification ?",
       "trad": null
     },
@@ -3685,6 +3749,10 @@
       "trad": "Time for music!"
     },
     {
+      "mot": "Qu'est-ce que vous y associez ?",
+      "trad": null
+    },
+    {
       "mot": "Qu'est-ce que ça peut bien faire ce que...",
       "trad": "What does it matter that..."
     },
@@ -3799,6 +3867,10 @@
     {
       "mot": "Ça me parle !",
       "trad": "It resonates with me!"
+    },
+    {
+      "mot": "Ça n'allait pas fort depuis deux ans. Mais je me disais que c'était / nous étions dans une mauvaise passe.",
+      "trad": null
     },
     {
       "mot": "Ça ne fait pas tout.",
@@ -4285,6 +4357,188 @@
       "trad": null
     }
   ],
+  "se": [
+    {
+      "mot": "Ce conducteur vient de se faire contrôler à 200 km/h.",
+      "trad": null
+    },
+    {
+      "mot": "Je me fais coiffer deux fois par mois.",
+      "trad": null
+    },
+    {
+      "mot": "Mon oncle s’est fait voler son portefeuille.",
+      "trad": null
+    },
+    {
+      "mot": "se faire avoir | se faire arnaquer",
+      "trad": null
+    },
+    {
+      "mot": "se faire bousculer",
+      "trad": null
+    },
+    {
+      "mot": "se faire cambrioler",
+      "trad": null
+    },
+    {
+      "mot": "se faire couper les cheveux",
+      "trad": null
+    },
+    {
+      "mot": "se faire faire les ongles",
+      "trad": null
+    },
+    {
+      "mot": "se faire faire une robe",
+      "trad": null
+    },
+    {
+      "mot": "se faire gronder par les parents",
+      "trad": null
+    },
+    {
+      "mot": "se faire insulter",
+      "trad": null
+    },
+    {
+      "mot": "se faire manger par un lion",
+      "trad": null
+    },
+    {
+      "mot": "se faire maquiller",
+      "trad": null
+    },
+    {
+      "mot": "se faire masser",
+      "trad": null
+    },
+    {
+      "mot": "se faire mordre par un chien",
+      "trad": null
+    },
+    {
+      "mot": "se faire opérer",
+      "trad": null
+    },
+    {
+      "mot": "se faire piquer par un insecte",
+      "trad": null
+    },
+    {
+      "mot": "se faire renverser par une voiture",
+      "trad": null
+    },
+    {
+      "mot": "se faire taper",
+      "trad": "быть поколоченнымъ"
+    },
+    {
+      "mot": "se faire tatouer / se faire faire un tatouage : Sa fille va se faire tatouer un dragon.",
+      "trad": null
+    },
+    {
+      "mot": "se faire tuer",
+      "trad": null
+    },
+    {
+      "mot": "se faire voler qqch.",
+      "trad": null
+    },
+    {
+      "mot": "se faire écraser par un camion",
+      "trad": null
+    },
+    {
+      "mot": "se faire étrangler",
+      "trad": null
+    },
+    {
+      "mot": "se laisser aller",
+      "trad": "пустить на самотекъ"
+    },
+    {
+      "mot": "se laisser boire",
+      "trad": null
+    },
+    {
+      "mot": "se laisser captiver par qqch. / qqn.",
+      "trad": "оказаться во власти"
+    },
+    {
+      "mot": "se laisser convaincre",
+      "trad": "дать себя переубѣдить"
+    },
+    {
+      "mot": "se laisser distraire",
+      "trad": "отвлекаться"
+    },
+    {
+      "mot": "se laisser décourager",
+      "trad": "падать духом"
+    },
+    {
+      "mot": "se laisser embarquer dans qch",
+      "trad": "позволить втянуть себя во что-то"
+    },
+    {
+      "mot": "se laisser emmener",
+      "trad": "дать себя увести"
+    },
+    {
+      "mot": "se laisser emporter par qqch. / qqn.",
+      "trad": "увлечься"
+    },
+    {
+      "mot": "se laisser emporter par ses sentiments (émotions)",
+      "trad": "поддаться чувствамъ"
+    },
+    {
+      "mot": "se laisser fasciner",
+      "trad": "быть очарованнымъ"
+    },
+    {
+      "mot": "se laisser impressionner par qqch. / qqn.",
+      "trad": null
+    },
+    {
+      "mot": "se laisser influencer",
+      "trad": null
+    },
+    {
+      "mot": "se laisser intimider",
+      "trad": "дать себя запугать"
+    },
+    {
+      "mot": "se laisser mourir",
+      "trad": null
+    },
+    {
+      "mot": "se laisser piéger",
+      "trad": "попасться в ловушку"
+    },
+    {
+      "mot": "se laisser pleurer",
+      "trad": null
+    },
+    {
+      "mot": "se laisser pousser les cheveux | une barbe | une moustache",
+      "trad": null
+    },
+    {
+      "mot": "se laisser provoquer",
+      "trad": "поддаться на провокацию"
+    },
+    {
+      "mot": "se laisser soigner",
+      "trad": "дать позаботиться о себе"
+    },
+    {
+      "mot": "se laisser séduire | tenter",
+      "trad": "поддаться искушению"
+    }
+  ],
   "sentiments": [
     {
       "mot": "Il y a quelque chose qui ne va pas chez moi.",
@@ -4307,7 +4561,101 @@
       "trad": "мало безпокоиться"
     }
   ],
+  "style": [
+    {
+      "mot": "bouffer • manger • se restaurer",
+      "trad": null
+    },
+    {
+      "mot": "casse-pied • ennuyeux • fâcheux",
+      "trad": null
+    },
+    {
+      "mot": "cavaler • se sauver • s'enfuir",
+      "trad": null
+    },
+    {
+      "mot": "cinglé • fou • aliéné",
+      "trad": null
+    },
+    {
+      "mot": "crêcher • habiter • loger",
+      "trad": null
+    },
+    {
+      "mot": "drôle • marrant • désopilant",
+      "trad": null
+    },
+    {
+      "mot": "flemmard • paresseux • indolent",
+      "trad": null
+    },
+    {
+      "mot": "friqué • riche • opulent",
+      "trad": null
+    },
+    {
+      "mot": "la trouille • la peur • l'appréhension",
+      "trad": null
+    },
+    {
+      "mot": "moche • laid • hideux",
+      "trad": null
+    },
+    {
+      "mot": "piger • comprendre • discerner",
+      "trad": null
+    },
+    {
+      "mot": "piquer • voler • dérober",
+      "trad": null
+    },
+    {
+      "mot": "se gourer • se tromper • se fourvoyer",
+      "trad": null
+    },
+    {
+      "mot": "se pieuter • se coucher • s'aliter",
+      "trad": null
+    },
+    {
+      "mot": "un boulot • un travail • un profession",
+      "trad": null
+    },
+    {
+      "mot": "un bouquin • un livre • un ouvrage",
+      "trad": null
+    },
+    {
+      "mot": "un pépin • un ennui • un désagrément",
+      "trad": null
+    },
+    {
+      "mot": "une bagnole • une voiture • un véhicule",
+      "trad": null
+    },
+    {
+      "mot": "une baraque • une maison • une demeure",
+      "trad": null
+    },
+    {
+      "mot": "une bécane • un vélo • une bicyclette",
+      "trad": null
+    },
+    {
+      "mot": "une pompe • une chaussure • un soulier",
+      "trad": null
+    },
+    {
+      "mot": "une veine • une chance • une fortune",
+      "trad": null
+    }
+  ],
   "temps": [
+    {
+      "mot": "(deux fois) de suite",
+      "trad": "подрядъ"
+    },
     {
       "mot": "9 heures de matin · 9 heures et quart · 9 heures et demie · 9 heures moins le quart · 9 heures 10 du soir",
       "trad": null
@@ -4726,7 +5074,7 @@
     },
     {
       "mot": "tout de suite",
-      "trad": null
+      "trad": "immediately"
     },
     {
       "mot": "tout à l'heure",
@@ -4735,10 +5083,6 @@
     {
       "mot": "tout à l’heure",
       "trad": "just now"
-    },
-    {
-      "mot": "toute de suite",
-      "trad": "immediately"
     },
     {
       "mot": "tôt ou tard,",
